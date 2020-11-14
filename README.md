@@ -891,3 +891,21 @@ http://usuarios.club/stream/soyluishn/suscribase/802.m3u8
 http://usuarios.club/stream/soyluishn/suscribase/664.m3u8
 #EXTINF:-1 ,#Vivo (2020 | SD)
 http://usuarios.club/movie/soyluishn/suscribase/986.mp4?sd
+#EXTINF:-1 group-title="Undefined",ECO TV
+http://admin-mainpanel.club:8080/paco/paco/27072?checkedby:hlscat.com
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/tUHkolc.png",Hosanna Vision
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Mas Tv 23
+http://admin-mainpanel.club:8080/paco/paco/27071?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/IqLT2CC.png",PA | OYE CANAL 7
+https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",RPC TV
+http://admin-mainpanel.club:8080/paco/paco/27069?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",TV Max
+http://admin-mainpanel.club:8080/paco/paco/27066?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",TVN
+http://admin-mainpanel.club:8080/paco/paco/27065?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",TVN 2
+http://admin-mainpanel.club:8080/paco/paco/27074?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Telemetro
+http://admin-mainpanel.club:8080/paco/paco/27067?checkedby:hlscat.com
