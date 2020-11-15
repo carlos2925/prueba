@@ -909,3 +909,65 @@ http://admin-mainpanel.club:8080/paco/paco/27065?checkedby:hlscat.com
 http://admin-mainpanel.club:8080/paco/paco/27074?checkedby:hlscat.com
 #EXTINF:-1 group-title="Undefined",Telemetro
 http://admin-mainpanel.club:8080/paco/paco/27067?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Animal Planet
+http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
+http://rec2.distv.net:80/pablo/123/417?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
+http://rec2.distv.net:80/egidio/egidio/417?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET FHD ALT
+http://fonteangelusiptv.com:25461/18981213215giselen3/8y5g2f56d/178674?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET SD ALT
+http://fonteangelusiptv.com:25461/18981213215giselen3/8y5g2f56d/178670?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Animal Planet FHD
+http://appcliente.com:8880/wilhan/1234/6701?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Animal Planet Full HD
+http://login.iptvcompany.org:8080/Susi/102030/46559?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Animal Planet HD
+http://login.iptvcompany.org:8080/Susi/102030/46337?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Animal Planet HD
+http://appcliente.com:8880/wilhan/1234/6587?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Animal Planet SD
+http://login.iptvcompany.org:8080/Susi/102030/46338?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Animal Planet SD
+http://appcliente.com:8880/wilhan/1234/6476?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
+http://mains.vip:2086/craigg/1Lurn7m3F1/3281?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
+http://185.232.53.5:2086/arellano/kgtL965n2Y/3281?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET HD
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
+http://mains.vip:2086/craigg/1Lurn7m3F1/92800?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92800?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
+http://mains.vip:2086/craigg/1Lurn7m3F1/99067?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Animal Planet
+http://str01.canlitvlive.io:25461/tv/tv/356?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Animal Planet
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
+http://193.33.39.108:8107/30704?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
+http://185.232.53.5:2086/arellano/kgtL965n2Y/72567?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
+http://mains.vip:2086/craigg/1Lurn7m3F1/262?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
+http://185.232.53.5:2086/arellano/kgtL965n2Y/262?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET FHD 1080
+http://mains.vip:2086/craigg/1Lurn7m3F1/64154?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET FHD 1080
+http://185.232.53.5:2086/arellano/kgtL965n2Y/64154?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Animal Planet (M)(720)
+http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/35814?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET FHD
+http://fonteangelusiptv.com:25461/darkman/darkman/178673?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET FHD ALT
+http://fonteangelusiptv.com:25461/darkman/darkman/178674?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET HD
+http://fonteangelusiptv.com:25461/darkman/darkman/178671?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET SD
+http://fonteangelusiptv.com:25461/darkman/darkman/178669?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET SD ALT
+http://fonteangelusiptv.com:25461/darkman/darkman/178670?checkedby:hlscat.com
