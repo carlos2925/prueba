@@ -1018,3 +1018,15 @@ http://185.232.53.5:2086/arellano/kgtL965n2Y/88719?checkedby:hlscat.com
 http://mains.vip:2086/craigg/1Lurn7m3F1/88719?checkedby:hlscat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Discovery Channel (TV)(1080)
 http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/55049?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DISCOVERY CHANNEL
+http://mains.vip:2086/craigg/1Lurn7m3F1/88712?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DISCOVERY CIVILIZATION
+http://mains.vip:2086/craigg/1Lurn7m3F1/88713?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DISCOVERY CIVILIZATION
+http://185.232.53.5:2086/arellano/kgtL965n2Y/88713?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DISCOVERY KIDS
+http://mains.vip:2086/craigg/1Lurn7m3F1/88715?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DISCOVERY TURBO
+http://185.232.53.5:2086/arellano/kgtL965n2Y/88718?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Discovery Channel (TV)(1080)
+http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/55049?checkedby:hlscat.com
