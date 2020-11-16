@@ -971,3 +971,50 @@ http://fonteangelusiptv.com:25461/darkman/darkman/178671?checkedby:hlscat.com
 http://fonteangelusiptv.com:25461/darkman/darkman/178669?checkedby:hlscat.com
 #EXTINF:-1 group-title="Undefined",ANIMAL PLANET SD ALT
 http://fonteangelusiptv.com:25461/darkman/darkman/178670?checkedby:hlscat.com
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/53570?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY  CHANNEL FHD
+http://irialbaresel.ddns.net:8080/kdsYjmS7OZ/R21AGQBKvp/18626?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
+http://mains.vip:2086/craigg/1Lurn7m3F1/88712?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/3984?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
+http://185.232.53.5:2086/arellano/kgtL965n2Y/88712?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/124143?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY CIVILIZATION
+http://mains.vip:2086/craigg/1Lurn7m3F1/88713?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY CIVILIZATION
+http://185.232.53.5:2086/arellano/kgtL965n2Y/88713?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY FAMALIA
+http://185.232.53.5:2086/arellano/kgtL965n2Y/88700?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY FAMALIA
+http://mains.vip:2086/craigg/1Lurn7m3F1/88700?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY HOME AND HEALTH
+http://185.232.53.5:2086/arellano/kgtL965n2Y/88714?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY HOME AND HEALTH
+http://mains.vip:2086/craigg/1Lurn7m3F1/88714?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY KIDS
+http://185.232.53.5:2086/arellano/kgtL965n2Y/88715?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY KIDS
+http://mains.vip:2086/craigg/1Lurn7m3F1/88715?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
+http://185.232.53.5:2086/arellano/kgtL965n2Y/88716?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
+http://mains.vip:2086/craigg/1Lurn7m3F1/88716?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY THEATER
+http://185.232.53.5:2086/arellano/kgtL965n2Y/88717?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY THEATER
+http://mains.vip:2086/craigg/1Lurn7m3F1/88717?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY TURBO
+http://185.232.53.5:2086/arellano/kgtL965n2Y/88718?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY TURBO
+http://mains.vip:2086/craigg/1Lurn7m3F1/88718?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY WORLD
+http://185.232.53.5:2086/arellano/kgtL965n2Y/88719?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DISCOVERY WORLD
+http://mains.vip:2086/craigg/1Lurn7m3F1/88719?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Discovery Channel (TV)(1080)
+http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/55049?checkedby:hlscat.com
