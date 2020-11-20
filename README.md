@@ -17021,3 +17021,15 @@ http://sarhantv.xyz:25461/100users/7daysonly2/57
 http://sarhantv.xyz:25461/100users/7daysonly2/58
 #EXTINF:-1 ,btv
 http://sarhantv.xyz:25461/100users/7daysonly2/60
+#EXTINF:-1 ,MX: GOLDEN EDGE | SD
+http://greenstreamtv.xyz:25461/leonardsherrill/ls1234gs/11342
+#EXTINF:-1 ,MX: GOLDEN | SD
+http://greenstreamtv.xyz:25461/leonardsherrill/ls1234gs/11343
+#EXTINF:-1 ,SPACE
+http://rec2.distv.net:80/angelo/angelo/508
+#EXTINF:-1 ,BR: SPACE | SD
+http://greenstreamtv.xyz:25461/leonardsherrill/ls1234gs/11224
+#EXTINF:-1 ,MX: SPACE | HD
+http://greenstreamtv.xyz:25461/leonardsherrill/ls1234gs/11363
+#EXTINF:-1 ,SPACE
+http://rec2.distv.net:80/angelo/angelo/508
