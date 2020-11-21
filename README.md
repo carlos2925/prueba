@@ -11609,3 +11609,101 @@ http://sarhantv.xyz:25461/100users/7daysonly2/35
 http://sarhantv.xyz:25461/100users/7daysonly2/36
 #EXTINF:-1 ,|OSN| MOVIES FIRST 1 HD
 http://sarhantv.xyz:25461/100users/7daysonly2/37
+#EXTINF:-1 group-title="PORNOS" tvg-logo=".png",
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:-1 group-title="FILMES PORNO" tvg-logo="http://goo.gl/opwwNi",Adult 4K: VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1 group-title="FILMES PORNO" tvg-logo="http://goo.gl/opwwNi",Adult 4K: VOD3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1 group-title="FILMES PORNO" tvg-logo="http://goo.gl/opwwNi",Adult 4K: VOD4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1 group-title="FILMES PORNO" tvg-logo="http://goo.gl/opwwNi",Adult 4K: VOD5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1 group-title="FILMES PORNO" tvg-logo="http://goo.gl/opwwNi",Adult 4K: VOD6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1 group-title="FILMES PORNO" tvg-logo="http://goo.gl/opwwNi",Adult 4K: VOD7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1 group-title="FILMES PORNO" tvg-logo="http://goo.gl/opwwNi",Adult 4K: VOD8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1 group-title="FILMES PORNO" tvg-logo="http://goo.gl/opwwNi",Adult 4K: VOD9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1 group-title="FILMES PORNO" tvg-logo="http://goo.gl/opwwNi",XXX-Babes 17
+http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4/
+#EXTINF:-1 group-title="FILMES PORNO" tvg-logo="http://goo.gl/opwwNi",XXX-Babes 18
+http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4/
+#EXTINF:-1 group-title="FILMES PORNO" tvg-logo="http://goo.gl/opwwNi",XXX-Babes 19
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+#EXTINF:-1 group-title="FILMES PORNO" tvg-logo="http://goo.gl/opwwNi",XXX-Babes 20
+http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4/
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://i.imgur.com/DLEFDcv.png",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",You PornX
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",Porneq 06
+http://porneq.com/media/porn5/videos/465/Amanda-Black-20-10-2015-Mylove-360p-2Df89PnA8q2.mp4
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",Porneq 07
+http://porneq.com/media/porn2/videos/904/Blonde-Hottie-Fucking-with-Asslicking-Front-Hidden-Webcam-Cumshot-on-Ass-360p-MuRBZyuxvaa.mp4
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",Porneq 08
+http://porneq.com/media/porn7/videos/1929/Dirty-Western-2-Smokin-Guns-1995-Full-Movie-360p-7vnRLFOTPE2.mp4
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS 1
+http://static.brazzers.com/scenes/7119/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS 2
+http://static.brazzers.com/scenes/5457/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS 3
+http://static.brazzers.com/scenes/3327/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS 4
+http://static.brazzers.com/scenes/3328/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS 5
+http://static.brazzers.com/scenes/3330/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS 6
+http://static.brazzers.com/scenes/3340/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS 7
+http://static.brazzers.com/scenes/3342/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS 8
+http://static.brazzers.com/scenes/3344/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS 9
+http://static.brazzers.com/scenes/3345/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXX AdultosVOD3D-1+18 3D
+http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXX AdultosVOD3D-10+18 3D
+http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-11+18 3D
+http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-13+18 3D
+http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-15+18 3D
+http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-16+18 3D
+http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-20+18 3D
+http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-21+18 3D
+http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-25+18 3D
+http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-26+18 3D
+http://galleries.3Dcatchyfetish.com/tube/026/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-3+18 3D
+http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-4+18 3D
+http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-5+18 3D
+http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-6+18 3D
+http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-7+18 3D
+http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-8+18 3D
+http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-9+18 3D
+http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",Chichi Medina
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",Chloe Foster
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chloe_foster_8minutes.mp4
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",Dakota Skye
+http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_dakota_skye_12minute.mp4
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",Demida
+http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",Dusya
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
