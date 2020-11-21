@@ -1,630 +1,8 @@
 #EXTM3U
-#EXTINF:-1 ,|FR| Téléfoot HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/53100
-#EXTINF:-1 ,|FR| Comedy Central HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/54048
-#EXTINF:-1 ,|FR| TF1 FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44922
-#EXTINF:-1 ,|FR| TF1 HDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/38702
-#EXTINF:-1 ,|FR| TF1 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/5220
-#EXTINF:-1 ,|FR| FRANCE 2 FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45921
-#EXTINF:-1 ,|FR| FRANCE 2 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2535
-#EXTINF:-1 ,|FR| FRANCE 3 FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45922
-#EXTINF:-1 ,|FR| FRANCE 3 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2536
-#EXTINF:-1 ,IFRI CANAL+ FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45972
-#EXTINF:-1 ,IFRI CANAL+ HDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/38711
-#EXTINF:-1 ,|FR| CANAL+ HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2540
-#EXTINF:-1 ,|FR| FRANCE 5 FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44797
-#EXTINF:-1 ,|FR| FRANCE 5 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2538
-#EXTINF:-1 ,IFRI M6 FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44798
-#EXTINF:-1 ,IFRI M6 HDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/38703
-#EXTINF:-1 ,|FR| M6 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2534
-#EXTINF:-1 ,|FR| ARTE FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44799
-#EXTINF:-1 ,|FR| ARTE HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2623
-#EXTINF:-1 ,|FR| C8 FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44837
-#EXTINF:-1 ,|FR| C8 HDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/15377
-#EXTINF:-1 ,|FR| W9 FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44800
-#EXTINF:-1 ,|FR| W9 hd
-http://strong-livetv.com:80/lam_mar/AojwXghk3/9429
-#EXTINF:-1 ,|FR| TMC FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44923
-#EXTINF:-1 ,|FR| TMC HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2569
-#EXTINF:-1 ,|FR| TFX FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44924
-#EXTINF:-1 ,|FR| TFX HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2570
-#EXTINF:-1 ,|FR| NRJ 12 FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44925
-#EXTINF:-1 ,|FR| NRJ 12 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2573
-#EXTINF:-1 ,|FR| LCP/PUBLIC SENAT FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44926
-#EXTINF:-1 ,|FR| LCP/PUBLIC SENAT
-http://strong-livetv.com:80/lam_mar/AojwXghk3/5221
-#EXTINF:-1 ,|FR| FRANCE 4 FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/48263
-#EXTINF:-1 ,|FR| FRANCE 4 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2537
-#EXTINF:-1 ,|FR| BFM TV FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45925
-#EXTINF:-1 ,|FR| BFM TV HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/9293
-#EXTINF:-1 ,|FR| CNEWS FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/9295
-#EXTINF:-1 ,|FR| Cstar FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44841
-#EXTINF:-1 ,|FR| CSTAR HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2746
-#EXTINF:-1 ,|FR| Gulli FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44970
-#EXTINF:-1 ,|FR| GULLI hd
-http://strong-livetv.com:80/lam_mar/AojwXghk3/9434
-#EXTINF:-1 ,|FR| TF1 SERIES FILMS FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45348
-#EXTINF:-1 ,|FR| TF1 SERIES FILMS HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2575
-#EXTINF:-1 ,|FR| L' EQUIPE 21 FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45351
-#EXTINF:-1 ,|FR| L' EQUIPE 21 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/9437
-#EXTINF:-1 ,|FR| 6TER FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44801
-#EXTINF:-1 ,|FR| 6TER HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2568
-#EXTINF:-1 ,|FR| RMC Story FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45349
-#EXTINF:-1 ,|FR| RMC Story HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/5253
-#EXTINF:-1 ,|FR| RMC DECOUVERTE FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45350
-#EXTINF:-1 ,|FR| RMC DECOUVERTE HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2590
-#EXTINF:-1 ,|FR| CHERIE 25 FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45352
-#EXTINF:-1 ,|FR| CHERIE 25 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2574
-#EXTINF:-1 ,|FR| LCI HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/5254
-#EXTINF:-1 ,|FR| FRANCE INFO HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44836
-#EXTINF:-1 ,|FR| PARIS PREMIERE HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2635
-#EXTINF:-1 ,|FR| TEVA HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2566
-#EXTINF:-1 ,|FR| AB1 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2564
-#EXTINF:-1 ,|FR| RTL 9 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2560
-#EXTINF:-1 ,|FR| AB3 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/12635
-#EXTINF:-1 ,|FR| TV BREIZH HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2563
-#EXTINF:-1 ,|FR| SERIE CLUB HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/5134
-#EXTINF:-1 ,|FR| ACTION HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2559
-#EXTINF:-1 ,|FR| 13EME RUE HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2561
-#EXTINF:-1 ,|FR| SYFY HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2565
-#EXTINF:-1 ,|FR| PARAMOUNT CHANNEL HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2555
-#EXTINF:-1 ,|FR| PARAMOUNT CHANNEL DECALE HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/13836
-#EXTINF:-1 ,|FR| ALTICE STUDIO HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/13659
-#EXTINF:-1 ,|FR| TCM CINEMA HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/5133
-#EXTINF:-1 ,IFRI CINE+ PREMIER HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/38716
-#EXTINF:-1 ,|FR| CINE+ FRISSON HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2547
-#EXTINF:-1 ,|FR| CINE+ FAMIZ HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2548
-#EXTINF:-1 ,|FR| CINE+ EMOTION HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2550
-#EXTINF:-1 ,|FR| CINE+ CLASSIC HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2551
-#EXTINF:-1 ,|FR| CINE+ CLUB HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/46482
-#EXTINF:-1 ,|FR| OCS MAX HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2552
-#EXTINF:-1 ,|FR| OCS GEANTS HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/13827
-#EXTINF:-1 ,|FR| OCS CITY HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/13828
-#EXTINF:-1 ,|FR| OCS CHOC HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/13829
-#EXTINF:-1 ,IFRI CANAL+ CINEMA HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/38712
-#EXTINF:-1 ,FRI CANAL+ FAMILY HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/38714
-#EXTINF:-1 ,|FR| CANAL+ SERIES HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/12640
-#EXTINF:-1 ,|FR| CANAL+ DECALE HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/12642
-#EXTINF:-1 ,|FR| WARNER TV HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/16086
-#EXTINF:-1 ,|FR| POLAR+ HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/14975
-#EXTINF:-1 ,|FR| COMEDIE+ HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2577
-#EXTINF:-1 ,|FR| TREK HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/5869
-#EXTINF:-1 ,|FR| E! ENTERTAINMENT HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/5138
-#EXTINF:-1 ,|FR| VOYAGE
-http://strong-livetv.com:80/lam_mar/AojwXghk3/5131
-#EXTINF:-1 ,|FR| TOUTE L'HISTOIRE HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2591
-#EXTINF:-1 ,|FR| HISTOIRE HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/5073
-#EXTINF:-1 ,|FR| ANIMAUX HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2582
-#EXTINF:-1 ,|FR| MY CUISINE HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/14450
-#EXTINF:-1 ,|FR| BET HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/14451
-#EXTINF:-1 ,|FR| VICELAND
-http://strong-livetv.com:80/lam_mar/AojwXghk3/46485
-#EXTINF:-1 ,|FR| DISCOVERY FRANCE HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2581
-#EXTINF:-1 ,|FR| DISCOVERY FAMILY HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47706
-#EXTINF:-1 ,|FR| DISCOVERY INVESTIGATION HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47707
-#EXTINF:-1 ,|FR| DISCOVERY SCIENCE HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47708
-#EXTINF:-1 ,|FR| DISCOVERY CHANNEL HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47711
-#EXTINF:-1 ,|FR| National Geographic Channel HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2579
-#EXTINF:-1 ,|FR| National Geographic Wild HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2580
-#EXTINF:-1 ,|FR| USHUAIA TV HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2578
-#EXTINF:-1 ,|FR| SEASONS HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/38701
-#EXTINF:-1 ,|FR| lucky jack tv
-http://strong-livetv.com:80/lam_mar/AojwXghk3/46272
-#EXTINF:-1 ,|FR| ABXplore HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/22298
-#EXTINF:-1 ,|FR| CRIME DISTRICT HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/8783
-#EXTINF:-1 ,|FR| PLANETE+ HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2584
-#EXTINF:-1 ,|FR| PLANETE+ CI HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47705
-#EXTINF:-1 ,|FR| PLANETE+ AE HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2585
-#EXTINF:-1 ,|FR| EURONEWS HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2626
-#EXTINF:-1 ,|FR| TV5 MONDE
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2625
-#EXTINF:-1 ,|FR| I24 NEWS HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/5114
-#EXTINF:-1 ,|FR| BFM PARIS
-http://strong-livetv.com:80/lam_mar/AojwXghk3/5995
-#EXTINF:-1 ,|FR| BFM BUSINESS
-http://strong-livetv.com:80/lam_mar/AojwXghk3/22007
-#EXTINF:-1 ,|FR| FRANCE 24 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44835
-#EXTINF:-1 ,|FR| CANAL J HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/7512
-#EXTINF:-1 ,|FR| J-ONE HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/7687
-#EXTINF:-1 ,|FR| TIJI HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/5132
-#EXTINF:-1 ,|FR| PIWI+ HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2616
-#EXTINF:-1 ,|FR| GAME ONE HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2583
-#EXTINF:-1 ,|FR| MANGAS HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2614
-#EXTINF:-1 ,|FR| CARTOON NETWORK
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2610
-#EXTINF:-1 ,|FR| BOOMERANG HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2613
-#EXTINF:-1 ,|FR| BOING HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2617
-#EXTINF:-1 ,|FR| TOONAMI HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/12624
-#EXTINF:-1 ,|FR| TELETOON + HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2619
-#EXTINF:-1 ,|FR| NICKELODEON HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/25619
-#EXTINF:-1 ,|FR| NICKELODEON TEEN HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/25620
-#EXTINF:-1 ,|FR| NICKELODEON JUNIOR HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/25622
-#EXTINF:-1 ,|FR| DISNEY JUNIOR HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2608
-#EXTINF:-1 ,|FR| DISNEY+ HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2606
-#EXTINF:-1 ,|FR| DISNEY CHANNEL HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/25627
-#EXTINF:-1 ,|FR| GONG HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/14128
-#EXTINF:-1 ,|FR| GONG MAX HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/21706
-#EXTINF:-1 ,|FR| south park tv
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47122
-#EXTINF:-1 ,|FR| Auto Moto La Chaine HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/5863
-#EXTINF:-1 ,|FR| Golf Channel HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47681
-#EXTINF:-1 ,|FR| GOLF+ HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/14376
-#EXTINF:-1 ,|FR| EUROSPORT 1 FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/48419
-#EXTINF:-1 ,|FR| EUROSPORT 1 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47702
-#EXTINF:-1 ,|FR| EUROSPORT 2 FHDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/48420
-#EXTINF:-1 ,|FR| EUROSPORT 2 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47703
-#EXTINF:-1 ,|FR| INFOSPORT+ HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2595
-#EXTINF:-1 ,|FR| RMC Sport News HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/21770
-#EXTINF:-1 ,|FR| RMC Sport 2 FHD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/51533
-#EXTINF:-1 ,IFRI RMC SPORT 3 FHD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/51534
-#EXTINF:-1 ,IFRI RMC SPORT 3 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/39030
-#EXTINF:-1 ,|FR| RMC Sport Live 5 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47687
-#EXTINF:-1 ,|FR| RMC Sport Live 6 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47688
-#EXTINF:-1 ,|FR| RMC Sport Live 7 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47691
-#EXTINF:-1 ,|FR| RMC Sport Live 8 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47692
-#EXTINF:-1 ,|FR| RMC Sport Live 9 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47693
-#EXTINF:-1 ,|FR| RMC Sport Live 10 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47694
-#EXTINF:-1 ,|FR| RMC Sport Live 13 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47697
-#EXTINF:-1 ,|FR| FOOT+ 24/24 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2596
-#EXTINF:-1 ,IFRI BEIN SPORTS 1 FHD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/39032
-#EXTINF:-1 ,|FR| BEIN SPORTS 1 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2763
-#EXTINF:-1 ,IFRI BEIN SPORTS 2 FHD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/39033
-#EXTINF:-1 ,|FR| BEIN SPORTS 2 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2764
-#EXTINF:-1 ,IFRI BEIN SPORTS 3 FHD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/39034
-#EXTINF:-1 ,|FR| BEIN SPORTS 3 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2765
-#EXTINF:-1 ,|FR| BEIN SPORTS MAX 4
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47671
-#EXTINF:-1 ,|FR| BEIN SPORTS MAX 5
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47672
-#EXTINF:-1 ,|FR| BEIN SPORTS MAX 6
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47673
-#EXTINF:-1 ,|FR| BEIN SPORTS MAX 7
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47674
-#EXTINF:-1 ,|FR| BEIN SPORTS MAX 8
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47675
-#EXTINF:-1 ,|FR| BEIN SPORTS MAX 9
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47689
-#EXTINF:-1 ,|FR| BEIN SPORTS MAX 10
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47690
-#EXTINF:-1 ,|FR| EQUIDIA L
-http://strong-livetv.com:80/lam_mar/AojwXghk3/5080
-#EXTINF:-1 ,|FR| EQUIDIA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47699
-#EXTINF:-1 ,|FR| CANAL+ SPORT HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47704
-#EXTINF:-1 ,|FR| CANAL+ SPORT HD²
-http://strong-livetv.com:80/lam_mar/AojwXghk3/49498
-#EXTINF:-1 ,|FR| SPORT EN FRANCE HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/46483
-#EXTINF:-1 ,|FR| ES1 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/16085
-#EXTINF:-1 ,|FR| MTV HITS
-http://strong-livetv.com:80/lam_mar/AojwXghk3/21707
-#EXTINF:-1 ,|FR| M6 MUSIC
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2601
-#EXTINF:-1 ,|FR| TRACE URBAN HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/5999
-#EXTINF:-1 ,|FR| TRACE CARIBBEAN (TROPICAL) HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/6000
-#EXTINF:-1 ,|FR| TRACE AFRICA HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/6001
-#EXTINF:-1 ,|FR| RFM TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/21713
-#EXTINF:-1 ,|FR| MCM HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/6005
-#EXTINF:-1 ,|FR| NRJ HITS
-http://strong-livetv.com:80/lam_mar/AojwXghk3/6359
-#EXTINF:-1 ,|FR| MEZZO LIVE
-http://strong-livetv.com:80/lam_mar/AojwXghk3/21716
-#EXTINF:-1 ,|FR| MELODY
-http://strong-livetv.com:80/lam_mar/AojwXghk3/43225
-#EXTINF:-1 ,|FR| TRACE VANILLA HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/48313
-#EXTINF:-1 ,|FR| TRACE BRAZUKA HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47811
-#EXTINF:-1 ,|FR| TRACE AFRIKORA HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47810
-#EXTINF:-1 ,|FR| TRACE TOCA HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47809
-#EXTINF:-1 ,|FR| TRACE AYITI HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47808
-#EXTINF:-1 ,|FR| TRACE NAIJA HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47807
-#EXTINF:-1 ,|FR| TRACE MIZKI HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47806
-#EXTINF:-1 ,|FR| TRACE GOSPEL HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47805
-#EXTINF:-1 ,|FR| TRACE KITOKO HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47804
-#EXTINF:-1 ,|FR| TRACE LATINA HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/47803
-#EXTINF:-1 ,|FR| MTV HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/12625
-#EXTINF:-1 ,BE: LA UNE HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/38695
-#EXTINF:-1 ,BE: LA DEUX HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/38696
-#EXTINF:-1 ,BE: LA TROIS HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/38697
-#EXTINF:-1 ,BE: RTL INFO ( JT  13H / 19H / 00H )
-http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/index_1800_av-p.m3u8
-#EXTINF:-1 ,BE: RTL TVI HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45316
-#EXTINF:-1 ,BE: RTL TVI HDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/40805
-#EXTINF:-1 ,BE: PLUG RTL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2672
-#EXTINF:-1 ,BE: PLUG RTL HDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2529
-#EXTINF:-1 ,BE: CLUB RTL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2530
-#EXTINF:-1 ,BE: CLUB RTL HDL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/38698
-#EXTINF:-1 ,BE: AB3 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2745
-#EXTINF:-1 ,BE: MATELE
-http://strong-livetv.com:80/lam_mar/AojwXghk3/40801
 #EXTINF:-1 ,BE: SERIES HD
 http://strong-livetv.com:80/lam_mar/AojwXghk3/9334
-#EXTINF:-1 ,BE: LN24 FHD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/49499
-#EXTINF:-1 ,BE: NOTELE
-http://strong-livetv.com:80/lam_mar/AojwXghk3/6342
-#EXTINF:-1 ,BE: RADIO CONTACT
-http://strong-livetv.com:80/lam_mar/AojwXghk3/40803
-#EXTINF:-1 ,BE: TVO
-http://strong-livetv.com:80/lam_mar/AojwXghk3/26079
-#EXTINF:-1 ,BE: EEN HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/40798
-#EXTINF:-1 ,BE: EEN HD.
-http://strong-livetv.com:80/lam_mar/AojwXghk3/5814
-#EXTINF:-1 ,BE: VIJF HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/40799
-#EXTINF:-1 ,BE: VIER HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/12942
-#EXTINF:-1 ,BE: VTM 4 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/48450
-#EXTINF:-1 ,BE: VTM HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/40800
-#EXTINF:-1 ,BE: TVL HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/16474
-#EXTINF:-1 ,BE: CAZ 2
-http://strong-livetv.com:80/lam_mar/AojwXghk3/6352
-#EXTINF:-1 ,BE: VTM 3 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/13542
-#EXTINF:-1 ,BE: VITAYA HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/40797
-#EXTINF:-1 ,BE: TELE SAMBRE
-http://strong-livetv.com:80/lam_mar/AojwXghk3/17310
-#EXTINF:-1 ,BE: CANVAS HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/40796
-#EXTINF:-1 ,BE: VTM KIDS HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/48447
-#EXTINF:-1 ,|BE| MNM
-http://strong-livetv.com:80/lam_mar/AojwXghk3/20312
-#EXTINF:-1 ,|BE| KLARA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/20311
-#EXTINF:-1 ,|BE| BEL RTL.
-http://strong-livetv.com:80/lam_mar/AojwXghk3/20301
-#EXTINF:-1 ,|BE| PURE FM
-http://strong-livetv.com:80/lam_mar/AojwXghk3/20307
-#EXTINF:-1 ,|BE| MNM HITS
-http://strong-livetv.com:80/lam_mar/AojwXghk3/20313
-#EXTINF:-1 ,|BE| FUN RADIO
-http://strong-livetv.com:80/lam_mar/AojwXghk3/20302
-#EXTINF:-1 ,|BE| CLASSIC 21
-http://strong-livetv.com:80/lam_mar/AojwXghk3/20303
-#EXTINF:-1 ,|BE|  KETNET HITS
-http://strong-livetv.com:80/lam_mar/AojwXghk3/20310
-#EXTINF:-1 ,|BE| VIVACITE BXL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/20309
-#EXTINF:-1 ,|BE| STUDIO BRUSSEL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/20315
-#EXTINF:-1 ,|BE| RADIO LA PREMIERE.
-http://strong-livetv.com:80/lam_mar/AojwXghk3/20032
-#EXTINF:-1 ,|BE| DH RADIO
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/20304.
-#EXTINF:-1 ,|CH| RTS UN HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/21873
-#EXTINF:-1 ,|CH| RTS DEUX HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/21874
-#EXTINF:-1 ,|CH| SUISS1
-http://strong-livetv.com:80/lam_mar/AojwXghk3/15783
-#EXTINF:-1 ,|CH| TV3+
-http://strong-livetv.com:80/lam_mar/AojwXghk3/5825
-#EXTINF:-1 ,|CH| 4+
-http://strong-livetv.com:80/lam_mar/AojwXghk3/5852
-#EXTINF:-1 ,|CH| MYSPORTS FHD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/15777
-#EXTINF:-1 ,|CH| MYSPORTS 1 FHD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/15778
-#EXTINF:-1 ,AR_LIB: MTV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/54546
-#EXTINF:-1 ,AR_AR: WATAN TV EGY
-http://strong-livetv.com:80/lam_mar/AojwXghk3/54170
-#EXTINF:-1 ,AR_AR: AL SHARQ EGY
-http://strong-livetv.com:80/lam_mar/AojwXghk3/54169
-#EXTINF:-1 ,AR_LIB: TELE LIBAN
-http://strong-livetv.com:80/lam_mar/AojwXghk3/54168
-#EXTINF:-1 ,AR_LIB: OTV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/54167
-#EXTINF:-1 ,AR_LIB: LBC INTER
-http://strong-livetv.com:80/lam_mar/AojwXghk3/54053
-#EXTINF:-1 ,AR_LIB: AL-JADEED TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/54052
-#EXTINF:-1 ,AR: MA_MEDI1
-http://strong-livetv.com:80/lam_mar/AojwXghk3/54051
-#EXTINF:-1 ,AR_MA: RTM 7 AFLAM
-http://strong-livetv.com:80/lam_mar/AojwXghk3/54050
-#EXTINF:-1 ,AR: SUNNAH NABAWIYAH
-http://strong-livetv.com:80/lam_mar/AojwXghk3/52754
-#EXTINF:-1 ,AR_TN: Zitouna TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/43983
-#EXTINF:-1 ,AR_TN: Tunisie Nat 2 TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/43984
-#EXTINF:-1 ,AR_TN: Tunisie Nat 1 TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/43985
-#EXTINF:-1 ,AR_TN: Telvza TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/43986
 #EXTINF:-1 ,AR_TN: Nessma TV
 http://strong-livetv.com:80/lam_mar/AojwXghk3/43987
-#EXTINF:-1 ,AR_TN: M Tunisia TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/43988
-#EXTINF:-1 ,AR_TN: Hannibal TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/43989
-#EXTINF:-1 ,AR_TN: Tunisna TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/43990
-#EXTINF:-1 ,AR_TN: Elhiwar Ettounsi TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/43991
-#EXTINF:-1 ,AR_TN: Carthage  TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/43992
-#EXTINF:-1 ,AR_TN: Attassia TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/43993
-#EXTINF:-1 ,AR_TN: Al Janoubia TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/43995
-#EXTINF:-1 ,AR_TN: Al Insen TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/43996
-#EXTINF:-1 ,AR_DZ:NUMIDIA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44006
-#EXTINF:-1 ,AR_DZ::Ennahar
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44007
-#EXTINF:-1 ,AR_DZ::EL.DJAZAIRIA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44008
-#EXTINF:-1 ,AR_DZ: Alfedjr
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44009
-#EXTINF:-1 ,AR_DZ:CHAMS TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44011
-#EXTINF:-1 ,AR_DZ: Samira Tv
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44012
-#EXTINF:-1 ,AR_DZ: El Bilad Tv
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44014
-#EXTINF:-1 ,AR_DZ: Echourouk News
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44015
-#EXTINF:-1 ,AR_DZ: Echourouk
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44016
-#EXTINF:-1 ,AR_DZ: AL AJOUA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44017
-#EXTINF:-1 ,AR_DZ: Canal Algerie
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44018
-#EXTINF:-1 ,AR_DZ: Beur TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44019
-#EXTINF:-1 ,AR_DZ: Berbere TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44020
-#EXTINF:-1 ,AR_DZ: Algerie Tv 4
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44024
-#EXTINF:-1 ,AR_DZ: Algeria Tv 3
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44025
-#EXTINF:-1 ,AR_DZ: Al Haddaf
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44026
-#EXTINF:-1 ,AR_mgh: MBC5 MAGHREB
-http://strong-livetv.com:80/lam_mar/AojwXghk3/44023
-#EXTINF:-1 ,AR: MBC 1 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45181
-#EXTINF:-1 ,AR: MBC 1
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45182
-#EXTINF:-1 ,AR: MBC 2 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45183
-#EXTINF:-1 ,AR: MBC 2
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45184
-#EXTINF:-1 ,AR: MBC 3 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45185
-#EXTINF:-1 ,AR: MBC 3
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45186
-#EXTINF:-1 ,AR: MBC 4 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45187
-#EXTINF:-1 ,AR: MBC 4
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45188
-#EXTINF:-1 ,AR: MBC Max HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45189
-#EXTINF:-1 ,AR: MBC Max
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45190
-#EXTINF:-1 ,AR: MBC Drama HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45191
-#EXTINF:-1 ,AR: MBC Drama
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45192
-#EXTINF:-1 ,AR: MBC Drama+
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45193
-#EXTINF:-1 ,AR: MBC Bollywood HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45194
-#EXTINF:-1 ,AR: MBC Action HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45196
-#EXTINF:-1 ,AR: MBC Action
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45197
-#EXTINF:-1 ,AR: MBC VARIETY HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45198
-#EXTINF:-1 ,AR: Mbc Masr
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45199
-#EXTINF:-1 ,AR: Mbc Masr 2
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45200
-#EXTINF:-1 ,AR: Rotana Music
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45201
-#EXTINF:-1 ,AR: Rotana Khalijiah
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45202
-#EXTINF:-1 ,AR: Rotana Drama
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45203
-#EXTINF:-1 ,AR: Rotana Classic
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45204
-#EXTINF:-1 ,AR: Rotana Cinema
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45205
-#EXTINF:-1 ,AR: Rotana Aflam
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45206
-#EXTINF:-1 ,AR: ART Cinema
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45209
-#EXTINF:-1 ,AR: ART Aflam 1
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45210
-#EXTINF:-1 ,AR: ART Aflam 2
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45211
-#EXTINF:-1 ,AR: ART Hekayat 2
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45213
 #EXTINF:-1 ,AR: Bein Series HD 1
 http://strong-livetv.com:80/lam_mar/AojwXghk3/45214
 #EXTINF:-1 ,AR: Bein Movies Premiere 1 HD
@@ -633,364 +11,18 @@ http://strong-livetv.com:80/lam_mar/AojwXghk3/45215
 http://strong-livetv.com:80/lam_mar/AojwXghk3/45216
 #EXTINF:-1 ,AR: Bein Movies Drama 3 HD
 http://strong-livetv.com:80/lam_mar/AojwXghk3/45217
-#EXTINF:-1 ,AR: Bein Movies Family 4 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45218
-#EXTINF:-1 ,AR: Bein Jeem HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45219
-#EXTINF:-1 ,AR: AL FAJR 2
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45221
-#EXTINF:-1 ,AR: Ajyal TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45222
-#EXTINF:-1 ,AR:Baraeem
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45228
-#EXTINF:-1 ,AR:Lana+
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45230
-#EXTINF:-1 ,AR:MBC.IRAQ
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45231
-#EXTINF:-1 ,AR_MA: AL_AOULA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45335
-#EXTINF:-1 ,AR_MA: 2M_MAROC
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45336
-#EXTINF:-1 ,AR_MA: ALMAGHRIBYA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45337
-#EXTINF:-1 ,AR_MA: ARRIADIA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45338
-#EXTINF:-1 ,AR_MA: ARRABIA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45339
-#EXTINF:-1 ,AR_MA: CHADA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45341
-#EXTINF:-1 ,AR_MA: TELE MAROC
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45342
-#EXTINF:-1 ,AR_MA: TAMAZIGHT
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45343
-#EXTINF:-1 ,|AR| ABU DHABI TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45515
-#EXTINF:-1 ,|AR| Abu Dhabi Drama
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45516
-#EXTINF:-1 ,|AR| Al Emarat TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45517
-#EXTINF:-1 ,|AR| AL KASS FOUR
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45519
-#EXTINF:-1 ,|AR| AL KASS ONE
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45520
-#EXTINF:-1 ,|AR| AL KASS TWO
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45521
-#EXTINF:-1 ,AR | Al Masriya
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45522
-#EXTINF:-1 ,|AR| Al Nahar Drama
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45524
-#EXTINF:-1 ,|AR| Al Sharjah Sports
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45526
-#EXTINF:-1 ,|AR| AL HAYAT
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45527
-#EXTINF:-1 ,|AR| Alkass Sport 4 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45528
-#EXTINF:-1 ,|AR| Bahrain TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45530
-#EXTINF:-1 ,|AR| CBC EXTRA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45533
-#EXTINF:-1 ,|AR| CBC SOFRA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45534
-#EXTINF:-1 ,|AR| DMC Drama
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45536
-#EXTINF:-1 ,|AR| DMC HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45537
-#EXTINF:-1 ,|AR| Dubai Drama
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45538
-#EXTINF:-1 ,|AR| DUBAI TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45539
-#EXTINF:-1 ,|AR| Dubai Sports1
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45540
-#EXTINF:-1 ,|AR| Dubai Sport 2
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45541
-#EXTINF:-1 ,|AR| Future Liban
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45543
-#EXTINF:-1 ,|AR| Kuwait Sports
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45545
-#EXTINF:-1 ,|AR| LBC
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45546
-#EXTINF:-1 ,|AR|  Manar
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45548
-#EXTINF:-1 ,|AR| MELODY_CLASSIC
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45549
-#EXTINF:-1 ,|AR| NILE DRAMA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45550
-#EXTINF:-1 ,|AR| NILE_CINEMA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45551
-#EXTINF:-1 ,|AR| Nile Comedy
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45552
-#EXTINF:-1 ,|AR| Nile Sport
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45553
-#EXTINF:-1 ,|AR| Oman TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45554
-#EXTINF:-1 ,|AR| ON SPORT
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45555
-#EXTINF:-1 ,AR | ON Drama
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45556
 #EXTINF:-1 ,|AR| Palestine live
 http://strong-livetv.com:80/lam_mar/AojwXghk3/45558
-#EXTINF:-1 ,AR | Qatar
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45561
-#EXTINF:-1 ,|AR| Sama Dubai
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45562
-#EXTINF:-1 ,|AR| Saudi 1
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45563
-#EXTINF:-1 ,|AR| Sudan TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45566
-#EXTINF:-1 ,|AR| Syria
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45567
-#EXTINF:-1 ,|AR| Syria Drama
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45568
-#EXTINF:-1 ,|AR| TRT Arabia
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45569
-#EXTINF:-1 ,|AR| ZEE ALWAN
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45571
-#EXTINF:-1 ,|OSN| CINEMA 1
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45572
-#EXTINF:-1 ,|OSN| CINEMA 2
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45573
-#EXTINF:-1 ,|OSN| ALYOUM
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45574
-#EXTINF:-1 ,|OSN| MUSALSALAT HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45575
-#EXTINF:-1 ,|OSN| Ya Hala Oula HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45576
-#EXTINF:-1 ,|OSN| Yahala Cinema HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45577
-#EXTINF:-1 ,AD Sport 1
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45578
-#EXTINF:-1 ,AD Sport 2
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45579
-#EXTINF:-1 ,AD Sport 3
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45580
-#EXTINF:-1 ,AD Sport 4
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45581
-#EXTINF:-1 ,News: AL Jazeera HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45582
-#EXTINF:-1 ,News: ALJAZEERA NEWS
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45583
-#EXTINF:-1 ,News: AL ARABIYA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45584
-#EXTINF:-1 ,News: SKY NEWS ARABIC
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45585
-#EXTINF:-1 ,News: AL Arabiya ALHADAT
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45586
-#EXTINF:-1 ,News: BBC Arabic
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45587
-#EXTINF:-1 ,News: France24 AR
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45588
-#EXTINF:-1 ,News: Al Jazeera Mubasher
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45589
-#EXTINF:-1 ,News: Al Mayadeen
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45590
-#EXTINF:-1 ,News: ALARABY
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45591
-#EXTINF:-1 ,News: Ad Nat Geo
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45593
-#EXTINF:-1 ,News: Aljazeera Documentaire
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45594
-#EXTINF:-1 ,Islam: Iqraa tv
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45595
-#EXTINF:-1 ,Islam | Saudi Quran
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45596
-#EXTINF:-1 ,Islam: AL RAHMA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45597
 #EXTINF:-1 ,Islam: AL Ressala
 http://strong-livetv.com:80/lam_mar/AojwXghk3/45598
-#EXTINF:-1 ,Islam: AlMajd Quran
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45599
-#EXTINF:-1 ,Kids: CARTOON NETWORK
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45600
-#EXTINF:-1 ,Kids: SPACETOON
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45601
-#EXTINF:-1 ,DZ: ALGERIE 5
-http://strong-livetv.com:80/lam_mar/AojwXghk3/46020
-#EXTINF:-1 ,Ar: Azhari
-http://strong-livetv.com:80/lam_mar/AojwXghk3/48404
-#EXTINF:-1 ,|AR| Sahel Tunisian
-http://strong-livetv.com:80/lam_mar/AojwXghk3/49642
-#EXTINF:-1 ,|AR| BEIN SPORTS 2 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/52943
-#EXTINF:-1 ,BEIN SPORTS NEWS HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45280
-#EXTINF:-1 ,BEIN SPORTS 1 hd
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45282
-#EXTINF:-1 ,BEIN SPORTS 3hd
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45288
-#EXTINF:-1 ,BEIN SPORTS 4 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45292
-#EXTINF:-1 ,BEIN SPORTS 5 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45295
-#EXTINF:-1 ,BEIN SPORTS 6 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45298
-#EXTINF:-1 ,BEIN SPORTS 7 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45301
-#EXTINF:-1 ,BEIN SPORTS 8 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45304
-#EXTINF:-1 ,BEIN SPORTS 9 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45307
-#EXTINF:-1 ,BEIN SPORTS 10 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/45310
-#EXTINF:-1 ,|PT| RTP 1 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4407
-#EXTINF:-1 ,|PT| RTP 2 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4408
-#EXTINF:-1 ,|PT| RTP 3 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4409
-#EXTINF:-1 ,|PT| RTP ÁFRICA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4410
 #EXTINF:-1 ,|PT| RTP ACORES
 http://strong-livetv.com:80/lam_mar/AojwXghk3/4412
-#EXTINF:-1 ,|PT| RTP MADEIRA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4411
-#EXTINF:-1 ,|PT| RTP MEMORIA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4468
-#EXTINF:-1 ,|PT| CANAL 11
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4446
-#EXTINF:-1 ,|PT| TVI
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4424
-#EXTINF:-1 ,|PT| TVI 24
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4423
-#EXTINF:-1 ,|PT| TVI REALITY MOSAICO
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4448
-#EXTINF:-1 ,|PT| TVI FICCAO
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4397
-#EXTINF:-1 ,|PT| SIC
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4416
-#EXTINF:-1 ,|PT| SIC CARAS
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4419
-#EXTINF:-1 ,|PT| SIC MULHER
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4418
-#EXTINF:-1 ,|PT| SIC RADICAL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4420
-#EXTINF:-1 ,|PT| SIC NOTICIAS
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4417
-#EXTINF:-1 ,|PT| AMC
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4445
-#EXTINF:-1 ,|PT| AXN HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4432
-#EXTINF:-1 ,|PT| AXN WHITE HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4431
-#EXTINF:-1 ,|PT| AXN BLACK HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4433
-#EXTINF:-1 ,|PT| FOX HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4421
-#EXTINF:-1 ,|PT| FOX LIFE HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4404
-#EXTINF:-1 ,|PT| FOX COMEDY
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4435
-#EXTINF:-1 ,|PT| FOX CRIME HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4415
 #EXTINF:-1 ,|PT| FOX MOVIES HD
 http://strong-livetv.com:80/lam_mar/AojwXghk3/4430
-#EXTINF:-1 ,|PT| TV CINE 1 TOP
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4386
-#EXTINF:-1 ,|PT| TV CINE 2 EDITION
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4387
-#EXTINF:-1 ,|PT| TV CINE 3 EMOTION
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4388
-#EXTINF:-1 ,|PT| TV CINE 4 ACTION
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4389
-#EXTINF:-1 ,|PT| SYFY HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4429
 #EXTINF:-1 ,|PT| TV SERIES
 http://strong-livetv.com:80/lam_mar/AojwXghk3/4425
-#EXTINF:-1 ,|PT| HOLLYWOOD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4413
-#EXTINF:-1 ,|PT| CINE MUNDO
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4405
-#EXTINF:-1 ,|PT| NOS STUDIOS HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/35589
-#EXTINF:-1 ,|PT| BABY TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/17564
-#EXTINF:-1 ,|PT|  BIGGS
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4454
-#EXTINF:-1 ,|PT| JIMJAM
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4453
-#EXTINF:-1 ,|PT| CANAL Q
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4414
-#EXTINF:-1 ,|PT| NICKELODEON
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4459
-#EXTINF:-1 ,|PT| CANAL PANDA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4450
-#EXTINF:-1 ,|PT| DISNEY JUNIOR
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4455
-#EXTINF:-1 ,|PT| DISNEY CHANNEL.
-http://strong-livetv.com:80/lam_mar/AojwXghk3/17563
-#EXTINF:-1 ,|PT| CARTOON NETWORK.
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4457
-#EXTINF:-1 ,|PT| CMTV HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4406
-#EXTINF:-1 ,|PT| ODISSEIA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4422
-#EXTINF:-1 ,|PT| NAT GEO WILD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4466
-#EXTINF:-1 ,|PT| TRAVEL CHANNEL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4469
-#EXTINF:-1 ,|PT| DISCOVERY CHANNEL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4467
-#EXTINF:-1 ,|PT| NATIONAL GEOGRAPHIC HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4460
-#EXTINF:-1 ,|PT| TLC
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4437
-#EXTINF:-1 ,|PT| TV RECORD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4426
-#EXTINF:-1 ,|PT| CBS REALITY
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4462
-#EXTINF:-1 ,|PT| CAçAVISION
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4441
 #EXTINF:-1 ,|PT| CAçA E PESCA
 http://strong-livetv.com:80/lam_mar/AojwXghk3/4442
-#EXTINF:-1 ,|PT| CANçAO NOVA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4440
-#EXTINF:-1 ,|PT| MTV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4470
-#EXTINF:-1 ,|PT| KOMBAT SPORT
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4464
-#EXTINF:-1 ,|PT| 24 KITCHEN HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/2993
-#EXTINF:-1 ,|PT| FUEL TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4439
-#EXTINF:-1 ,|PT| TOROS TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4428
-#EXTINF:-1 ,|PT| ABOLA TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4438
-#EXTINF:-1 ,|PT| TV GLOBO NEWS BR
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4427
-#EXTINF:-1 ,|PT|  MOTORS TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4403
-#EXTINF:-1 ,|PT| BENFICA TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/27112
-#EXTINF:-1 ,|PT| PORTO CANAL
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4434
-#EXTINF:-1 ,|PT| SPORTING TV HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4400
-#EXTINF:-1 ,|PT| MOTORVISION HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4461
-#EXTINF:-1 ,|PT| SPORT TV+ HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/27110
-#EXTINF:-1 ,|PT| SPORT TV 1 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/26600
-#EXTINF:-1 ,|PT| SPORT TV 2 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/26601
-#EXTINF:-1 ,|PT| SPORT TV 3 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/26603
-#EXTINF:-1 ,|PT| SPORT TV 4 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/26606
-#EXTINF:-1 ,|PT| SPORT TV 5 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/27111
-#EXTINF:-1 ,|PT| ELEVEN SPORTS 1 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/26668
-#EXTINF:-1 ,|PT| ELEVEN SPORTS 2 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/26666
-#EXTINF:-1 ,|PT| ELEVEN SPORTS 3 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/26665
-#EXTINF:-1 ,|PT| ELEVEN SPORTS 4 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/26664
-#EXTINF:-1 ,|PT| ELEVEN SPORTS 5 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/26663
-#EXTINF:-1 ,|PT| SPORT TV NBA HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/51500
 #EXTINF:-1 ,ES: M. LIGA DE CAMPEONES 6 HD
 http://strong-livetv.com:80/lam_mar/AojwXghk3/55387
 #EXTINF:-1 ,ES: FOX SPORT ARGENTINA
@@ -1057,8 +89,6 @@ http://strong-livetv.com:80/lam_mar/AojwXghk3/40938
 http://strong-livetv.com:80/lam_mar/AojwXghk3/40936
 #EXTINF:-1 ,ES: DISNEY JR
 http://strong-livetv.com:80/lam_mar/AojwXghk3/40935
-#EXTINF:-1 ,ES: DISNEY XD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/40934
 #EXTINF:-1 ,ES: DIVINITY.
 http://strong-livetv.com:80/lam_mar/AojwXghk3/40933
 #EXTINF:-1 ,ES: DKISS
@@ -1099,8 +129,6 @@ http://strong-livetv.com:80/lam_mar/AojwXghk3/40861
 http://strong-livetv.com:80/lam_mar/AojwXghk3/40863
 #EXTINF:-1 ,ES: NICK JR
 http://strong-livetv.com:80/lam_mar/AojwXghk3/40858
-#EXTINF:-1 ,ES: SOL MUSIC
-http://strong-livetv.com:80/lam_mar/AojwXghk3/40855
 #EXTINF:-1 ,ES: PARAMOUNT
 http://strong-livetv.com:80/lam_mar/AojwXghk3/40854
 #EXTINF:-1 ,ES: ARAGON TV
@@ -1125,8 +153,6 @@ http://strong-livetv.com:80/lam_mar/AojwXghk3/40836
 http://strong-livetv.com:80/lam_mar/AojwXghk3/40697
 #EXTINF:-1 ,ES: MOVISTAR DEPORTES
 http://strong-livetv.com:80/lam_mar/AojwXghk3/40696
-#EXTINF:-1 ,#0 HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/40694
 #EXTINF:-1 ,ES: MOVISTAR LA LIGA M1 BAR TV
 http://strong-livetv.com:80/lam_mar/AojwXghk3/40733
 #EXTINF:-1 ,ES: MOVISTAR LALIGATV  HD
@@ -1163,12 +189,8 @@ http://strong-livetv.com:80/lam_mar/AojwXghk3/40927
 http://strong-livetv.com:80/lam_mar/AojwXghk3/40918
 #EXTINF:-1 ,ES: TV GALICIA
 http://strong-livetv.com:80/lam_mar/AojwXghk3/40917
-#EXTINF:-1 ,#VAMOS
-http://strong-livetv.com:80/lam_mar/AojwXghk3/40898
 #EXTINF:-1 ,ES: TRECE TV
 http://strong-livetv.com:80/lam_mar/AojwXghk3/40893
-#EXTINF:-1 ,ES: REAL MADRID TV
-http://strong-livetv.com:80/lam_mar/AojwXghk3/40853
 #EXTINF:-1 ,ES: TELEDEPORTE
 http://strong-livetv.com:80/lam_mar/AojwXghk3/40845
 #EXTINF:-1 ,ES: M. LIGA DE CAMPEONES
@@ -1287,282 +309,60 @@ http://strong-livetv.com:80/lam_mar/AojwXghk3/42673
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/56331.mp4
 #EXTINF:-1 ,Tesla
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/56324.mp4
-#EXTINF:-1 ,Eternamente enamorados
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/56323.mp4
-#EXTINF:-1 ,Notre dame
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/56322.mp4
-#EXTINF:-1 ,The Night Clerk
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/56321.mp4
-#EXTINF:-1 ,Intercambio mortal
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/56320.mp4
-#EXTINF:-1 ,La vida por delante
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/56318.mp4
-#EXTINF:-1 ,La Navidad mágica de los Jangle
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/56317.mp4
-#EXTINF:-1 ,Greenland: el último refugio VO SUPTITULADA
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/56316.mp4
 #EXTINF:-1 ,Bob Esponja: Un héroe al rescate
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/56258.mp4
-#EXTINF:-1 ,La Gallina Turuleca
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/56257.mp4
-#EXTINF:-1 ,Víctima del poder
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/56162.mp4
-#EXTINF:-1 ,Dolphin Kick
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/56161.mp4
-#EXTINF:-1 ,Inherit the Viper
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/56160.mp4
-#EXTINF:-1 ,Superagente Makey
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/56159.mp4
 #EXTINF:-1 ,Vacaciones en África
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/56158.mp4
-#EXTINF:-1 ,La maldición del guapo
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/56157.mp4
 #EXTINF:-1 ,Operación rescate
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/56156.mp4
-#EXTINF:-1 ,Operación Feliz Navidad
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/56153.mp4
-#EXTINF:-1 ,Con la magia en los zapatos
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55747.mp4
-#EXTINF:-1 ,La ruta hacia El Dorado
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55746.mp4
-#EXTINF:-1 ,Beyond the Law
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55745.mp4
 #EXTINF:-1 ,Los secretos de La Roja – Campeones del mundo
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55744.mp4
-#EXTINF:-1 ,El asedio de Jadotville
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55743.mp4
-#EXTINF:-1 ,The Blackout
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55742.mp4
-#EXTINF:-1 ,Oro blanco
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55741.mp4
-#EXTINF:-1 ,Infamous
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55740.mp4
 #EXTINF:-1 ,La lista de los deseos
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55739.mp4
-#EXTINF:-1 ,Becky
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55738.mp4
-#EXTINF:-1 ,El séptimo enanito
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55684.mp4
-#EXTINF:-1 ,Kung Fu Panda 3
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55683.mp4
-#EXTINF:-1 ,Hotel Transilvania: Perrito
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55682.mp4
-#EXTINF:-1 ,Super Monsters Save Halloween
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55677.mp4
-#EXTINF:-1 ,El aprendiz de papá noel y el copo de nieve mágico
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55676.mp4
-#EXTINF:-1 ,Abulele
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55674.mp4
-#EXTINF:-1 ,El pan de la guerra
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55673.mp4
 #EXTINF:-1 ,Ice Dragon: Legend of the Blue Daisies
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55672.mp4
-#EXTINF:-1 ,El reino de las ranas
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55671.mp4
-#EXTINF:-1 ,Gamba
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55664.mp4
-#EXTINF:-1 ,El malvado zorro feroz
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55663.mp4
-#EXTINF:-1 ,El malvado zorro feroz
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55662.mp4
-#EXTINF:-1 ,Peter y el dragón
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55661.mp4
-#EXTINF:-1 ,Intrépido
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55660.mp4
-#EXTINF:-1 ,la película: Candace contra el universo
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55659.mp4
-#EXTINF:-1 ,Más allá de la Luna
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55658.mp4
-#EXTINF:-1 ,Doctor Sueño
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55655.mp4
 #EXTINF:-1 ,Dos suegros y un destino
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55654.mp4
-#EXTINF:-1 ,KIKORIKI: LEGEND OF THE GOLDEN DRAGON
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55593.mp4
-#EXTINF:-1 ,Lino
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55592.mp4
-#EXTINF:-1 ,Ninja a cuadros
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55590.mp4
 #EXTINF:-1 ,Mi perro es un detective
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55589.mp4
 #EXTINF:-1 ,Bronx esp
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55571.mp4
-#EXTINF:-1 ,Amor de Calendario
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55569.mp4
-#EXTINF:-1 ,7 horas para enamorarte
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55397.mp4
-#EXTINF:-1 ,En las rocas
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55396.mp4
 #EXTINF:-1 ,película film secuela esp
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55395.mp4
-#EXTINF:-1 ,Las brujas
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55394.mp4
-#EXTINF:-1 ,Arturo y Merlín: Caballeros de Camelot
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55051.mp4
-#EXTINF:-1 ,Consejos de una canguro para cazar monstruos
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55050.mp4
-#EXTINF:-1 ,El juicio de los 7 de Chicago
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55049.mp4
-#EXTINF:-1 ,Clouds
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55048.mp4
-#EXTINF:-1 ,El Halloween de Hubie
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/55012.mp4
 #EXTINF:-1 ,Vampiros contra el Bronx esp
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/54920.mp4
-#EXTINF:-1 ,Rapera a los 40
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/54919.mp4
-#EXTINF:-1 ,Padre no hay más que uno 2: La llegada de la suegra
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/54880.mp4
-#EXTINF:-1 ,Los Chicos De La Banda
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/54464.mp4
-#EXTINF:-1 ,Isla De Sombras
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/54463.mp4
-#EXTINF:-1 ,Ángel De La Muerte
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/54462.mp4
-#EXTINF:-1 ,Pinocho
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/54461.mp4
 #EXTINF:-1 ,ASYLUM: Twisted Horror And Fantasy Tales
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/54460.mp4
-#EXTINF:-1 ,El Club Secreto De Los No Herederos Al Trono
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/54459.mp4
 #EXTINF:-1 ,Fernando Torres: The Last Symbol
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/54189.mp4
 #EXTINF:-1 ,El Avion Del Dinero Esp
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/54165.mp4
-#EXTINF:-1 ,Money Plane
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/54089.mp4
-#EXTINF:-1 ,Blood Quantum
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/54088.mp4
-#EXTINF:-1 ,Unpregnant
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/54087.mp4
 #EXTINF:-1 ,Mulan Esp
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/53637.mp4
-#EXTINF:-1 ,Para Toda La Muerte
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/53629.mp4
-#EXTINF:-1 ,Rompiendo Las Normas
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/53628.mp4
-#EXTINF:-1 ,Maquis
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/53627.mp4
-#EXTINF:-1 ,Lejos Del Fuego
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/53626.mp4
 #EXTINF:-1 ,Orígenes Secretos
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/53625.mp4
 #EXTINF:-1 ,En Plan Estrella De Rock
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/53624.mp4
-#EXTINF:-1 ,Railroad Tigers
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/53623.mp4
-#EXTINF:-1 ,Una Noche De Locos
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/53622.mp4
-#EXTINF:-1 ,El Magnífico Iván
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/53621.mp4
-#EXTINF:-1 ,Coda
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/53620.mp4
 #EXTINF:-1 ,Saint Frances
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/53619.mp4
-#EXTINF:-1 ,El Increíble Finde Menguante
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/53618.mp4
-#EXTINF:-1 ,Una Chica Fácil
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/53617.mp4
-#EXTINF:-1 ,Project Power
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/53616.mp4
 #EXTINF:-1 ,La Canción De Los Nombres Olvidados
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/53079.mp4
-#EXTINF:-1 ,Latte Y La Piedra De Agua Mágica
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52923.mp4
-#EXTINF:-1 ,Galletas De Animalitos
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52919.mp4
-#EXTINF:-1 ,Peel
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52918.mp4
-#EXTINF:-1 ,La Mujer Que Camina Delante
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52716.mp4
 #EXTINF:-1 ,El Asesino Del Nudo
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52715.mp4
-#EXTINF:-1 ,MILF
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52714.mp4
-#EXTINF:-1 ,El Hombre Del Laberinto
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52713.mp4
-#EXTINF:-1 ,Recuerdame
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52712.mp4
 #EXTINF:-1 ,The Huntress: Rune Of The Dead
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52705.mp4
-#EXTINF:-1 ,La Vieja Guardia
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52619.mp4
-#EXTINF:-1 ,Sanctuary Population One
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52615.mp4
-#EXTINF:-1 ,Zapatos Rojos Y Los Siete Trolls
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52575.mp4
 #EXTINF:-1 ,Atrapada En Las Profundidades
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52574.mp4
-#EXTINF:-1 ,La Suite Nupcial
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52573.mp4
-#EXTINF:-1 ,Amor  Boda  Azar
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52572.avi
-#EXTINF:-1 ,Buenos Principios
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52571.mp4
-#EXTINF:-1 ,El Ritmo De La Venganza
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52570.mp4
-#EXTINF:-1 ,Paradise Hills
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52569.mp4
 #EXTINF:-1 ,2 Minutes Of Fame
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52537.mp4
-#EXTINF:-1 ,Una Misión De Locos
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52536.avi
-#EXTINF:-1 ,La Nueva Vida De Britt-Marie
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52535.mp4
-#EXTINF:-1 ,Banana Split
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52534.avi
-#EXTINF:-1 ,Fahim
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48104.mp4
-#EXTINF:-1 ,Cuando Tu Quieras
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52533.avi
-#EXTINF:-1 ,Catching Faith 2: The Homecoming
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52532.mp4
 #EXTINF:-1 ,Stargate Origenes: Catherine
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52531.avi
-#EXTINF:-1 ,Selvmordsturisten
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52530.avi
-#EXTINF:-1 ,The F**k-It List
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52528.mp4
-#EXTINF:-1 ,Harriet
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52529.avi
 #EXTINF:-1 ,The Gentlemen: Los Señores De La Mafia
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52356.mp4
-#EXTINF:-1 ,La Bala Perdida
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/52233.mp4
-#EXTINF:-1 ,Operación Panda
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51944.mp4
-#EXTINF:-1 ,Volando Juntos
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51942.mp4
-#EXTINF:-1 ,La Casa De Verano
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51940.mp4
-#EXTINF:-1 ,365 DNI (365 Days)
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51939.mp4
-#EXTINF:-1 ,El Vuelo Del Halcon
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51898.mp4
-#EXTINF:-1 ,Los últimos Días Del Crimen
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51897.mp4
-#EXTINF:-1 ,La Boda De Mi Ex
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51394.mp4
-#EXTINF:-1 ,Jubilación: Imposible
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51393.mp4
 #EXTINF:-1 ,Waves
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51323.mp4
-#EXTINF:-1 ,The Postcard Killings
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51322.mp4
 #EXTINF:-1 ,The Furies
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51321.mp4
-#EXTINF:-1 ,Un Amigo Extraordinario
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51305.mp4
-#EXTINF:-1 ,Judy
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51304.mp4
-#EXTINF:-1 ,El Joven Ahmed
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51303.mp4
-#EXTINF:-1 ,Adú
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51302.mp4
-#EXTINF:-1 ,Vivarium
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51223.mp4
-#EXTINF:-1 ,Bajo La Misma Piel
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51222.mp4
 #EXTINF:-1 ,La Noche Esperada ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/29493.mp4
 #EXTINF:-1 ,A La Deriva ESP
@@ -1625,14 +425,10 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/24246.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/28209.mp4
 #EXTINF:-1 ,El Hombre Que Mató A Don Quijote ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/30719.mp4
-#EXTINF:-1 ,El Lobo
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/22420.mp4
 #EXTINF:-1 ,El Maravilloso Jardín Secreto De Bella Brown ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/24263.mp4
 #EXTINF:-1 ,El Mundo Es Suyo ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/27804.mp4
-#EXTINF:-1 ,Father Of The Year -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/24243.mp4
 #EXTINF:-1 ,El Pájaro Loco: La Película  Esp
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/28447.mp4
 #EXTINF:-1 ,El Senor De La Guerra ESP
@@ -1681,8 +477,6 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/30569.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/30568.mp4
 #EXTINF:-1 ,Goon: El último De Los Enforcers  Esp
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/28883.mp4
-#EXTINF:-1 ,Gringo: Se Busca Vivo O Muerto -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/24245.mp4
 #EXTINF:-1 ,Gru 3  Mi Villano Favorito  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/35666.mp4
 #EXTINF:-1 ,Gru 2  Mi Villano Favorito  Esp
@@ -1707,8 +501,6 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/28998.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/14667.mp4
 #EXTINF:-1 ,La Muerte De Stalin ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/24260.mp4
-#EXTINF:-1 ,La Piel Que Habito
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/9165.mp4
 #EXTINF:-1 ,La Expulsión De Los Moriscos ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/29495.mp4
 #EXTINF:-1 ,La Jungla Interior ESP
@@ -1729,12 +521,8 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/29506.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/28991.mp4
 #EXTINF:-1 ,Megalodón  Esp
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/29505.mp4
-#EXTINF:-1 ,Milla 22
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/30720.mp4
 #EXTINF:-1 ,My Little Pony: La Película ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/20029.mp4
-#EXTINF:-1 ,Noche De Juegos -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/24244.mp4
 #EXTINF:-1 ,Nos Vemos Allá Arriba  Esp
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/28835.mp4
 #EXTINF:-1 ,Operación Concha  Esp
@@ -1793,14 +581,10 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/28836.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/28843.mp4
 #EXTINF:-1 ,Episodio 1: El Despertar ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/29490.mp4
-#EXTINF:-1 ,Las Aventuras De Tom Sawyer
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/30563.mp4
 #EXTINF:-1 ,¡Qué Guapa Soy! ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/27805.mp4
 #EXTINF:-1 ,Tio Drew Esp
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/27813.mp4
-#EXTINF:-1 ,Saludos Amigos
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/8858.mp4
 #EXTINF:-1 ,La Cigüeña  Esp
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/28901.mp4
 #EXTINF:-1 ,Blanco Perfecto (Downrange) ESP
@@ -1811,18 +595,12 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/25262.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/18317.mp4
 #EXTINF:-1 ,Héroes En El Infierno ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/24251.mp4
-#EXTINF:-1 ,La Tribu -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/24248.mp4
 #EXTINF:-1 ,María Magdalena ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/24249.mp4
 #EXTINF:-1 ,Pacific Rim: Insurrección ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/24252.mp4
 #EXTINF:-1 ,Peter Rabbit  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/24253.mp4
-#EXTINF:-1 ,Super Maderos 2 -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/24256.mp4
-#EXTINF:-1 ,The Clapper -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/21829.mp4
 #EXTINF:-1 ,The Party ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/24262.mp4
 #EXTINF:-1 ,ESP
@@ -1857,8 +635,6 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/14526.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/14693.mp4
 #EXTINF:-1 ,Huye Get  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/14671.mp4
-#EXTINF:-1 ,La Sombra De La Traicion
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/14689.mp4
 #EXTINF:-1 ,Thor Et Les Légendes Du Valhalla
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/14685.mp4
 #EXTINF:-1 ,Life: Vida Inteligente ESP
@@ -1909,12 +685,8 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/30830.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/30851.mp4
 #EXTINF:-1 ,Los Arqueros Del Rey ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/30852.mp4
-#EXTINF:-1 ,Los Hijos Del Capitán Grant
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/30853.mp4
 #EXTINF:-1 ,Peter Pan: La Gran Aventura-PELICULA ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/30855.mp4
-#EXTINF:-1 ,Pinocho-70
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/30857.mp4
 #EXTINF:-1 ,Zatoichi ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/30908.mp4
 #EXTINF:-1 ,Chato El Apache ESP
@@ -1953,8 +725,6 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/31163.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/31164.mp4
 #EXTINF:-1 ,El Libro De La Selva ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/31165.mp4
-#EXTINF:-1 ,El Rey León
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/31166.mp4
 #EXTINF:-1 ,La Dama Y El Vagabundo ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/31168.mp4
 #EXTINF:-1 ,Los Aristogatos ESP
@@ -2161,16 +931,12 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/31957.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/31958.mp4
 #EXTINF:-1 ,Un Príncipe De Navidad: La Boda Real  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/31968.mp4
-#EXTINF:-1 ,Marguerite Duras
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/31969.mp4
 #EXTINF:-1 ,La Aventura Continúa  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/31972.mp4
 #EXTINF:-1 ,Superman III  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/31971.mp4
 #EXTINF:-1 ,Superman IV: En Busca De La Paz  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/31970.mp4
-#EXTINF:-1 ,Batman V Superman : L’aube De La Justice -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/5121.mp4
 #EXTINF:-1 ,Superman Returns: El Regreso  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/31974.mp4
 #EXTINF:-1 ,El Hombre De Acero  ESP
@@ -2393,8 +1159,6 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/32401.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/32402.mp4
 #EXTINF:-1 ,Spiderman 2 El Hombre Araña En Acción  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/32403.mp4
-#EXTINF:-1 ,Spider-Man 3
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/32404.mp4
 #EXTINF:-1 ,Supersonic Man  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/32405.mp4
 #EXTINF:-1 ,Tarzán Y El Safari Perdido  ESP
@@ -2407,8 +1171,6 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/32408.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/32449.mp4
 #EXTINF:-1 ,Tarzán En Nueva York  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/32450.mp4
-#EXTINF:-1 ,Tarzán De Los Monos
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/32451.mp4
 #EXTINF:-1 ,El Tesoro De Tarzán  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/32452.mp4
 #EXTINF:-1 ,Hércules  ESP
@@ -2599,8 +1361,6 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/33046.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/33040.mp4
 #EXTINF:-1 ,Mythica 2: La Espora Negra  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/33041.mp4
-#EXTINF:-1 ,Mythica 3 : La Nécromancienne
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/9561.mp4
 #EXTINF:-1 ,Mythica 3: La Nigromante  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/33039.mp4
 #EXTINF:-1 ,Mythica 4: La Corona De Hierro  ESP
@@ -2713,12 +1473,8 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/33266.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/33267.mp4
 #EXTINF:-1 ,Pompeya  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/33268.mp4
-#EXTINF:-1 ,Astérix Y Obélix 1: Contra César
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/33269.mp4
 #EXTINF:-1 ,Astérix Y Obélix 2: Misión Cleopatra  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/33270.mp4
-#EXTINF:-1 ,Astérix Y Obélix 3: Astérix En Los Juegos Olímpicos
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/33271.mp4
 #EXTINF:-1 ,Astérix Y Obélix 4: Al Servicio De Su Majestad  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/33272.mp4
 #EXTINF:-1 ,Alejandro Magno  ESP
@@ -3321,8 +2077,6 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/34517.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/34518.mp4
 #EXTINF:-1 ,Queen: Hungarian Rhapsody - Live In Budapest  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/34600.mkv
-#EXTINF:-1 ,David Guetta Live Tomorrowland
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/34602.mkv
 #EXTINF:-1 ,Infiltrado En El KKKlan  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/34623.mp4
 #EXTINF:-1 ,Hunter Killer  ESP
@@ -3485,8 +2239,6 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/35077.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/35104.mp4
 #EXTINF:-1 ,La Cenicienta 2: La Magia No Termina A Medianoche  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/35105.mp4
-#EXTINF:-1 ,La Cenicienta 3: Qué Pasaría Si
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/35106.mp4
 #EXTINF:-1 ,101 Dálmatas 2  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/35107.mp4
 #EXTINF:-1 ,Bratz 1  Estrellas De La Moda  ESP
@@ -3497,8 +2249,6 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/35112.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/35113.mp4
 #EXTINF:-1 ,Bratz Kidz 4  Fiesta De Pijamas  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/35114.mp4
-#EXTINF:-1 ,Bratz 5: Fashion Pixiez
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/35115.mp4
 #EXTINF:-1 ,Bratz Babyz 6: Salvan La Navidad  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/35116.mp4
 #EXTINF:-1 ,Stuart Little 1:un Ratón En La Familia    ESP
@@ -3799,8 +2549,6 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/35811.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/35813.mp4
 #EXTINF:-1 ,Peter Y El Dragón  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/35814.mp4
-#EXTINF:-1 ,Toca Y Pasa El Balón
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/35819.mp4
 #EXTINF:-1 ,Ha Nacido Una Estrella  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/35820.mp4
 #EXTINF:-1 ,La Flor De Mi Secreto  ESP
@@ -4253,8 +3001,6 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/36844.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/36845.mp4
 #EXTINF:-1 ,Bruno Y Botas: Esto No Puede Estar Ocurriendo -
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/36846.mp4
-#EXTINF:-1 ,Bruno Y Botas: La Guerra Contra Wizzle -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/36847.mp4
 #EXTINF:-1 ,El Hombre Que Lo Conseguía Todo  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/36848.mp4
 #EXTINF:-1 ,Kill Order  ESP
@@ -4335,8 +3081,6 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/36971.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/36972.mp4
 #EXTINF:-1 ,Creed II: La Leyenda De Rocky  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/37089.mp4
-#EXTINF:-1 ,Las Separadoras De Parejas -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/37127.mp4
 #EXTINF:-1 ,Burning  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/37186.mp4
 #EXTINF:-1 ,Sin Fin  ESP
@@ -4345,8 +3089,6 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/37187.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/37188.mp4
 #EXTINF:-1 ,La Buena Esposa  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/37189.mp4
-#EXTINF:-1 ,LO MEJOR DEL REGUETON PARA
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/37198.mp4
 #EXTINF:-1 ,Divorcio Mortal  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/37226.mp4
 #EXTINF:-1 ,Falso Diagnóstico  ESP
@@ -4389,8 +3131,6 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/37411.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/37421.mp4
 #EXTINF:-1 ,El Cascanueces Y Los Cuatro Reinos  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/37422.mp4
-#EXTINF:-1 ,Matilda
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/37424.mp4
 #EXTINF:-1 ,El Padrino I   ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/37425.mp4
 #EXTINF:-1 ,El Padrino II   ESP
@@ -4505,8 +3245,6 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/37887.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/37977.mp4
 #EXTINF:-1 ,Gran Torino  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/37978.mp4
-#EXTINF:-1 ,Érase Una Vez Deadpool -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/37979.mp4
 #EXTINF:-1 ,The Hard Way-El Camino Largo  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/37980.mp4
 #EXTINF:-1 ,Detective Conan: El Caso Zero  ESP
@@ -4515,10 +3253,6 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/38008.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/38013.mp4
 #EXTINF:-1 ,¡A Ganar!  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/38032.mp4
-#EXTINF:-1 ,O G
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/38033.mp4
-#EXTINF:-1 ,Andar  Montar
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/38034.mp4
 #EXTINF:-1 ,Mademoiselle De Joncquières  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/38035.mp4
 #EXTINF:-1 ,40 Grados A La Sombra  ESP
@@ -4539,8 +3273,6 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/38095.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/38096.mp4
 #EXTINF:-1 ,Chinatown  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/38097.mp4
-#EXTINF:-1 ,Cimarrón
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/38098.mp4
 #EXTINF:-1 ,Comando En El Mar De China  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/38099.mp4
 #EXTINF:-1 ,Corazones De Hierro  ESP
@@ -4581,10 +3313,6 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/38126.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/38132.mp4
 #EXTINF:-1 ,El Temible Burlón  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/38140.mp4
-#EXTINF:-1 ,El último Dragón
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/38141.mp4
-#EXTINF:-1 ,F I S T
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/38142.mp4
 #EXTINF:-1 ,Flash Gordon  ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/38143.mp4
 #EXTINF:-1 ,Corazón De León (Flecha Negra)  ESP
@@ -4737,170 +3465,38 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/39064.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/39065.mp4
 #EXTINF:-1 ,El Reino De Los Elfos   ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/39072.mp4
-#EXTINF:-1 ,Jefa Por Accidente
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42123.mp4
-#EXTINF:-1 ,Shazam! -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42742.mp4
-#EXTINF:-1 ,Alita: Ángel De Combate SPAIN
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42743.mp4
-#EXTINF:-1 ,Capitana Marvel SPAIN
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42744.mp4
-#EXTINF:-1 ,Minuscule 2: Mandíbulas Del Fin Del Mundo -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42745.mp4
-#EXTINF:-1 ,Mr
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42746.mp4
-#EXTINF:-1 ,John Wick: Capítulo 3 - Parabellum SPAIN
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42747.mp4
 #EXTINF:-1 ,Escape Room SPAIN
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42748.mp4
 #EXTINF:-1 ,Cementerio De Animales SPAIN
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42749.mp4
-#EXTINF:-1 ,Crypto
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/40088.mp4
-#EXTINF:-1 ,Crypto SPAIN
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42750.mp4
-#EXTINF:-1 ,Miss Bala SPAIN
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42751.mp4
-#EXTINF:-1 ,Shaft SPAIN
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42752.mp4
-#EXTINF:-1 ,Beethoven -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42753.mp4
 #EXTINF:-1 ,En Qué Piensan Los Hombres -
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42754.mp4
-#EXTINF:-1 ,A Dos Metros De Ti SPAIN
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42755.mp4
-#EXTINF:-1 ,La Locura De Una Madre SPAIN
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42756.mp4
-#EXTINF:-1 ,Campamento Alienígena SPAIN
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42757.mp4
-#EXTINF:-1 ,El Canto Del Lobo SPAIN
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42760.mp4
-#EXTINF:-1 ,Beats -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42761.mp4
 #EXTINF:-1 ,Perdiendo El Este -
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42762.mp4
-#EXTINF:-1 ,I Am Mother SPAIN
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42763.mp4
 #EXTINF:-1 ,Criminales En El Mar -
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42764.mp4
-#EXTINF:-1 ,Ramona! -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42765.mp4
-#EXTINF:-1 ,Quizás Para Siempre -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42766.mp4
-#EXTINF:-1 ,El Silencio -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42767.mp4
-#EXTINF:-1 ,Bajo El Mismo Techo -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42768.mp4
-#EXTINF:-1 ,Triple Amenaza SPAIN
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42769.mp4
-#EXTINF:-1 ,Cómo Entrenar A Tu Dragón 3
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42770.mp4
-#EXTINF:-1 ,Triple Frontera SPAIN
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42771.mp4
-#EXTINF:-1 ,La Grande Aventure LEGO 2 -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42772.mp4
-#EXTINF:-1 ,Juanita SPAIN
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42773.mp4
-#EXTINF:-1 ,El Camino Largo SPAIN
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42774.mp4
 #EXTINF:-1 ,No Es Romántico -
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42775.mp4
-#EXTINF:-1 ,El Niño Que Domó El Viento SPAIN
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/42776.mp4
-#EXTINF:-1 ,X-Men: Fénix Oscura
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/43589.mp4
-#EXTINF:-1 ,Rocketman -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/43590.mp4
-#EXTINF:-1 ,La Intervención
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/43611.mp4
-#EXTINF:-1 ,Amor En Obras -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/43612.mp4
-#EXTINF:-1 ,Bellezonismo -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/43613.mp4
-#EXTINF:-1 ,Memorias De Un Hombre En Pijama -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/43622.mp4
-#EXTINF:-1 ,Lo Dejo Cuando Quiera -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/43627.mp4
 #EXTINF:-1 ,Más Veloz Que La Muerte  ES
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/43628.mp4
-#EXTINF:-1 ,Men In Black : International -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/43629.mp4
-#EXTINF:-1 ,El Hijo
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/43630.mp4
 #EXTINF:-1 ,El Blues De Beale Street  ES
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/43631.mp4
 #EXTINF:-1 ,Pokémon Detective Pikachu  ES
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/43632.mp4
-#EXTINF:-1 ,Taxi A Gibraltar -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/43633.mp4
 #EXTINF:-1 ,Slamma Jamma  ES
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/43635.mp4
 #EXTINF:-1 ,El Gran Asalto  ES
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/43636.mp4
 #EXTINF:-1 ,¡Shazam!  ES
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/43637.mp4
-#EXTINF:-1 ,Astérix - El Secreto De La Poción Mágica
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/44258.mp4
-#EXTINF:-1 ,Suburbanos
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/44261.mp4
-#EXTINF:-1 ,El Rey León
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/44262.mp4
-#EXTINF:-1 ,Stuber
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/44265.mp4
-#EXTINF:-1 ,La Fractura
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/44268.mp4
 #EXTINF:-1 ,Antes De La Quema
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/44270.mp4
 #EXTINF:-1 ,La Tercera Esposa
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/44275.mp4
-#EXTINF:-1 ,Timadoras Compulsivas
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/44285.mp4
-#EXTINF:-1 ,Infiltrado En Miami
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/44287.mp4
-#EXTINF:-1 ,Los Japón
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/44712.mp4
-#EXTINF:-1 ,10 Days Sin Mamma
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/44713.mp4
 #EXTINF:-1 ,Estafadores
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/44714.mp4
-#EXTINF:-1 ,Todo Por Grace
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/44715.mp4
-#EXTINF:-1 ,Padre No Hay Más Que Uno
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/45441.mp4
-#EXTINF:-1 ,Ein Sommer In Salamanca
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/45442.mp4
-#EXTINF:-1 ,Celle Que Vous Croyez
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/45443.mp4
-#EXTINF:-1 ,You Are My Movie
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/45674.mp4
-#EXTINF:-1 ,Ad Astra -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/46005.mp4
-#EXTINF:-1 ,Rambo: Last Blood -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/46006.mp4
-#EXTINF:-1 ,Let Me Introduce You To Sofia -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/46007.mp4
-#EXTINF:-1 ,Joker -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/46297.mp4
-#EXTINF:-1 ,Marriage Story -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/46301.mp4
-#EXTINF:-1 ,Ad Astra
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/46440.mp4
-#EXTINF:-1 ,Abominable
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/46441.mp4
-#EXTINF:-1 ,6 Underground
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/46442.mp4
-#EXTINF:-1 ,The Irishman
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/46443.mp4
-#EXTINF:-1 ,Le Mans 66
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/46445.mp4
 #EXTINF:-1 ,Ti Presento Sofia
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/46446.mp4
-#EXTINF:-1 ,Arctic Justice: Thunder Squad
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/46447.mp4
-#EXTINF:-1 ,Klaus
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/46448.mp4
-#EXTINF:-1 ,Freaks
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/46572.mp4
 #EXTINF:-1 ,Les Aéronautes
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/46800.mp4
 #EXTINF:-1 ,Maléfica: Maestra Del Mal
@@ -4909,350 +3505,72 @@ http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/46801.mp4
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/47192.mp4
 #EXTINF:-1 ,Bikes
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/47523.mp4
-#EXTINF:-1 ,Mujer Y Marido
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/47524.mp4
-#EXTINF:-1 ,Llenos De Vida
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/47539.mp4
-#EXTINF:-1 ,¿Qué Te Juegas?
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/47540.mp4
-#EXTINF:-1 ,Share
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/47541.mp4
 #EXTINF:-1 ,The Boy Who Harnessed The Wind
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/47542.mp4
-#EXTINF:-1 ,Troop Zero
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/47543.mp4
-#EXTINF:-1 ,Parque Magico
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/47544.mp4
-#EXTINF:-1 ,La Petite Suisse
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/47545.mp4
-#EXTINF:-1 ,Sextillizos
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/47735.mp4
-#EXTINF:-1 ,Un Corazón Extraordinario
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/47817.mp4
-#EXTINF:-1 ,Uno Mas De La Familia
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/47822.mp4
-#EXTINF:-1 ,Ip Man 4
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/47823.mp4
 #EXTINF:-1 ,Dragon Quest : Your Story
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/47832.mp4
 #EXTINF:-1 ,Los Ángeles De Charlie
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48141.mp4
 #EXTINF:-1 ,Su Ultimo Deseo
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48142.mp4
-#EXTINF:-1 ,Érase Una Vez En… Hollywoo
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48194.mp4
-#EXTINF:-1 ,Playmobil La Película
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48205.mp4
 #EXTINF:-1 ,El Hombre Que Mató A Hitler Y Después Al Bigfoot
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48502.mp4
-#EXTINF:-1 ,Nacido Para Ser Rey
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48503.mp4
-#EXTINF:-1 ,El Leñador
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48504.mp4
-#EXTINF:-1 ,Spenser Confidential
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48505.mp4
-#EXTINF:-1 ,Danger Close : The Battle Of Long Tan
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48506.mp4
-#EXTINF:-1 ,Jumanji: Siguiente Nivel
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48507.mp4
 #EXTINF:-1 ,Testigo Protegido
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48508.mp4
 #EXTINF:-1 ,Espías Con Disfraz
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48509.mp4
-#EXTINF:-1 ,Black & Blue
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48523.mp4
-#EXTINF:-1 ,Anna
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48524.mp4
-#EXTINF:-1 ,Las Aventuras De Errol Flynn
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48525.mp4
-#EXTINF:-1 ,Zombieland: Mata Y Remata
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48526.mp4
-#EXTINF:-1 ,The Courier
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48527.mp4
 #EXTINF:-1 ,Las Invisibles
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48541.mp4
-#EXTINF:-1 ,Togo
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48554.mp4
-#EXTINF:-1 ,Chicas Perdidas
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48555.mp4
 #EXTINF:-1 ,DeadTectives
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48556.mp4
-#EXTINF:-1 ,El Rey Burro
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48557.mp4
-#EXTINF:-1 ,Ventajas De Viajar En Tren
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48558.mp4
-#EXTINF:-1 ,Danger Close : The Battle Of Long Tan
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48560.mp4
-#EXTINF:-1 ,El Papel De Sus Vidas
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48561.mp4
-#EXTINF:-1 ,El Viaje De Marta
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48566.mp4
-#EXTINF:-1 ,@buelos
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48568.mp4
-#EXTINF:-1 ,A Shaun The Sheep 2 Movie: Farmageddon
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48601.mp4
-#EXTINF:-1 ,Mientras Dure La Guerra
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48602.mp4
-#EXTINF:-1 ,El Caballero De Las Sombras: Entre Yin Y Yang
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48603.mp4
-#EXTINF:-1 ,Dark Waters
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48604.mp4
-#EXTINF:-1 ,Toy Story 4
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48605.mp4
 #EXTINF:-1 ,El Asesinato De Nicole Brown Simpson / The Murder Of Nicole Brown Simpson
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48606.mp4
 #EXTINF:-1 ,Elcano Y Magallanes  La Primera Vuelta Al Mundo
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48611.mp4
-#EXTINF:-1 ,El Arte De Defenderse
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48612.mp4
-#EXTINF:-1 ,Spirit Cabalgando Libre: Una Navidad Con Spirit
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48613.mp4
-#EXTINF:-1 ,Boonie Bears: En Un Mundo Diminuto
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48614.mp4
-#EXTINF:-1 ,Frozen 2
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48615.mp4
-#EXTINF:-1 ,Copains Comme Cochons
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48632.mp4
-#EXTINF:-1 ,Dora Et La Cité Perdue
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48633.mp4
-#EXTINF:-1 ,Star Wars: Episodio 9 – El Ascenso De Skywalker
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48643.mp4
-#EXTINF:-1 ,La Vida Secreta De Tus Mascotas 2
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48644.mp4
-#EXTINF:-1 ,Intemperie
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48645.mp4
 #EXTINF:-1 ,Vivir Dos Veces
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48653.mp4
-#EXTINF:-1 ,Gente Que Viene Y Bah
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48654.mp4
 #EXTINF:-1 ,¿A Quién Te Llevarías A Una Isla Desierta?
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48655.mp4
 #EXTINF:-1 ,Animales Sin Collar
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48657.mp4
-#EXTINF:-1 ,Crawl
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48662.mp4
-#EXTINF:-1 ,Doblemente Embarazada
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48663.mp4
-#EXTINF:-1 ,Si Yo Fuera Rico
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48749.mp4
-#EXTINF:-1 ,Altered Carbon: Reenfundados
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48751.mp4
-#EXTINF:-1 ,Comportarse Como Adultos
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48752.mp4
-#EXTINF:-1 ,Diane
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48759.mp4
-#EXTINF:-1 ,La Plateforme
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48760.mp4
-#EXTINF:-1 ,Operación Panda / The Big Trip
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48762.mp4
 #EXTINF:-1 ,Pachamama ESP
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48781.mp4
-#EXTINF:-1 ,Onward
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48853.mp4
-#EXTINF:-1 ,Las Aventuras Del Doctor Dolittle
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48854.mp4
-#EXTINF:-1 ,Ana Y El Apocalipsis
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48870.mp4
-#EXTINF:-1 ,Killer Weekend -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48871.mp4
-#EXTINF:-1 ,El Hostal Y Sus Fantasmas
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48873.mp4
-#EXTINF:-1 ,Gatos  Un Viaje De Vuelta A Casa
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48874.mp4
 #EXTINF:-1 ,La Patrulla Canina: Rescates En La Selva
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48875.mp4
-#EXTINF:-1 ,Las Mascotas De La Reina
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48876.mp4
-#EXTINF:-1 ,De La India A París En Un Armario De Ikea
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48877.mp4
-#EXTINF:-1 ,El Hombre Invisible (Subtitulada)
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48879.mp4
-#EXTINF:-1 ,Una Guerra Brillante
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48881.mp4
-#EXTINF:-1 ,Atardecer
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48895.mp4
-#EXTINF:-1 ,Évasion 3 : The Extractors -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48897.mp4
-#EXTINF:-1 ,Frankie -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48925.mp4
-#EXTINF:-1 ,Just A Gigolo -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48926.mp4
-#EXTINF:-1 ,Bloodshot -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48927.mp4
-#EXTINF:-1 ,PAW PATROL: Mighty Pups
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48935.mp4
-#EXTINF:-1 ,Coronavirus -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48936.mp4
-#EXTINF:-1 ,Doraemon: La Leyenda De Las Sirenas
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48937.mp4
-#EXTINF:-1 ,Manou The Swift  -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48939.mp4
-#EXTINF:-1 ,Coronavirus  2 -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48946.mp4
-#EXTINF:-1 ,Cindy La Regia -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48947.mp4
-#EXTINF:-1 ,Lo Nunca Visto -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48953.mp4
 #EXTINF:-1 ,Contagio Es
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48955.mp4
-#EXTINF:-1 ,Adiós -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/48999.mp4
-#EXTINF:-1 ,Hogar
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49000.mp4
-#EXTINF:-1 ,La Virgen De Agosto -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49002.mp4
-#EXTINF:-1 ,Los Rodríguez Y El Más Allá -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49003.mp4
 #EXTINF:-1 ,Dos Policías Rebeldes 3
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49008.mp4
-#EXTINF:-1 ,Diario De Una Cuarentena: El Coronavirus En China
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49131.mp4
 #EXTINF:-1 ,Horrible Histories: The Movie – Rotten Romans
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49133.mp4
 #EXTINF:-1 ,Legado En Los Huesos -
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49134.mp4
-#EXTINF:-1 ,Never Grow Old -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49266.mp4
-#EXTINF:-1 ,Amenaza En Lo Profundo
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49310.mp4
-#EXTINF:-1 ,A Traición
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49312.mp4
-#EXTINF:-1 ,Placa De Acero -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49313.mp4
-#EXTINF:-1 ,Huérfanos De Brooklyn
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49358.mp4
-#EXTINF:-1 ,Cuarto De Guerra
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49359.mp4
-#EXTINF:-1 ,The Mustang
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49362.mp4
-#EXTINF:-1 ,Le Royaume Sans Pluie -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49363.mp4
-#EXTINF:-1 ,Triple Amenaza
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49364.mp4
-#EXTINF:-1 ,Lola Y Sus Hermanos
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49365.mp4
-#EXTINF:-1 ,-
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49366.mp4
-#EXTINF:-1 ,Mamá Se Fue De Viaje -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49367.mp4
-#EXTINF:-1 ,Peleando En Familia
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49368.mp4
 #EXTINF:-1 ,Mas Que Madres
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49369.mp4
-#EXTINF:-1 ,Rómulo Y Julita -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49395.mp4
-#EXTINF:-1 ,Gretel & Hansel -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49396.mp4
-#EXTINF:-1 ,Proyecto Géminis
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49398.mp4
-#EXTINF:-1 ,Blue Rai -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49406.mp4
-#EXTINF:-1 ,Litus -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49407.mp4
-#EXTINF:-1 ,Junglee
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49439.mp4
-#EXTINF:-1 ,La última Carcajada
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49442.mp4
-#EXTINF:-1 ,Un Don Excepcional
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49449.mp4
 #EXTINF:-1 ,Espías A Escondidas
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49474.mp4
-#EXTINF:-1 ,Klara Y El Ladrón De Manzanas
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49475.mp4
-#EXTINF:-1 ,La Liga De Los 5 -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49480.mp4
 #EXTINF:-1 ,La Pelea Estelar
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49481.mp4
-#EXTINF:-1 ,Trolls 2
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49483.mp4
-#EXTINF:-1 ,Hasta Que La Boda Nos Separe -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49512.mp4
 #EXTINF:-1 ,Espíritus Del Mar
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49513.mp4
-#EXTINF:-1 ,Mad World -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49514.mp4
-#EXTINF:-1 ,Mortal Kombat Legends: Scorpion's Revenge - Subtitulada
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49518.mp4
-#EXTINF:-1 ,Aladdin -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49530.mp4
-#EXTINF:-1 ,Madre -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49531.mp4
-#EXTINF:-1 ,Curiosa -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49552.mp4
-#EXTINF:-1 ,La Alegría De Las Pequeñas Cosas
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49553.mp4
-#EXTINF:-1 ,Aquaman -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49554.mp4
-#EXTINF:-1 ,La Fábrica De Sueños
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49555.mp4
-#EXTINF:-1 ,Mujercita
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49556.mp4
-#EXTINF:-1 ,Shakira In Concert: El Dorado World Tour -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49581.mp4
-#EXTINF:-1 ,Parásitos
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49620.mp4
-#EXTINF:-1 ,Los Hermanos Willoughby
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49794.mp4
-#EXTINF:-1 ,Circus Of Books -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49883.mp4
 #EXTINF:-1 ,Aquí Estamos: Notas Para Vivir En El Planeta Tierra -
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49884.mp4
-#EXTINF:-1 ,Cuerdas -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/49892.mp4
-#EXTINF:-1 ,Extraction
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/50133.mp4
-#EXTINF:-1 ,Viking Blood -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/50134.mp4
 #EXTINF:-1 ,Mientras Estés Conmigo
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/50135.mp4
-#EXTINF:-1 ,Pullman -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/50236.mp4
-#EXTINF:-1 ,Wildlife : Une Saison Ardente -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/50241.mp4
-#EXTINF:-1 ,Dylda
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/50243.mp4
 #EXTINF:-1 ,La Vérité - Es
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/50244.mp4
-#EXTINF:-1 ,Los Anarquistas
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/50246.mp4
-#EXTINF:-1 ,¿pero Qué Te Hemos Hecho… Ahora?
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/50247.mp4
 #EXTINF:-1 ,El Acusado Y El Espía
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/50248.mp4
-#EXTINF:-1 ,Mi Madre Contra Todos
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/50249.mp4
-#EXTINF:-1 ,Ellas Mandan
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/50307.mp4
 #EXTINF:-1 ,Lego DC : Shazam! - Monstres Et Magie - Es
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/50308.mp4
-#EXTINF:-1 ,A Secret Love -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/50311.mp4
 #EXTINF:-1 ,Dangerous Lies
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/50312.mp4
-#EXTINF:-1 ,La Inocencia -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/50716.mp4
-#EXTINF:-1 ,Domino -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/50881.mp4
-#EXTINF:-1 ,Sword Of Trust -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/50882.mp4
 #EXTINF:-1 ,El Héroe Inesperado -
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51083.mp4
-#EXTINF:-1 ,La Otra Missy-
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51103.mp4
-#EXTINF:-1 ,Cats -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51117.mp4
-#EXTINF:-1 ,Cerca Del Horizonte-
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51118.mp4
-#EXTINF:-1 ,Cartas A Roxane / Edmond-
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51137.mp4
 #EXTINF:-1 ,Aquí Estamos: Notas Para Vivir En El Planeta Tierra-
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51138.mp4
-#EXTINF:-1 ,Chamboultout -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51139.mp4
 #EXTINF:-1 ,The Love Birds Es  -
 http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51140.mp4
-#EXTINF:-1 ,Salvar O Morir -
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/51203.mp4
 #EXTINF:-1 ,Prison Break ESP S01 Piloto
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37006.mp4
 #EXTINF:-1 ,Prison Break ESP S01 La llave allen
@@ -5263,10 +3581,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37008.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37009.mp4
 #EXTINF:-1 ,Prison Break ESP S01 La transferencia
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37010.mp4
-#EXTINF:-1 ,taladros y el demonio (Parte 1)
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37011.mp4
-#EXTINF:-1 ,taladros y el demonio (Parte 2)
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37012.mp4
 #EXTINF:-1 ,Prison Break ESP S01 La historia
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37013.mp4
 #EXTINF:-1 ,Prison Break ESP S01 El nuevo
@@ -5367,8 +3681,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37060.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37061.mp4
 #EXTINF:-1 ,Prison Break ESP S03 El trato
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37062.mp4
-#EXTINF:-1 ,el libro negro
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37065.mp4
 #EXTINF:-1 ,Prison Break ESP S04 La incursión
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37066.mp4
 #EXTINF:-1 ,Prison Break ESP S04 Operación cancelada
@@ -5515,18 +3827,10 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/19170.mkv
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/19171.mkv
 #EXTINF:-1 ,Arma Letal ESP S01 Arma.Letal S1 EP18
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/19172.mkv
-#EXTINF:-1 ,la cuna de la tecnología
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/24319.mp4
 #EXTINF:-1 ,una ciudad llena de contrastes
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/24320.mp4
-#EXTINF:-1 ,la ciudad de la eterna primavera
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/24321.mp4
 #EXTINF:-1 ,el escenario de los paseos de Sissi Emperatriz
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/24322.mp4
-#EXTINF:-1 ,Viajeros Cuatro S01 Épisode 5
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/24323.mp4
-#EXTINF:-1 ,Viajeros Cuatro S01 Épisode 6
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/24324.mp4
 #EXTINF:-1 ,El Cuento De La Criada ESP S02 June
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/33396.mp4
 #EXTINF:-1 ,El Cuento De La Criada ESP S02 No-mujeres
@@ -5579,8 +3883,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/49404.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/49405.mp4
 #EXTINF:-1 ,Stranger Things  ESP S01 Capítulo uno: La desaparición de Will Byers
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27077.mp4
-#EXTINF:-1 ,Jolly
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27078.mp4
 #EXTINF:-1 ,Stranger Things  ESP S01 Chapter Two: The Weirdo on Maple Street
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27083.mp4
 #EXTINF:-1 ,Stranger Things  ESP S01 Capítulo cuatro: El cadáver
@@ -5611,8 +3913,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/43051.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/43052.mp4
 #EXTINF:-1 ,Stranger Things  ESP S02 Capítulo nueve: El portal
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/43053.mp4
-#EXTINF:-1 ,tu me reçois ?
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/43460.mp4
 #EXTINF:-1 ,Stranger Things  ESP S03 Capítulo dos: Ratas de centro comercial
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/43461.mp4
 #EXTINF:-1 ,Stranger Things  ESP S03 Chapitre trois : La maître-nageuse disparue
@@ -5729,32 +4029,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27160.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27161.mp4
 #EXTINF:-1 ,Sense8 ESP S03 F3EP1
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27162.mp4
-#EXTINF:-1 ,cara A
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27196.mp4
-#EXTINF:-1 ,cara B
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27197.mp4
-#EXTINF:-1 ,cara A
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27198.mp4
-#EXTINF:-1 ,cara B
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27199.mp4
-#EXTINF:-1 ,cara A
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27200.mp4
-#EXTINF:-1 ,cara B
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27201.mp4
-#EXTINF:-1 ,cara A
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27202.mp4
-#EXTINF:-1 ,cara B
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27203.mp4
-#EXTINF:-1 ,cara A
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27204.mp4
-#EXTINF:-1 ,cara B
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27205.mp4
-#EXTINF:-1 ,cara A
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27206.mp4
-#EXTINF:-1 ,cara B
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27207.mp4
-#EXTINF:-1 ,cara A
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27208.mp4
 #EXTINF:-1 ,Por 13 Razones ESP S02 La primera foto
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27209.mp4
 #EXTINF:-1 ,Por 13 Razones ESP S02 Un beso entre dos chicas
@@ -5781,22 +4055,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27219.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27220.mp4
 #EXTINF:-1 ,Por 13 Razones ESP S02 Adiós
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27221.mp4
-#EXTINF:-1 ,Élite S01 Episodio 1
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28805.mp4
-#EXTINF:-1 ,Élite S01 Episodio 2
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28806.mp4
-#EXTINF:-1 ,Élite S01 Episodio 3
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28807.mp4
-#EXTINF:-1 ,Élite S01 Episodio 4
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28808.mp4
-#EXTINF:-1 ,Élite S01 Episodio 5
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28809.mp4
-#EXTINF:-1 ,Élite S01 Episodio 6
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28810.mp4
-#EXTINF:-1 ,Élite S01 Episodio 7
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28811.mp4
-#EXTINF:-1 ,Élite S01 Episodio 8
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28812.mp4
 #EXTINF:-1 ,Élite S02 Élite ESP - S02E01 - Disparu depuis 20 heures
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/45375.mp4
 #EXTINF:-1 ,Élite S02 Élite ESP - S02E02 - Disparu depuis 34 heures
@@ -5813,22 +4071,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/45380.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/45381.mp4
 #EXTINF:-1 ,Élite S02 Élite ESP - S02E08 - La disparition
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/45382.mp4
-#EXTINF:-1 ,Élite S03 Élite - S03E01 - Carla
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48528.mp4
-#EXTINF:-1 ,Élite S03 Élite - S03E02 - Samuel et Guzmán
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48529.mp4
-#EXTINF:-1 ,Élite S03 Élite - S03E03 - Cayetana et Valerio
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48530.mp4
-#EXTINF:-1 ,Élite S03 Élite - S03E04 - Lu
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48531.mp4
-#EXTINF:-1 ,Élite S03 Élite - S03E05 - Ander
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48532.mp4
-#EXTINF:-1 ,Élite S03 Élite - S03E06 - Rebeca
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48533.mp4
-#EXTINF:-1 ,Élite S03 Élite - S03E07 - Nadia et Omar
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48534.mp4
-#EXTINF:-1 ,Élite S03 Élite - S03E08 - Polo
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48535.mp4
 #EXTINF:-1 ,Fariña ESP S01 1981
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27222.mp4
 #EXTINF:-1 ,Fariña ESP S01 1982
@@ -5901,150 +4143,40 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/52632.mkv
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/52633.mkv
 #EXTINF:-1 ,Las Chicas Del Cable ESP S05 Chapitre 42 : Le dénouement
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/52634.mkv
-#EXTINF:-1 ,Juego De Tronos S01 Se acerca el invierno
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27284.mp4
-#EXTINF:-1 ,Juego De Tronos S01 La Route royale
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27294.mp4
-#EXTINF:-1 ,Juego De Tronos S01 Lord Snow
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27295.mp4
 #EXTINF:-1 ,Bâtards et Choses brisées
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27296.mp4
-#EXTINF:-1 ,Juego De Tronos S01 Le Loup et le Lion
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27297.mp4
-#EXTINF:-1 ,Juego De Tronos S01 Une couronne d’or
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27298.mp4
-#EXTINF:-1 ,Juego De Tronos S01 Vaincre ou mourir
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27299.mp4
 #EXTINF:-1 ,Juego De Tronos S01 Frapper d'estoc
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27300.mp4
-#EXTINF:-1 ,Juego De Tronos S01 Baelor
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27301.mp4
-#EXTINF:-1 ,Juego De Tronos S01 De feu et de sang
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27302.mp4
-#EXTINF:-1 ,Juego De Tronos S02 Le Nord se souvient
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27303.mp4
 #EXTINF:-1 ,Juego De Tronos S02 Les Contrées nocturnes
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27304.mp4
 #EXTINF:-1 ,Juego De Tronos S02 Ce qui est mort ne saurait mourir
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27305.mp4
-#EXTINF:-1 ,Juego De Tronos S02 La Cité de Qarth
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27306.mp4
-#EXTINF:-1 ,Juego De Tronos S02 Le Fantôme d'Harrenhal
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27307.mp4
 #EXTINF:-1 ,Juego De Tronos S02 Les Anciens et les Nouveaux Dieux
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27308.mp4
-#EXTINF:-1 ,Juego De Tronos S02 Un homme sans honneur
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27309.mp4
-#EXTINF:-1 ,Juego De Tronos S02 Le Prince de Winterfell
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27310.mp4
-#EXTINF:-1 ,Juego De Tronos S02 La Néra
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27311.mp4
-#EXTINF:-1 ,Juego De Tronos S02 Valar Morghulis
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27312.mp4
-#EXTINF:-1 ,Juego De Tronos S03 Valar Dohaeris
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27313.mp4
 #EXTINF:-1 ,Noires Nouvelles
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27314.mp4
 #EXTINF:-1 ,Juego De Tronos S03 Les Immaculés
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27315.mp4
 #EXTINF:-1 ,Juego De Tronos S03 Voici que son tour de garde est fini
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27316.mp4
-#EXTINF:-1 ,Juego De Tronos S03 Baisée par le feu
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27317.mp4
-#EXTINF:-1 ,Juego De Tronos S03 L'Ascension
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27318.mp4
-#EXTINF:-1 ,Juego De Tronos S03 El oso y la doncella
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27319.mp4
-#EXTINF:-1 ,Juego De Tronos S03 Las lluvias de Castamere
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27321.mp4
-#EXTINF:-1 ,Juego De Tronos S03 Mhysa
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27322.mp4
 #EXTINF:-1 ,Juego De Tronos S04 Dos espadas
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27323.mp4
-#EXTINF:-1 ,Juego De Tronos S04 El León y la Rosa
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27324.mp4
-#EXTINF:-1 ,Juego De Tronos S04 Rompedora de cadenas
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27325.mp4
-#EXTINF:-1 ,Juego De Tronos S04 Guardajuramentos
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27326.mp4
-#EXTINF:-1 ,Juego De Tronos S04 El primero de su nombre
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27327.mp4
 #EXTINF:-1 ,Juego De Tronos S04 Las Leyes de los Dioses y de los hombres
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27328.mp4
-#EXTINF:-1 ,Juego De Tronos S04 Sinsonte
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27329.mp4
-#EXTINF:-1 ,Juego De Tronos S04 La Montaña y La Serpiente
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27330.mp4
 #EXTINF:-1 ,Juego De Tronos S04 Los vigilantes del Muro
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27331.mp4
-#EXTINF:-1 ,Juego De Tronos S04 Los niños
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27332.mp4
 #EXTINF:-1 ,Juego De Tronos S05 Les Guerres à venir
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27334.mp4
-#EXTINF:-1 ,Juego De Tronos S05 La Demeure du noir et du blanc
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27335.mp4
-#EXTINF:-1 ,Juego De Tronos S05 Le Grand Moineau
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27336.mp4
 #EXTINF:-1 ,Juego De Tronos S05 Les Fils de la Harpie
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27337.mp4
-#EXTINF:-1 ,Juego De Tronos S05 Tue l'enfant
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27338.mp4
-#EXTINF:-1 ,Intacts
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27339.mp4
-#EXTINF:-1 ,Juego De Tronos S05 Le Cadeau
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27340.mp4
-#EXTINF:-1 ,Juego De Tronos S05 Durlieu
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27341.mp4
 #EXTINF:-1 ,Juego De Tronos S05 La Danse des dragons
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27342.mp4
-#EXTINF:-1 ,Juego De Tronos S05 La Miséricorde de la Mère
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27343.mp4
-#EXTINF:-1 ,Juego De Tronos S06 La Femme rouge
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27344.mp4
-#EXTINF:-1 ,Juego De Tronos S06 La Maison
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27345.mp4
-#EXTINF:-1 ,Juego De Tronos S06 Le Briseur de serments
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27346.mp4
-#EXTINF:-1 ,Juego De Tronos S06 Le Livre de l'Étranger
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27347.mp4
-#EXTINF:-1 ,Juego De Tronos S06 La Porte
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27348.mp4
-#EXTINF:-1 ,Juego De Tronos S06 De mon sang
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27349.mp4
-#EXTINF:-1 ,Juego De Tronos S06 L'Homme brisé
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27350.mp4
-#EXTINF:-1 ,Juego De Tronos S06 Personne
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27351.mp4
 #EXTINF:-1 ,Juego De Tronos S06 La Bataille des bâtards
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27352.mp4
 #EXTINF:-1 ,Juego De Tronos S06 Les Vents de l'hiver
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27353.mp4
-#EXTINF:-1 ,Juego De Tronos S07 Rocadragón
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27354.mp4
-#EXTINF:-1 ,Juego De Tronos S07 Bajo la tormenta
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27355.mp4
-#EXTINF:-1 ,Juego De Tronos S07 La justicia de la reina
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27356.mp4
 #EXTINF:-1 ,Juego De Tronos S07 Botines de guerra
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27357.mp4
-#EXTINF:-1 ,Juego De Tronos S07 Guardaoriente
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27358.mp4
-#EXTINF:-1 ,Juego De Tronos S07 De l'autre côté du mur
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/29486.mp4
-#EXTINF:-1 ,Juego De Tronos S07 Le dragon et le loup
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/29487.mp4
-#EXTINF:-1 ,Juego De Tronos S08 Invernalia
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/40117.mp4
-#EXTINF:-1 ,Juego De Tronos S08 Caballero de los Siete Reinos
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/40227.mp4
-#EXTINF:-1 ,Juego De Tronos S08 La larga noche
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/40226.mp4
-#EXTINF:-1 ,Juego De Tronos S08 Los últimos Starks
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/42100.mp4
-#EXTINF:-1 ,Juego De Tronos S08 Las campanas
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/42122.mp4
-#EXTINF:-1 ,Juego De Tronos S08 El Trono de Hierro
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/42124.mp4
 #EXTINF:-1 ,Into The Badlands ESP S01 El fuerte
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27359.mp4
 #EXTINF:-1 ,Into The Badlands ESP S01 Puño como una bala
@@ -6067,14 +4199,10 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27368.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27369.mp4
 #EXTINF:-1 ,Into The Badlands ESP S02 El leopardo acecha en la nieve
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27370.mp4
-#EXTINF:-1 ,montaña blanca
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27371.mp4
 #EXTINF:-1 ,Into The Badlands ESP S02 La picadura de la cola de escorpión
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27372.mp4
 #EXTINF:-1 ,Into The Badlands ESP S02 La mariposa golpea a la grulla
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27373.mp4
-#EXTINF:-1 ,el fuego del dragón
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27374.mp4
 #EXTINF:-1 ,Mayans M C  ESP S01 Perro/Oc
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27620.mp4
 #EXTINF:-1 ,Mayans M C  ESP S01 Escorpión/Dzec
@@ -6119,8 +4247,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27535.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27536.mp4
 #EXTINF:-1 ,The Walking Dead ESP S02 A 30 kilómetros
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27537.mp4
-#EXTINF:-1 ,verdugo
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27538.mp4
 #EXTINF:-1 ,The Walking Dead ESP S02 El mejor ángel
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27539.mp4
 #EXTINF:-1 ,The Walking Dead ESP S02 Al lado del fuego que muere
@@ -6221,8 +4347,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27586.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27587.mp4
 #EXTINF:-1 ,The Walking Dead ESP S05 Conquista
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27588.mp4
-#EXTINF:-1 ,otra vez
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27589.mp4
 #EXTINF:-1 ,The Walking Dead ESP S06 SCS (JSS)
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27590.mp4
 #EXTINF:-1 ,The Walking Dead ESP S06 Gracias
@@ -6293,8 +4417,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27628.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27629.mp4
 #EXTINF:-1 ,The Walking Dead ESP S08 El gran y aterrador tú
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27630.mp4
-#EXTINF:-1 ,la viuda y Rick
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27631.mp4
 #EXTINF:-1 ,The Walking Dead ESP S08 Llegó la hora
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27632.mp4
 #EXTINF:-1 ,The Walking Dead ESP S08 Lo que hay que hacer
@@ -6341,8 +4463,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37496.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27688.mp4
 #EXTINF:-1 ,Vis A Vis ESP S01 Cosiendo a Campanilla
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27689.mp4
-#EXTINF:-1 ,conviene
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27690.mp4
 #EXTINF:-1 ,Vis A Vis ESP S01 Un día de campo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27691.mp4
 #EXTINF:-1 ,Vis A Vis ESP S01 La cruda realidad
@@ -6353,16 +4473,10 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27693.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27694.mp4
 #EXTINF:-1 ,Vis A Vis ESP S01 Pretty Woman
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27695.mp4
-#EXTINF:-1 ,negrata
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27696.mp4
 #EXTINF:-1 ,Vis A Vis ESP S01 Gato gris
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27697.mp4
 #EXTINF:-1 ,Vis A Vis ESP S01 El principio de las tortugas
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27698.mp4
-#EXTINF:-1 ,dos pistolas
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27700.mp4
-#EXTINF:-1 ,dulce hogar
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27701.mp4
 #EXTINF:-1 ,Vis A Vis ESP S02 La gallinita
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27702.mp4
 #EXTINF:-1 ,Vis A Vis ESP S02 La teoría de Darwin
@@ -6533,8 +4647,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27911.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27914.mp4
 #EXTINF:-1 ,La Casa De Papel Esp S02  48 metros bajo el suelo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27916.mp4
-#EXTINF:-1 ,ciao
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27918.mp4
 #EXTINF:-1 ,La Casa De Papel Esp S02 Las cajas rojas
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/27920.mp4
 #EXTINF:-1 ,La Casa De Papel Esp S02  Todo pareció insignificante
@@ -6545,8 +4657,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48548.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48552.mp4
 #EXTINF:-1 ,La Casa De Papel Esp S03 La Casa De Papel ESP - S03E03 - 48 mètres sous terre
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48553.mp4
-#EXTINF:-1 ,ciao
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48574.mp4
 #EXTINF:-1 ,La Casa De Papel Esp S03 La Casa De Papel ESP - S03E05 - Les boîtes rouges
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48570.mp4
 #EXTINF:-1 ,La Casa De Papel Esp S03 La Casa De Papel ESP - S03E06 - Plus rien n'avait d'importance
@@ -6595,12 +4705,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/33107.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28117.avi
 #EXTINF:-1 ,una exclusiva y un escándalo inmobiliario
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28118.avi
-#EXTINF:-1 ,gatillazos y un percance en la piscina
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28119.avi
-#EXTINF:-1 ,un strip-tease y una visita al moroso
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28120.avi
-#EXTINF:-1 ,papiloma y una separación conflictiva
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28121.avi
 #EXTINF:-1 ,detenciones y un matrimonio de conveniencia
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28122.avi
 #EXTINF:-1 ,Los Serrano ESP S01 Ya s'han casao
@@ -6625,12 +4729,8 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28131.avi
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28132.avi
 #EXTINF:-1 ,Los Serrano ESP S01 Una noche en Mogambo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28133.avi
-#EXTINF:-1 ,Tonny y Marky
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28134.avi
 #EXTINF:-1 ,Los Serrano ESP S01 La guerra de los Martinez
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28135.avi
-#EXTINF:-1 ,tío Francisco
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28344.avi
 #EXTINF:-1 ,Los Serrano ESP S02 Enhorabuena por el programa
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28345.avi
 #EXTINF:-1 ,Los Serrano ESP S02 El quinto sentido
@@ -6719,8 +4819,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28409.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28410.mp4
 #EXTINF:-1 ,Cuéntame Cómo Pasó ESP S01 Pretérito imperfecto
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28411.mp4
-#EXTINF:-1 ,terremoto
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28412.mp4
 #EXTINF:-1 ,Cuéntame Cómo Pasó ESP S01 Cada cual en su sitio
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28413.mp4
 #EXTINF:-1 ,Cuéntame Cómo Pasó ESP S01 Fish and Chips
@@ -6745,8 +4843,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28422.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28423.mp4
 #EXTINF:-1 ,Cuéntame Cómo Pasó ESP S01 La primavera de la matriarca
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28424.mp4
-#EXTINF:-1 ,pelos y celos
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28425.mp4
 #EXTINF:-1 ,Cuéntame Cómo Pasó ESP S01 La guerra del fin del mundo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28426.mp4
 #EXTINF:-1 ,Cuéntame Cómo Pasó ESP S01 Qué luna la de aquel día
@@ -6785,16 +4881,12 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28625.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28626.mp4
 #EXTINF:-1 ,Cuéntame Cómo Pasó ESP S03 A las puertas del edén
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28627.mp4
-#EXTINF:-1 ,¡Oh la la!
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28628.mp4
 #EXTINF:-1 ,Cuéntame Cómo Pasó ESP S03 Arde París
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28629.mp4
 #EXTINF:-1 ,Cuéntame Cómo Pasó ESP S03 La larga noche del maletín
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28630.mp4
 #EXTINF:-1 ,Cuéntame Cómo Pasó ESP S03 Área de castigo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28973.mp4
-#EXTINF:-1 ,no quiero
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28974.mp4
 #EXTINF:-1 ,Cuéntame Cómo Pasó ESP S03 Crónicas de un pueblo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28975.mp4
 #EXTINF:-1 ,Cuéntame Cómo Pasó ESP S03 Muerte natural
@@ -6889,14 +4981,10 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28603.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28604.mp4
 #EXTINF:-1 ,Cuéntame Cómo Pasó ESP S14 Las malas lenguas
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28605.mp4
-#EXTINF:-1 ,yo a San Genaro
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28606.mp4
 #EXTINF:-1 ,Cuéntame Cómo Pasó ESP S14 La tentación está arriba
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28607.mp4
 #EXTINF:-1 ,Cuéntame Cómo Pasó ESP S14 Un regalo para Karina
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28608.mp4
-#EXTINF:-1 ,la amistad sale por la ventana
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28609.mp4
 #EXTINF:-1 ,Cuéntame Cómo Pasó ESP S14 No hay cuento de Navidad
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28610.mp4
 #EXTINF:-1 ,Cuéntame Cómo Pasó ESP S14 Pollito
@@ -7199,8 +5287,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28445.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28473.mp4
 #EXTINF:-1 ,Academia De Baile Gloria( Lina Morgan ) ESP S01 capitulo 2: Feliz cumpleaños
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28474.mp4
-#EXTINF:-1 ,sino todo lo contrario
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28475.mp4
 #EXTINF:-1 ,Academia De Baile Gloria( Lina Morgan ) ESP S01 capitulo 4: Mentiras piadosas
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28476.mp4
 #EXTINF:-1 ,Academia De Baile Gloria( Lina Morgan ) ESP S01 capitulo 5: Que cada palo aguante su vela
@@ -7215,8 +5301,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28480.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28481.mp4
 #EXTINF:-1 ,Academia De Baile Gloria( Lina Morgan ) ESP S01 capitulo 10: Quemando etapas
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28482.mp4
-#EXTINF:-1 ,pero difícil
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28483.mp4
 #EXTINF:-1 ,Academia De Baile Gloria( Lina Morgan ) ESP S01 capitulo 12: Contacto explosivo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28484.mp4
 #EXTINF:-1 ,Academia De Baile Gloria( Lina Morgan ) ESP S01 capitulo 13: Reunión familiar
@@ -7255,8 +5339,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28508.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28509.mp4
 #EXTINF:-1 ,Hostal Royal Manzanares ESP S01 Capítulo 13: Sin saber donde
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28510.mp4
-#EXTINF:-1 ,un medico
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28511.mp4
 #EXTINF:-1 ,Hostal Royal Manzanares ESP S01 Capítulo 15: Cuestion de flechazo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28512.mp4
 #EXTINF:-1 ,Hostal Royal Manzanares ESP S01 Capítulo 16: Noche de brujas
@@ -7275,8 +5357,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28518.avi
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28532.avi
 #EXTINF:-1 ,7 Vidas ESP S01 David cumple
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28533.avi
-#EXTINF:-1 ,viruelas
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28534.avi
 #EXTINF:-1 ,7 Vidas ESP S01 Indipaco Jones contra el Esteban maldito
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28535.avi
 #EXTINF:-1 ,7 Vidas ESP S01 Acorralados
@@ -7309,8 +5389,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28559.avi
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28560.avi
 #EXTINF:-1 ,7 Vidas ESP S02 Escena de la lucha de sexos en La Latina
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28561.avi
-#EXTINF:-1 ,el invencible
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28562.avi
 #EXTINF:-1 ,orgullo y otras bajas pasiones
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28563.avi
 #EXTINF:-1 ,7 Vidas ESP S03 Esto no es lo que parece... ¿o si?
@@ -7331,8 +5409,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28570.avi
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28571.avi
 #EXTINF:-1 ,7 Vidas ESP S03 Ricardo "Corazón de León"
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28572.avi
-#EXTINF:-1 ,viendo piedras
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28573.avi
 #EXTINF:-1 ,7 Vidas ESP S03 La muchacha de las bragas de oro
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28574.avi
 #EXTINF:-1 ,7 Vidas ESP S03 Cuando Paco encontró a Sole
@@ -7341,8 +5417,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28575.avi
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28576.avi
 #EXTINF:-1 ,7 Vidas ESP S03 To'er mundo al suelo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28577.avi
-#EXTINF:-1 ,el octavo pasajero
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28578.avi
 #EXTINF:-1 ,7 Vidas ESP S04 Nunca hables con extraños
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28579.avi
 #EXTINF:-1 ,7 Vidas ESP S04 Evasión o victoria
@@ -7355,16 +5429,12 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28582.avi
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28583.avi
 #EXTINF:-1 ,7 Vidas ESP S04 Las apariencias engañan y el algodón también
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28584.avi
-#EXTINF:-1 ,Ginés
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28585.avi
 #EXTINF:-1 ,7 Vidas ESP S04 Vacaciones en el bar
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28586.avi
 #EXTINF:-1 ,7 Vidas ESP S04 Dirty Paco contra el imperio del crimen
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28587.avi
 #EXTINF:-1 ,7 Vidas ESP S04 ¿Cuánto te acuestas?
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28588.avi
-#EXTINF:-1 ,hombre tonto
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28589.avi
 #EXTINF:-1 ,7 Vidas ESP S04 Yo quiero tener un millón de amigos
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28590.avi
 #EXTINF:-1 ,7 Vidas ESP S04 La decisión de sofá (Por reales... glups)
@@ -7383,8 +5453,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28523.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28524.mp4
 #EXTINF:-1 ,Ana Y Los 7 ESP S01 Imposibol
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28525.mp4
-#EXTINF:-1 ,querido Bruno
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28526.mp4
 #EXTINF:-1 ,Ana Y Los 7 ESP S01 La gran ocasión de Ana
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28527.mp4
 #EXTINF:-1 ,Ana Y Los 7 ESP S01 Banquero al whisky
@@ -7463,14 +5531,10 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28923.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28924.mp4
 #EXTINF:-1 ,La Verdad ESP S01 Secretos de familia
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28925.mp4
-#EXTINF:-1 ,corre
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28926.mp4
 #EXTINF:-1 ,La Verdad ESP S01 Jugar con fuego
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28927.mp4
 #EXTINF:-1 ,La Verdad ESP S01 Líneas rojas
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28928.mp4
-#EXTINF:-1 ,Chula
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28929.mp4
 #EXTINF:-1 ,La Verdad ESP S01 Episodio 9
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32616.mp4
 #EXTINF:-1 ,La Verdad ESP S01 Episodio 10
@@ -7483,8 +5547,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32621.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32622.mp4
 #EXTINF:-1 ,Curro Jiménez ESP S01 El barquero de Cantillan
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28931.mp4
-#EXTINF:-1 ,un fraile y un algarrobo
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28938.mp4
 #EXTINF:-1 ,Curro Jiménez ESP S01 20.000 onzas mexicanas
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/28933.mp4
 #EXTINF:-1 ,Curro Jiménez ESP S01 Aquí durmió Carlos III
@@ -7665,14 +5727,10 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/29542.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/29543.mp4
 #EXTINF:-1 ,Narcos ESP S02 Nuestro hombre en Madrid
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/29544.mp4
-#EXTINF:-1 ,el malo y el muerto
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/29545.mp4
 #EXTINF:-1 ,Narcos ESP S02 Los enemigos de mi enemigo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/29546.mp4
 #EXTINF:-1 ,Narcos ESP S02 Los Pepes
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/29547.mp4
-#EXTINF:-1 ,1993
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/29548.mp4
 #EXTINF:-1 ,Narcos ESP S02 El patrón se va
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/29549.mp4
 #EXTINF:-1 ,Narcos ESP S02 Nuestra finca
@@ -7875,8 +5933,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/29694.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/29695.mp4
 #EXTINF:-1 ,Outlander ESP S01 La redención del alma de un hombre
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/29696.mp4
-#EXTINF:-1 ,a oscuras
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/29722.mp4
 #EXTINF:-1 ,Outlander ESP S02 No más en Escocia
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/29723.mp4
 #EXTINF:-1 ,Outlander ESP S02 Actividades útiles y engaños
@@ -8047,8 +6103,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/29831.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/29832.mp4
 #EXTINF:-1 ,Legacies  ESP S01 Algunas personas solo quieren ver el mundo quemarse
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/29833.mp4
-#EXTINF:-1 ,Pedro
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/33764.mp4
 #EXTINF:-1 ,Legacies  ESP S01 Hope no es el objetivo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/33765.mp4
 #EXTINF:-1 ,Legacies  ESP S01 Malivore
@@ -8299,8 +6353,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/29999.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30000.mp4
 #EXTINF:-1 ,Velvet ESP S02 ¿Quién da más?
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30001.mp4
-#EXTINF:-1 ,New York
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30002.mp4
 #EXTINF:-1 ,Velvet ESP S02 Por los aires
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30003.mp4
 #EXTINF:-1 ,Velvet ESP S02 Navidades blancas
@@ -8375,8 +6427,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30037.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30038.mp4
 #EXTINF:-1 ,Narcos: México ESP S01 El Padrino
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30661.mp4
-#EXTINF:-1 ,Rafa!
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30662.mp4
 #EXTINF:-1 ,Narcos: México ESP S01 La conexión colombiana
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30664.mp4
 #EXTINF:-1 ,Narcos: México ESP S01 La Última Frontera
@@ -8427,8 +6477,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30051.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30052.mp4
 #EXTINF:-1 ,Virtual Hero: La Serie ESP S01 Un artefacto misterioso
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30053.mp4
-#EXTINF:-1 ,monstruo de campo
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30054.mp4
 #EXTINF:-1 ,Virtual Hero: La Serie ESP S01 Cosas grandes y cuadradas
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30055.mp4
 #EXTINF:-1 ,Virtual Hero: La Serie ESP S01 La hora del té
@@ -8447,8 +6495,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30061.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30062.mp4
 #EXTINF:-1 ,Riverdale ESP S01 Capítulo cinco: Corazón oscuro
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30063.mp4
-#EXTINF:-1 ,Pussycats!
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30064.mp4
 #EXTINF:-1 ,Riverdale ESP S01 Capítulo siete: En un lugar solitario
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30065.mp4
 #EXTINF:-1 ,Riverdale ESP S01 Capitulo ocho: Los marginados
@@ -8479,8 +6525,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30077.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30078.mp4
 #EXTINF:-1 ,Riverdale ESP S02 Capítulo veintiuno: La casa del diablo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30079.mp4
-#EXTINF:-1 ,noche de muerte
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30080.mp4
 #EXTINF:-1 ,Riverdale ESP S02 Capítulo veintitrés: Semilla de maldad
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30081.mp4
 #EXTINF:-1 ,Riverdale ESP S02 Capítulo veinticuatro: El luchador
@@ -8869,8 +6913,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30339.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30340.mp4
 #EXTINF:-1 ,Mi Casa Es La Vuestra ESP S01 Reencuentro 'marciano' en casa de Bertín
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30341.mp4
-#EXTINF:-1 ,el artista que emocionó a Bertín
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30342.mp4
 #EXTINF:-1 ,Mi Casa Es La Vuestra ESP S01 Antonia Dell’Atte Y Clemente Lequio
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30343.mp4
 #EXTINF:-1 ,¿Te Lo Vas A Comer? ESP S01 La comida de nuestros mayores
@@ -8921,8 +6963,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30368.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30369.mp4
 #EXTINF:-1 ,Las Nuevas Leyendas De Mono ESP S01 Episodio 10
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30370.mp4
-#EXTINF:-1 ,América
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30381.mp4
 #EXTINF:-1 ,Patriota ESP S01 C-19
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/30382.mp4
 #EXTINF:-1 ,Patriota ESP S01 Un hombre McMillan
@@ -9329,10 +7369,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31509.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31510.mp4
 #EXTINF:-1 ,Avatar: La Leyenda De Aang  ESP S01 El Maestro del Agua
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31511.mp4
-#EXTINF:-1 ,Primera Parte
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31512.mp4
-#EXTINF:-1 ,Segunda Parte
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31513.mp4
 #EXTINF:-1 ,Avatar: La Leyenda De Aang  ESP S02 El Estado Avatar
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31514.mp4
 #EXTINF:-1 ,Avatar: La Leyenda De Aang  ESP S02 La Cueva de los Enamorados
@@ -9391,28 +7427,16 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31541.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31542.mp4
 #EXTINF:-1 ,Avatar: La Leyenda De Aang  ESP S03 Pesadillas y Fantasías
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31543.mp4
-#EXTINF:-1 ,Primera Parte: La Invasión
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31544.mp4
-#EXTINF:-1 ,Segunda Parte: El Eclipse
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31545.mp4
 #EXTINF:-1 ,Avatar: La Leyenda De Aang  ESP S03 El Templo del Aire del Oeste
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31546.mp4
 #EXTINF:-1 ,Avatar: La Leyenda De Aang  ESP S03 Los Maestros del Fuego Control
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31547.mp4
-#EXTINF:-1 ,Primera Parte
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31548.mp4
-#EXTINF:-1 ,Segunda Parte
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31549.mp4
 #EXTINF:-1 ,Avatar: La Leyenda De Aang  ESP S03 Los Invasores del Sur
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31550.mp4
 #EXTINF:-1 ,Avatar: La Leyenda De Aang  ESP S03 Los Actores de la Isla Ember
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31551.mp4
-#EXTINF:-1 ,Primera Parte: El Rey Fénix
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31552.mp4
 #EXTINF:-1 ,Segunda Parte: Los Viejos Maestros
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31553.mp4
-#EXTINF:-1 ,Tercera Parte: En el Infierno
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31554.mp4
 #EXTINF:-1 ,La Niebla  ESP S01 Piloto
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/31556.mp4
 #EXTINF:-1 ,La Niebla  ESP S01 El mono
@@ -9657,8 +7681,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32493.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32494.mp4
 #EXTINF:-1 ,La República  ESP S01 El animal interior
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32495.mp4
-#EXTINF:-1 ,Enemigos
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32496.mp4
 #EXTINF:-1 ,La República  ESP S01 Intento frustrado
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32497.mp4
 #EXTINF:-1 ,búsquedas y otras pequeñas salvaciones
@@ -9851,8 +7873,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32716.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32717.mp4
 #EXTINF:-1 ,Ozark  ESP S01 Caleidoscopio
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32718.mp4
-#EXTINF:-1 ,solo
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32719.mp4
 #EXTINF:-1 ,Ozark  ESP S01 Las campanadas
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32720.mp4
 #EXTINF:-1 ,Ozark  ESP S02 Arreglos
@@ -9967,8 +7987,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32815.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32816.mp4
 #EXTINF:-1 ,Mazinger Z  ESP S01 El niño travieso
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32817.mp4
-#EXTINF:-1 ,la mano de hierro
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32818.mp4
 #EXTINF:-1 ,Mazinger Z  ESP S01 El Cañón Galen y la Pólvora Magnum
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32819.mp4
 #EXTINF:-1 ,su nombre es Gohan
@@ -9981,18 +7999,12 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32847.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32848.mp4
 #EXTINF:-1 ,Dragon Ball Z  ESP S01 Enma-Sama se sorprende. Habrá que luchar en el otro mundo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32849.mp4
-#EXTINF:-1 ,el duro entrenamiento de Gohan
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32850.mp4
-#EXTINF:-1 ,el poder secreto de Gohan
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32851.mp4
 #EXTINF:-1 ,lagrimas que desaparecen en el desierto
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32852.mp4
 #EXTINF:-1 ,es la primera batalla
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32853.mp4
 #EXTINF:-1 ,el despertar de los Saiyajins
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32854.mp4
-#EXTINF:-1 ,Goku cae del camino de la serpiente
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32855.mp4
 #EXTINF:-1 ,Dragon Ball Z  ESP S01 ¡No toques eso! La fruta de Enma Daio Sama
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32856.mp4
 #EXTINF:-1 ,Dragon Ball Z  ESP S01 Una dulce tentación. La hospitalidad de la Princesa Serpiente
@@ -10167,8 +8179,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32940.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32941.mp4
 #EXTINF:-1 ,Shen Long cumple nuestro deseo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32942.mp4
-#EXTINF:-1 ,Gohan vuelve al campo de batalla
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32943.mp4
 #EXTINF:-1 ,Dragon Ball Z  ESP S03 El último deseo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32944.mp4
 #EXTINF:-1 ,Dragon Ball Z  ESP S03 La extraordinaria batalla
@@ -10221,8 +8231,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32987.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32988.mp4
 #EXTINF:-1 ,Dragon Ball Z  ESP S04 ¿Quienes son los androides
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32989.mp4
-#EXTINF:-1 ,#20
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32990.mp4
 #EXTINF:-1 ,Dragon Ball Z  ESP S04 Goku tiene dos problemas
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32991.mp4
 #EXTINF:-1 ,Dragon Ball Z  ESP S04 Vegeta se convierte en Super Saiyajin
@@ -10237,8 +8245,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32995.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32996.mp4
 #EXTINF:-1 ,Dragon Ball Z  ESP S04 El ejercito encargado de matar a Goku
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32997.mp4
-#EXTINF:-1 ,#18
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32998.mp4
 #EXTINF:-1 ,Dragon Ball Z  ESP S04 ¿Este será el fin de los Guerreros Z
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/32999.mp4
 #EXTINF:-1 ,Dragon Ball Z  ESP S04 La decisión de Piccolo
@@ -10475,8 +8481,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36958.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36959.mp4
 #EXTINF:-1 ,Homeland  ESP S07 Andante
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36960.mp4
-#EXTINF:-1 ,el puto Twitter
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36961.mp4
 #EXTINF:-1 ,Homeland  ESP S07 Idiota útil
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36962.mp4
 #EXTINF:-1 ,Homeland  ESP S07 Claridad
@@ -10651,8 +8655,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/33940.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/33941.mp4
 #EXTINF:-1 ,Suburra  ESP S01 Suburra-La loba
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/33942.mp4
-#EXTINF:-1 ,aceite y guindilla
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/33943.mp4
 #EXTINF:-1 ,Suburra  ESP S01 Suburra-Último cliente
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/33944.mp4
 #EXTINF:-1 ,Suburra  ESP S01 Suburra-Otro
@@ -10835,8 +8837,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/34248.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/34249.mp4
 #EXTINF:-1 ,Gotham  ESP S02 Siempre va a acabar mal
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/34250.mp4
-#EXTINF:-1 ,Toc
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/34251.mp4
 #EXTINF:-1 ,Gotham  ESP S02 La última risa
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/34252.mp4
 #EXTINF:-1 ,Gotham  ESP S02 Fuerzas de ataque
@@ -10991,8 +8991,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/34797.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/34798.mp4
 #EXTINF:-1 ,The Resident  ESP S01 Goseros despertares y aves rapaces
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/34799.mp4
-#EXTINF:-1 ,corre
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/34800.mp4
 #EXTINF:-1 ,The Resident  ESP S01 Eclipse total del corazón
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/34801.mp4
 #EXTINF:-1 ,The Resident  ESP S02 Épisode 1
@@ -11029,8 +9027,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37269.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/34862.mp4
 #EXTINF:-1 ,Los Soprano  ESP S01 46 Largo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/34863.mp4
-#EXTINF:-1 ,enfado y aceptación
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/34864.mp4
 #EXTINF:-1 ,Los Soprano  ESP S01 Meadowlands
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/34865.mp4
 #EXTINF:-1 ,Los Soprano  ESP S01 Universidad
@@ -11079,8 +9075,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/34886.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/34887.mp4
 #EXTINF:-1 ,Los Soprano  ESP S03 El barrio del Señor Ruggerio
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/34890.mkv
-#EXTINF:-1 ,pequeña Livia
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/34891.mkv
 #EXTINF:-1 ,Los Soprano  ESP S03 Un hijo afortunado
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/34892.mkv
 #EXTINF:-1 ,Los Soprano  ESP S03 El empleado del mes
@@ -11713,8 +9707,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/35714.avi
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/35715.avi
 #EXTINF:-1 ,Billions  ESP S03 El tercer escribano
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/35716.avi
-#EXTINF:-1 ,Sr. Dake
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/35717.avi
 #EXTINF:-1 ,Billions  ESP S03 Todos los Wilbury
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/35718.avi
 #EXTINF:-1 ,Billions  ESP S03 Rompehielos
@@ -11911,8 +9903,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36033.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36034.mp4
 #EXTINF:-1 ,Stan Lee's Lucky Man  ESP S01 Más yang que ying
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36146.mp4
-#EXTINF:-1 ,otras se pierde
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36171.mp4
 #EXTINF:-1 ,Stan Lee's Lucky Man  ESP S01 Mal de ojo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36172.mp4
 #EXTINF:-1 ,Stan Lee's Lucky Man  ESP S01 Un poder superior
@@ -12589,8 +10579,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36806.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36807.mp4
 #EXTINF:-1 ,The Umbrella Academy  ESP S01 Solo nos vemos en bodas y funerales
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36861.mp4
-#EXTINF:-1 ,corre
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36862.mp4
 #EXTINF:-1 ,The Umbrella Academy  ESP S01 Extra ordinaria
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36863.mp4
 #EXTINF:-1 ,The Umbrella Academy  ESP S01 Hombre en la Luna
@@ -12607,10 +10595,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36868.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36869.mp4
 #EXTINF:-1 ,The Umbrella Academy  ESP S01 El violín blanco
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36870.mp4
-#EXTINF:-1 ,Augustine: The Decline Of The Roman Empire S01 Episodio 1
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36871.mp4
-#EXTINF:-1 ,Augustine: The Decline Of The Roman Empire S01 Episodio 2
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36872.mp4
 #EXTINF:-1 ,Le Prince Des Dragons S01 Ecos de Trueno
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36873.mp4
 #EXTINF:-1 ,Le Prince Des Dragons S01 No hay vuelta atrás
@@ -12647,32 +10631,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36888.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36889.mp4
 #EXTINF:-1 ,Le Prince Des Dragons S02 Episodio 9
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/36890.mp4
-#EXTINF:-1 ,Homecoming S01 Episodio 1
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37132.mp4
-#EXTINF:-1 ,Homecoming S01 Episodio 2
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37133.mp4
-#EXTINF:-1 ,Homecoming S01 Episodio 3
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37134.mp4
-#EXTINF:-1 ,Homecoming S01 Episodio 4
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37135.mp4
-#EXTINF:-1 ,Homecoming S01 Episodio 5
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37136.mp4
-#EXTINF:-1 ,Homecoming S01 Episodio 6
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37137.mp4
-#EXTINF:-1 ,Homecoming S01 Episodio 7
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37138.mp4
-#EXTINF:-1 ,Homecoming S01 Episodio 8
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37139.mp4
-#EXTINF:-1 ,Homecoming S01 Episodio 9
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37140.mp4
-#EXTINF:-1 ,Homecoming S01 Episodio 10
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37141.mp4
-#EXTINF:-1 ,Homecoming S01 Travail
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37164.mp4
-#EXTINF:-1 ,Homecoming S01 Travail
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37183.mp4
-#EXTINF:-1 ,Homecoming S01 Arrêter
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37184.mp4
 #EXTINF:-1 ,Black Mirror ESP S01 El himno nacional
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37142.mp4
 #EXTINF:-1 ,Black Mirror ESP S01 15 millones de méritos
@@ -12801,190 +10759,32 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37469.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37507.mp4
 #EXTINF:-1 ,Sühan: Vengaza Y Amor  ESP S01 Episodio 24
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37508.mp4
-#EXTINF:-1 ,Pequeñas Coincidencias S01 Por los pelos
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37280.mp4
 #EXTINF:-1 ,Pequeñas Coincidencias S01 Amores perrunos
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37281.mp4
-#EXTINF:-1 ,Pequeñas Coincidencias S01 Amigos hasta la muerte
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37282.mp4
-#EXTINF:-1 ,Pequeñas Coincidencias S01 Noche de San Juan
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37283.mp4
-#EXTINF:-1 ,Pequeñas Coincidencias S01 Dejarse llevar
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37284.mp4
-#EXTINF:-1 ,Pequeñas Coincidencias S01 Dime que me quede
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37285.mp4
 #EXTINF:-1 ,Pequeñas Coincidencias S01 Asuntos pendientes
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37286.mp4
 #EXTINF:-1 ,Pequeñas Coincidencias S01 El des-enlace
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37288.mp4
 #EXTINF:-1 ,Heridas Abiertas S01 Desvanecer
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37290.mp4
-#EXTINF:-1 ,Heridas Abiertas S01 Suciedad
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37291.mp4
-#EXTINF:-1 ,Heridas Abiertas S01 Arreglar
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37292.mp4
-#EXTINF:-1 ,Heridas Abiertas S01 Gloria
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37293.mp4
-#EXTINF:-1 ,Heridas Abiertas S01 Intimar
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37294.mp4
-#EXTINF:-1 ,Heridas Abiertas S01 Virgen
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37295.mp4
-#EXTINF:-1 ,Heridas Abiertas S01 Enamorarse
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37296.mp4
-#EXTINF:-1 ,Heridas Abiertas S01 Leche
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37297.mp4
-#EXTINF:-1 ,Das Boot S01 Episodio 1
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37346.mp4
-#EXTINF:-1 ,Das Boot S01 Episodio 2
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37806.mp4
-#EXTINF:-1 ,Das Boot S01 Episodio 3
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37992.mp4
-#EXTINF:-1 ,Snatch S01 Episodio 1
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37355.mp4
-#EXTINF:-1 ,Snatch S01 Episodio 2
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37356.mp4
-#EXTINF:-1 ,Snatch S01 Episodio 3
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37357.mp4
-#EXTINF:-1 ,Snatch S01 Episodio 4
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37358.mp4
-#EXTINF:-1 ,Snatch S01 Episodio 5
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37359.mp4
-#EXTINF:-1 ,Snatch S01 Episodio 6
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37360.mp4
-#EXTINF:-1 ,Snatch S01 Episodio 7
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37361.mp4
-#EXTINF:-1 ,Snatch S01 Episodio 8
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37362.mp4
-#EXTINF:-1 ,Snatch S01 Episodio 9
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37363.mp4
-#EXTINF:-1 ,Snatch S01 Episodio 10
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37364.mp4
-#EXTINF:-1 ,The Orville S01 Viejas heridas
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37384.mp4
-#EXTINF:-1 ,The Orville S01 Actuación de mandato
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37385.mp4
-#EXTINF:-1 ,The Orville S01 La chica
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37386.mp4
 #EXTINF:-1 ,The Orville S01 Si las estrellas aparecieran
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37387.mp4
-#EXTINF:-1 ,The Orville S01 Pria
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37388.mp4
-#EXTINF:-1 ,The Orville S01 Krill
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37389.mp4
-#EXTINF:-1 ,The Orville S01 La regla de la mayoría
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37390.mp4
-#EXTINF:-1 ,The Orville S01 En el pliegue
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37391.mp4
-#EXTINF:-1 ,The Orville S01 Las dagas de cupido
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37392.mp4
-#EXTINF:-1 ,The Orville S01 Tormenta de fuego
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37393.mp4
 #EXTINF:-1 ,The Orville S01 Nuevas dimensiones
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37394.mp4
-#EXTINF:-1 ,The Orville S01 Loca idolatría
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37395.mp4
-#EXTINF:-1 ,The Orville S02 Épisode 1
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37396.mp4
-#EXTINF:-1 ,The Orville S02 Instintos básicos
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37397.mp4
-#EXTINF:-1 ,The Orville S02 Hogar
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37398.mp4
 #EXTINF:-1 ,The Orville S02 Lo único que quedará en la tierra serán los peces
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37399.mp4
 #EXTINF:-1 ,The Orville S02 Todo el mundo es una tarta de cumpleaños
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37400.mp4
-#EXTINF:-1 ,The Orville S02 Un feliz abstenerse
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37401.mp4
-#EXTINF:-1 ,Van Helsing S01 Ayúdenme
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37430.mp4
 #EXTINF:-1 ,Van Helsing S01 ¿Te he visto antes?
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37431.mp4
-#EXTINF:-1 ,Van Helsing S01 Quedarse a cubierto
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37432.mp4
-#EXTINF:-1 ,Van Helsing S01 Volver
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37433.mp4
-#EXTINF:-1 ,Van Helsing S01 Le tienen miedo
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37434.mp4
 #EXTINF:-1 ,Van Helsing S01 Nada es importante
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37435.mp4
-#EXTINF:-1 ,Van Helsing S01 Por mí
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37436.mp4
-#EXTINF:-1 ,Van Helsing S01 Muy pequeñita
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37437.mp4
-#EXTINF:-1 ,Van Helsing S01 Ayudar
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37438.mp4
-#EXTINF:-1 ,Van Helsing S01 Mantenerse lejos
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37439.mp4
-#EXTINF:-1 ,Van Helsing S01 La última vez
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37440.mp4
-#EXTINF:-1 ,Van Helsing S01 Ya viene
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37441.mp4
-#EXTINF:-1 ,Van Helsing S01 Cómo empieza
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37442.mp4
-#EXTINF:-1 ,Van Helsing S02 Empezó otra vez
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37443.mp4
-#EXTINF:-1 ,Van Helsing S02 Redención
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37444.mp4
-#EXTINF:-1 ,Van Helsing S02 El amor muerde
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37445.mp4
-#EXTINF:-1 ,Van Helsing S02 Un hogar
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37446.mp4
-#EXTINF:-1 ,Van Helsing S02 Sálvate
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37447.mp4
-#EXTINF:-1 ,Van Helsing S02 Veritas vincit
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37448.mp4
-#EXTINF:-1 ,Van Helsing S02 Todo cambia
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37449.mp4
-#EXTINF:-1 ,Van Helsing S02 Big mama
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37450.mp4
 #EXTINF:-1 ,Van Helsing S02 A despertar
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37451.mp4
 #EXTINF:-1 ,Van Helsing S02 Par de bases
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37452.mp4
-#EXTINF:-1 ,Van Helsing S02 No mientas
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37453.mp4
-#EXTINF:-1 ,Van Helsing S02 Cascadas crooked
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37454.mp4
-#EXTINF:-1 ,Van Helsing S02 Días negros
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37455.mp4
 #EXTINF:-1 ,Van Helsing S03 Fresh Tendrils
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37456.mp4
-#EXTINF:-1 ,Van Helsing S03 Super Unknown
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37457.mp4
-#EXTINF:-1 ,Van Helsing S03 I Alive
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37458.mp4
-#EXTINF:-1 ,Van Helsing S03 Rusty Cage
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37459.mp4
-#EXTINF:-1 ,Van Helsing S03 Pretty Noose
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37460.mp4
-#EXTINF:-1 ,Van Helsing S03 Like Suicide
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37461.mp4
-#EXTINF:-1 ,Van Helsing S03 Hunted Down
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37462.mp4
-#EXTINF:-1 ,Van Helsing S03 Crooked Steps
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37463.mp4
-#EXTINF:-1 ,Van Helsing S03 Loud Love
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37464.mp4
-#EXTINF:-1 ,Van Helsing S03 Outside World
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37465.mp4
-#EXTINF:-1 ,Van Helsing S03 Been Away
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37466.mp4
-#EXTINF:-1 ,Van Helsing S03 Christ Pose
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37467.mp4
-#EXTINF:-1 ,Van Helsing S03 Birth Ritual
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37468.mp4
-#EXTINF:-1 ,La Vida De Gortimer Gibbon En Normal Street S01 Episodio 1
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37470.mp4
-#EXTINF:-1 ,La Vida De Gortimer Gibbon En Normal Street S01 Episodio 2
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37471.mp4
-#EXTINF:-1 ,La Vida De Gortimer Gibbon En Normal Street S01 Episodio 3
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37472.mp4
-#EXTINF:-1 ,La Vida De Gortimer Gibbon En Normal Street S01 Episodio 4
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37473.mp4
-#EXTINF:-1 ,La Vida De Gortimer Gibbon En Normal Street S01 Episodio 5
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37474.mp4
-#EXTINF:-1 ,La Vida De Gortimer Gibbon En Normal Street S01 Episodio 6
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37475.mp4
 #EXTINF:-1 ,Antes De Perder  ESP S01 Episodio 1
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/37995.mp4
 #EXTINF:-1 ,Antes De Perder  ESP S01 Episodio 2
@@ -13005,208 +10805,42 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38064.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38065.mp4
 #EXTINF:-1 ,American Gods S01 La tête dans les flocons
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38066.mp4
-#EXTINF:-1 ,American Gods S01 Ton parfum citronné
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38068.mp4
 #EXTINF:-1 ,American Gods S01 L'Exécution des dieux
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38069.mp4
-#EXTINF:-1 ,American Gods S01 Une prière pour Sweeney le Dingue
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38070.mp4
-#EXTINF:-1 ,American Gods S01 Viens voir Jésus
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38071.mp4
-#EXTINF:-1 ,American Gods S02 Épisode 2
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38067.mp4
-#EXTINF:-1 ,American Gods S02 Épisode 1
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38072.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S01 Érase una mudanza
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38179.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S01 Érase una reforma
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38180.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S01 Érase el reciclaje
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38181.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S01 Érase un rumor
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38182.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S01 Érase un niño
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38183.mp4
 #EXTINF:-1 ,Aquí No Hay Quien Viva S01 Érase un resbalón
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38184.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S01 Érase una rata
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38185.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S01 Érase un indigente
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38186.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S01 Érase una de miedo
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38187.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S01 Érase un dilema
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38188.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S01 Érase un traspaso
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38189.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S01 Érase un sustituto
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38190.mp4
 #EXTINF:-1 ,Aquí No Hay Quien Viva S01 Érase una fiesta
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38191.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S01 Érase una avería
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38192.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S01 Érase un anillo
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38193.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S01 Érase una Nochebuena
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38194.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S01 Érase un Fin de Año
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38195.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S02 Érase una derrama
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38198.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S02 Érase un sueño erótico
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38199.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S02 Érase un negocio
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38200.mp4
 #EXTINF:-1 ,Aquí No Hay Quien Viva S02 Érase un desafío
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38201.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S02 Érase una patrulla ciudadana
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38202.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S02 Érase un rastrillo
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38203.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S02 Érase una huelga
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38204.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S02 Érase un piso en venta
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38205.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S02 Érase una parabólica
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38206.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S02 Érase un vídeo casero
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38207.mp4
 #EXTINF:-1 ,Aquí No Hay Quien Viva S02 Érase unas elecciones
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38208.mp4
 #EXTINF:-1 ,Aquí No Hay Quien Viva S02 Érase una despedida de soltero
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38209.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S02 Érase una boda
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38210.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S02 Érase un apoyo vecinal
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38211.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase un caos
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38212.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase un okupa
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38213.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase un matrimonio de conveniencia
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38214.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase una inauguración
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38215.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase un combate
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38216.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase un canario
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38217.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase un mal de ojo (1)
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38218.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase un mal de ojo (2)
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38219.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase un famoso
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38220.mp4
 #EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase un desalojo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38221.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase un Belén
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38222.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase una Nochevieja
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38223.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase una grieta
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38224.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase unos nuevos inquilinos
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38225.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase un bautizo
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38226.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase una academia
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38227.mp4
 #EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase unos estatutos
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38228.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase unas alumnas
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38229.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase un juicio
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38230.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase un disco-pub videoclub
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38231.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase una cobaya
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38232.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase un premio
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38233.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase unas puertas blindadas
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38234.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase un vicio
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38235.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase un administrador
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38236.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase una traición(1)
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38237.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase una traición(2)
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38238.mp4
 #EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase el primer presidente gay
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38239.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase unas tragaperras
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38240.mp4
 #EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase un desgobierno
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38241.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase un regalo de boda
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38242.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase otra boda
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38243.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase una luna de miel
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38244.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase un cirujano plástico
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38245.mp4
 #EXTINF:-1 ,Aquí No Hay Quien Viva S03 Érase unas vacaciones
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38246.mp4
 #EXTINF:-1 ,Aquí No Hay Quien Viva S04 Érase un despertar
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38247.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S04 Érase un cultivo
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38248.mp4
 #EXTINF:-1 ,Aquí No Hay Quien Viva S04 Érase un desvío provisional
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38249.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S04 Érase una sequía
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38250.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S04 Érase un banco en la acera
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38251.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S04 Érase una Navidad convulsa
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38252.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S04 Érase la tercera Nochevieja
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38253.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S04 Érase unos propósitos de Año Nuevo
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38254.mp4
 #EXTINF:-1 ,Aquí No Hay Quien Viva S04 Érase una presidenta títere
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38255.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S04 Érase un par de bodas
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38256.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S04 Érase una conexión Wi-Fi
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38257.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S04 Érase un vudú
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38258.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S04 Érase un Día de San Valentín
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38259.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S04 Érase una nueva vida
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38260.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S04 Episodio 15
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38261.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S05 Érase una extradición
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38262.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S05 Érase un colapso
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38263.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S05 Érase un robot de cocina
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38264.mp4
 #EXTINF:-1 ,Aquí No Hay Quien Viva S05 Érase un presidente de vacaciones
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38265.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S05 Érase un anuncio
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38266.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S05 Érase un billete de cincuenta euros
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38267.mp4
 #EXTINF:-1 ,Aquí No Hay Quien Viva S05 Érase un escándalo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38268.mp4
 #EXTINF:-1 ,Aquí No Hay Quien Viva S05 Érase un descubrimiento macabro
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38269.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S05 Érase una emisora pirata
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38270.mp4
 #EXTINF:-1 ,Aquí No Hay Quien Viva S05 Érase un funeral con sorpresa
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38271.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S05 Érase una lista de bodas
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38272.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S05 Érase un paripé
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38273.mp4
-#EXTINF:-1 ,Aquí No Hay Quien Viva S05 Érase un adiós
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38274.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - Madre no hay más que una
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38283.mp4
 #EXTINF:-1 ,Makinavaja S01 Makinavaja - Er Banco España
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38284.mp4
 #EXTINF:-1 ,Makinavaja S01 Makinavaja - A partir de los cuarenta hay que empesar a cuidalse
@@ -13215,118 +10849,18 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38285.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38286.mp4
 #EXTINF:-1 ,Makinavaja S01 Makinavaja - El secuestro del Obispo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38287.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - El ataque de gota
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38288.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - No disparen que soy de Hasienda
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38289.mp4
 #EXTINF:-1 ,Makinavaja S01 Makinavaja - En Madri la caló es más seco
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38290.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - La crisis de identidad (I)
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38291.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - La crisis de identidad (II)
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38292.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - El amigo del colegio
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38293.mp4
 #EXTINF:-1 ,Makinavaja S01 Makinavaja - Realtichou... en diresto
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38294.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - Detrás de todo gran hombre hay una mujer bajita
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38295.mp4
 #EXTINF:-1 ,Makinavaja S01 Makinavaja - En los carnavales está to permitido
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38296.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - Pa podelse quejar... hay que haber votao
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38297.mp4
 #EXTINF:-1 ,Makinavaja S01 Makinavaja - ¡Qué descontrol
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38298.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - La banda de los peruanos
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38299.mp4
 #EXTINF:-1 ,Makinavaja S01 Makinavaja - El mejor amigo del hombre es ... el polisia
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38300.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - El poder de la tele
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38301.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - A la mujer no hay Dios que la entienda
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38302.mp4
-#EXTINF:-1 ,SL
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38303.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - Maki in love
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38304.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - Hijos del porvo semos
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38305.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - Totalmente Lusía (I)
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38306.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - Totalmente Lusía (II)
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38307.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - Cho y tú
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38308.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - La suplensia puntúa
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38309.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - Los marsianos chegaron ya
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38310.mp4
-#EXTINF:-1 ,un chip por corasón
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38311.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - El premio
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38312.mp4
-#EXTINF:-1 ,Makinavaja S01 Makinavaja - T'acuerdas vida
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38313.mp4
-#EXTINF:-1 ,el ma allá y lo d'enmedio
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38314.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 El sueño y las letras de Yeimy empezarán a tener sus frutos
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38316.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 Charly empieza a brillar con las letras de Yeimy
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38317.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 Charly arruina por completo la vida de Yeimy
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38318.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 Yeimy se cruza con un ángel que le da fuerzas para seguir viviendo
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38319.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 Yeimy mantiene su sed de venganza
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38320.mp4
-#EXTINF:-1 ,la mujer que cobrará venganza
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38321.mp4
 #EXTINF:-1 ,La Reina Del Flow S01 Charly y Yeimy vuelven a estar frente a frente
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38322.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 Episodio 8
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38323.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 Episodio 9
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38324.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 Episodio 10
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38325.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 Episodio 11
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38435.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 Episodio 12
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38436.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 Episodio 13
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38437.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 Episodio 14
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38438.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 Episodio 15
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38439.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 Episodio 16
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38440.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 Episodio 17
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38441.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 Episodio 18
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38442.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 Episodio 19
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38443.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 La Reina Del Flow Capitulo 20
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/39035.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 La Reina Del Flow capitulo 21
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/39036.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 La Reina del Flow Capítulo 22
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/39037.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 La Reina Del Flow Capitulo 23
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/39038.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 La Reina Del Flow Capitulo 24
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/39039.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 La Reina Del Flow Capitulo 25
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/39040.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 La Reina Del Flow Capitulo 26
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/39041.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 La Reina Del Flow Capitulo 27
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/39042.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 La Reina Del Flow Capitulo 28
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/39043.mp4
-#EXTINF:-1 ,La Reina Del Flow S01 La Reina Del Flow Capitulo 29
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/39044.mp4
 #EXTINF:-1 ,Los Ladrones Van A La Oficina S01 Los ladrones van a la oficina 1x02
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38328.mp4
 #EXTINF:-1 ,Los Ladrones Van A La Oficina S01 Los ladrones van a la oficina 1x03
@@ -13403,86 +10937,8 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38467.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38468.mp4
 #EXTINF:-1 ,Los Ladrones Van A La Oficina S03 Los ladrones van a la oficina 3x13
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38469.mp4
-#EXTINF:-1 ,Los 100 S01 Los100 1x01
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38470.mp4
-#EXTINF:-1 ,Los 100 S01 Los100 1x02
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38471.mp4
-#EXTINF:-1 ,Los 100 S01 Los100 1x03
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38472.mp4
-#EXTINF:-1 ,Los 100 S01 Los100 1x04
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38473.mp4
-#EXTINF:-1 ,Los 100 S01 Los100 1x05
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38474.mp4
-#EXTINF:-1 ,Los 100 S01 Los100 1x06
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38475.mp4
-#EXTINF:-1 ,Los 100 S01 Los100 1x07
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38476.mp4
-#EXTINF:-1 ,Los 100 S01 Los100 1x08
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38477.mp4
-#EXTINF:-1 ,Los 100 S01 Los100 1x09
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38478.mp4
-#EXTINF:-1 ,Los 100 S01 Los100 1x10
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38479.mp4
-#EXTINF:-1 ,Los 100 S01 Los100 1x11
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38480.mp4
-#EXTINF:-1 ,Los 100 S01 Los100 1x12
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38481.mp4
-#EXTINF:-1 ,Los 100 S01 Los100 1x13
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38482.mp4
-#EXTINF:-1 ,Los 100 S02 Los100 2x01
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38483.mp4
-#EXTINF:-1 ,Los 100 S02 Los100 2x02
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38484.mp4
-#EXTINF:-1 ,Los 100 S02 Los100 2x03
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38485.mp4
-#EXTINF:-1 ,Los 100 S02 Los100 2x04
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38486.mp4
-#EXTINF:-1 ,Los 100 S02 Los100 2x05
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38487.mp4
-#EXTINF:-1 ,Los 100 S02 Los100 2x06
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38488.mp4
-#EXTINF:-1 ,Los 100 S02 Los100 2x07
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38489.mp4
-#EXTINF:-1 ,Los 100 S02 Los100 2x08
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38490.mp4
-#EXTINF:-1 ,Los 100 S02 Los100 2x09
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38491.mp4
-#EXTINF:-1 ,Los 100 S02 Los100 2x10
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38492.mp4
-#EXTINF:-1 ,Los 100 S02 Los100 2x11
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38493.mp4
-#EXTINF:-1 ,Los 100 S02 Los100 2x12
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38494.mp4
-#EXTINF:-1 ,Los 100 S02 Los100 2x13
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38495.mp4
-#EXTINF:-1 ,Los 100 S02 Los100 2x14
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38496.mp4
-#EXTINF:-1 ,Los 100 S02 Los100 2x15
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38497.mp4
-#EXTINF:-1 ,Los 100 S02 Los100 2x16
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38498.mp4
 #EXTINF:-1 ,45 Revoluciones S01 45 Revoluciones -1x1
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38500.mp4
-#EXTINF:-1 ,Formula 1 La Emocion De Un Grand Prix S01 Formula 1 La Emocion De Un Grand Prix -1x01
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38502.mp4
-#EXTINF:-1 ,Formula 1 La Emocion De Un Grand Prix S01 Formula 1 La Emocion De Un Grand Prix -1x02
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38503.mp4
-#EXTINF:-1 ,Formula 1 La Emocion De Un Grand Prix S01 Formula 1 La Emocion De Un Grand Prix -1x03
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38504.mp4
-#EXTINF:-1 ,Formula 1 La Emocion De Un Grand Prix S01 Formula 1 La Emocion De Un Grand Prix -1x04
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38505.mp4
-#EXTINF:-1 ,Formula 1 La Emocion De Un Grand Prix S01 Formula 1 La Emocion De Un Grand Prix -1x05
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38506.mp4
-#EXTINF:-1 ,Formula 1 La Emocion De Un Grand Prix S01 Formula 1 La Emocion De Un Grand Prix -1x06
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38507.mp4
-#EXTINF:-1 ,Formula 1 La Emocion De Un Grand Prix S01 Formula 1 La Emocion De Un Grand Prix -1x07
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38508.mp4
-#EXTINF:-1 ,Formula 1 La Emocion De Un Grand Prix S01 Formula 1 La Emocion De Un Grand Prix -1x08
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38509.mp4
-#EXTINF:-1 ,Formula 1 La Emocion De Un Grand Prix S01 Formula 1 La Emocion De Un Grand Prix -1x09
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38510.mp4
-#EXTINF:-1 ,Formula 1 La Emocion De Un Grand Prix S01 Formula 1 La Emocion De Un Grand Prix -1x10
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38511.mp4
 #EXTINF:-1 ,American Gods  ESP S01 American.Gods.1x01
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/38918.mp4
 #EXTINF:-1 ,American Gods  ESP S01 American.Gods.1x02
@@ -13523,8 +10979,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/42783.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/42784.mp4
 #EXTINF:-1 ,Charmed  ESP S01 Navidad infernal
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/42785.mp4
-#EXTINF:-1 ,Harry
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/42786.mp4
 #EXTINF:-1 ,Charmed  ESP S01 Bruja perfecta
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/42787.mp4
 #EXTINF:-1 ,Charmed  ESP S01 Tú ya estás muerta para mí
@@ -13551,10 +11005,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/42797.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/42798.mp4
 #EXTINF:-1 ,Chernobyl ESP S01 1:23:45
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/42813.mp4
-#EXTINF:-1 ,mantengan la calma
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/42814.mp4
-#EXTINF:-1 ,ábrete
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/42815.mp4
 #EXTINF:-1 ,Chernobyl ESP S01 Vichnaya Pamyat
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/42816.mp4
 #EXTINF:-1 ,Chernobyl ESP S01 La felicidad de la humanidad
@@ -13641,8 +11091,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/42937.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/42938.mp4
 #EXTINF:-1 ,Warrior ESP S01 Boxeo chino
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/42939.mp4
-#EXTINF:-1 ,agáchate
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/42940.mp4
 #EXTINF:-1 ,Marvel's Jessica Jones  ESP S01 Marvel's Jessica Jones  ESP - S01E01 - AKA La soirée filles
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/42994.mp4
 #EXTINF:-1 ,Marvel's Jessica Jones  ESP S01 Marvel's Jessica Jones  ESP - S01E02 - AKA Le syndrome de l'écrasement
@@ -13683,8 +11131,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/43470.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/43471.mp4
 #EXTINF:-1 ,Marvel's Jessica Jones  ESP S02 Cómo nos divertimos
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/43472.mp4
-#EXTINF:-1 ,monstruo en la cama
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/43473.mp4
 #EXTINF:-1 ,Marvel's Jessica Jones  ESP S02 Chuleta de cerdo
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/43474.mp4
 #EXTINF:-1 ,Marvel's Jessica Jones  ESP S02 Chuleta de cerdo
@@ -13765,8 +11211,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/56305.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/56306.mp4
 #EXTINF:-1 ,The Boys  ES S02 Rien de tel dans le monde entier
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/56307.mp4
-#EXTINF:-1 ,faut y aller
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/56308.mp4
 #EXTINF:-1 ,The Boys  ES S02 On ne prend plus de gants
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/56309.mp4
 #EXTINF:-1 ,The Boys  ES S02 Le Fils du boulanger
@@ -13785,46 +11229,14 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/43679.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/43680.mp4
 #EXTINF:-1 ,Good Omens  ES S01 Le tout dernier jour du reste de leur vie
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/43681.mp4
-#EXTINF:-1 ,La Guerra De Los Mundos S01  Episodio 1
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/44689.mp4
-#EXTINF:-1 ,La Guerra De Los Mundos S01  Episodio 2
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/44690.mp4
-#EXTINF:-1 ,La Guerra De Los Mundos S01 Episodio 3
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/44691.mp4
-#EXTINF:-1 ,Educar A Un Superhéroe  S01  ¿Cómo se educa a un superhéroe?
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/44692.mp4
-#EXTINF:-1 ,Educar A Un Superhéroe  S01  Fortaleza de la soledad
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/44693.mp4
-#EXTINF:-1 ,Educar A Un Superhéroe  S01 Rejoj vigilante
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/44694.mp4
 #EXTINF:-1 ,Educar A Un Superhéroe  S01  Bienvenido a BIONA. Espero que sobrevivas a la experiencia
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/44695.mp4
-#EXTINF:-1 ,Educar A Un Superhéroe  S01 Días del futuro pasado de Mark
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/44696.mp4
-#EXTINF:-1 ,Educar A Un Superhéroe  S01  Superamigos
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/44697.mp4
-#EXTINF:-1 ,Educar A Un Superhéroe  S01  ¿Por qué tan enfermo?
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/44698.mp4
-#EXTINF:-1 ,Educar A Un Superhéroe  S01 No te gustará verle enfadado
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/44699.mp4
 #EXTINF:-1 ,Educar A Un Superhéroe  S01  El invento asesino
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/44700.mp4
-#EXTINF:-1 ,La Materia Oscura S01  Lyra's Jordan
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/44967.mp4
 #EXTINF:-1 ,La Materia Oscura S01 La materia Oscura - S01E02 - Images du Nord
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48195.mp4
 #EXTINF:-1 ,La Materia Oscura S01 La materia Oscura - S01E03 - Les Espions
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48196.mp4
-#EXTINF:-1 ,La Materia Oscura S01 La materia Oscura - S01E04 - L'Armure
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48197.mp4
-#EXTINF:-1 ,La Materia Oscura S01 La materia Oscura - S01E05 - Le Garçon perdu
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48198.mp4
-#EXTINF:-1 ,La Materia Oscura S01 La materia Oscura - S01E06 - Démons en cage
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48199.mp4
-#EXTINF:-1 ,La Materia Oscura S01 La materia Oscura - S01E07 - Combat à outrance
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48200.mp4
-#EXTINF:-1 ,La Materia Oscura S01 La materia Oscura - S01E08 - Trahison
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48201.mp4
 #EXTINF:-1 ,The Morning Show  Esp S01  En la noche oscura del alma siempre son las 3:30 de la madrugada
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/44968.mp4
 #EXTINF:-1 ,The Morning Show  Esp S01 Un sitio en la mesa
@@ -13851,42 +11263,16 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/44988.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/44989.mp4
 #EXTINF:-1 ,Jack Ryan  Esp S02 Orinoco
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/44990.mp4
-#EXTINF:-1 ,Carnival Row S01 Carnival Row - S01E01 - Le Mal se Réveille
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/46449.mp4
-#EXTINF:-1 ,Carnival Row S01 Carnival Row - S01E02 - Aisling
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/46450.mp4
 #EXTINF:-1 ,Carnival Row S01 Carnival Row - S01E03 - Les Royaumes de la Lune
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/46451.mp4
-#EXTINF:-1 ,Carnival Row S01 Carnival Row - S01E04 - Union Étrange
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/46452.mp4
 #EXTINF:-1 ,Carnival Row S01 Carnival Row - S01E05 - Plus de Larmes
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/46453.mp4
 #EXTINF:-1 ,Carnival Row S01 Carnival Row - S01E06 - La Fée Esseulée
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/46454.mp4
-#EXTINF:-1 ,Carnival Row S01 Carnival Row - S01E07 - Le Monde à Venir
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/46455.mp4
-#EXTINF:-1 ,Carnival Row S01 Carnival Row - S01E08 - Le Crépuscule
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/46456.mp4
-#EXTINF:-1 ,Star Trek : Picard S01 Star Trek : Picard - S01E01 - Souvenir
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47768.mp4
 #EXTINF:-1 ,Star Trek : Picard S01 Star Trek : Picard - S01E02 - Des plans et des légendes
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47769.mp4
 #EXTINF:-1 ,Star Trek : Picard S01 Star Trek : Picard - S01E03 - La fin est le début
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47770.mp4
-#EXTINF:-1 ,Star Trek : Picard S01 Star Trek : Picard - S01E04 - La Candeur Absolue
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47802.mp4
-#EXTINF:-1 ,Star Trek : Picard S01 Star Trek : Picard - S01E05 - Aventure À Stardust City
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48157.mp4
-#EXTINF:-1 ,Star Trek : Picard S01 Star Trek : Picard - S01E06 - La Boîte Impossible
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48273.mp4
-#EXTINF:-1 ,Star Trek : Picard S01 Star Trek : Picard - S01E07 - Nepenthe
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48745.mp4
-#EXTINF:-1 ,Star Trek : Picard S01 Star Trek : Picard - S01E08 - Fragments brisés
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48746.mp4
-#EXTINF:-1 ,Part 1
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48747.mp4
-#EXTINF:-1 ,Part 2
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51135.mp4
 #EXTINF:-1 ,The Witcher Esp S01 The Witcher esp - S01E01 - Le Début de la fin
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47824.mp4
 #EXTINF:-1 ,The Witcher Esp S01 The Witcher esp - S01E02 - Quatre marks
@@ -13903,146 +11289,22 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47829.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47830.mp4
 #EXTINF:-1 ,The Witcher Esp S01 The Witcher esp - S01E08 - Bien plus
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47831.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S01 Vivir sin permiso - S01E01 - Épisode 1
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47932.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S01 Vivir sin permiso - S01E02 - Épisode 2
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47933.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S01 Vivir sin permiso - S01E03 - Épisode 3
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47934.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S01 Vivir sin permiso - S01E04 - Épisode 4
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47935.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S01 Vivir sin permiso - S01E05 - Épisode 5
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47936.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S01 Vivir sin permiso - S01E06 - Épisode 6
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47937.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S01 Vivir sin permiso - S01E07 - Épisode 7
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47989.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S01 Vivir sin permiso - S01E08 - Épisode 8
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47990.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S01 Vivir sin permiso - S01E09 - Épisode 9
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47991.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S01 Vivir sin permiso - S01E10 - Épisode 10
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47992.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S01 Vivir sin permiso - S01E11 - Épisode 11
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47993.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S01 Vivir sin permiso - S01E12 - Épisode 12
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47994.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S01 Vivir sin permiso - S01E13 - Épisode 13
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47995.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S02 Vivir sin permiso - S02E01 - Mille raisons de ne pas revenir
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47922.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S02 Vivir sin permiso - S02E02 - Un roi solitaire
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47921.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S02 Vivir sin permiso - S02E03 - Fais-moi confiance
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47923.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S02 Vivir sin permiso - S02E04 - Un lion en cage
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47924.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S02 Vivir sin permiso - S02E05 - La première erreur
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47925.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S02 Vivir sin permiso - S02E06 - La dernière livraison
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47926.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S02 Vivir sin permiso - S02E07 - Sans rancune
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47927.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S02 Vivir sin permiso - S02E08 - Le moindre mal
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47929.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S02 Vivir sin permiso - S02E09 - Un lieu très sombre
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47930.mp4
-#EXTINF:-1 ,Vivir Sin Permiso S02 Vivir sin permiso - S02E10 - Avant de partir
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/47931.mp4
-#EXTINF:-1 ,El Visitante S01 El Visitante - S01E01 - Un coupable désigné
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48202.mp4
-#EXTINF:-1 ,El Visitante S01 El Visitante - S01E02 - Épisode 2
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48203.mp4
-#EXTINF:-1 ,El Visitante S01 El Visitante - S01E03 - Épisode 3
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48204.mp4
-#EXTINF:-1 ,El Visitante S01 El Visitante - S01E04 - Que Viene el Coco
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48543.mp4
 #EXTINF:-1 ,El Visitante S01 El Visitante - S01E05 - Le buveur de larmes
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48542.mp4
 #EXTINF:-1 ,In the Pines
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48545.mp4
-#EXTINF:-1 ,El Visitante S01 El Visitante - S01E08 - Le renard
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48544.mp4
 #EXTINF:-1 ,El Visitante S01 El Visitante - S01E09 - Des tigres et des ours
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48546.mp4
 #EXTINF:-1 ,Treadstone S01 Treadstone - S01E01 - Le protocole "Cigales"
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48278.mp4
-#EXTINF:-1 ,Treadstone S01 Treadstone - S01E02 - La conspiration identifiée
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48279.mp4
-#EXTINF:-1 ,Treadstone S01 Treadstone - S01E03 - La proposition
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48280.mp4
-#EXTINF:-1 ,Sex Education S01 Sex Education - S01E01 - Épisode 1
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48617.mp4
-#EXTINF:-1 ,Sex Education S01 Sex Education - S01E02 - Épisode 2
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48618.mp4
-#EXTINF:-1 ,Sex Education S01 Sex Education - S01E03 - Épisode 3
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48619.mp4
-#EXTINF:-1 ,Sex Education S01 Sex Education - S01E04 - Épisode 4
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48620.mp4
-#EXTINF:-1 ,Sex Education S01 Sex Education - S01E05 - Épisode 5
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48621.mp4
-#EXTINF:-1 ,Sex Education S01 Sex Education - S01E06 - Épisode 6
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48622.mp4
-#EXTINF:-1 ,Sex Education S01 Sex Education - S01E07 - Épisode 7
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48623.mp4
-#EXTINF:-1 ,Sex Education S01 Sex Education - S01E08 - Épisode 8
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48624.mp4
 #EXTINF:-1 ,Vampiros S01 Vampiros - S01E01 - Une lycéenne comme les autres
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48753.mp4
-#EXTINF:-1 ,Vampiros S01 Vampiros - S01E02 - Je suis un monstre
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48754.mp4
-#EXTINF:-1 ,Vampiros S01 Vampiros - S01E03 - Oublie ta vie d'avant
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48755.mp4
-#EXTINF:-1 ,une mère
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48756.mp4
 #EXTINF:-1 ,Vampiros S01 Vampiros - S01E05 - Tout est possible dans ce monde
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48757.mp4
-#EXTINF:-1 ,Vampiros S01 Vampiros - S01E06 - L'Alpha et l'Oméga
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48758.mp4
-#EXTINF:-1 ,Self Made : D'après La Vie De Madam C J  Walker S01 Self Made : D'après la vie de Madam C.J. Walker - S01E01 - Le combat du siècle
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48818.mp4
 #EXTINF:-1 ,Self Made : D'après La Vie De Madam C J  Walker S01 Self Made : D'après la vie de Madam C.J. Walker - S01E02 - Par ses propres moyens
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48819.mp4
-#EXTINF:-1 ,Self Made : D'après La Vie De Madam C J  Walker S01 Self Made : D'après la vie de Madam C.J. Walker - S01E03 - La Walker Girl
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48820.mp4
-#EXTINF:-1 ,Self Made : D'après La Vie De Madam C J  Walker S01 Self Made : D'après la vie de Madam C.J. Walker - S01E04 - La femme noire à l'honneur
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/48821.mp4
-#EXTINF:-1 ,Too Hot To Handle S01 Too Hot to Handle - S01E01 - Épisode 1
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/49586.mp4
-#EXTINF:-1 ,Too Hot To Handle S01 Too Hot to Handle - S01E02 - Épisode 2
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/49587.mp4
-#EXTINF:-1 ,Too Hot To Handle S01 Too Hot to Handle - S01E03 - Épisode 3
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/49588.mp4
 #EXTINF:-1 ,Three's a ... Threesome
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/49599.mp4
-#EXTINF:-1 ,Too Hot To Handle S01 Too Hot to Handle - S01E05 - Épisode 5
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/49600.mp4
-#EXTINF:-1 ,Too Hot To Handle S01 Too Hot to Handle - S01E06 - Épisode 6
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/49601.mp4
-#EXTINF:-1 ,Too Hot To Handle S01 Too Hot to Handle - S01E07 - Épisode 7
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/49602.mp4
-#EXTINF:-1 ,Too Hot To Handle S01 Too Hot to Handle - S01E08 - Épisode 8
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/49603.mp4
-#EXTINF:-1 ,Upload S01 S1EP1
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/50412.mp4
-#EXTINF:-1 ,Upload S01 S1EP2
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/50413.mp4
-#EXTINF:-1 ,Upload S01 S1EP3
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/50414.mp4
-#EXTINF:-1 ,Upload S01 S1EP4
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/50427.mp4
-#EXTINF:-1 ,Upload S01 S1EP5
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/50425.mp4
-#EXTINF:-1 ,Upload S01 S1EP6
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/50426.mp4
-#EXTINF:-1 ,Upload S01 S1EP7
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/50869.mp4
-#EXTINF:-1 ,Upload S01 S1EP8
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/50870.mp4
-#EXTINF:-1 ,Upload S01 S1EP9
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/50871.mp4
-#EXTINF:-1 ,Upload S01 S1EP10
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/50872.mp4
 #EXTINF:-1 ,ES:Upload S01 Bienvenue dans l&apos;Upload
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51324.mp4
 #EXTINF:-1 ,ES:Upload S01 Cinq étoiles
@@ -14063,128 +11325,16 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51331.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51332.mp4
 #EXTINF:-1 ,ES:Upload S01 Freeyond
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51333.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 1
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51356.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 2
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51357.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 3
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51358.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 4
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51359.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 5
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51360.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 6
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51361.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 7
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51362.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 8
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51363.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 9
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51364.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 10
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51365.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 11
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51366.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 12
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51367.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 13
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51368.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 14
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51369.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 15
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51370.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 16
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51371.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 16
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51372.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 16
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51373.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 18
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51374.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 19
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51375.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 20
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51376.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 21
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51377.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 22
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51378.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 23
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51379.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 24
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51380.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 25
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51381.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 26
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51382.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 27
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51383.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 28
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51384.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 29
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51385.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 31
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51386.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 32
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51387.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 Épisode 33
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51388.mp4
 #EXTINF:-1 ,Hayat: Amor Sin Palabras S01 hyt.35.m720p.es.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51389.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 h.yt.36.m720p.mp4
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51390.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 h.yt.1x37.m720p.fullseriehd.com.mp4
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51391.mp4
-#EXTINF:-1 ,Hayat: Amor Sin Palabras S01 h.yt.38.m720p.fullseriehd.com.mp4
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51392.mp4
-#EXTINF:-1 ,Vis A Vis: El Oasis S01 Épisode 1
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51609.mkv
-#EXTINF:-1 ,Vis A Vis: El Oasis S01 Épisode 2
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51610.mkv
-#EXTINF:-1 ,Vis A Vis: El Oasis S01 Épisode 3
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51611.mkv
-#EXTINF:-1 ,Vis A Vis: El Oasis S01 Épisode 4
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51612.mkv
-#EXTINF:-1 ,Vis A Vis: El Oasis S01 Épisode 5
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51613.mkv
-#EXTINF:-1 ,Vis A Vis: El Oasis S01 Épisode 6
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51614.mkv
-#EXTINF:-1 ,Vis A Vis: El Oasis S01 Épisode 7
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/51615.mkv
-#EXTINF:-1 ,Vis A Vis: El Oasis S01 Épisode 8
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/54407.mp4
-#EXTINF:-1 ,Vikingos S05 Ceux qui ne sont plus parmi nous
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/52655.mkv
 #EXTINF:-1 ,Vikingos S05 Parmi les miens
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/52656.mkv
-#EXTINF:-1 ,Vikingos S05 En terre étrangère
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/52657.mkv
-#EXTINF:-1 ,Vikingos S05 Le Prisonnier
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/52658.mkv
 #EXTINF:-1 ,Vikingos S05 Mésalliances
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/52659.mkv
-#EXTINF:-1 ,Vikingos S05 Nouveau monde
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/52660.mkv
-#EXTINF:-1 ,Vikingos S05 La Plaisanterie
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/52661.mkv
-#EXTINF:-1 ,Vikingos S05 Une histoire simple
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/52662.mkv
-#EXTINF:-1 ,Vikingos S05 Visions
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/52663.mkv
 #EXTINF:-1 ,Vikingos S05 Les Moments perdus
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/52667.mkv
-#EXTINF:-1 ,Vikingos S05 L'Acte le plus terrible
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/52670.mkv
 #EXTINF:-1 ,Vikingos S06 Tous les prisonniers
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/52677.mkv
-#EXTINF:-1 ,Territorio Lovecraft S01 Episodio 1
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/53695.mp4
-#EXTINF:-1 ,Territorio Lovecraft S01 Épisode 2
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/53696.mp4
-#EXTINF:-1 ,Territorio Lovecraft S01 Épisode 3
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/53697.mp4
-#EXTINF:-1 ,Territorio Lovecraft S01 Épisode 4
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/53698.mp4
 #EXTINF:-1 ,Away Esp S01 Épisode 1
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/53699.mp4
 #EXTINF:-1 ,Away Esp S01 Épisode 2
@@ -14241,44 +11391,10 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/54950.mkv
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/54951.mkv
 #EXTINF:-1 ,Raised by Wolves S01 Le commencement
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/54952.mkv
-#EXTINF:-1 ,Patria S01 Épisode 1
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55008.mp4
-#EXTINF:-1 ,Patria S01 Épisode 2
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55009.mp4
-#EXTINF:-1 ,Patria S01 Épisode 3
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55010.mp4
-#EXTINF:-1 ,Patria S01 Épisode 4
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55011.mp4
-#EXTINF:-1 ,Patria S01 Épisode 5
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55257.mp4
-#EXTINF:-1 ,Patria S01 Épisode 6
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55258.mp4
-#EXTINF:-1 ,Patria S01 Épisode 7
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55573.mp4
-#EXTINF:-1 ,Patria S01 Épisode 8
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55761.mp4
-#EXTINF:-1 ,El pájaro carpintero S01 Épisode 1
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55398.mp4
-#EXTINF:-1 ,El pájaro carpintero S01 Épisode 2
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55399.mp4
-#EXTINF:-1 ,El pájaro carpintero S01 Épisode 3
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55400.mp4
-#EXTINF:-1 ,El pájaro carpintero S01 Épisode 4
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55401.mp4
 #EXTINF:-1 ,Gambito de reina S01 Ouvertures
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55436.mp4
 #EXTINF:-1 ,Gambito de reina S01 Échanges
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55437.mp4
-#EXTINF:-1 ,Gambito de reina S01 Pions doublés
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55438.mp4
-#EXTINF:-1 ,Gambito de reina S01 Milieu de jeu
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55439.mp4
-#EXTINF:-1 ,Gambito de reina S01 Fourchette
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55440.mp4
-#EXTINF:-1 ,Gambito de reina S01 Ajournement
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55441.mp4
-#EXTINF:-1 ,Gambito de reina S01 Finale
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55442.mp4
 #EXTINF:-1 ,Oktoberfest: Sangre y cerveza S01 Épisode 1
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55574.mp4
 #EXTINF:-1 ,Oktoberfest: Sangre y cerveza S01 Épisode 2
@@ -14295,8 +11411,6 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/55579.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/56255.mp4
 #EXTINF:-1 ,Star Trek: Discovery  ES S03 Loin de chez nous
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/56256.mp4
-#EXTINF:-1 ,Moonbase 8 S01 5fb2c10772ba9_mkv_b2QMC6Bk.mp4
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/56261.mp4
 #EXTINF:-1 ,El Desafío: ETA S01 1
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/56262.mp4
 #EXTINF:-1 ,El Desafío: ETA S01 2
@@ -14313,60 +11427,16 @@ http://strong-livetv.com:80/series/lam_mar/AojwXghk3/56267.mp4
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/56270.mp4
 #EXTINF:-1 ,El Desafío: ETA S01 8
 http://strong-livetv.com:80/series/lam_mar/AojwXghk3/56271.mp4
-#EXTINF:-1 ,Elegidos para la gloria S01 Sierra Hotel
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/56298.mp4
-#EXTINF:-1 ,Elegidos para la gloria S01 Pour le meilleur et pour le pire
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/56299.mp4
-#EXTINF:-1 ,Elegidos para la gloria S01 Combat solitaire
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/56300.mp4
-#EXTINF:-1 ,Elegidos para la gloria S01 Noël
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/56301.mp4
-#EXTINF:-1 ,Elegidos para la gloria S01 Le choix
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/56302.mp4
-#EXTINF:-1 ,Elegidos para la gloria S01 Prêt à tout
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/56303.mp4
-#EXTINF:-1 ,Elegidos para la gloria S01 7
-http://strong-livetv.com:80/series/lam_mar/AojwXghk3/56304.mp4
-#EXTINF:-1 ,MEX |  TNT  SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/833.m3u8
-#EXTINF:-1 ,MEX | Discovery H&H SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/853.m3u8
-#EXTINF:-1 ,USA | HBO USA SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/856.m3u8
-#EXTINF:-1 ,MEX |  TELEHIT  SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/867.m3u8
-#EXTINF:-1 ,MEX | TUDN MEX HD| Lata
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1029.m3u8
-#EXTINF:-1 ,MEX | DISCOVERY CHANNEL  SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1028.m3u8
 #EXTINF:-1 ,MEX |  ESPN EXTRA SD  |  LATAM
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1014.m3u8
-#EXTINF:-1 ,MEX | Fox Sports 3   |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1011.m3u8
 #EXTINF:-1 ,USA | Telemundo Los Angeles  |  Latam
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1089.m3u8
-#EXTINF:-1 ,USA | Telemundo Miami SD |  LATAM / MARCOZ
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1088.m3u8
-#EXTINF:-1 ,MEX  |  H2  HISTORY  SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1080.m3u8
 #EXTINF:-1 ,USA | Fox Deportes SD |  Lata
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1052.m3u8
-#EXTINF:-1 ,USA | BEIN Sports Latino SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1194.m3u8
 #EXTINF:-1 ,MEX |  ESPN 1 MX SD | Latam
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1232.m3u8
-#EXTINF:-1 ,USA | TUDN USA SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1210.m3u8
-#EXTINF:-1 ,MEX | FOX SPORTS 1  sd |   Latam
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1245.m3u8
 #EXTINF:-1 ,MEX | ESPN 2  SD  |  LATAM
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1293.m3u8
-#EXTINF:-1 ,MEX | FOX CHANNEL SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1393.m3u8
-#EXTINF:-1 ,USA | UFC FIGHT PASS SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1369.m3u8
-#EXTINF:-1 ,MEX | FOX SPORTS 2 SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1367.m3u8
 #EXTINF:-1 ,USA | FOX DEPORTES USA  SD  |  LATAM
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1361.m3u8
 #EXTINF:-1 ,ARG  | ESPN 1  ARG  SD |   LATAM
@@ -14377,2588 +11447,144 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1355.m3u8
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1350.m3u8
 #EXTINF:-1 ,MEX | LAS ESTRELLAS -1 SD |   Victor 202 - Fredy
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1436.m3u8
-#EXTINF:-1 ,MEX | AZTECA UNO SD | Server Victor 203
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1432.m3u8
-#EXTINF:-1 ,MEX | STUDIO UNIVERSAL SD | LATAM / MARCOZ
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1475.m3u8
 #EXTINF:-1 ,MEX |  LAS ESTRELLAS  SD | LATAM
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1473.m3u8
-#EXTINF:-1 ,MEX | DISCOVERY ID SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1512.m3u8
 #EXTINF:-1 ,USA | ESTRELLA TV  SD |  LATAM
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1509.m3u8
 #EXTINF:-1 ,MEX | CNN ESP |  LATAM
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1558.m3u8
-#EXTINF:-1 ,MEX | NUEVE SD |  Victor
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1605.m3u8
-#EXTINF:-1 ,MEX | Telemundo Internacional  SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1712.m3u8
-#EXTINF:-1 ,MEX | FOX ACTION SD | Lata
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1763.m3u8
-#EXTINF:-1 group-title="Undefined",Animal Planet
-http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
-http://rec2.distv.net:80/pablo/123/417?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
-http://rec2.distv.net:80/egidio/egidio/417?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET HD
-http://136.243.177.164/ANIMALPLANET/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",Animal Planet
-http://str01.canlitvlive.io:25461/tv/tv/356?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",Animal Planet
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
-http://193.33.39.108:8107/30704?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET FHD
-http://fonteangelusiptv.com:25461/darkman/darkman/178673?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET FHD ALT
-http://fonteangelusiptv.com:25461/darkman/darkman/178674?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET SD
-http://fonteangelusiptv.com:25461/darkman/darkman/178669?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET SD ALT
-http://fonteangelusiptv.com:25461/darkman/darkman/178670?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H AS AVENTURAS DE TINTIM
-http://fonteangelusiptv.com:25461/darkman/darkman/179186?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H BABY SHARK
-http://fonteangelusiptv.com:25461/darkman/darkman/179206?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H BEN E HOLLY
-http://fonteangelusiptv.com:25461/darkman/darkman/179214?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H CAVERNA DO DRAGÃO
-http://fonteangelusiptv.com:25461/darkman/darkman/179167?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H CHAPOLIN COLORADO
-http://fonteangelusiptv.com:25461/darkman/darkman/179196?checkedby:hlscat.com
 #EXTINF:-1 group-title="Undefined",24H CHAVES
 http://fonteangelusiptv.com:25461/darkman/darkman/179175?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H DRAGON BALL SUPER
-http://fonteangelusiptv.com:25461/darkman/darkman/179189?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H IRMÃO DO JOREL
-http://fonteangelusiptv.com:25461/darkman/darkman/179207?checkedby:hlscat.com
 #EXTINF:-1 group-title="Undefined",24H JONNY QUEST
 http://fonteangelusiptv.com:25461/darkman/darkman/179169?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H LULUZINHA
-http://fonteangelusiptv.com:25461/darkman/darkman/179200?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H MASHA E O URSO
-http://fonteangelusiptv.com:25461/darkman/darkman/179203?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H MEU AMIGÃOZÃO
-http://fonteangelusiptv.com:25461/darkman/darkman/179217?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H O MÁSKARA
-http://fonteangelusiptv.com:25461/darkman/darkman/179163?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H OS PADRINHOS MÁGICOS
-http://fonteangelusiptv.com:25461/darkman/darkman/179213?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H PICA PAU
-http://fonteangelusiptv.com:25461/darkman/darkman/179172?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",A&E
-http://rec2.distv.net:80/egidio/egidio/415?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",A&E
-http://rec2.distv.net:80/pablo/123/415?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",A&E FHD
-http://fonteangelusiptv.com:25461/darkman/darkman/178501?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",A&E HD
-http://uruguayiptv.com:25461/Jorge2020/jorge2020/11309?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",A&E HD
-http://fonteangelusiptv.com:25461/darkman/darkman/178500?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",A&E SD
-http://fonteangelusiptv.com:25461/darkman/darkman/178499?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H A FAMILIA DRACULA
-http://fonteangelusiptv.com:25461/darkman/darkman/179179?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H A MUMIA
-http://fonteangelusiptv.com:25461/darkman/darkman/179180?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H AS AVENTURAS DE JACKIE CHAN
-http://fonteangelusiptv.com:25461/darkman/darkman/179184?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H AS AVENTURAS DE TINTIM
-http://fonteangelusiptv.com:25461/darkman/darkman/179186?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H BABY SHARK
-http://fonteangelusiptv.com:25461/darkman/darkman/179206?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H BEN E HOLLY
-http://fonteangelusiptv.com:25461/darkman/darkman/179214?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H CAVERNA DO DRAGÃO
-http://fonteangelusiptv.com:25461/darkman/darkman/179167?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H CHAPOLIN COLORADO
-http://fonteangelusiptv.com:25461/darkman/darkman/179196?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H CHAVES
-http://fonteangelusiptv.com:25461/darkman/darkman/179175?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H DRAGON BALL SUPER
-http://fonteangelusiptv.com:25461/darkman/darkman/179189?checkedby:hlscat.com
 #EXTINF:-1 group-title="Undefined",24H HE MAN DESENHO
 http://fonteangelusiptv.com:25461/darkman/darkman/179218?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H HOMEM ARANHA
-http://fonteangelusiptv.com:25461/darkman/darkman/179173?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H IRMÃO DO JOREL
-http://fonteangelusiptv.com:25461/darkman/darkman/179207?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H MASHA E O URSO
-http://fonteangelusiptv.com:25461/darkman/darkman/179203?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H MEU AMIGÃOZÃO
-http://fonteangelusiptv.com:25461/darkman/darkman/179217?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H MICKEY MOUSE
-http://fonteangelusiptv.com:25461/darkman/darkman/179193?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H MUNDO BITA
-http://fonteangelusiptv.com:25461/darkman/darkman/179204?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H O FANTASTICO MUNDO DE BOBBY
-http://fonteangelusiptv.com:25461/darkman/darkman/179162?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H O MÁSKARA
-http://fonteangelusiptv.com:25461/darkman/darkman/179163?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H OS PADRINHOS MÁGICOS
-http://fonteangelusiptv.com:25461/darkman/darkman/179213?checkedby:hlscat.com
 #EXTINF:-1 group-title="Undefined",24H OS VINGADORES DESENHO
 http://fonteangelusiptv.com:25461/darkman/darkman/179194?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",24H PICA PAU
-http://fonteangelusiptv.com:25461/darkman/darkman/179172?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",A & E
-http://mains.vip:2086/craigg/1Lurn7m3F1/92727?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",A&E
-http://rec2.distv.net:80/egidio/egidio/415?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",A&E
-http://rec2.distv.net:80/pablo/123/415?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",A&E FHD
-http://fonteangelusiptv.com:25461/darkman/darkman/178501?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",A&E HD
-http://uruguayiptv.com:25461/Jorge2020/jorge2020/11309?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",A&E HD
-http://fonteangelusiptv.com:25461/darkman/darkman/178500?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",A&E SD
-http://fonteangelusiptv.com:25461/darkman/darkman/178499?checkedby:hlscat.com
-#EXTINF:-1 ,MEX |  TNT  SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/833.m3u8
-#EXTINF:-1 ,MEX | Discovery H&H SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/853.m3u8
-#EXTINF:-1 ,USA | HBO USA SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/856.m3u8
-#EXTINF:-1 ,MEX |  TELEHIT  SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/867.m3u8
-#EXTINF:-1 ,MEX | TUDN MEX HD| Lata
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1029.m3u8
-#EXTINF:-1 ,MEX | DISCOVERY CHANNEL  SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1028.m3u8
 #EXTINF:-1 ,Deportes | ESPN 3  SD  |  LATAM
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1017.m3u8
-#EXTINF:-1 ,MEX |  ESPN EXTRA SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1014.m3u8
-#EXTINF:-1 ,MEX | Fox Sports 3   |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1011.m3u8
-#EXTINF:-1 ,USA | Telemundo Los Angeles  |  Latam
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1089.m3u8
-#EXTINF:-1 ,USA | Telemundo Miami SD |  LATAM / MARCOZ
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1088.m3u8
-#EXTINF:-1 ,MEX  |  H2  HISTORY  SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1080.m3u8
-#EXTINF:-1 ,USA | Fox Deportes SD |  Lata
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1052.m3u8
-#EXTINF:-1 ,USA | BEIN Sports Latino SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1194.m3u8
-#EXTINF:-1 ,MEX |  ESPN 1 MX SD | Latam
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1232.m3u8
-#EXTINF:-1 ,USA | TUDN USA SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1210.m3u8
-#EXTINF:-1 ,MEX | FOX SPORTS 1  sd |   Latam
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1245.m3u8
-#EXTINF:-1 ,MEX | ESPN 2  SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1293.m3u8
-#EXTINF:-1 ,MEX | UNIVERSAL CHANNEL HD | LEO | Direct Source | No Cambiar
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1334.m3u8
-#EXTINF:-1 ,MEX | FOX CHANNEL SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1393.m3u8
-#EXTINF:-1 ,USA | UFC FIGHT PASS SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1369.m3u8
-#EXTINF:-1 ,MEX | FOX SPORTS 2 SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1367.m3u8
-#EXTINF:-1 ,USA | FOX DEPORTES USA  SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1361.m3u8
-#EXTINF:-1 ,ARG  | ESPN 1  ARG  SD |   LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1359.m3u8
-#EXTINF:-1 ,ARG | ESPN 2  ARGENTINA SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1355.m3u8
-#EXTINF:-1 ,USA | ESPN DEPORTES  SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1350.m3u8
-#EXTINF:-1 ,MEX | LAS ESTRELLAS -1 SD |   Victor 202 - Fredy
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1436.m3u8
-#EXTINF:-1 ,MEX | AZTECA UNO SD | Server Victor 203
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1432.m3u8
-#EXTINF:-1 ,MEX | STUDIO UNIVERSAL SD | LATAM / MARCOZ
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1475.m3u8
-#EXTINF:-1 ,MEX |  LAS ESTRELLAS  SD | LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1473.m3u8
-#EXTINF:-1 ,MEX | CINEMAX HD | LEO | Direct Source | No Cambiar
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1470.m3u8
-#EXTINF:-1 ,MEX | DISCOVERY ID SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1512.m3u8
-#EXTINF:-1 ,USA | ESTRELLA TV  SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1509.m3u8
-#EXTINF:-1 ,MEX | HISTORY SD | LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1508.m3u8
-#EXTINF:-1 ,MEX | CNN ESP |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1558.m3u8
-#EXTINF:-1 ,MEX | NUEVE SD |  Victor
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1605.m3u8
-#EXTINF:-1 ,MEX | Telemundo Internacional  SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1712.m3u8
-#EXTINF:-1 ,MEX | E!  SD | LATA
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1745.m3u8
-#EXTINF:-1 ,MEX | FOX ACTION SD | Lata
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1763.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/IqLT2CC.png",PA | OYE CANAL 7
-https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",Animal Planet
-http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
-http://rec2.distv.net:80/pablo/123/417?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
-http://rec2.distv.net:80/egidio/egidio/417?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
-http://mains.vip:2086/craigg/1Lurn7m3F1/3281?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET HD
-http://136.243.177.164/ANIMALPLANET/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
-http://mains.vip:2086/craigg/1Lurn7m3F1/92800?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
-http://mains.vip:2086/craigg/1Lurn7m3F1/99067?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",Animal Planet
-http://str01.canlitvlive.io:25461/tv/tv/356?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",Animal Planet
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
-http://193.33.39.108:8107/30704?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
-http://mains.vip:2086/craigg/1Lurn7m3F1/262?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET FHD 1080
-http://mains.vip:2086/craigg/1Lurn7m3F1/64154?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET FHD
-http://fonteangelusiptv.com:25461/darkman/darkman/178673?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET FHD ALT
-http://fonteangelusiptv.com:25461/darkman/darkman/178674?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET HD
-http://fonteangelusiptv.com:25461/darkman/darkman/178671?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET SD
-http://fonteangelusiptv.com:25461/darkman/darkman/178669?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",ANIMAL PLANET SD ALT
-http://fonteangelusiptv.com:25461/darkman/darkman/178670?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",DISCOVERY CHANNEL
-http://mains.vip:2086/craigg/1Lurn7m3F1/88712?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",DISCOVERY CIVILIZATION
-http://mains.vip:2086/craigg/1Lurn7m3F1/88713?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",DISCOVERY FAMALIA
-http://mains.vip:2086/craigg/1Lurn7m3F1/88700?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",DISCOVERY TURBO
-http://mains.vip:2086/craigg/1Lurn7m3F1/88718?checkedby:hlscat.com
-#EXTINF:-1 ,MEX |  TNT  SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/833.m3u8
-#EXTINF:-1 ,MEX | Discovery H&H SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/853.m3u8
-#EXTINF:-1 ,USA | HBO USA SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/856.m3u8
-#EXTINF:-1 ,MEX |  DISCOVERY SCIENCE  | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/864.m3u8
-#EXTINF:-1 ,MEX |  TELEHIT  SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/867.m3u8
-#EXTINF:-1 ,MEX | Disney Channel  | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/874.m3u8
-#EXTINF:-1 ,MEX | TUDN MEX HD| Lata
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1029.m3u8
-#EXTINF:-1 ,MEX | DISCOVERY CHANNEL  SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1028.m3u8
-#EXTINF:-1 ,Deportes | ESPN 3  SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1017.m3u8
-#EXTINF:-1 ,MEX |  ESPN EXTRA SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1014.m3u8
-#EXTINF:-1 ,MEX | Fox Sports 3   |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1011.m3u8
-#EXTINF:-1 ,USA | Telemundo Los Angeles  |  Latam
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1089.m3u8
-#EXTINF:-1 ,USA | Telemundo Miami SD |  LATAM / MARCOZ
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1088.m3u8
-#EXTINF:-1 ,USA | Unimas HD | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1085.m3u8
-#EXTINF:-1 ,MEX  |  H2  HISTORY  SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1080.m3u8
-#EXTINF:-1 ,USA | Fox Deportes SD |  Lata
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1052.m3u8
-#EXTINF:-1 ,USA | BEIN Sports Latino SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1194.m3u8
-#EXTINF:-1 ,MEX | HISTORY HD | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1241.m3u8
-#EXTINF:-1 ,MEX | ESPN 3 MEX HD | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1236.m3u8
-#EXTINF:-1 ,MEX |  ESPN 1 MX SD | Latam
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1232.m3u8
-#EXTINF:-1 ,USA | TUDN USA SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1210.m3u8
-#EXTINF:-1 ,MEX | FOX SPORTS 1  sd |   Latam
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1245.m3u8
-#EXTINF:-1 ,MEX | ESPN 2  SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1293.m3u8
-#EXTINF:-1 ,MEX  | AFIZZIONADOS SD  |  MIOTv h - Lata
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1340.m3u8
-#EXTINF:-1 ,MEX | UNIVERSAL CHANNEL HD | LEO | Direct Source | No Cambiar
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1334.m3u8
-#EXTINF:-1 ,MEX | FOX CHANNEL SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1393.m3u8
-#EXTINF:-1 ,MEX | FOX SPORTS 1 HD | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1371.m3u8
-#EXTINF:-1 ,MEX | FOX SPORTS 3  HD | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1370.m3u8
-#EXTINF:-1 ,USA | UFC FIGHT PASS SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1369.m3u8
-#EXTINF:-1 ,MEX | FOX SPORTS 2 HD | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1368.m3u8
-#EXTINF:-1 ,MEX | FOX SPORTS 2 SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1367.m3u8
-#EXTINF:-1 ,MEX |  ESPN 1 HD | LEO | Direct Source | No Cambiar
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1366.m3u8
-#EXTINF:-1 ,USA | FOX DEPORTES USA  SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1361.m3u8
-#EXTINF:-1 ,ARG  | ESPN 1  ARG  SD |   LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1359.m3u8
-#EXTINF:-1 ,ARG | ESPN 2  ARGENTINA SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1355.m3u8
-#EXTINF:-1 ,USA | ESPN DEPORTES  SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1350.m3u8
-#EXTINF:-1 ,MEX | LAS ESTRELLAS -1 SD |   Victor 202 - Fredy
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1436.m3u8
-#EXTINF:-1 ,MEX | LAS ESTRELLAS HD | David
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1434.m3u8
-#EXTINF:-1 ,MEX | TCM | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1433.m3u8
-#EXTINF:-1 ,MEX | AZTECA UNO SD | Server Victor 203
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1432.m3u8
-#EXTINF:-1 ,MEX | CARTOON NETWORK | LEO | Direct Source | No Cambiar
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1425.m3u8
-#EXTINF:-1 ,MEX | NICK HD | LEO | Direct Source | No Cambiar
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1414.m3u8
-#EXTINF:-1 ,MEX | DISCOVERY CHANNEL HD | LEO | Direct Source | No Cambiar
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1478.m3u8
-#EXTINF:-1 ,MEX | WARNER | LEO | Direct Source | No cambiar
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1476.m3u8
-#EXTINF:-1 ,MEX | STUDIO UNIVERSAL SD | LATAM / MARCOZ
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1475.m3u8
-#EXTINF:-1 ,MEX | SPACE  HD | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1474.m3u8
-#EXTINF:-1 ,MEX |  LAS ESTRELLAS  SD | LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1473.m3u8
-#EXTINF:-1 ,MEX | CINEMAX HD | LEO | Direct Source | No Cambiar
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1470.m3u8
-#EXTINF:-1 ,MEX | FOX MOVIES | LEO | Direct Source | No cambiar
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1467.m3u8
-#EXTINF:-1 ,MEX | SONY | LEO | Direct Source | No cambiar
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1462.m3u8
-#EXTINF:-1 ,MEX | de pelicula | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1459.m3u8
-#EXTINF:-1 ,MEX | AZTECA UNO HD | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1457.m3u8
-#EXTINF:-1 ,MEX | DISCOVERY TURBO HD | LEO | Direct Source | No Cambiar
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1527.m3u8
-#EXTINF:-1 ,MEX | TLC DISCOVERY HD | LEO | Direct Source | No Cambiar
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1524.m3u8
-#EXTINF:-1 ,MEX | NAT GEO HD | LEO | Direct Source | No Cambiar
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1523.m3u8
-#EXTINF:-1 ,MEX | NAT GEO WILD HD | LEO | Direct Source | No Cambiar
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1522.m3u8
-#EXTINF:-1 ,MEX | DISCOVERY h&h HD | LEO | Direct Source | No Cambiar
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1514.m3u8
-#EXTINF:-1 ,MEX | DISCOVERY ID SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1512.m3u8
-#EXTINF:-1 ,USA | ESTRELLA TV  SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1509.m3u8
-#EXTINF:-1 ,MEX | HISTORY SD | LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1508.m3u8
-#EXTINF:-1 ,MEX | CNN ESP |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1558.m3u8
-#EXTINF:-1 ,USA | Olympic Channel HD | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1635.m3u8
-#EXTINF:-1 ,MEX | NUEVE SD |  Victor
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1605.m3u8
-#EXTINF:-1 ,MEX |  Univision West HD | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1602.m3u8
-#EXTINF:-1 ,MEX | PARAMOUNT HD | LEO | Direct Source | No Cambiar
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1683.m3u8
-#EXTINF:-1 ,MEX | SYFY  | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1682.m3u8
-#EXTINF:-1 ,MEX |  DISCOVERY ID HD | LEO | Direct Source | No Cambiar
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1673.m3u8
-#EXTINF:-1 ,MEX | Life time HD | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1665.m3u8
-#EXTINF:-1 ,MEX | ESPN EXTRA | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1663.m3u8
-#EXTINF:-1 ,MEX |  TNT HD | LEO | Direct Source | No Cambiar
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1701.m3u8
-#EXTINF:-1 ,Red Bull TV HD
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1709.m3u8
-#EXTINF:-1 ,MEX | Telemundo Internacional  SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1712.m3u8
-#EXTINF:-1 ,USA | AT&T SportsNet 3 HD | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1727.m3u8
-#EXTINF:-1 ,MEX | Claro Sports HD | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1733.m3u8
-#EXTINF:-1 ,MEX | GolfTV HD | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1735.m3u8
-#EXTINF:-1 ,MEX | Fox Comedy HD | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1737.m3u8
-#EXTINF:-1 ,MEX | E!  SD | LATA
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1745.m3u8
-#EXTINF:-1 ,MEX | NatGeo Kids HD | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1747.m3u8
-#EXTINF:-1 ,MEX | TV Novelas | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1759.m3u8
-#EXTINF:-1 ,MEX | TBS HD | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1762.m3u8
-#EXTINF:-1 ,MEX | FOX ACTION SD | Lata
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1763.m3u8
-#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-kgaTyg5u1I0/XRECd585TEI/AAAAAAAABSE/4oXpimebMFg0lUWM_K4c93l0st9SCYvDACLcBGAs/s1600/s-l1000.jpg",donativo
-https://1.bp.blogspot.com/-kgaTyg5u1I0/XRECd585TEI/AAAAAAAABSE/4oXpimebMFg0lUWM_K4c93l0st9SCYvDACLcBGAs/s1600/s-l1000.jpg
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/4TEMhxH.png",30A TV
-http://30a-tv.com/my999.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/HQhdVG1.png",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/hLb5a7e.png",ACC Network
-https://gma2.blab.email/acc.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/K2XHhWW.png",Action Sports 4U
-https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/d2o69uW.png",Adventure Sports Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/FLKdEzZ.png",AFV Family
-http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://web-cdn.blivenyc.com/generic/mee.logo-golden-trans.png",AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/GmSyxeP.png",American Classic TV
-https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ENtRDds.png",American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Ocro6qo.png",AMG TV
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/bkikN6d.png",Apple Sauce Network
-https://nimble.dashmedia.tv/onestudio/applesaucetv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/hSYez3V.png",Atlanta Channel
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://www.tennistv.com/help/wp-content/themes/tennistv-support/dist/images/tennistv-footer.png",ATP Tennis TV
-http://203.154.243.89:11739
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/BqiWRil.png",AUF TV
-https://nrpus.bozztv.com/36bay2/gusa-auftv/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/QfGL1op.png",Auto Play TV (Opt-1)
-https://nrpus.bozztv.com/36bay2/gusa-autoplay/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/QfGL1op.png",Auto Play TV (Opt-2)
-https://nimble.dashstreams.net/onestudio/aptv/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/zl6m3Jq.png",Baeble Music Sessions (Opt-2)
 https://dl.dropboxusercontent.com/s/emp7q8g3tc1kikj/BMusik.m3u8?dl=0
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ASB0iC6.png",Beach Coast TV
-https://nimble.dashstreams.net/onestudio/beachtveastcoast/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/PR2rCXP.png",Billy C Boxing
-https://nrpus.bozztv.com/36bay2/gusa-billycboxing/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/zvg7RMP.png",Artista Negro
-https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg Television (Opt-1)
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg Television (Opt-2)
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/nm3N3aw.png",Bluegrass 4U (Opt-1)
-https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/nm3N3aw.png",Bluegrass 4U (Opt-2)
-https://nrpus.bozztv.com/36bay2/gusa-bluegrassmusic4u/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/RgYEjYE.png",Blush TV
-https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/I4iIdVj.png",Buzzr (Opt-1)
-https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/PbpvywI.png",BYUtv
-http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Wd4xnGt.png",C-SPAN
-https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ltcivXp.png",C-SPAN 2
-https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/cyU21ML.png",C-SPAN 3
-https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/5kRPjAM.png",Capitol Wrestling
 https://nrpus.bozztv.com/36bay2/gusa-capitolwrestling/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/AjnHVZw.png",Cartoons 4U
-https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pMhTxmf.png",CBS (WFOR) (Opt-1)
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Qu9NAwe.png",CBS News (Opt-1)
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Qu9NAwe.png",CBS News (Opt-2)
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/WiT0C6e.png",Celebrity Scene (Opt-1)
-https://nimble.dashstreams.net/onestudio/celebrityscene/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/WiT0C6e.png",Celebrity Scene (Opt-2)
-https://nrpus.bozztv.com/36bay2/gusa-celebrityscene/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/azOTXMy.png",Channel 7
-http://radio.7chan.org:8000/CH7
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Tntc92g.png",Classic Cinema
-https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Qq70J9t.png",Classic TV 4U
-https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/9TbpsS0.png",CMC
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/9TbpsS0.png",CMC-USA
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/bvLuYDd.png",Comedy Dynamics
-http://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/RPDwAHF.png",CONtv (Opt-1)
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/RPDwAHF.png",CONtv (Opt-2)
-http://contv.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/SxRzFO8.png",Cooking 4U
-https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/aL4DvbN.png",Country Music 4U (Opt-1)
-https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/aL4DvbN.png",Country Music 4U (Opt-2)
-https://nrpus.bozztv.com/36bay2/gusa-countrymusic4u/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://static1.squarespace.com/static/57e016db6b8f8f5bbe95acde7d/t/5b620bab352f53819eb8df27/153315217171765/2017_DSTV_Logo_Silver+2.png",Dance
-https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/l2O0fY1.png",Darcizzle Offshore
-http://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/MLqDkEz.png",Ditty TV
-https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/QNaPXLj.png",Documentaries 4U
 https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/W87cTZc.png",Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/9mTwMJk.png",Dream TV
-https://nimble.dashstreams.net/onestudio/dreamtv/chunks.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/q2jim9n.png",Dust
-https://dust.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/IUJSWSf.png",ElectricNOW
-https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/u6zwJcd.png",Energy TV
-https://nimble.dashstreams.net/onestudio/energytv/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/nrYLBkN.png",ESPN 2
 https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ZbIiJXf.png",ESPN News
 https://gma2.blab.email/espnews.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/PQbUGRO.png",ESPN U
 https://gma2.blab.email/espnu.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/7LXT3zf.png",ET Live (Opt-1)
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/7LXT3zf.png",ET Live (Opt-2)
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/EVINE_Logo.png",Evine
-https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/0rfBAWY.png",Ejercicio 4U
-https://nimble.dashmedia.tv/onestudio/exercise_4u_tv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/9IlPgqf.png",EZWay Network
-https://edge1.dashmedia.tv/onestudio/ezwaytv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/gV2Vmr9.png",FailArmy (Opt-1)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/gV2Vmr9.png",FailArmy (Opt-2)
-http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/AHmnFAw.png",Fashion Channel
-https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/eWCoxqy.png",Fight Plus TV
-https://nimble.dashstreams.net/onestudio/fightplustv/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/3eUEiiK.png",Fighting Spirit
-https://a.jsrdn.com/broadcast/22696/+0000/low/c.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/nLimNFX.png",Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/BDtkjpS.png",Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/KtdEoox.png",Flashback TV
-http://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/hV46zMX.png",Folk TV
-http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/xjCtEPH.png",Food52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/WBiCDLB.png",Fox News Channel (Opt-2) (No-Audio)
-http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Z5SATrd.png",Fox News Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png",Free Speech TV
-https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/sdrtuHJ.png",Fubo Sports Network
-http://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/qpVGoWy.png",Funny Bone TV
-https://nrpus.bozztv.com/36bay2/gusa-funnybone/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/mVv5Rn2.png",Going To War
-https://nimble.dashstreams.net/onestudio/going_to_war/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/XEtAu1Q.png",Golden TV
-https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/xLC8ulA.png",Gone Fishing
-https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/IDgT6aq.png",Gone Hunting
-https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/L0aXwHX.png",Gusto TV
-https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/NO7y3tt.png",HBCU Game Day
-https://nrpus.bozztv.com/36bay2/gusa-HBCU/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/FwXJj0L.png",Honor TV
-https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/npBKUYT.png",Honor TV
-https://nrpus.bozztv.com/36bay2/gusa-honortv/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Gh4kB7x.png",Horrified TV
-https://edge1.dashmedia.tv/onestudio/horrified/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Jis8xic.png",Hot Rock TV
-https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/DkvWWbE.png",Hunt Channel
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/CKCtZo7.png",Investment Pitch
 http://www.30a-tv.com/InvPit.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/fSFY5oy.png",iRead2Know
-https://nrpus.bozztv.com/36bay2/gusa-iread2know/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/M8eBrEl.png",iShe TV
-https://nrpus.bozztv.com/36bay2/gusa-shetv/index.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/h0UDljE.png",It's At The Movies
 https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/1HJraea.png",Jewelry Television
-http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ESnlHMY.png",Kartoon Fun Time (Opt-1)
-https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ESnlHMY.png",Kartoon Fun Time (Opt-2)
-https://nimble.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/4otJeRo.png",Kathryn Raaker's World
-https://edge1.dashmedia.tv/onestudio/kathryn_raakers_world/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/fEjPBk3.png",Key TV
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/GRLOlNT.png",Kids Central
-http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/HY64Nhe.png",Law & Crime Network
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/l2OoKhw.png",Vamos a construir
-https://nimble.dashstreams.net/onestudio/letsbuildtv/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/KGaH3pH.png",Living Outdoors
-https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/CYAarVZ.png",Mad Dog & Merrill Midwest Grill'n
 https://nrpus.bozztv.com/36bay2/gusa-mwg/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="http://75.146.183.54:2080/Cablecast/Public/Logos/1/MCN-Vimeo-Logo.png",Metro Cable Network
-http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/G8r9ZR7.png",MLB Network
-http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/5F3CgdU.png",Mo Laughter TV
-https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/68XjJ7z.png",Mobcrush (Opt-1)
-https://ott.mobcrush.com/hls/0/ott.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/68XjJ7z.png",Mobcrush (Opt-2)
-http://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/iSqYInb.png",Monarch Channel
-https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/S6Hcqoy.png",Movee 4U
-https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/YgRz2Cc.png",Movie Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Ws48Kto.png",MVP TV
-https://nrpus.bozztv.com/36bay2/gusa-mvptv/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ypU7u8P.png",My Jam
-https://nimble.dashstreams.net/onestudio/musicjam/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/RZKS8XS.png",My Life TV
-https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/3i4qzlo.png",My Music Channel
-https://nimble.dashstreams.net/onestudio/mymusicchannel30a/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/V9QUmcQ.png",Mythos
-https://nrpus.bozztv.com/36bay2/gusa-mythos/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/VX4uHSO.png",NASA TV (Opt-1)
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/VX4uHSO.png",NASA TV (Opt-2)
-http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/VX4uHSO.png",NASA TV Media
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/zGUrIlJ.png",NBC (WTVJ) (Opt-1)
-http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ZIV3Yum.png",NBC News Now
-https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/2MyiyMl.png",New Orleans TV
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png",Newsmax TV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Fc40om4.jpg",NewsNet
-http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png",Newsy
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/QSH4Z4p.png",Nothing Scripted
-http://30a-tv.com/NothingScripted.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ED80lIa.png",nPodados de TV
-https://nimble.dashstreams.net/onestudio/npowered/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/RMnzfj1.png",Opportunity Knocks TV
-https://nimble.dashstreams.net/onestudio/myoktv/chunks.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/sXsyc1o.png",Outside TV
-https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/fY0d5DK.png",People TV
-https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/cR9FCTg.png",Planet Cannabis
-https://edge1.dashmedia.tv/onestudio/planetshopping/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/cpxAk6k.png",Planet Music
-https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/xPmRZ19.png",Pop
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/klTg1kk.png",Prime Time Drama
-https://nrpus.bozztv.com/36bay2/gusa-ptd/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/5VUZTa1.png",RedBox Battery Pop
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/jL5IWRZ.png",RedBox Comedy
-https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/nZEaSAb.png",RedBox Film Hub
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/6g3c2Yb.png",RedBox Hi-Yah!
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/QL40Cv2.png",RedBox Kabillion
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/iK3OHVr.png",RedBox Maverick Movies
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/WAs8vD1.png",RedBox Rush
-https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/KqjTIh8.png",RedBox Spotlight
-https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull TV (Opt-1)
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull TV (Opt-2)
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull TV (UHD)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/zZRKYMd.png",Regalia TV
-https://edge1.dashmedia.tv/onestudio/regalia_network/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/y9JXK2I.png",Right Now TV (Opt-1)
-https://edge1.dashmedia.tv/onestudio/rightnowtv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/y9JXK2I.png",Right Now TV (Opt-2)
-https://nimble.dashstreams.net/onestudio/rightnowtv/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/3o9cG76.png",Rooster Teeth TV
-https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/qdEbn9i.png",Rope 2 Rope
-https://nrpus.bozztv.com/36bay2/gusa-rope2rope/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/RX6YusQ.png",Sci-fi 4U
-https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/yfEizcN.png",Screamfest
-https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/CWis50a.png",SEC Network
-https://gma2.blab.email/sec.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/NsDqO4M.png",Sent TV Global Network
-https://nrpus.bozztv.com/36bay2/gusa-stgn/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ZNw2dfV.png",She TV
-https://edge1.dashmedia.tv/onestudio/She_Tv_Network/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/OG8ifFe.png",Shop HQ
-https://aos01-evine.secure.footprint.net/evine/cleanfeed/VIDEO_0_2064000.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/woxovZh.png",Shopping 4U
-https://edge1.dashmedia.tv/onestudio/shopping_4u/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png",Sidewalks
-http://30a-tv.com/sidewalks.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/2YtbM9i.png",Sports TV Plus
-https://nimble.dashstreams.net/onestudio/sportstvplus/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/X72z8BW.png",Sportskool
-https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/RSHCC2y.png",Spydar TV (Opt-1)
-https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/RSHCC2y.png",Spydar TV (Opt-2)
-https://nimble.dashstreams.net/onestudio/spydar/chunks.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/7VSgAQu.png",Street Music 4U (Opt-1)
-https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/7VSgAQu.png",Street Music 4U (Opt-2)
-https://nrpus.bozztv.com/36bay2/gusa-streetmusic4u/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/mYGNZ0A.png",Studio C
-https://a.jsrdn.com/broadcast/d5b46/+0000/c.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/GiMMorw.png",Switch TV
-http://nrpus.bozztv.com/36bay2/gusa-switch/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/YeSygn7.png",TBD
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ZSfrcxH.png",Tennis Channel
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/ZSfrcxH.png",Tennis Channel Plus
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/1pxXEtP.png",The Asylum
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/0j5Aget.png",The Beach Show
-http://30a-tv.com/beachy.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png",The Outdoor Cooking Channel
-http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/iAbU1OU.png",The Pet Collective 1
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/iAbU1OU.png",The Pet Collective 2
-http://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/uIZpZky.png",The Titanic Channel
-https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1024px-The_Weather_Channel_logo_2005-present.svg.",The Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/FQCVaSR.png",This TV Network
-https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/wzBD6fy.png",TMZ
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/O16gJHS.png",TNT (Opt-1)
-http://cdnak8.cast4u.info/channels/2/10802.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/O16gJHS.png",TNT (Opt-2)
-http://cdnak8.cast4u.info/channels/3/10803.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/GFyJviy.png",Travel 4U
-https://edge1.dashmedia.tv/onestudio/travel4u/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Boxing
-https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Classic Movies
 http://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Classic Sports
-https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Drive-in Movie
-http://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Family Channel
-http://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Flashback
-https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Frontier
-https://nrpus.bozztv.com/36bay2/gusa-tvsfrontier/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS High Tops
-https://nrpus.bozztv.com/36bay2/gusa-hitops/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Hollywood History
-http://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Main Street
-https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Nostalgia
-https://nrpus.bozztv.com/36bay2/gusa-nostalgia/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Nostalgias
-http://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Sports
-https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Tavern
-https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Turbo
-https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS TV Network
-http://nrpus.bozztv.com/36bay2/gusa-tvstn/index.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Western Movies
 http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Women Sports
-https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/qg0QrUp.png",TWiT
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/lPyJhBN.png",UN Web TV
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/JBokzH9.png",Urban Music 4U
-https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/0VI7V1A.png",USA Network
-http://cdnak8.cast4u.info/channels/4/10804.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png",Voice of America (PST)
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png",Voice of America (EST)
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/osPumZr.png",Weather 4U
-https://nimble.dashstreams.net/onestudio/weather4u/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/fpOQ6jj.png",Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/nFSaVJ2.png",Westerns 4U
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/zYB6Ae8.png",Wink TV
-https://nimble.dashstreams.net/onestudio/winktv/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/HNp0cBp.png",WMFD 68 Ohio
-https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/uckThBl.png",WSJ Live (VOD)
-http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/WSVI_Logo.png",WSVI-TV
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/8JAnpoj.png",Xcorps TV
-http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/c3Z5i2L.png",Z Living (Opt-1)
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/c3Z5i2L.png",Z Living (Opt-2)
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/8jjHm3a.png",Akaku 53 Hawaii
-https://akaku.vod.castus.tv/live/ch1.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/8jjHm3a.png",Akaku 54 Hawaii
-https://akaku.vod.castus.tv/live/ch2.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/8jjHm3a.png",Akaku 55 Hawaii
-https://akaku.vod.castus.tv/live/ch3.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/LqGSdNg.png",Beach TV CSULB
-http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/RnOS2Ct.png",Bowie TV
-http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/iAWNBq2.png",Buffalo TV
-http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/Uhi2iae.png",BUTV10 BU
-http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/8w3N2k3.png",Capital City Connection Montgomery
-http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/gs8x5ES.png",CC-TV Charlotte County
-http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
 #EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/DJG1KGR.png",CCX Media Minnesota
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/ht6KgDW.png",Cerritos TV3
-http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/1p2WF6I.png",CGTV Champaign
-http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/UxEzPeX.png",Connecticut Network
-http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/UxEzPeX.png",Connecticut Network (Alimentación de la corte)
-http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/UxEzPeX.png",Connecticut Network (Instant)
-http://video.ct-n.com/live/ctnspare/chunklist_w252238746_DVR.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/UxEzPeX.png",Connecticut Network (Live Stream 1)
-http://video.ct-n.com/live/web1stream/chunklist_w1992415243_DVR.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/UxEzPeX.png",Connecticut Network (Live Stream 2)
-http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/pY66Xjp.png",DC Council Channel
-http://video.oct.dc.gov/out/u/15_12.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/lRNAnGS.png",Denver 8 TV
-http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
 #EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/UnbstRH.png",Escambia TV
 http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
 #EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/pWsmV4z.png",Fairfax Public Access
 http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/KiFsDBi.png",Galveston County TV
 https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/xkiZlyd.png",Glendale 11
-https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/wHb9BLd.png",Greensboro TV
-http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
 #EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/rfTBd6H.png",Cámara de Representantes
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/FXOQfqa.png",KBVR TV OSU
-http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/REqqKQ9.png",Lake Havasu City 4
-https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/LzaXjsz.png",Leominster TV Government
-http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/LzaXjsz.png",Leominster TV Educational
-http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/LzaXjsz.png",Leominster TV Public
-http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/N2sVD8V.png",Lex TV
-http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/9PywJCs.png",Lindenwood University TV
-https://lindenwood-lh.akamaihd.net/i/lindenwood_1@728008/master.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/F95hUZ4.png",LNKTV City
-http://5tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/jOhhLQQ.png",LNKTV Health
-http://10tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/ZjUslsT.png",LNKTV Education
-http://80tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/FBr6UAw.png",Local Now
-https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/6C9dWLK.png",LVTV-3 La Verne Community TV
-https://na-us-se13.secdn.net/pegstream3-live/play/d6af6526-5e48-4f8d-aa2c-ed1c270f20d0/chunklist_w2046155663.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/6Qq40gn.png",Naz Today
-https://stream.ec.nau.edu/live/amlst:channelfour/chunklist_w842042479_b628000.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/3aPf3il.png",NYXT NYC
-http://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/Yf0MFYU.png",Olelo Community Media 49
-http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/Yf0MFYU.png",Olelo Community Media 53
-http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/Yf0MFYU.png",Olelo Community Media 54
-http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/Yf0MFYU.png",Olelo Community Media 55
-http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/s3FQwRN.png",Orange TV
-http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/otj9cSL.png",PATV Great Neck
-http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/80ihcjR.png",RyeTV
-http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
 #EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/X8s5JMg.png",Seattle Colleges TV
 https://5caeec96c1972.streamlock.net/broadcast/scctv/playlist.m3u8
 #EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/fB0jYOO.png",St. Charles Parish TV
 http://66.210.225.230/live/CELL-496k-270p/CELL-496k-270p.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/WmFBaX6.png",Southeastern Channel
-http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/Sb1nuei.png",Tempe 11
-http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/tV8tVxQ.png",Texas Student TV
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/OF24Hon.png",Town of Vienna Community Network (Opt-2)
-https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_003/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/SrRxU67.png",TVW
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/SrRxU67.png",TVW-2
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/OTZxloq.png",UALR TV
-http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/77PehgD.png",UWW-TV UW Whitewater
-http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/chunklist_w2102626622_b300000.m3u8
 #EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/cOx41cu.png",WCCA TV Worcester (Opt-1)
 http://worcester.vod.castus.tv/live/ch1.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA PUBLIC" tvg-logo="https://i.imgur.com/sxxRphV.png",White Plains Community Media
-http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png",Baton Rouge: WBRZ 2 Plus
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/5MfhbGP.png",Boston: 7News (Opt-1)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/WtHTLfg.png",Boston: CBS News
-https://cbsn-bos-cedexis.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master_6.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/VyddAhr.png",Boston: Fox News 25 (Opt-1)
-http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/AoCX1T1.png",Charlotte: WCNC Breaking News
-http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/GSdRkIw.png",Chattanooga: ABC 9 News
-http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/KKyaN9l.png",Chicago: NBC 5 News
-http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/KdwKEmV.png",Corpus Christi: KRIS News
-https://api.new.livestream.com/accounts/16030759/events/4495499/live.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/AqfOsIO.png",Dayton: WHIO 7 News (Opt-1)
-http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/AqfOsIO.png",Dayton: WHIO 7 News (Opt-2)
-http://svc-lvanvato-cxtv-whio.cmgvideo.com:80/whio/2596k/index.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/8sQ5mfL.png",Detroit: ABC 7 News
-https://content-auso2.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8?ad=live
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/3czIO1P.png",Hartford: WVIT 30 News
-http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/lAtiWkI.png",Indianapolis: CBS 4 Noticias
-http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/master.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/LW3Dfbt.png",Jacksonville: WJAX Action News (Opt-1)
-http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/LW3Dfbt.png",Jacksonville: WJAX Action News (Opt-2)
-https://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/564k/index.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/QbkW7zY.png",Las Vegas: 13 Action News
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
 #EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/qev72Gl.png",Los Angeles: CBS News
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/qOO32m6.png",Madison: NBC 15 Noticias
-http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
 #EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/5Pwso5N.png",Minnesota: CBS News
 http://cbsn-min-cedexis.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master_6.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/Fx4yQRv.png",Monroe: KNOE 8 Noticias
-https://dai2-playlistserver.aws.syncbak.com/playlist/893553/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjcyMzUsImlzcyI6IldMUyIsIm1kNSI6IjM5YWE1ZjczMTgyYTg0NThiY2QzOTcxMjQzYzVhZDc1IiwibWlkIjoiODkzNTUzIn0.v4oZTq8PnYSg_UAfc_nt9tO2ThQy44A-F8-colQ2Ijg
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/9xsosXt.png",New York: CBS News
-https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/TTrg1Rf.png",Omaha: 3News Now
-http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/guCZLoL.png",Philadelphia: CBS News
-http://cbsn-phi-cedexis.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master_6.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/xTeyO06.png",Philadelphia: NBC 10 Noticias
-http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/EQPIi0J.png",Pittsburgh: WPXI 11 Noticias
-http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/Ghgq1PM.png",San Francisco: NBC 11 Noticias
-http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/dIpu0v5.png",Seattle: KIRO 7 News
-http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/K4YSmkH.jpg",Seattle: KOMO 4 News
-https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/qIeREW7.png",Toledo: WTOL 11 Noticias
-http://api.new.livestream.com/accounts/12003465/events/3786544/live.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/t7HFTyE.png",Washington DC: CBS 9 Noticias
-https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/qEx2bMU.png",Washington DC: NBC 4 News
-https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/y87yAbK.png",Washington DC: Telemundo 44
-https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
-#EXTINF:-1 group-title="USA GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Charge%21_network_logo.png",Charge! (Geo)
-https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 group-title="USA GEO" tvg-logo="https://i.imgur.com/ZIZZG8v.png",Comet TV (Geo)
-http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
-#EXTINF:-1 group-title="USA GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/KidsClickLogo.png",Kids Click (Geo)
-https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://i.imgur.com/Z9mtDne.png",CPAC
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://i.imgur.com/avIsx8W.png",EMCI TV Montreal (Opt-2)
-https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/index.m3u8
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://i.imgur.com/2WXZ6MB.png",Ici RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://vignette.wikia.nocookie.net/jeopardyhistory/images/3/32/Cjon_ntv_st_john.png",NTV Newfoundland
-https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://i.imgur.com/BUiwYlr.png",Space (No Audio)
-http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://i.imgur.com/2ZAz5Df.png",Tele V
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://i.imgur.com/i3lItFB.png",The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://i.imgur.com/JgRDyaB.png",TVO Kids
-https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/HL7fwzt.png",Afrobeats
-https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png",BBC News
-https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg TV
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png",Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/aUyuS7T.png",BritCom
-https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/pcpSfMD.png",CBBC
-http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/eD8zkhY.png",Cruise1st TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Gemporia_tv_in.png",Gemporia (Opt-2)
-http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/CzsBnvf.png",Horizon Sports
-https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/zbuuLmm.png",ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="http://undergroundbass.co.uk/image/koollondon.png",Kool London Radio
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/jJhXY0I.png",QVC
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/jJhXY0I.png",QVC +1
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/jJhXY0I.png",QVC Beauty
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/jJhXY0I.png",QVC Style
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/jJhXY0I.png",QVC Extra
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/IlSYKSK.png",Sheffield Live! 93.2 FM
-http://tv.sheffieldlive.org/hls/main.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png",Sky News (Opt-1)
-http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png",Sky News (Opt-2)
-http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png",Sky News (SD)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png",Sky News (HD)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/8Beeu4z.png",Sunburn TV
-https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="http://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png",Superyacht TV
-http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/55vA85a.png",The Boat Show
-https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/gPaTIUd.png",The Box
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/oitvOug.png",World of Free Sports
-https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
-#EXTINF:-1 group-title="IRELAND" tvg-logo="https://i.imgur.com/SMvAjyK.png",TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/3AW693logo.svg/1200px-3AW693logo.svg.png",3AW 693 AM Melbourne
-http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
-#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/ZeC0jE4.png",Canal de Australia
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg Television
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
-#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/h4PmdaN.png",C31 Melbourne
-https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Expo_2015_logo.png",Expo Channel
-http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
-#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/vLdszKt.png",Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/gRrfqSb.png",Rainbow TV Chinese
 http://rtvcdn.com.au:8082/TV_GG.m3u8
-#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG",Sky News Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG",Sky News Extra 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://www.foxtel.es/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG",Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 group-title="NEW ZEALAND" tvg-logo="https://i.imgur.com/cNW54Mp.png",Maori TV (Opt-1)
-http://i.mjh.nz/nz/tv.13.m3u8
-#EXTINF:-1 group-title="NEW ZEALAND" tvg-logo="https://i.imgur.com/cNW54Mp.png",Maori TV (Opt-2)
-https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
-#EXTINF:-1 group-title="NEW ZEALAND" tvg-logo="https://i.imgur.com/yrJVHTd.png",Te Reo
-http://i.mjh.nz/nz/tv.20.m3u8
-#EXTINF:-1 group-title="NEW ZEALAND" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Three_NZ_TV.png",Three
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
-#EXTINF:-1 group-title="NEW ZEALAND" tvg-logo="https://i.imgur.com/uimDc6Q.png",TVSN (Opt-1)
-http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
-#EXTINF:-1 group-title="NEW ZEALAND" tvg-logo="https://i.imgur.com/uimDc6Q.png",TVSN (Opt-2)
-http://i.mjh.nz/nz/tv.45.m3u8
-#EXTINF:-1 group-title="NEW ZEALAND" tvg-logo="https://i.imgur.com/qwGFZKE.png",Wairarapa TV
-http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
-#EXTINF:-1 group-title="FIJI" tvg-logo="https://i.imgur.com/IadxyNl.png",Fiji One
-http://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8
-#EXTINF:-1 group-title="JAMAICA" tvg-logo="https://i.imgur.com/UgMGtYq.png",Mello TV
-https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
-#EXTINF:-1 group-title="BAHAMAS" tvg-logo="https://i.imgur.com/vYGbcsw.png",ILTV Studios
-http://iltv.cachefly.net/live/live_720p/chunklist_w623022374.m3u8
-#EXTINF:-1 group-title="ST KITTS" tvg-logo="https://i.imgur.com/RURzxJj.png",ZIZ TV
-http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
 #EXTINF:-1 group-title="NIGERIA" tvg-logo="https://i.imgur.com/GABQwC2.png",Quest TV
 https://rrsatrtmp.tulix.tv/questtv1/questtv1multi.smil/chunklist.m3u8
-#EXTINF:-1 group-title="GAMBIA" tvg-logo="https://i.imgur.com/oFfvEhL.png",QTV
-https://player.qtv.gm/hls/live.stream.m3u8
-#EXTINF:-1 group-title="ALEMANIA" tvg-logo="https://i.imgur.com/bci3Sbi.png",1-2-3 TV
-http://123tv.cdn.ses-ps.com/index.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/1200px-ARD_alpha.svg.png",ARD-alpha
-http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/ExwbjFn.png",Baden TV (Opt-1)
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/ExwbjFn.png",Baden TV (Opt-2)
-https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/DezlOqt.png",BLK TV Hohenm-lsen
-http://62.113.210.250/medienasa-live/BLKonline_high/playlist.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/BR_Dachmarke.svg/1200px-BR_Dachmarke.svg.png",BR Nord
-http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/BR_Dachmarke.svg/1200px-BR_Dachmarke.svg.png",BR Sued
-http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",Campus TV Magdeburg
-http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/7wABSuo.png",Das Erste
-https://mcdn.daserste.de/daserste/de/profile1/index.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/kJcwaOU.png",Deutsche Welle (Opt-1)
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/kJcwaOU.png",Deutsche Welle (Opt-2)
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/kJcwaOU.png",Deutsche Welle (Opt-3)
-http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/kJcwaOU.png",Deutsche Welle (Opt-5)
-http://45.126.83.51/qwr9ew/s/s26/index.m3u8
 #EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/SztpK9s.png",Deutsches Musik Fernsehen (Opt-1)
 http://tv.artcom-venture.de:1322/dmf/tv.m3u8
 #EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/SztpK9s.png",Deutsches Musik Fernsehen (Opt-2)
 http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/IRNtpKZ.png",Elbekanal
-http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/2f/ERF_1_Logo_2011.png",ERF 1
-https://cldf-wzw-live.r53.cdn.tv1.eu/14000erf/_definst_/live/app610238466/w2371551233/live.smil/chunklist_b18848000_slde.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/19iKLvf.png",Filstalwelle
-http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/QrkSlb8.png",Folx TV (Opt-1)
-http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/QrkSlb8.png",Folx TV (Opt-2)
-http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/H1-logo.svg/1200px-H1-logo.svg.png",H1
-http://livestream.htp.tv/livestream.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/HR_Dachmarke.PNG",HR Fernsehen (Opt-1)
-http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/HR_Dachmarke.PNG",HR Fernsehen (Opt-2)
-http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://kulturmd.de/images/2018_KMDLogo.png",kulturmdTV
-http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/wly9rEx.png",MDF 1 Magdeburg (Opt-1)
-http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png",NDR Hamburg
-https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png",NDR Mecklenburg-Vorpommern
-https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png",NDR Niedersachsen
-https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
 #EXTINF:-1 group-title="GERMANY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png",NDR Schleswig-Holstein
 https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/dputoRM.png",Noa 4 Norderstedt
-http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/dputoRM.png",Noa 4 Hamburg
-http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/RkF2Kmx.png",NRWision
-https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist_w1070249849.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/HHZdrCJ.png",Offener Kanal Dessau
 http://62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/BHTsPMP.png",Offener Kanal Magdeburg
-http://62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/VznJYCD.png",Offener Kanal Merseburg
-http://62.113.210.250:1935/medienasa-live/ok-merseburg_high/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/B5obZtE.png",Offener Kanal Salzwedel
-http://62.113.210.250/medienasa-live/ok-salzwedel_high/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/iJwx7Pr.png",Offener Kanal Stendal
-http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/1NGWR7F.png",Parlamentsfernsehen 1
-https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/1NGWR7F.png",Parlamentsfernsehen 2
-https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/bcyjOMn.png",Punktum Südharz
-http://62.113.210.250/medienasa-live/punktum_high/master.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/jJhXY0I.png",QVC Deutschland
-http://ios-stream.qvc.de/qvc.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/w6ViBlV.png",Radio 21 Hannover
-http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 #EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/9pvCYaA.png",Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 group-title="ALEMANIA" tvg-logo="https://i.imgur.com/Z4UHqFe.png",RAN1
-http://62.113.210.250/medienasa-live/mp4:ran1_high/master.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/kpLzeEw.png",RBW
-http://62.113.210.250/medienasa-live/rbw_high/master.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/7bRmnXj.png",RFH Harz
-http://62.113.210.250/medienasa-live/RFH_high/master.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rnf.png",Rhein-Neckar Fernsehen (Opt-2)
-http://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/Nvw7SaN.png",Saarland Fernsehen 1
-http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/Nvw7SaN.png",Saarland Fernsehen 2
-http://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/bhb0vtB.png",Sonnenklar TV
-http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="http://sonus.fm/img/sonus_logo.png",Sonus FM TV
-http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
-#EXTINF:-1 group-title="ALEMANIA" tvg-logo="https://i.imgur.com/Y4fzv1Y.png",S.D.M.Regionalfernsehen
-http://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/mdn1EUn.png",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1 group-title="ALEMANIA" tvg-logo="https://i.imgur.com/DJhksTk.png",TV38 Salzgitter
-https://5857499ee635b.streamlock.net/tv38-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/GUBVccx.png",TV Halle
-http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/ob9JJPU.png",TV38 Sudost-Niedersachen
-http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png",Unserding
-http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/1200px-Wdr_fernsehen_logo_2016.svg.png",WDR Fernsehen
-http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://i.imgur.com/whkL3zr.png",WTV Wettin
-http://62.113.210.250:1935/medienasa-live/ok-wettin_high/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="AUSTRIA" tvg-logo="https://i.imgur.com/SK9IQ1Z.png",Dorf TV
-https://stream.openplayout.org/hls/dorf.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="AUSTRIA" tvg-logo="https://i.imgur.com/P5pc813.png",FS1 Salzburg
-http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1 group-title="AUSTRIA" tvg-logo="https://i.imgur.com/B8gPakq.png",Hitradio Ö3
-http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
-#EXTINF:-1 group-title="AUSTRIA" tvg-logo="https://i.imgur.com/uGhYkCv.png",KroneHit TV
-http://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
-#EXTINF:-1 group-title="AUSTRIA" tvg-logo="https://i.imgur.com/xmfgBrg.png",M4
-https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8
-#EXTINF:-1 group-title="AUSTRIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Oe24_Logo_2016.png",Oe24
-http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
-#EXTINF:-1 group-title="AUSTRIA" tvg-logo="https://i.imgur.com/lbmX2he.png",Okto TV
-https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/chunklist.m3u8
-#EXTINF:-1 group-title="AUSTRIA" tvg-logo="https://i.imgur.com/lYE0aq4.png",P3tv
-http://p3-6.mov.at:1935/live/weekstream/master.m3u8
-#EXTINF:-1 group-title="AUSTRIA" tvg-logo="https://i.imgur.com/J0Im9sF.png",R9
-https://ms01.w24.at/R9/smil:liveeventR9.smil/chunklist_w870289389_b2112000_slger.m3u8
-#EXTINF:-1 group-title="AUSTRIA" tvg-logo="https://i.imgur.com/YlNzOWy.png",Teins TV
-http://live1.markenfunk.com/t1/live/chunklist.m3u8
-#EXTINF:-1 group-title="AUSTRIA" tvg-logo="https://i.imgur.com/IUhaOz5.png",W24
-https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w1705775763_b2176000_slger.m3u8
-#EXTINF:-1 group-title="LIECHTENSTEIN" tvg-logo="https://i.imgur.com/WDHjuRr.png",Kommu TV
-http://31.10.19.12:8066/live/999/0.m3u8
-#EXTINF:-1 group-title="LIECHTENSTEIN" tvg-logo="https://i.imgur.com/0Snau0u.png",Mediashop TV
-https://cdn1-europe.smartcast.tv/mediashop/mediashop1/chunklist_w1921464012.m3u8
-#EXTINF:-1 group-title="LUXEMBOURG" tvg-logo="https://i.imgur.com/QHcQugz.png",Chamber TV
-http://media01.webtvlive.eu/chd/smil:chamber_tv.smil/playlist.m3u8
-#EXTINF:-1 group-title="LUXEMBOURG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Luxe-TV-Logo.svg/1280px-Luxe-TV-Logo.svg.png",Luxe TV
-http://210.210.155.35/session/05d2c14e-6b67-11e9-bfc0-bf178cc3b135/x6bnqe/s/s65/index1.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="LUXEMBOURG" tvg-logo="https://i.imgur.com/pHBTJ9v.png",RTL (Opt-2)
-http://live-edge02.rtl.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:-1 group-title="LUXEMBOURG" tvg-logo="https://i.imgur.com/pHBTJ9v.png",RTL (Opt-3)
-http://live-edge01.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/rdGg9lP.png",1Limburg
-http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/TWWo1Pp.png",1Twente
-http://ms7.mx-cd.net/tv/198-989148/1Twente_TV.smil/playlist.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/vPYBvXv.png",BNR Nieuwsradio
-http://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/gCkGwtj.png",BVN
-https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/gkzlRED.jpg",Den Haag TV
-http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/epKiEaX.png",DNO Radio (Opt-1)
-http://58e4d59f4ba2c.streamlock.net/streektv/streektv/playlist.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/epKiEaX.png",DNO Radio (Opt-2)
-http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/y9RBvZk.png",Folketinget TV
-https://cdnapisec.kaltura.com/p/2158211/sp/215821100/playManifest/entryId/1_24gfa7qq/format/applehttp/protocol/https/uiConfId/41529681/a.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/Dzfjea6.png",GO-RTV
-http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/IBtSSp5.png",Meer Vandaag
-http://593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/RlC6eyV.png",Omrop Fryslan
-https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/KLYsKKC.png",Omroep Brabant
-http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/KLYsKKC.png",Omroep Brabant Radio
-http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/mv2g6ZM.png",Omroep Ede
-https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_w1121029744_b1894400_slNLD.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/TNJnTw2.png",Omroep Flevoland
-http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/2LZJo7k.png",Omroep Gelderland
-https://web.omroepgelderland.nl/live/livetv.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/GKVaZYH.png",Omroep P&M
-http://ms7.mx-cd.net/tv/153-840564/Omroep_Peel_en_Maas_TV.smil/chunklist.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/rhazkU7.png",Omroep Tilburg
-https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/chunklist_w1521128841_b1894400_slNLD.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/j1HwXBj.png",Omroep West
 http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/3c3QUSn.png",Omroep Zeeland
-https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/u9cYVmP.png",QMusic 100.7 FM Amsterdam
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/wDB4Gd2.png",Radio 10
-http://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/Q5.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/0uxI1Rm.png",Radio 538 102.1 FM Amsterdam
-http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/HKK3Ww5.png",Radio Veronica
-http://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/Q2.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/7oQYDrA.png",Regionieuws TV Groningen (Opt-1)
-http://558bd16067b67.streamlock.net/regiomedia/regiomedia/playlist.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/7oQYDrA.png",Regionieuws TV Groningen (Opt-2)
-http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/xqBGPA1.png",RTV Arnhem
-http://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/chunklist_b1894400_slNLD.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/y9xoC53.png",RTV Dordrecht
-http://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/chunklist_w1043703258_b1894400_slNLD.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/1B7yn1l.png",RTV Drenthe
-https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/NRF3hv5.png",RTV Maastricht
-http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/akN2ODG.png",RTV Noord
-https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/akN2ODG.png",RTV Noord Extra
-http://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
 #EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/xC9hOVK.png",RTV Noordoost Friesland
 http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/18ofnZo.png",RTV Rijnmond
-https://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/tq8Fdzl.png",RTV Utrecht
-https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
 #EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/SFJ631H.png",RTV Westerwolde
 http://59132e529e3d1.streamlock.net/westerwolde/westerwolde/playlist.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/UsvYYa9.png",TV Valkenburg
-http://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/fB7oSyS.png",WeertFM 107.5 FM Eindhoven
-http://ms7.mx-cd.net/tv/109-573495/MLA.smil/playlist.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/FppoWmw.png",WOS TV
-http://ms7.mx-cd.net/tv/99-475825/WOS.smil/chunklist.m3u8
-#EXTINF:-1 group-title="NETHERLANDS" tvg-logo="https://i.imgur.com/T1tr9rQ.png",Ziggo Sport Voetbal
-http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/dc/Alsace_20_logo_2017.png",Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/3SPiQ7U.png",BFM Lyon
-https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/4buTOS3.png",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/hGEcXbk.png",BipTV
-https://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/GEUzSd4.png",CGTN Français (Opt-2)
-http://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/tK5ZiIU.png",D5TV
-https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://www.dici.fr/sites/dici.fr/themes/dici2017/assets/img/dici-tv.png",Dici TV
-http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/H8XOrGL.png",DJing Classics
-https://www.djing.com/tv/classics.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/H8XOrGL.png",DJing Dancefloor
-https://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/H8XOrGL.png",DJing Hits
-https://www.djing.com/tv/hits.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/H8XOrGL.png",DJing Karaoke
-https://www.djing.com/tv/karaoke.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/H8XOrGL.png",DJing Live
-https://www.djing.com/tv/live.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/H8XOrGL.png",DJing Underground
-https://www.djing.com/tv/underground.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/rKaqWo5.png",Ere TV
-http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
 #EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/sdF6uxL.png",Espace Francophone
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/gDOEH0A.png",France 24 (Opt-1)
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/gDOEH0A.png",France 24 (Opt-3)
-http://45.126.83.51/qwr9ew/s/s22/index2.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/fcnRf1f.png",Fashion TV (Opt-1)
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/fcnRf1f.png",Fashion TV (Opt-2)
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/fcnRf1f.png",Fashion TV (Opt-3)
-https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/fcnRf1f.png",Fashion TV (Opt-4)
-https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/fcnRf1f.png",Fashion TV (HD)
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/fcnRf1f.png",Fashion TV (UHD)
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/iYalq6I.png",Gong Max
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://www.grandlille.tv/wp-content/uploads/2018/09/logo-gltv-w.png",Grand Lille TV
-https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/yDdOr52.png",ILTV
-http://str81.creacast.com:80/iltv/high/playlist.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/xDLwsbY.png",La Chaine Normande
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/W1Vg3yP.png",MyComedy
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/AAa56m6.png",RMC Info Talk Sport
-https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/gVedXRh.png",RT France
-http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/dtHaTAy.png",TeleToon+
-http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/AJx5Fy2.png",TV5 Monde Info (Opt-1)
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/AJx5Fy2.png",TV5 Monde Info (Opt-2)
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/AJx5Fy2.png",TV5 Monde Info (Opt-3)
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/AJx5Fy2.png",TV5 Monde Info (Opt-4)
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/BDCzumR.png",TV5 Monde Style (Opt-1)
-http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/BDCzumR.png",TV5 Monde Style (Opt-2)
-http://45.126.83.51/uq2663/h/h01/index.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://i.imgur.com/pZluyZ0.png",TV7 Colmar
-http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/92/TVPI_logo.png",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/DMoPR0m.png",AB Channel
-https://59ef7ad665d1d.streamlock.net:1443/abchannel/abchannel/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/u0ToXlZ.png",Abruzzo Live TV
-https://59ef7ad665d1d.streamlock.net:1443/abchannel/_definst_/abchannel/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="http://www.altoadigetv.it/images/resource/logo-alto-adige.png",Alto Adige TV
-http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/EkFih9T.png",Aurora Arte
-https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="http://www.vcoazzurratv.it/images/1_tg_loghi/logo_vcoazzurratv_old_03.png",Azzurra TV Verbano
-https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/de6nZzv.png",CafeTV24 Veneto (Opt-1)
-https://srvx1.selftv.video/cafe/live/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/de6nZzv.png",CafeTV24 Veneto (Opt-2)
-http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/uh4R5Ih.png",Canale 2 Altamura
-https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/GYbblQi.png",Canale 7 Puglia (Opt-1)
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/FuFdjbh.png",Canale 8 Campania
-http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/v9q5LKw.png",Canale 10 Ostia
-http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://www.canale12.it/wp-content/uploads/2018/08/LOGO_canale12_arrotondato150x150.png",12 Canale Sassari
-http://wifitv.tv/media/live/1001/video.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/E17Mf6A.png",Canale 21 Campania
-http://live.sloode.com:1935/canale21/live/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/1e/Canale_Italia_Logo_2015.png/260px-Canale_Italia_Logo_2015.png",Canale Italia
-http://ac024fe.streamcloud.it/service/media-provider/live/4847/playlist.m3u8?accessToken=51c3544ac33a24b012ba69bf6349db78
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/9fR1Gfh.png",Company TV (Opt-1)
-http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/S3HNMYb.png",DeeJay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/rVmYgd5.png",DMAX
-https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/WCKqN4B.png",Eden 86 TV
-http://wma02.fluidstream.net/EdenTV/smil:EdenTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://www.elivebrescia.tv/wp-content/uploads/2018/09/Logo_nuovo_CLAIM.png",Elive TV Brescia
 https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://www.esperia.tv/file/2018/10/EsperiaTVwhite.png",Esperia TV (Opt-1)
 https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://www.esperia.tv/file/2018/10/EsperiaTVwhite.png",Esperia TV (Opt-2)
 http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="http://www.etvmarche.it/wp-content/uploads/2017/07/logo_etv.png",ETV Marche (Opt-1)
-http://live.sloode.com:1935/etvmarche_live/_definst_/etvmarche/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/eurtz6A.png",Euro Indie Music Chart
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/XUxxUm1.png",FM Italia
-http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/cbIdMsw.png",Globus TV Sicilia
-https://flash2.xdevel.com/globusradiocam/globusradiocam/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/8Nba42X.png",Gold TV Roma
-http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/nWBWzNy.png",Icaro TV Rimini
-https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/1e/Canale_Italia_Logo_2015.png/260px-Canale_Italia_Logo_2015.png",Italia 141
-http://streamcloud-idc.azureedge.net/ac024_live/iphone1/chunklist.m3u8?accessToken=51c3544ac33a24b012ba69bf6349db78
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/TDSgG28.png",Italia 2 TV
-http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/EDxwssu.png",La C TV (Opt-1)
-http://cdn.mainstreaming.tv/live/100197/SOrBDPy/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/EDxwssu.png",La C TV (Opt-2)
-http://StreamCdnC3.mainstreaming.tv:80/cdn/live/100197/SOrBDPy/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/IFPpG7X.png",La TR3 Marsala
-https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/4RKmGcr.png",Canal Lucania
-http://wms.shared.streamshow.it/lucaniatv/mp4:lucaniatv/chunklist_w852349934.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/Nr33fOb.png",Motor Trend
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/wYiQzXK.png",Nove
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/99/Ondatv.jpg",Onda TV Sicilia
-https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/Ia7iULa.png",Orler TV Favaro Veneto
-https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/T4Ez70j.png",Otto Channel
-https://meridelive-lh.akamaihd.net/i/ottop_1@118465/master.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/2jE6ItV.png",Otto FM TV
-http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/OKhpyWr.png",Paradise TV Ercolano
-https://59ef7ad665d1d.streamlock.net:1443/paradisetv/_definst_/paradisetv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/PHmQHas.png",Pescara TV
 http://193.70.81.40:1935/pescaratv/_definst_/pescaratv/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="http://www.primativvu.it/wordpress/wp-content/uploads/2015/03/Prima-Tivvu.png",Prima Tivvu
-https://sb.top-ix.org/streamtech/tvlive1/chunklist_w921110763.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/ouSptk1.png",Prima TV Sicilia
-http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/ulnaRuC.png",Primocanale Liguria (Opt-1)
-http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/yz3LSXo.png",Radio 51 Lombardia
-http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/kzvsNo2.png",Radio Birikina TV
-https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/FUoyfCK.png",Radio Capital (Opt-1)
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/FUoyfCK.png",Radio Capital (Opt-2)
-http://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="http://www.conodeliaband.it/wp-content/uploads/2016/07/Radio-Carina-Azzurro.png",Radio Carina Potenza
-http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/KDtVpLl.png",Radio Iglesias Sardegna
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/bedxx0y.png",Radio Italia TV (Opt-1)
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/bedxx0y.png",Radio Italia TV (Opt-2)
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/59o3EXZ.png",Radio Italia Vision Ravena
-http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="http://www.nododigordio.org/assets/uploads/2018/10/RL_06-300x168.png",Radio Lombardia TV
-https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/ghLKlHs.png",Radio m20 Lazio
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/8cpuaG5.png",Radio Número Uno
-http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/DfugVgy.png",Radio Piterpan
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/3UvjR39.png",Radio Studio 7
-https://flash7.xdevel.com/studio7mctv/studio7mctv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/9Zess4Q.png",Radio Universal TV Catania
-http://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/NiO6TYC.png",Radio Zeta TV
-https://rtl-radio-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/O8ByUjT.png",Radiofreccia
-https://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/NLBLh4j.png",Radionorba TV (Opt-1)
-http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1280px-Rai_News_24_-_Logo_2013.svg.png",Rai News 24
-http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/Rai_Südtirol.svg-0.png",Rai Sudtirol (Switzerland)
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/LDcsCZC.png",RDS Social TV
-https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reggio_TV_logo.png",ReggioTV
-https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/vClKdtx.png",Rete Oro
-https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/vvVgZN2.png",Retesole Lazio
 http://5c389faa13be3.streamlock.net:1935/8058/8058/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/kEje57b.png",Reteveneta
-https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/Pk5flAT.png",RMK TV Sciacca
-http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/mekD49a.png",RMM Marche
-http://wma02.fluidstream.net/StudioRMM/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/IZtIFM2.png",RTC Telecalabria
-https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/SAuAcpv.png",RTC Quarta Rete
-http://msh0232.stream.seeweb.it:1935/live/stream012.sdp/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/Vmxfdmy.png",RTL Radio
-https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/1200px-Logo_Radio_Televisione_Peloritana.svg.png",RTP Sicilia
-https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/c5s5l3n.png",RTV (San Marino)
-https://dlxommsyqo2g0.cloudfront.net/smrtv-ch01/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/nFPZiq2.png",RTV 38 Toscana
-https://open.http.mp.streamamg.com/p/3001301/sp/300130100/playManifest/entryId/0_seco7tg8/format/applehttp/protocol/https/uiConfId/30026353/a.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/c5s5l3n.png",RTV Sport (San Marino)
-https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="http://www.sardegna1.tv/wp-content/uploads/2015/07/logo.png",Sardegna Uno
-https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/OkIK1jS.png",Siciliamedia TV
-http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sky_TG24_-_Logo_2018.svg/1280px-Sky_TG24_-_Logo_2018.svg.png",Sky TG24 (Opt-1)
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sky_TG24_-_Logo_2018.svg/1280px-Sky_TG24_-_Logo_2018.svg.png",Sky TG24 (Opt-2)
-http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/KSM8LnI.png",SL48 TV Lazio
-http://media.velcom.it:1935/sl48/sl48/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/XOJMD0u.png",Spike (Opt-2)
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-p.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/XOJMD0u.png",Spike (Opt-3)
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logoicona.png/200px-Logoicona.png",Studio 100 Puglia (Opt-1)
-http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/H3uItqg.png",Super J TV Teramo (Opt-1)
-https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/H3uItqg.png",Super J TV Teramo (Opt-2)
-http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/JTV8HYw.png",Super TV Brescia
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/nJxfROF.png",Super TV Oristano
-http://193.70.81.40:1935/supertvoristano/_definst_/supertvoristano/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/XymK2PR.png",Tele Abruzzo
-http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/Tb6t1iM.png",Tele Lazio Nord
-http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/flg9vfT.png",Tele One Palermo
-http://live.kronopress.com:1935/mediaone_live/teleone/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/alKlcEp.png",Tele Pegaso Catania
-https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/elkcKum.png",Teleblu Foggia
-https://58d921499d3d3.streamlock.net/Teleblu/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/l4J7tM7.png",TeleChiara Vicenza (Opt-1)
-http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/bPFcGBW.png",Telecitta
-http://213.187.12.18/live/tv1.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/ImvO2rV.png",Telefoggia
-http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/hzyzJc0.png",Telefriuli
-http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/vwQ4D1L.png",Telegranda
-http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/VDiISqA.png",TeleMia Calabria
-http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/aTs88Es.png",Telemolise
-http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream_tlm/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/gHx0k2c.png",TeleMonteneve Livigno (Opt-1)
-http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/gHx0k2c.png",TeleMonteneve Livigno (Opt-2)
-http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/KEpTzpJ.png",TeleMonteneve 3 Livigno
-http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/Woq6TJo.png",TeleNordest Friuli
 https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/Woq6TJo.png",TeleNordest Padova
 http://wms.shared.streamshow.it/telenord/telenord/chunklist_w299272332.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/lblQvUs.png",Telenostra Avellino
-https://sb.top-ix.org/streamtech/tvlive1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/KpRClWI.png",telePAVIA
-http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/qb7TwFO.png",Telequattro Friuli
-http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/jbutgUv.png",TeleRomagna24
-http://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="http://www.teleromagna.it/wp-content/uploads/2016/01/logo.png",TeleRomagna
-http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="http://www.teleromagna.it/wp-content/uploads/2016/01/logo.png",TeleRomagna Mia
-http://livetr.teleromagna.it/news/live/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/U1BjkEl.png",TeleTerni
-https://diretta.teleterni.it/live/stream_src.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://www.teletricolore.it/wp-content/uploads/2018/02/logo.png",Teletricolore Reggio
-https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/K6tTjJC.png",TeleTusciaSabina 2000
-http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/RG4o4Ni.png",TeleVenezia
-https://59d8c0cee6f3d.streamlock.net/televenezia/televenezia/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/crMQmn4.png",TeleVideo Agrigento
-https://59d7d6f47d7fc.streamlock.net/tva/tva/chunklist_w2057719642.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="http://www.teveretv.it/Images/Icone/logo.png",Tevere TV Valtiberina
-https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/8vyJTtr.png",Trentino TV
-http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/32xXpaS.png",TRG Umbria
-http://streaming126.trgmedia.it/filestream/livestreamHD.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/JEw9RCq.png",TRM h24 Basilicata
-http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="http://www.cinemabreve.org/portal/sites/default/files/logo_1_1.png",TSN Sondrio
-http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/154AQjl.png",TV Qui Modena
-https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/3uaMBox.png",TV Sei Teramo
-http://185.202.128.1:1935/Tv6Stream/tv6TV.stream_tlm/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/CM1bQ1I.png",TV7 Benevento
-http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/ndFoo4V.png",TV7 Triveneta
-http://217.61.26.46:8080/hls/triveneta.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="http://tvavicenza.gruppovideomedia.it/img/tvavicenza_logo_new.png",TVA Vicenza (Opt-1)
-http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/CbjnaNN.png",TVRS Marche
-http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/kXDdx0h.png",Vera TV Marche (Opt-1)
-http://wms.shared.streamshow.it:1935/veratv/veratv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/kXDdx0h.png",Vera TV Marche (Opt-2)
-http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png",VH1
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/VGaREZx.png",Video 33 Alto Adige
-http://livestream.goinfo.it/V33Live/v33ros/playlist.m3u8
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/yakUgm5.png",Video Brescia (Opt-1)
 http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/yakUgm5.png",Video Brescia (Opt-2)
 http://wms.shared.streamshow.it/videobrescia/videobrescia/hasbahca.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/Z5NeYwu.png",Videolina Sardegna
-http://livestreaming.videolina.it/live/Videolina/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/Ss9X3k2.png",Videonola Napoli
-https://stream1.aswifi.it/videonola/live/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/AJAYgyN.png",Videonovara
-http://sb.top-ix.org/avtv04/_definst_/streaming/manifest.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/biHpxjQ.png",Videostar TV Lombardia
-http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/NaEgFUJ.png",Yvii TV Sicilia
-https://yviistreamer.kernel.online/hls/yviitv.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://liveitkodi.com/Logos/CACAVISION.png",Ca-avision (Opt-1)
-https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://liveitkodi.com/Logos/CACAVISION.png",Ca-avision (Opt-2)
-https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://liveitkodi.com/Logos/CACAVISION.png",Ca-avision (Opt-3)
-https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://kuriakos-cine.com/wp-content/uploads/2017/07/cropped-512x512_cine_v1-270x270.png",Kuriakos Cine
-http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/tfc2BYM.png",Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/q6K4S0N.png",Kuriakos Music
-http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/M5i4hfh.png",Kuriakos TV
-http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/0L5tCLH.png",1001 Noites
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/De6ty9h.png",Canal Ricos
-http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/tduUBZU.png",E-Parana
-http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/sQ5BKun.png",Estudio O Dia 100.5 FM RJ
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/tTn8JEU.png",Estudio Tupi 96.5 FM RJ
 http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/TvNKNVH.png",Futura
-http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/rhKbqCv.png",IMPD TV
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/o1yukst.png",Itu TV
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/7IrI0oJ.png",PUC TV Goias
-http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/2WmdjU9.png",Rede Metropole
-http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/Wajw4nv.png",SBT
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/Wajw4nv.png",SBT Pernambuco
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/YrBt8gZ.png",Summer TV
-http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/gPkA0s9.png",TV BNO
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/MCz5V0g.png",TV Capital Lucelia
-http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/e2be27y.png",TV Caxias
-http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/Oy6Nrzb.png",TV Cultura PA
-http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/jpEJYfT.png",TV Destak
 http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/VqIzaFz.png",TV Digital Birigui
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/uy9gHwC.png",TV Educativa (Opt-1)
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/uy9gHwC.png",TV Educativa (Opt-2)
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="http://tvjornaldelimeira.com.br/novosite/front/imgs/logo.png",TV Jornal Limeira
-http://flash1.crossdigital.com.br:1935/1998/1998/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/ylwJ27M.png",TV MCJ
-http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/Sd1mRw1.png",TV Panorama
-http://streaming03.zas.media:1935/panorama/panorama/chunklist_w425951872.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://pbs.twimg.com/profile_images/560546630261161984/tPt6vejE.png",TV Po-os
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/heB14zY.png",TV Metropolitana Rio
-https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w981877315.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/7bTT8mw.png",TV Transamerica 59
-http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/nlB8ioY.png",TVCI
-http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/5vulEGf.png",TVDS
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://i.imgur.com/1Ny5sfy.png",TVN Brasil
-http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/I3cRfMS.png",+24 Eventos 1
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/I3cRfMS.png",+24 Eventos 2
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/I3cRfMS.png",+24 Eventos 3
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve04_lv3_aosv4_gl0/irtve04_lv3_aosv4_gl0.isml/master.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/I3cRfMS.png",+24 Eventos 4
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/ksLJVf2.png",7 Murcia
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/gr1pI7Y.png",8 Cadiz TV
-https://5940924978228.streamlock.net/8289/smil:8289.smil/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/XMbCrRU.png",24 Horas (Opt-1)
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/XMbCrRU.png",24 Horas (Opt-2)
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve02_lv3_aosv4_gl0/irtve02_lv3_aosv4_gl0.isml/master.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/sADbx7S.png",25 TV
-http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/ya3k9wU.png",28 Kanala
-https://5940924978228.streamlock.net/8157/8157/.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/aJL1mjy.png",Alcarria TV (Opt-1)
-http://217.182.77.27/live/alcarriatv-livestream.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/aJL1mjy.png",Alcarria TV (Opt-2)
-http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/aJL1mjy.png",Alcarria TV (Opt-3)
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/LBJmDSy.png",Antena 3
-https://livestartover-i.akamaized.net/antena3/master.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png",Aragon TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/747qLjC.png",Beteve
-https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0&playSessionId=381edbc5-f6df-0566-8c73-b767fb340d6
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/AFT43kx.png",Elite
-https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="http://www.ceceib.es/wp-content/uploads/2017/02/pngTVc4.png",Canal 4 Baleares
 http://149.202.68.178:1935/live/peprecasens/manifest.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/gyGKUcL.png",Canal 4 Mancha Centro
-https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png",Canal 4 Tenerife
-https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/KFLdopL.png",Canal 10 Emporda
-http://ventdelnord.tv:8080/escala/directe.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/2BBGZ1H.png",Canal 25 Barbastro
-http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/1zJpDIX.png",Canal 33 Madrid
-https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/Qx5NTQN.png",Canal 45 Andujar
-https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="http://canalcoin.com/wp-content/uploads/2017/02/cropped-LogoCanalCoinTV-300x300.png",Canal Coin
-http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/MCaturZ.png",Canal Málaga
-http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/8KHnBwx.png",Canal Parlamento (Opt-1)
-http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/8KHnBwx.png",Canal Parlamento (Opt-2)
-http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://www.portalparados.es/wp-content/uploads/castilla-la-mancha-tv.png",CMM Castilla La Mancha
-http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/index-s32.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://www.bonaresdigital.es/wp-content/uploads/2011/02/condavision1-1024x246.png",Condavision
-http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/mrGvcPV.png",EiTB 1
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/mrGvcPV.png",EiTB 2
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/rMAB720.png",Estepona TV
 https://5b38ce71f1f00.streamlock.net/8122/8122/chunklist_w310432579.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="http://img1.wikia.nocookie.net/__cb20110830201749/logopedia/images/9/90/ETB_Sat_logo_2009.png",ETB Sat
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/r2mzSnG.png",Fuengirola TV
-https://secure.todostreaming.es/live/nerja-livestream.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/HR3G3Ie.png",Hamaika Telebista
-http://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/hmYDqGV.png",Huesca TV
 https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/GpFlt7P.png",Imas TV
-https://secure3.todostreaming.es/live/imastv-livestream.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/u0lyhFX.png",Interalmeria TV
-http://interalmeria.tv/directo/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png",Intereconomia TV
-https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/48B7f5u.png",Intercomarcal TV
-http://78.41.83.88:8880/hls/tvixa.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/iP4WSVc.png",La Sexta (Opt-1)
-https://livestartover-i.akamaized.net/lasexta/master.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/iP4WSVc.png",La Sexta (Opt-2)
-https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/hCZUn3g.png",Lancelot TV
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="http://www.lebrija.tv/wp-content/uploads/2016/06/logo-web-2.png",Lebrija TV (Opt-1)
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="http://www.lebrija.tv/wp-content/uploads/2016/06/logo-web-2.png",Lebrija TV (Opt-2)
-https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/ONDEPLt.png",Marbella TV
-https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/61ttFDF.png",Mijas 3.40 TV (Opt-2)
-https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://www.colectivosvip.com/public/colectivos/390/logo.png",Mola TV
-http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/I9QX555.png",mtmad 24h
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/qjpWxkj.png",Navarra TV
-http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/UJR4KRg.png",Noroeste TV
 https://5b38ce71f1f00.streamlock.net/8046/8046/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/LpJGFUP.png",Oizmendi Telebista
-https://5940924978228.streamlock.net/8161/8161/master.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/vopQD0u.png",Onda Algeciras TV
-http://cloudtv.provideo.es/live/algecirastv-livestream.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OndaMadrid.svg/1280px-OndaMadrid.svg.png",Onda Madrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/s7mjgwW.png",Onda Cadiz (Opt-1)
-http://adc-hls.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/s7mjgwW.png",Onda Cadiz (Opt-2)
-http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OndaMadrid.svg/1280px-OndaMadrid.svg.png",Onda Madrid
-http://ondamadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/GwMeEbD.png",PequeRadio TV
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/hwlTrtF.png",Popular TV Melilla
-https://5940924978228.streamlock.net/8009/8009/chunklist_w922827150.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/ov6xrWQ.png",PTV Córdoba
-http://149.91.98.146:1935/cordoba/stream/master.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/HDMad6a.png",PTV Malaga
-http://149.91.98.146:1935/live/stream/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/Rhmi0Y1.png",Radio Televisión Mogan
-https://5b38ce71f1f00.streamlock.net/8162/8162/.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/o8EtLad.png",RiberaTV
-http://common01.todostreaming.es/live/ribera-livestream.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RtvCeuta.svg/1200px-RtvCeuta.svg.png",RTVCE (Opt-1)
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RtvCeuta.svg/1200px-RtvCeuta.svg.png",RTVCE (Opt-2)
-http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/yujGVbm.png",Sevilla FC TV (Opt-1)
-https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/yujGVbm.png",Sevilla FC TV (Opt-2)
-https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_wzckw85c/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/kJwjguZ.png",Taroteame TV
-http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/jIV6sAS.png",TEF
-https://5940924978228.streamlock.net/8273/smil:8273.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/y6MpAj4.png",Tele Sagunto
-https://5940924978228.streamlock.net/Directo1_1/smil:Directo1_1.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/rDzlC0d.png",TeleRibera
-http://37.187.7.106/teleribera/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Telemadrid-Logo.svg/1280px-Telemadrid-Logo.svg.svg.",Telemadrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/HA2OJcN.png",TeleSafor (Opt-1)
 http://video.telesafor.com/hls/video_low.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/HA2OJcN.png",TeleSafor (Opt-2)
 http://video.telesafor.com/hls/video.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/khRXhT1.png",Televisio Girona
-http://ventdelnord.tv:8080/girona/directe.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/w9LqkSW.png",Tenerife 2030
-http://livestream.iter.es:9876/tdt/tdt.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/H7sclL7.png",Trebujena TV
-http://212.104.160.156:1935/live/trebujenatv2/master.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/YCiTqGj.png",TV Ferrol
-https://directo.tvferrol.es/tv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/A4idkRI.png",TV Hellin
-http://hellin-hls-live.flumotion.com/hellin/hellin-live_source/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/HAbq91X.png",TV Municipal Cordoba (Opt-1)
-http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/HAbq91X.png",TV Municipal Cordoba (Opt-2)
-http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/A89L7IJ.png",TVG (Opt-1)
-http://europa-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/A89L7IJ.png",TVG (Opt-2)
-http://amodino-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/KoTonIp.png",TVG 2 (Opt-2)
-http://events3-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/v5d0xMH.png",TVG America
-http://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/v5d0xMH.png",TVG Cultura
-http://cultural-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/v5d0xMH.png",TVG Europa
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/v5d0xMH.png",TVG Evento 1
-http://events1-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/v5d0xMH.png",TVG Evento 2
-http://events2-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/v5d0xMH.png",TVG Infantil
-http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/v5d0xMH.png",TVG Momentos G
-http://momentog-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/v5d0xMH.png",TVG Musigal
-http://musigal-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/w83wr1S.png",Urola Telebista (Opt-1)
-https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/w83wr1S.png",Urola Telebista (Opt-2)
-https://5940924978228.streamlock.net/j_Directo1/smil:j_Directo1.smil/master.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="http://www.televisionvebabaja.es/wp-content/uploads/2016/11/favicon-150x150.png",Vega Baja TV
-http://185.29.68.24/tvb.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/hPG6ooK.png",Vision 6
-https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
-#EXTINF:-1 group-title="ANDORRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png",RTVA (Opt-1)
-http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
-#EXTINF:-1 group-title="ANDORRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png",RTVA (Opt-2)
-http://videos.rtva.ad:1935/live/web/playlist.m3u8
-#EXTINF:-1 group-title="LABEL" tvg-logo="https://i.imgur.com/rDow9Y7.png",24/7 YouTube en Español ?
-https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
 #EXTINF:-1 group-title="LATIN AMERICA" tvg-logo="https://i.imgur.com/GEUzSd4.png",CGTN Español (Opt-1)
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 group-title="LATIN AMERICA" tvg-logo="https://i.imgur.com/kJcwaOU.png",DW Español
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-#EXTINF:-1 group-title="LATIN AMERICA" tvg-logo="https://i.imgur.com/kDt8pzL.png",La Mega Mundial
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 group-title="LATIN AMERICA" tvg-logo="https://i.imgur.com/woRgqEh.png",Latido Music
-https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
-#EXTINF:-1 group-title="LATIN AMERICA" tvg-logo="https://melodychannel.tv/images/logomeloddy.png",Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1 group-title="LATIN AMERICA" tvg-logo="https://i.imgur.com/FOiUOeW.png",MTV
-http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="LATIN AMERICA" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png",RT Español
-https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="LATIN AMERICA" tvg-logo="https://i.imgur.com/fyPHgEH.png",Telemusica
-http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
-#EXTINF:-1 group-title="LATIN AMERICA" tvg-logo="https://i.imgur.com/bzNiQNs.png",TV Marti
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-#EXTINF:-1 group-title="LATIN AMERICA" tvg-logo="https://i.imgur.com/n5AjNup.png",Zee Mundo
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/pEj3hCA.png",ADN 40
-https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/4kX1baN.png",Azteca 7
-http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/ZjBBIJE.png",Azteca Uno (Opt-1)
-http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/ZjBBIJE.png",Azteca Uno (Opt-2)
-https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/cs16OLz.png",Canal 4 Saltillo
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/9HA0TTS.png",Canal 10 Cancún (Opt-1)
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/9HA0TTS.png",Canal 10 Cancún (Opt-2)
-http://www.canal10.tv/live/tvlive1/chunklist_w1166915179.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/i4N1CVp.png",Canal 10 Chiapas
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/zUCCiHA.png",Canal 10 Durango
-http://204.12.193.98:1935/TvHD/canal10/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/KdabQI7.png",Canal Once Nacional
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/KdabQI7.png",Canal Once Internacional
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/Z4olESG.png",FOROtv (Opt-1)
-https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/jb5iiw5.png",ImpactoVision TV Matamoros
-https://5ca9af4645e15.streamlock.net/impactovision/videoimpactovision/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/QMUuglM.png",Justicia TV (Opt-1)
-http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/QMUuglM.png",Justicia TV (Opt-2)
-https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1760841144.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/M9GqeH2.png",Milenio TV
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/yr9M9Kj.png",Multimedios Guadalajara
-https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/yr9M9Kj.png",Multimedios Laguna
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/yr9M9Kj.png",Multimedios Monterrey
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/kGv3cg5.png",MVM Noticias Oaxaca
-http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/fKpOCv8.png",RCG 1 Saltillo
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/fKpOCv8.png",RCG 2 Saltillo
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/fKpOCv8.png",RCG 3 Saltillo
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/HCLEpfu.png",RTQ Querétaro
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://corporativo.sipse.com/wp-content/uploads/revslider/corporativo-sipse/gsipse-logo-medium.png",Sipse TV Cancún
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/zXJPqDn.png",Teleformula
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/LxbZ1x9.png",Telemax Hermosillo
-http://s5.mexside.net:1935/telemax/telemax/.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/0gL3FIN.png",Teleritmo
-http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/unIacu1.png",Transmedia TV Morelia
-http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/KAro9EF.png",Xti TV Guadalajara
-http://streamingcws10.com:1935/xtitv/videoxtitv/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png",13 Max
-http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/dSFNbqn.png",5TV Corrientes Corrientes
-http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/i3otbSM.png",5RTV Santa Fe
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/CF9u5A1.png",8 Valle digital de Uco (Opt-2)
-https://59537faa0729a.streamlock.net:443/canal2tunuyan/canal2tunuyan/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/NS5sQUC.png",Acequia Mendoza
-http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/kmdui2c.png",America TV
-https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/nL6jAcH.png",Argentinisima Satelital
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/qgoI0S9.png",ATB TV
-http://streaming.arcast.com.ar:1935/atbargentina/atbargentina/chunklist_w208233256.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://www.cadenasudeste.com/images/logo-cadena.png",Sudeste TV
 http://stmv3.questreaming.com/cadenasd/cadenasd/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/E1xPogK.png",Canal 2 Jujuy
-http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/TKz6Ilb.png",Canal 3 Rosario
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/YHUrfT4.png",Canal 4 Balcarce
-http://panel.dattalive.com:1935/8124/8124/chunklist_w283163661.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/nKdVqnU.png",Canal 4 Jujuy
-http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/U3mGWDz.png",Canal 4 Posadas
-http://184.154.28.210:1935/canal4/canal4/live.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/Etj0t1z.png",Canal 7 Santiago del Estero
-https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/jC99j6.png",Canal 10 Córdoba (Opt-2)
-https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/eAm4Oox.png",Canal 10 Entre Ríos
-http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Tv-rionegrina-lu92-tv-canal-10-logo.",Canal 10 Negro Rio (Opt-2)
-http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/uIybnaG.png",Canal 13 La Rioja
-http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/bnPnpTC.png",Canal 22 BA
-http://api.new.livestream.com/accounts/27390802/events/8239465/live.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/zUUuNTp.png",Canal 26 (Opt-1)
-http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/zUUuNTp.png",Canal 26 (Opt-2)
-http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/cLKYxFc.png",Canal Provincial San Miguel
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/LuCIaya.png",Canal U Córdoba
-https://wowzaprod169-i.akamaihd.net/hls/live/630337/d7502ff7/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/M4pdL75.png",Chacra TV
-http://s8.stweb.tv:1935/chacra/live/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.cn247.tv/img/logo.png",CN 24/7
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/5i2PLNq.png",CPEtv La Pampa
-http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/BDufSyu.png",Eco TV Tandil
-http://mediacontrol.jargon.com.ar:1935/elecotv/elecotv/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/cd0hP5e.png",Garage TV (Opt-1)
-http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/FjsCMFv.png",LA 90 FM
-http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://pbs.twimg.com/profile_images/76409424722184192/ZzC-pGTJ_400x400.jpg",Litus TV Santa Fe
-http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/70AiSkM.png",Medios Rioja
-http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/jSaViwT.png",Multivision Salta
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/V7DEzNK.png",Music Top
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/8JpXh85.png",Radio Sur 105.1 FM Berisso
-http://video1.veemesoft.com.ar:1935/8436/8436/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/1Utvqt7.png",RTN Neuquen
-http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/LG6B84e.png",T5 Satelital
-http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/Zaidk6n.png",Telemax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/Bh8rmNJ.png",Tierramia TV
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/XcQFpY2.png",UTNtv Rio Gallegos
-http://streaming.arcast.com.ar:1935/utntv/utntv/playlist.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/MyhPvmc.png",Alegria TV
-https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/Wg4djPb.png",AM Canal
-http://v3.tustreaming.cl/amtv/live1/tracks-v1a1/rewind-999999.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/EgW0SBp.png",Antofagasta TV
-https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/1NImvMp.png",Campo Abierto TV Huechuraba
-http://v3.tustreaming.cl/campoabierto/live1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/J26trwF.png",Campus TV
-https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/Ow2iJJo.png",CDtv
-http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/ozinKJC.png",El Pinguino TV (Opt-1)
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/45jALs1.png",Genial 100.5 FM Coyaique
-http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/5qzBwPB.png",Gracia TV Gracia
-http://v3.tustreaming.cl/graciatv/live1/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/Y65NQ49.png",Maxima Movie
-http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="http://cappissimamultimedial.cl/radio/wp-content/themes/cappissima/images/logo-cappissima.png",Multimedia Cappissima TV
-http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="http://www.pauta.cl/pauta/site/artic/20180307/imag/foto_0000000420180307152149/logo2.png",Pauta
-http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/H3jMiCj.png",Pintana TV
-http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/M3k225s.png",Portal Foxmix
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/AS3YyMU.png",Quinta TV
-https://593b04c4c5670.streamlock.net/8042/8042/chunklist_w19663722.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/Igd2vug.png",Radio El Conquistador
-http://eu1.servers10.com:1935/8282/8282/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/GQWiS9Q.png",Radio Maxima 94.9 FM SB
-http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="http://roccotv.cl/wp-content/uploads/2015/02/roccotv.png",Rocco TV
-http://evo.eltelon.com:1935/live/rocco-tv/chunklist_w1064108788.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/SGxm0vL.png",Ruidos TV
-https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/E9fEkk5.png",Sextavision
-https://590c5dc5c3271.streamlock.net/carlos107/carlos107/chunklist_w1171406684.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/pe9zky9.jpg",TecTV (Opt-1)
-http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/pe9zky9.jpg",TecTV (Opt-2)
-http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/VuMZRfF.png",Tele 13
-http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/oHY2mgR.png",Teletrak
-http://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/FvqaFci.png",TV5 Linares
-http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/zDg3sAk.png",TV8 Concepción
-https://593b04c4c5670.streamlock.net/8134/8134/chunklist_w1803894255.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/38/TVSenado.png",TV Senado (Opt-1)
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd?fluxustv.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/38/TVSenado.png",TV Senado (Opt-2)
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Logotipo_TVO_San_Vicente.png",TVO San Vicente
-http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/GNjmXxP.png",UTV San Clemente (Opt-1)
-http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/GNjmXxP.png",UTV San Clemente (Opt-2)
-https://v2.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/y2ii7t1.png",VC Online Santiago
-https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/c3FpQAc.png",VTV Aconcagua (Opt-1)
-http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/c3FpQAc.png",VTV Aconcagua (Opt-2)
-http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.imgur.com/c3FpQAc.png",VTV Viña del Mar
-http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
-#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://i.imgur.com/frGquQc.png",Hechos TV
-http://37.187.7.106/hechostv/live.m3u8
-#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png",Teleamazonas
-http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
-#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://i.imgur.com/2icSc6x.png",TV Manabita
-http://europa.tucableip.com:8181/tvmanabita/live/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://i.imgur.com/otOhIe8.png",UCSG (Opt-1)
-http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
-#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://i.imgur.com/otOhIe8.png",UCSG (Opt-2)
-http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/playlist.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/sRZN7Tn.png",Cali TV
-http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/eTxZUo6.png",Canal Capital
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/f3c5TIR.png",Canal CNC Medellín
-http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/Hjc7XaY.png",Canal CNC Pasto
-http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/zb7kpqt.png",Canal Doce
-http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/stQQgsQ.png",La Super TV
-http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/CREs19T.png",Mundo Mas
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/EendU9p.png",Ntv Canal
-https://5c21f7ec1999d.streamlock.net/8038/8038/chunklist_w1940275753.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/6d2fOjq.png",Suram TV
-https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/29DQNPy.png",Tele Medellín
-http://api.new.livestream.com/accounts/4608897/events/7111788/live.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/Vur40zl.png",Telecafe
-http://api.new.livestream.com/accounts/1015476/events/7158511/live.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/R2Xb44n.png",Telecaribe
-https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/93KWYKj.png",Teleenvigado
-http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/PAVd3LS.png",Teleislas (Opt-1)
-http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/PAVd3LS.png",Teleislas (Opt-2)
-http://vbox2.cehis.net/live-teleislas/_definst_/mp4:teleislas/chunklist_w1846604063.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/BeF08XL.png",UAO Play
-https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="https://i.imgur.com/FQYDb15.png",BHTV (Opt-1)
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="https://i.imgur.com/FQYDb15.png",BHTV (Opt-2)
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="https://i.imgur.com/oWya6SB.png",Central TV
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="https://i.imgur.com/cvoNi6F.png",Cultura 24 (Opt-1)
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="https://i.imgur.com/cvoNi6F.png",Cultura 24 (Opt-2)
-http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/chunklist_w1999901240.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="https://i.imgur.com/sUdPsMZ.png",IPe
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="https://i.imgur.com/VFCEPgF.png",Monterrico TV
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="https://i.imgur.com/NGYffIA.png",Ovacion
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="https://i.imgur.com/4NiVS6e.png",Panamericana TV
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="https://i.imgur.com/Eqpww5i.png",Turbo Mix Radio TV
-http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="https://i.imgur.com/50TYb45.png",TV Perú (Opt-2)
-http://cdnh4.iblups.com/hls/irtp.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="https://i.imgur.com/0THQOZn.png",TVPeru Noticias
-http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.imgur.com/8iDabJk.png",Farra Play
-http://159.203.148.226/live/farra_low.m3u8
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.imgur.com/0SrZD5r.png",88 Stereo
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.imgur.com/lC0uliW.png",Anexion TV 36
-http://rtmp.info:8081/anexiontv/envivo/chunks.m3u8
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.imgur.com/juukQO4.png",Canal UCR
-http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.imgur.com/Da5V8bP.png",Colosal TV
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.imgur.com/6QgGvH7.png",Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.imgur.com/yr9M9Kj.png",Multimedios CR
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.imgur.com/Fp9ReNL.png",Telesur
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.imgur.com/lvdNakJ.png",TeleUno TV
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.imgur.com/mmj1BUK.png",TicaVision
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/OKsv5Xd.png",Ame 47
-http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/PY4Nzef.png",Canal 4 RD
-http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/GQxXbjN.png",Carivision
-http://ss6.domint.net:2012/tes_str/teleelsalvador/chunklist_w718025904.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="http://fuego40.com/wp-content/uploads/2018/11/cropped-FUEGO-LOGO-TIPO.png",Fuego TV
-http://184.173.181.2:1935/8020/8020/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/VuNcifM.png",GH Television
-http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/E2Mpuoz.png",HM TV 33
-http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/ZmYKQxN.png",Info TDN
-http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/Sbv9mq5.png",Microvision 10
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/lv0mnMF.png",Onda TV 10
-http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="http://3.bp.blogspot.com/-E3xRbzP2DiA/T4VacAhY0ZI/AAAAAAAAFoE/2sHE_KAXqvg/s400/peravia_vision_logo.png",Peravia Vision 8
-http://ss6.domint.net:2002/pvv_str/peravia/chunklist_w715033938.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png",Ready TV
-http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/YhMZXUp.png",Romana TV 42
-http://tv.romanatv42.com/hls/live.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/Nx7sVqb.png",Super TV 55
-https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/wYklHWy.png",Telecanal 28
-http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/iIZikHS.png",Telecentro 13
-http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/nUndmKG.png",Telefuturo 23
-http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png",Telemilenio Canal 50
-http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/iE1xhA5.png",Telenord 8 (Opt-1)
-http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/iE1xhA5.png",Telenord 10 (Opt-1)
-http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/iE1xhA5.png",Telenord 12 (Opt-1)
-http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="http://i.imgur.com/s2FJJDS.png",Telever Canal 12
-http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/8hEg0HX.png",Television del Este
-http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/bV0oWdW.png",TV Montaña 10
-http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/qNl5scQ.png",TV Plata 3
-https://ss6.domint.net:3104/tvp_str/tvplata/master.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/fmKPokt.png",TVS Canal 22
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.imgur.com/CcGzKEz.png",Vallevision TV
-http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
-#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://i.imgur.com/dxXGZJ7.png",Mega TV
-https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/playlist.m3u8?uhd=4&rebase=on
-#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://i.imgur.com/IDCc36l.png",WIPR TV
-http://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
-#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://i.imgur.com/r6Pfj33.png",TVES
-http://streamingcws20.com:1935/tves/videotves/chunklist_w1550894734.m3u8
-#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://i.imgur.com/lUYKEDE.png",Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.imgur.com/ixaAUhT.png",Nuevo Mundo TV
-http://181.189.225.36:9100/play/a00j/index.m3u8
-#EXTINF:-1 group-title="HONDURAS" tvg-logo="http://live.campushd.tv/wp-content/uploads/2017/04/LOGO-CAMPUS.png",Campus TV
-http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
-#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.imgur.com/u2i5YHQ.png",Canal 11
-http://181.189.225.36:9100/play/a00c/index.m3u8
-#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.imgur.com/qzGYOCp.png",Cholusat Sur 36
-http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
-#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.imgur.com/Pje1GWN.png",CHTV
-http://181.189.225.36:9100/play/a00a/index.m3u8
-#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.imgur.com/0nqWEge.png",DTV
-http://181.189.225.36:9100/play/a007/index.m3u8
-#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.imgur.com/CKPY0s8.png",RTV
-http://181.189.225.36:9100/play/a00h/index.m3u8
-#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.imgur.com/C7YTIB6.png",Sercano TV
-http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8
-#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.imgur.com/RrnQlQg.png",SiTV
-http://st2.worldkast.com/8030/8030/chunklist_w246409275.m3u8
-#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.imgur.com/FwcwAJ7.png",Teleceiba Canal 7
-http://190.11.224.14:8134/liveevent.m3u8
-#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.imgur.com/iHngf3c.png",TeleProgreso
-http://181.189.225.36:9100/play/a00e/index.m3u8
-#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.imgur.com/4kplu7b.png",TEN Canal 10
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.imgur.com/PVUfsC2.png",Une TV
-http://181.189.225.36:9100/play/a00i/index.m3u8
-#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.imgur.com/rRXm5nY.png",UTV UNAH
-https://live-utv.unah.edu.hn/web/salida.m3u8
-#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://i.imgur.com/pWvtdgE.png",Promar TV (Opt-3)
-http://vcp1.myplaytv.com:1935/promar/promar/chunklist_w850287837.m3u8
-#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png",TeleSUR (Opt-1)
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png",TeleSUR (Opt-3)
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
-#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://i.imgur.com/mL3DGhc.png",Televisora de Oriente
-http://vcp1.myplaytv.com:1935/tvo/tvo/chunklist_w545582271.m3u8
-#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://i.imgur.com/ylXec53.png",Vepaco TV (Opt-2)
-http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2073389661.m3u8
-#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.imgur.com/DCAtokY.png",ATB (Opt-1)
-http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.imgur.com/ajkJKs9.png",Bolivia Deportes TV
-http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="BOLIVIA" tvg-logo="http://www.catolicatelevision.com/wp-content/uploads/sites/9/2013/10/logo_ctv2.png",Catolica TV
-http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
-#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.imgur.com/o4i8izz.png",Red PAT La Paz
-http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
-#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.imgur.com/o4i8izz.png",Red PAT Santa Cruz
-http://192.99.38.174:1935/patbolivia/patsantacruz/master.m3u8
-#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.imgur.com/ytPJLHE.png",RTP
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
-#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.imgur.com/89906hn.png",Unitel
-http://136.243.3.70:1935/Unitel/Unitel/chunklist_w1949818179_DVR.m3u8
-#EXTINF:-1 ,|PT| FOX HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4421
-#EXTINF:-1 ,|PT| FOX LIFE HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4404
-#EXTINF:-1 ,|PT| FOX COMEDY
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4435
-#EXTINF:-1 ,|PT| FOX CRIME HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4415
-#EXTINF:-1 ,|PT| FOX MOVIES HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/4430
-#EXTINF:-1 ,ES: FOX SPORT ARGENTINA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/52944
-#EXTINF:-1 ,ES: FOX HD
-http://strong-livetv.com:80/lam_mar/AojwXghk3/40922
-#EXTINF:-1 ,ES: FOX LIFE
-http://strong-livetv.com:80/lam_mar/AojwXghk3/40920
-#EXTINF:-1 ,ES: FOX SPORT LATINO
-http://strong-livetv.com:80/lam_mar/AojwXghk3/48297
-#EXTINF:-1 ,ES: FOX SPORT 2 ARGENTINA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/48307
-#EXTINF:-1 ,ES: FOX SPORT 3 ARGENTINA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/48308
-#EXTINF:-1 ,ES: FOX SPORT PREM. ARGENTINA
-http://strong-livetv.com:80/lam_mar/AojwXghk3/48310
-#EXTINF:-1 ,Foxtrot  ESP
-http://strong-livetv.com:80/movie/lam_mar/AojwXghk3/36590.mp4
-#EXTINF:-1 ,US: HBO COMEDY | UHD
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/7473
-#EXTINF:-1 ,US: HBO East
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/11048
-#EXTINF:-1 ,US: HBO FAMILY
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/3766
-#EXTINF:-1 ,US: HBO SIGNATURE
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/3767
 #EXTINF:-1 ,US: HBO WEST | HD
 http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/205
-#EXTINF:-1 ,US: HBO ZONE
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/3768
-#EXTINF:-1 ,US: HBO2
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/8456
-#EXTINF:-1 ,BR: HBO 2 | HD
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/11151
-#EXTINF:-1 ,BR: HBO FAMILY | HD
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/11152
-#EXTINF:-1 ,BR: HBO PLUS | HD
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/11153
-#EXTINF:-1 ,BR: HBO PLUS*E | HD
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/11154
-#EXTINF:-1 ,BR: HBO POP | HD
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/11155
-#EXTINF:-1 ,BR: HBO SIGNATURE | HD
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/11156
-#EXTINF:-1 ,BR: HBO XTREME | HD
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/11157
-#EXTINF:-1 ,BR: HBO | HD
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/11158
-#EXTINF:-1 ,CA HBO 1
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/7955
-#EXTINF:-1 ,CA HBO 2
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/7954
-#EXTINF:-1 ,Latino HBO Extreme
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/10998
-#EXTINF:-1 ,Latino: HBO Family
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/10993
-#EXTINF:-1 ,Latino: HBO Plus
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/10995
-#EXTINF:-1 ,Latino: HBO POP
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/10996
-#EXTINF:-1 ,Latino: HBO Signature
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/10997
-#EXTINF:-1 ,LATINO: HBO | HD
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/3468
-#EXTINF:-1 ,Latino: HBO2
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/10992
-#EXTINF:-1 ,Lation: HBO Mundi
-http://greenstreamtv.xyz:25461/billmay/GBdkaMsm87/10994
-#EXTINF:-1 ,bein sport 1HD
-http://sarhantv.xyz:25461/100users/7daysonly2/1
-#EXTINF:-1 ,bein sport 2HD
-http://sarhantv.xyz:25461/100users/7daysonly2/2
-#EXTINF:-1 ,bein sport 3HD
-http://sarhantv.xyz:25461/100users/7daysonly2/3
-#EXTINF:-1 ,bein sport 4HD
-http://sarhantv.xyz:25461/100users/7daysonly2/4
-#EXTINF:-1 ,bein sport 5HD
-http://sarhantv.xyz:25461/100users/7daysonly2/5
-#EXTINF:-1 ,bein sport 6HD
-http://sarhantv.xyz:25461/100users/7daysonly2/6
-#EXTINF:-1 ,bein sport 7HD
-http://sarhantv.xyz:25461/100users/7daysonly2/7
-#EXTINF:-1 ,bein sport 8HD
-http://sarhantv.xyz:25461/100users/7daysonly2/8
-#EXTINF:-1 ,bein sport 9HD
-http://sarhantv.xyz:25461/100users/7daysonly2/9
-#EXTINF:-1 ,bein sport 10HD
-http://sarhantv.xyz:25461/100users/7daysonly2/10
-#EXTINF:-1 ,bein sport 11HD
-http://sarhantv.xyz:25461/100users/7daysonly2/11
-#EXTINF:-1 ,bein sport 12HD
-http://sarhantv.xyz:25461/100users/7daysonly2/12
-#EXTINF:-1 ,bein sport News
-http://sarhantv.xyz:25461/100users/7daysonly2/13
-#EXTINF:-1 ,bein sport 1 Fr
-http://sarhantv.xyz:25461/100users/7daysonly2/14
-#EXTINF:-1 ,beIN Sport 2 FR
-http://sarhantv.xyz:25461/100users/7daysonly2/15
-#EXTINF:-1 ,beIN Sport 3 FR
-http://sarhantv.xyz:25461/100users/7daysonly2/16
-#EXTINF:-1 ,⚽ bein sport 1 LOW
-http://sarhantv.xyz:25461/100users/7daysonly2/43
-#EXTINF:-1 ,⚽ bein sport 2 LOW
-http://sarhantv.xyz:25461/100users/7daysonly2/44
-#EXTINF:-1 ,⚽ bein sport 3 LOW
-http://sarhantv.xyz:25461/100users/7daysonly2/45
-#EXTINF:-1 ,⚽ bein sport 4 LOW
-http://sarhantv.xyz:25461/100users/7daysonly2/46
-#EXTINF:-1 ,⚽ bein sport 5 LOW
-http://sarhantv.xyz:25461/100users/7daysonly2/47
-#EXTINF:-1 ,⚽ bein sport 6 LOW
-http://sarhantv.xyz:25461/100users/7daysonly2/48
-#EXTINF:-1 ,⚽ bein sport 7 LOW
-http://sarhantv.xyz:25461/100users/7daysonly2/49
-#EXTINF:-1 ,⚽ bein sport 8 LOW
-http://sarhantv.xyz:25461/100users/7daysonly2/50
-#EXTINF:-1 ,⚽ bein sport 9 LOW
-http://sarhantv.xyz:25461/100users/7daysonly2/51
 #EXTINF:-1 ,|AR| beIN MOVIES 1 HD
 http://sarhantv.xyz:25461/100users/7daysonly2/17
 #EXTINF:-1 ,|AR| beIN MOVIES 2 HD
@@ -16969,22 +11595,10 @@ http://sarhantv.xyz:25461/100users/7daysonly2/19
 http://sarhantv.xyz:25461/100users/7daysonly2/20
 #EXTINF:-1 ,lARl beIN SERIES HD
 http://sarhantv.xyz:25461/100users/7daysonly2/21
-#EXTINF:-1 ,|AR| beIN FOX HD
-http://sarhantv.xyz:25461/100users/7daysonly2/22
 #EXTINF:-1 ,|AR| beIN FOX MOVIES ACTION HD
 http://sarhantv.xyz:25461/100users/7daysonly2/23
 #EXTINF:-1 ,|AR| beIN FOX MOVIES FAMILY HD
 http://sarhantv.xyz:25461/100users/7daysonly2/24
-#EXTINF:-1 ,|OSN| YAHALA HD
-http://sarhantv.xyz:25461/100users/7daysonly2/28
-#EXTINF:-1 ,|OSN| YAHALA OULA HD
-http://sarhantv.xyz:25461/100users/7daysonly2/29
-#EXTINF:-1 ,|OSN| YAHALA CINEMA HD
-http://sarhantv.xyz:25461/100users/7daysonly2/30
-#EXTINF:-1 ,|OSN| Series First HD
-http://sarhantv.xyz:25461/100users/7daysonly2/31
-#EXTINF:-1 ,|OSN| Living HD
-http://sarhantv.xyz:25461/100users/7daysonly2/32
 #EXTINF:-1 ,|OSN| MOVIES ACTION HD
 http://sarhantv.xyz:25461/100users/7daysonly2/33
 #EXTINF:-1 ,|OSN| MOVIES SERIES HD
@@ -16995,45 +11609,3 @@ http://sarhantv.xyz:25461/100users/7daysonly2/35
 http://sarhantv.xyz:25461/100users/7daysonly2/36
 #EXTINF:-1 ,|OSN| MOVIES FIRST 1 HD
 http://sarhantv.xyz:25461/100users/7daysonly2/37
-#EXTINF:-1 ,|OSN| FOX-REWAYAT HD
-http://sarhantv.xyz:25461/100users/7daysonly2/38
-#EXTINF:-1 ,|OSN| DISCOVERY HD
-http://sarhantv.xyz:25461/100users/7daysonly2/39
-#EXTINF:-1 ,|OSN| NAT GEO WILD HD
-http://sarhantv.xyz:25461/100users/7daysonly2/40
-#EXTINF:-1 ,|OSN| NAT GEO PEOPLE HD
-http://sarhantv.xyz:25461/100users/7daysonly2/41
-#EXTINF:-1 ,|OSN| ANIMAL PLANET HD
-http://sarhantv.xyz:25461/100users/7daysonly2/42
-#EXTINF:-1 ,Sony Ten 1
-http://sarhantv.xyz:25461/100users/7daysonly2/52
-#EXTINF:-1 ,Sony Ten 2
-http://sarhantv.xyz:25461/100users/7daysonly2/53
-#EXTINF:-1 ,Sony Ten 3
-http://sarhantv.xyz:25461/100users/7daysonly2/54
-#EXTINF:-1 ,wwe HD
-http://sarhantv.xyz:25461/100users/7daysonly2/55
-#EXTINF:-1 ,True Primier HD 1
-http://sarhantv.xyz:25461/100users/7daysonly2/56
-#EXTINF:-1 ,TRUE SPORT HD2
-http://sarhantv.xyz:25461/100users/7daysonly2/57
-#EXTINF:-1 ,Premier Football HD 2
-http://sarhantv.xyz:25461/100users/7daysonly2/58
-#EXTINF:-1 ,btv
-http://sarhantv.xyz:25461/100users/7daysonly2/60
-#EXTINF:-1 ,MX: GOLDEN EDGE | SD
-http://greenstreamtv.xyz:25461/leonardsherrill/ls1234gs/11342
-#EXTINF:-1 ,MX: GOLDEN | SD
-http://greenstreamtv.xyz:25461/leonardsherrill/ls1234gs/11343
-#EXTINF:-1 ,SPACE
-http://rec2.distv.net:80/angelo/angelo/508
-#EXTINF:-1 ,BR: SPACE | SD
-http://greenstreamtv.xyz:25461/leonardsherrill/ls1234gs/11224
-#EXTINF:-1 ,MX: SPACE | HD
-http://greenstreamtv.xyz:25461/leonardsherrill/ls1234gs/11363
-#EXTINF:-1 ,SPACE
-http://rec2.distv.net:80/angelo/angelo/508
-#EXTINF:-1 group-title="CINEMA",CINEMA: GOLDEN PREMIER 1
-http://zufreelist.net:8080/REFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERG/REFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREF/19
-#EXTINF:-1 group-title="CINEMA",CINEMA: GOLDEN SD*
-http://zufreelist.net:8080/REFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERG/REFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREF/20
