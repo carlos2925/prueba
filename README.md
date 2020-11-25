@@ -243,3 +243,141 @@ http://cdn.videos.pornopizza.it/media/videos/5/6/2/3/e/5623e53b5500a.mp4
 http://cdn.videos.pornopizza.it/media/videos/5/6/2/3/8/56238a00f2fdd.mp4
 #EXTINF:-1 ,Cocco di p@p@'
 http://cdn.videos.pornopizza.it/media/videos/5/6/6/7/1/5667180f10c06.mp4
+#EXTINF:-1 ,CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1 ,MAXPRIME
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:-1 ,UNIVERSAL CHANNEL
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:-1 ,FOXCINEMA
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1 ,FOX MOVIES
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1 ,fox premium comedy (eng)
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:-1 ,hbo2 dual (eng esp)
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1 ,ESPN 2
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 ,Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1 ,Deportes:CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 ,CULTURA:Travel HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 ,DEPORTES:Real Madrid TV
+http://bit.ly/2x1T8YL
+#EXTINF:-1 group-title="ENTRETENIMIENTO",group-title="ENTRETENIMIENTO"
+http://player.tvnet.lv/live/amlst:11/playlist.m3u8
+#EXTINF:-1 ,ENTRETENIMIENTO:TelePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1 ,CHILE:Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+#EXTINF:-1 ,BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 ,M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 ,MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 ,SPACETOON
+http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
+#EXTINF:-1 ,AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 ,FUEGO TV
+http://184.173.181.2:1935/8020/8020/playlist.m3u8
+#EXTINF:-1 ,PELIS
+http://184.173.181.2:1935/8062/8062/playlist.m3u8
+#EXTINF:-1 ,VTV |UY|
+http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
+#EXTINF:-1 ,Fashion HD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 ,Real Madrid TV | SD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 ,TL Novelas
+http://tvpremiumhd.club/lista-gratuita/paris/s83.m3u8
+#EXTINF:-1 ,Telepacifico
+http://tvpremiumhd.club/lista-gratuita/paris/s196.m3u8
+#EXTINF:-1 ,Willax TV
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
+#EXTINF:-1 ,TV Extrema
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 ,Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 ,Weather Nation Tv
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 ,canal meteorol�gico
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 ,Bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 ,DW NEWS
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1 ,CNN Turk
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 ,BFM Sport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+#EXTINF:-1 ,CDF Premium
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
+#EXTINF:-1 ,History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1 ,MUNDO +
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 ,TELEMUNDO 51 FULLHD
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0154
+#EXTINF:-1 ,Enlace TV
+http://api.new.livestream.com/accounts/2675843/events/1839332/live.m3u8
+#EXTINF:-1 ,Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 ,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://4.bp.blogspot.com/-MJZ3A3u6E78/U-JWxeGtvrI/AAAAAAAACzg/mFikMtH2yW0/s1600/life_design_tv.png",Lifedesign
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://www.diesl.com/wp-content/uploads/2011/12/world-fashion-channel.jpg",World Fashion
+http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="http://a1.mzstatic.com/us/r30/Purple6/v4/67/f6/4f/67f64f30-a881-ab3d-79b0-3169a8cca3ae/icon128-2x.png",TWiT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg",CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 ,Pop
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+#EXTINF:-1  tvg-logo="https://www.ezshield.com/wp-content/uploads/images/differentiators/24-7-icon.png",24/7 (ESPA�OL )
+http://stream.dubstep.fm:80/256mp3
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://puu.sh/nB5fs/d0fbb8562f.png",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://sportscar365.com/wp-content/uploads/2015/02/foxsportsracing.jpg",Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300",Bolivia Deportes
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest?cb=20171006040233",Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="http://magneticproductions.files.wordpress.com/2010/11/mtv-dance.png",MTV Dance
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://0.s3.envato.com/files/109789205/newVISITX.jpg",Visit-X
+http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
+#EXTINF:-1 ,El Justiciero 2
+http://ia801507.us.archive.org/5/items/jus2regio/jus2regio.mp4
+#EXTINF:-1 ,Christy Mack hace practicas en el ejercito
+https://cdn.servitubes.com/videos/4/3/9/4/5/4394549eecd8e8aa5341a37ccefd070eb1e5a049.mp4
+#EXTINF:-1 ,Una cura milagrosa
+https://cdn2.servitubes.com/videos/4/b/d/7/7/4bd772f66e7646c939d9e34554ab1c262ae93209.mp4
+#EXTINF:-1 ,Preston y Blue en accion
+https://cdn2.servitubes.com/videos/4/3/2/8/a/4328ad617ef937441dbd7481fd32db6c2c7ad545.mp4
+#EXTINF:-1 ,Penetrando a Kelsie Monroe
+https://cdn2.servitubes.com/videos/0/9/4/f/7/094f71d2f0310d75f102985daa132ee3f51368de.mp4
+#EXTINF:-1 ,Anna Bell sabe atender a los clientes
+https://cdn2.servitubes.com/videos/b/f/3/9/f/bf39f97b57efc3d8ce3259abae79d1070ac3b896.mp4
+#EXTINF:-1 ,Pego escondendo no armario
+https://cdn2.servitubes.com/videos/6/8/d/6/9/68d697f8109924a39ba9a6319935702ccc26eb55.mp4
+#EXTINF:-1 ,Como ser una ganadora dolorida
+https://cdn2.servitubes.com/videos/c/d/0/6/7/cd067ad27542e80d1183612d84d0c57fe810189d.mp4
+#EXTINF:-1 ,Pareja entra en calor en invierno
+https://cdn2.servitubes.com/videos/4/4/6/9/c/4469cd72eb8ae6b021a8c140e6ab824a9f408790.mp4
+#EXTINF:-1 ,Lecciones de cocina con Madison
+https://cdn2.servitubes.com/videos/f/3/0/3/c/f303c83df55269205ca2d0487c55145c7ac27907.mp4
+#EXTINF:-1 ,Mira tu polla
+https://cdn2.servitubes.com/videos/e/4/a/6/9/e4a69acb6e1e959c9b3f5b3413ebe1ea9b5e795e.mp4
+#EXTINF:-1 ,Ladrona de manos pegajosas
+https://cdn2.servitubes.com/videos/0/1/e/1/0/01e105ad11ee9f601c3ece428a70dfcbc3be0bde.mp4
+#EXTINF:-1 ,Todo el placer posible
+https://cdn2.servitubes.com/videos/6/d/9/e/0/6d9e03bfe19d62bed366da280b566f2350ce9010.mp4
+#EXTINF:-1 group-title="MEXICO" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/2/2/4/2/224294/224294,640x360,b:2.jpg",Sipse TV Cancun
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
