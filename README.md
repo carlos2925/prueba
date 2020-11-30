@@ -577,3 +577,19 @@ http://moontools.me:8080/miltonlopez/qEH247gT8p/1165090
 http://moontools.me:8080/movie/miltonlopez/qEH247gT8p/99109.mp4
 #EXTINF:-1 ,The Discovery.
 http://moontools.me:8080/movie/miltonlopez/qEH247gT8p/90382.mp4
+#EXTINF:-1 ,MLB | MLB Network
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1157391
+#EXTINF:-1 ,US: MLB HD
+http://moontools.me:8080/miltonlopez/qEH247gT8p/28769
+#EXTINF:-1 ,US: MLB Live HD
+http://moontools.me:8080/miltonlopez/qEH247gT8p/28518
+#EXTINF:-1 ,US: MLB Network
+http://moontools.me:8080/miltonlopez/qEH247gT8p/28767
+#EXTINF:-1 ,US: MLB Network HD
+http://moontools.me:8080/miltonlopez/qEH247gT8p/28768
+#EXTINF:-1 ,US: MLB Network
+http://moontools.me:8080/miltonlopez/qEH247gT8p/25471
+#EXTINF:-1 ,US: MLB Network
+http://moontools.me:8080/miltonlopez/qEH247gT8p/35001
+#EXTINF:-1 ,|CA| MLB NETWORK
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1135768
