@@ -409,3 +409,171 @@ http://moontools.me:8080/miltonlopez/qEH247gT8p/1165352
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1165353
 #EXTINF:-1 ,LAT-SD || HBO SIGNATURE
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1165354
+#EXTINF:-1 ,MX || Discovery Channel HD | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/81882
+#EXTINF:-1 ,MX || Discovery Channel SD | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/81715
+#EXTINF:-1 ,MX || Discovery H&H HD | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/81713
+#EXTINF:-1 ,MX || Discovery H&H SD | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/19397
+#EXTINF:-1 ,MX || Discovery Kids HD | Infantil
+http://moontools.me:8080/miltonlopez/qEH247gT8p/81899
+#EXTINF:-1 ,MX || DISCOVERY KIDS SD | Infantil
+http://moontools.me:8080/miltonlopez/qEH247gT8p/81747
+#EXTINF:-1 ,MX || Discovery SCI SD | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/81710
+#EXTINF:-1 ,MX || Discovery Science HD | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/81878
+#EXTINF:-1 ,MX || Discovery Theater HD | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/81886
+#EXTINF:-1 ,MX || Discovery Theater SD | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/81719
+#EXTINF:-1 ,MX || Discovery Turbo HD | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/81916
+#EXTINF:-1 ,MX || Discovery TURBO SD | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/81746
+#EXTINF:-1 ,MX || Discovery World HD | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/81883
+#EXTINF:-1 ,MX || Discovery World SD | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/81716
+#EXTINF:-1 ,MX || Investigation Discovery HD | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/81908
+#EXTINF:-1 ,MX || Investigation Discovery HD | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/81918
+#EXTINF:-1 ,MX || Investigation Discovery SD | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/81748
+#EXTINF:-1 ,MX || Discovery H&H HD
+http://moontools.me:8080/miltonlopez/qEH247gT8p/81881
+#EXTINF:-1 ,DISCOVERY CIVILIZATION- LC-1
+http://moontools.me:8080/miltonlopez/qEH247gT8p/19399
+#EXTINF:-1 ,||ES3|| DISCOVERY CHANNEL
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1123809
+#EXTINF:-1 ,||ES3|| DISCOVERY CHANNEL HD
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1123808
+#EXTINF:-1 ,ES || DISCOVERY  CHANNEL
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1114619
+#EXTINF:-1 ,ES||| DISCOVERY
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1123214
+#EXTINF:-1 ,(UK) DISCOVERY CHANNEL
+http://moontools.me:8080/miltonlopez/qEH247gT8p/19633
+#EXTINF:-1 ,(UK) DISCOVERY HISTORY
+http://moontools.me:8080/miltonlopez/qEH247gT8p/19632
+#EXTINF:-1 ,(UK) Discovery Turbo UK
+http://moontools.me:8080/miltonlopez/qEH247gT8p/19631
+#EXTINF:-1 ,(PT) DISCOVERY CHANNEL
+http://moontools.me:8080/miltonlopez/qEH247gT8p/15589
+#EXTINF:-1 ,CO|| DISCOVERY CHANNEL HD
+http://moontools.me:8080/miltonlopez/qEH247gT8p/103584
+#EXTINF:-1 ,CO|| DISCOVERY CIVILIZATION
+http://moontools.me:8080/miltonlopez/qEH247gT8p/103585
+#EXTINF:-1 ,CO|| DISCOVERY HOME HEALTH HD
+http://moontools.me:8080/miltonlopez/qEH247gT8p/103583
+#EXTINF:-1 ,CO|| DISCOVERY KIDS HD
+http://moontools.me:8080/miltonlopez/qEH247gT8p/103622
+#EXTINF:-1 ,CO|| DISCOVERY SCIENCE
+http://moontools.me:8080/miltonlopez/qEH247gT8p/103625
+#EXTINF:-1 ,CO|| DISCOVERY THEATER HD
+http://moontools.me:8080/miltonlopez/qEH247gT8p/103595
+#EXTINF:-1 ,CO|| DISCOVERY TURBO
+http://moontools.me:8080/miltonlopez/qEH247gT8p/103623
+#EXTINF:-1 ,CO|| DISCOVERY WORLD HD
+http://moontools.me:8080/miltonlopez/qEH247gT8p/103594
+#EXTINF:-1 ,Claro:DISCOVERY CHANNEL HD
+http://moontools.me:8080/miltonlopez/qEH247gT8p/23534
+#EXTINF:-1 ,Claro:DISCOVERY HOME HEALTH HD
+http://moontools.me:8080/miltonlopez/qEH247gT8p/23533
+#EXTINF:-1 ,Claro:DISCOVERY KIDS HD
+http://moontools.me:8080/miltonlopez/qEH247gT8p/23572
+#EXTINF:-1 ,Claro:DISCOVERY SCIENCE
+http://moontools.me:8080/miltonlopez/qEH247gT8p/23575
+#EXTINF:-1 ,Claro:DISCOVERY THEATER HD
+http://moontools.me:8080/miltonlopez/qEH247gT8p/23545
+#EXTINF:-1 ,Claro:DISCOVERY TURBO
+http://moontools.me:8080/miltonlopez/qEH247gT8p/23573
+#EXTINF:-1 ,Claro:DISCOVERY WORLD HD
+http://moontools.me:8080/miltonlopez/qEH247gT8p/23544
+#EXTINF:-1 ,Claro:INVESTIGATION DISCOVERY HD
+http://moontools.me:8080/miltonlopez/qEH247gT8p/23471
+#EXTINF:-1 ,• DM | Discovery 308
+http://moontools.me:8080/miltonlopez/qEH247gT8p/73094
+#EXTINF:-1 ,• DM | Discovery Home & Health 236
+http://moontools.me:8080/miltonlopez/qEH247gT8p/71720
+#EXTINF:-1 ,• DM | Discovery Kids 292
+http://moontools.me:8080/miltonlopez/qEH247gT8p/73095
+#EXTINF:-1 ,• DM | Discovery Turbo
+http://moontools.me:8080/miltonlopez/qEH247gT8p/71728
+#EXTINF:-1 ,LA | Discovery Channel | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/19398
+#EXTINF:-1 ,LA | DISCOVERY KIDS SD | Infantil
+http://moontools.me:8080/miltonlopez/qEH247gT8p/19329
+#EXTINF:-1 ,LA | Discovery Science | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/19332
+#EXTINF:-1 ,LA | Discovery Theater | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/19356
+#EXTINF:-1 ,LA | Discovery Turbo | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/19330
+#EXTINF:-1 ,LA | Discovery World | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/19408
+#EXTINF:-1 ,LA | Investigation Discovery | Cultural
+http://moontools.me:8080/miltonlopez/qEH247gT8p/19442
+#EXTINF:-1 ,Discovery Channel HD IT
+http://moontools.me:8080/miltonlopez/qEH247gT8p/14972
+#EXTINF:-1 ,● Sverige || Discovery Channel
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1135271
+#EXTINF:-1 ,● Sverige || Discovery World
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1135272
+#EXTINF:-1 ,● Sverige || Investigation Discovery Sweden
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1135280
+#EXTINF:-1 ,● SC.SE: Discovery Channel
+http://moontools.me:8080/miltonlopez/qEH247gT8p/52135
+#EXTINF:-1 ,(SW) Discovery Channel
+http://moontools.me:8080/miltonlopez/qEH247gT8p/16245
+#EXTINF:-1 ,(SW) Discovery World
+http://moontools.me:8080/miltonlopez/qEH247gT8p/16244
+#EXTINF:-1 ,(SW) Investigation Discovery Sweden
+http://moontools.me:8080/miltonlopez/qEH247gT8p/16248
+#EXTINF:-1 ,Discovery Science SE
+http://moontools.me:8080/miltonlopez/qEH247gT8p/14531
+#EXTINF:-1 ,Investigation Discovery SE
+http://moontools.me:8080/miltonlopez/qEH247gT8p/14530
+#EXTINF:-1 ,Discovery Channel HD SE
+http://moontools.me:8080/miltonlopez/qEH247gT8p/14532
+#EXTINF:-1 ,Discovery Science HD FR
+http://moontools.me:8080/miltonlopez/qEH247gT8p/19160
+#EXTINF:-1 ,Investigation Discovery HD FR
+http://moontools.me:8080/miltonlopez/qEH247gT8p/19159
+#EXTINF:-1 ,LA || Discovery en Español
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1135606
+#EXTINF:-1 ,|CA| DISCOVERY | HD
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1135642
+#EXTINF:-1 ,|CA| DISCOVERY SCIENCE | HD
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1135680
+#EXTINF:-1 ,|CA| INVESTIGATION DISCOVERY | HD
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1135709
+#EXTINF:-1 ,ESPAÑA |||| DISCOVERY CHANNEL
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1138887
+#EXTINF:-1 ,(UK) Discovery Science
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1158238
+#EXTINF:-1 ,MX | Discovery TLC
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1165036
+#EXTINF:-1 ,MX | Discovery Kids
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1165048
+#EXTINF:-1 ,MX | Discovery ID
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1165084
+#EXTINF:-1 ,MX | Discovery Theater
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1165085
+#EXTINF:-1 ,MX | Discovery Channel
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1165086
+#EXTINF:-1 ,MX | Discovery HH
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1165087
+#EXTINF:-1 ,MX | Discovery Science
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1165088
+#EXTINF:-1 ,MX | Discovery Turbo
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1165089
+#EXTINF:-1 ,MX | Discovery World
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1165090
+#EXTINF:-1 ,●The Discovery
+http://moontools.me:8080/movie/miltonlopez/qEH247gT8p/99109.mp4
+#EXTINF:-1 ,The Discovery.
+http://moontools.me:8080/movie/miltonlopez/qEH247gT8p/90382.mp4
