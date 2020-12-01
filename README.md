@@ -2224,3 +2224,21 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0154
 #EXTINF:-1  tvg-logo="https://www.ezshield.com/wp-content/uploads/images/differentiators/24-7-icon.png",24/7 (ESPA�OL )
 http://stream.dubstep.fm:80/256mp3
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX ACTION SD*
+http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/11
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX CLASICO SD*
+http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/14
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX COMEDY SD*
+http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/15
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX FAMYLY SD*
+http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/16
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX MOVIES SD*
+http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/17
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX SERIES SD*
+http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/18
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRETENIMIENTO: FOX LIFE TP MX
+http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/64
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX LIFE
+http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/66
+#EXTINF:-1 group-title="SERIES",SERIE: FOX SD *
+http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/71
