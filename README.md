@@ -2242,3 +2242,21 @@ http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafv
 http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/66
 #EXTINF:-1 group-title="SERIES",SERIE: FOX SD *
 http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/71
+#EXTINF:-1 ,PortalFoxMix Tv En Vivo Online www.achoAPPS.com
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1 ,MUSICA:Portal Foxmix (Chile) www.achoAPPS.com
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 ,MUSICA:PortalFoxMix Tv www.achoAPPS.com
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="MUSICA",Portal FoxMix | HD www.achoAPPS.com
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",PortalFoxMix Tv www.achoAPPS.com
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 ,FOXCINEMA www.achoAPPS.com
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1 ,FOX MOVIES www.achoAPPS.com
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1 ,fox premium comedy (eng) www.achoAPPS.com
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:-1 ,Fox Sports Racing www.achoAPPS.com
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
