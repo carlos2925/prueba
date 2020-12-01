@@ -2744,3 +2744,391 @@ http://teslagram.com/live/channel_630.m3u8
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 ,TUDN
 http://pubads.g.doubleclick.net/ssai/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
+#EXTINF:-1 ,Jasmin TV HD (18+)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 ,Miami TV (18+)
+http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8
+#EXTINF:-1 ,Miami TV Colombia (18+)
+http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+#EXTINF:-1 ,Miami TV Latino (18+)
+http://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_b2592000.m3u8
+#EXTINF:-1 ,VISIT-X TV HD (18+)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 ,Anna Bell sabe atender a los clientes
+http://cdn2.servitubes.com/videos/b/f/3/9/f/bf39f97b57efc3d8ce3259abae79d1070ac3b896.mp4
+#EXTINF:-1 ,Como ser una ganadora dolorida
+http://cdn2.servitubes.com/videos/c/d/0/6/7/cd067ad27542e80d1183612d84d0c57fe810189d.mp4
+#EXTINF:-1 ,Dane Jones - My Sweet Spot
+http://cdn.servitubes.com/videos/2/3/e/6/b/23e6bdb1f1136158df6a20b60af4e40b0544c924.mp4
+#EXTINF:-1 ,Fine Vids 1
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4
+#EXTINF:-1 ,Fine Vids 2
+http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4
+#EXTINF:-1 ,Fine Vids 3
+http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4
+#EXTINF:-1 ,Fine Vids 4
+http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4
+#EXTINF:-1 ,Fine Vids 6
+http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4/
+#EXTINF:-1 ,Girls and Studs
+http://cdn2.servitubes.com/videos/d/a/f/a/d/dafad50cac8d089173cda5f183474c3e887e0fda.mp4
+#EXTINF:-1 ,Italian Video 1
+http://media.tuboitaliano.it:81/videos/5/7/5/a/f/575af45f819f8.flv
+#EXTINF:-1 ,Italian Video 2
+http://media.tuboitaliano.it:81/videos/5/8/5/7/0/5857011522b4d.mp4
+#EXTINF:-1 ,Italian Video 3
+http://media.tuboitaliano.it:81/videos/5/7/5/c/3/575c344b168cc.mp4
+#EXTINF:-1 ,Italian Video 4
+http://media.tuboitaliano.it:81/videos/5/9/1/a/9/591a97ec61417.mp4
+#EXTINF:-1 ,Italian Video 5
+http://media.tuboitaliano.it:81/videos/5/7/8/6/f/5786fabe0084c.mp4
+#EXTINF:-1 ,Italian Video 6
+http://media.tuboitaliano.it:81/videos/5/7/8/6/f/5786f11ac0d6a.mp4
+#EXTINF:-1 ,Italian Video 7
+http://media.tuboitaliano.it:81/videos/5/7/b/d/d/57bdd9ad873d2.mp4
+#EXTINF:-1 ,Italian Video 8
+http://media.tuboitaliano.it:81/videos/5/7/8/7/2/5787205acfe25.mp4
+#EXTINF:-1 ,Italian Video 9
+http://media.videopornoitaliano.com:81/videos/5/8/4/c/8/584c80c537f54.mp4
+#EXTINF:-1 ,Italian Video 10
+http://media.tuboitaliano.it:81/videos/5/7/5/d/c/575dcda4732dd.flv
+#EXTINF:-1 ,Italian Video 12
+http://media.tuboitaliano.it:81/videos/5/7/8/6/e/5786e11b2acda.mp4
+#EXTINF:-1 ,Italian Video 13
+http://media.tuboitaliano.it:81/videos/5/7/e/0/0/57e000c813990.mp4
+#EXTINF:-1 ,Italian Video 14
+http://media.tuboitaliano.it:81/videos/5/7/7/8/0/577804dbc65cd.mp4
+#EXTINF:-1 ,Italian Video 15
+http://media.tuboitaliano.it:81/videos/5/8/0/f/9/580f93a22dd90.mp4
+#EXTINF:-1 ,Italian Video 16
+http://media.tuboitaliano.it:81/videos/5/7/5/d/4/575d4ee21a02e.flv
+#EXTINF:-1 ,Italian Video 17
+http://media.tuboitaliano.it:81/videos/5/9/2/3/2/59232ea4c21d8.mp4
+#EXTINF:-1 ,Italian Video 18
+http://media.tuboitaliano.it:81/videos/5/7/7/7/f/5777f2ac9842e.mp4
+#EXTINF:-1 ,Italian Video 19
+http://media.tuboitaliano.it:81/videos/5/9/b/b/b/59bbb36483119.mp4
+#EXTINF:-1 ,Italian Video 21
+http://media.videopornoitaliano.com:81/videos/5/8/1/9/c/5819c03bc8715.mp4
+#EXTINF:-1 ,Italian Video 22
+http://media.tuboitaliano.it:81/videos/5/7/8/6/c/5786cdeb1abbf.mp4
+#EXTINF:-1 ,Italian Video 23
+http://media.tuboitaliano.it:81/videos/5/9/2/3/1/592312bab5803.mp4
+#EXTINF:-1 ,Lecciones de cocina con Madison
+http://cdn2.servitubes.com/videos/f/3/0/3/c/f303c83df55269205ca2d0487c55145c7ac27907.mp4
+#EXTINF:-1 ,Lust Cinema - Sex Fetish
+http://cdn.servitubes.com/videos/6/1/7/d/b/617db9bf132a0fcfda158f7ff141c747e38c7582.mp4
+#EXTINF:-1 ,Mira tu polla
+http://cdn2.servitubes.com/videos/e/4/a/6/9/e4a69acb6e1e959c9b3f5b3413ebe1ea9b5e795e.mp4
+#EXTINF:-1 ,Nubiles Porn - Ricky
+http://cdn.servitubes.com/videos/e/e/6/1/f/ee61f46e421e18382ff152b4cdc74c413236429a.mp4
+#EXTINF:-1 ,Penetrando a Kelsie Monroe
+http://cdn2.servitubes.com/videos/0/9/4/f/7/094f71d2f0310d75f102985daa132ee3f51368de.mp4
+#EXTINF:-1 ,Porneq 1
+http://porneq.com/media/porn5/videos/465/Amanda-Black-20-10-2015-Mylove-360p-2Df89PnA8q2.mp4
+#EXTINF:-1 ,Porneq 10
+http://porneq.com/media/porn6/videos/144/HD-Porn-Porn-Stars-The-Ultimate-Adult-Experience-HD-Porn-Porn-Stars-The-Ultimate-Adult-Experience-360p-6ifT6lAKdVj.mp4
+#EXTINF:-1 ,Porneq 12
+http://porneq.com/media/porn7/videos/1920/Vintage-German-Interracial-Porn-Movie-PIR-TE-Vintage-German-Interracial-Porn-Movie-360p-qxhAXwnbFdr.mp4
+#EXTINF:-1 ,Porneq 13
+http://porneq.com/media/porn7/videos/1786/Vintage-French-Movie-PIR-TE-Vintage-French-Movie-360p-zo7M32cAZxK.mp4
+#EXTINF:-1 ,Porneq 17
+http://porneq.com/media/porn7/videos/1876/Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-PIR-TE-Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-360p-FfBh6youF6y.mp4
+#EXTINF:-1 ,Porneq 18
+http://porneq.com/media/porn7/videos/1929/Dirty-Western-2-Smokin-Guns-1995-Full-Movie-360p-7vnRLFOTPE2.mp4
+#EXTINF:-1 ,Porneq 19
+http://porneq.com/media/porn12/videos/254/Pornolab-Sex-Abitur-Versaute-Schulmadchen-Traume-2-aka-Das-Sexabitur-1978-Herzog-360p-0RkpkoXYsXf.mp4
+#EXTINF:-1 ,Porneq 2
+http://porneq.com/media/porn2/videos/904/Blonde-Hottie-Fucking-with-Asslicking-Front-Hidden-Webcam-Cumshot-on-Ass-360p-MuRBZyuxvaa.mp4
+#EXTINF:-1 ,Porneq 20
+http://porneq.com/media/porn12/videos/876/Rebeka-21yo-Virgin-Rebeka-Letting-Me-Finger-Her-And-Go-Down-Til-Orgasm-1280x720-360p-sqWVNIw88nh.mp4
+#EXTINF:-1 ,Porneq 3
+http://porneq.com/media/porn3/videos/162/Hegre-Art-15-08-04-Emily-And-Serena-Cucumber-Loving-XXX-MP4-KTR-hart-15-08-04-emily-and-serena-cucumber-loving-360p-OYjQJSpz65S.mp4
+#EXTINF:-1 ,Porneq 5
+http://porneq.com/media/porn7/videos/202/80s-French-Vintage-Movie-PIR-TE-80s-French-Vintage-Movie-PIR-TE-360p-O0q5kEfCik2.mp4
+#EXTINF:-1 ,Porneq 6
+http://porneq.com/media/porn7/videos/837/Classic-vintage-movie-PIR-TE-Classic-vintage-movie-PIR-TE-360p-1NsAWtbgDZL.mp4
+#EXTINF:-1 ,Porneq 7
+http://porneq.com/media/porn7/videos/375/Aladdin-vintage-movie-PIR-TE-Aladdin-vintage-movie-PIR-TE-360p-OSGuMx853rL.mp4
+#EXTINF:-1 ,Porneq 8
+http://porneq.com/media/porn7/videos/1234/Vintage-Italian-Porn-Movie-With-Hairy-Pussies-PIR-TE-Vintage-Italian-Porn-Movie-With-Hairy-Pussies-360p-WxE8H1nDtBK.mp4
+#EXTINF:-1 ,Porneq 9
+http://porneq.com/media/porn4/videos/907/Girls-In-Blue-Pt1-Full-Vintage-Movie-6-PIR-TE-Girls-In-Blue-Pt1-Full-Vintage-Movie-6-PIR-TE-360p-gLM0fvToF3C.mp4
+#EXTINF:-1 ,Preston y Blue en accion
+http://cdn2.servitubes.com/videos/4/3/2/8/a/4328ad617ef937441dbd7481fd32db6c2c7ad545.mp4
+#EXTINF:-1 ,Public Pick Ups
+http://cdn.servitubes.com/videos/0/2/9/3/c/0293cf9012c23e92d7d68e7d599824008e498f04.mp4
+#EXTINF:-1 ,Team Skeet - Adriana Lynn
+http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_adriana_lynn_12minute.mp4
+#EXTINF:-1 ,Team Skeet - Allison Banks
+http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_allison_banks_12minute.mp4
+#EXTINF:-1 ,Team Skeet - Amanda
+http://tube.paperstreetcash.com/8mins/rubateen/rubateen_amanda_8minute.mp4
+#EXTINF:-1 ,Team Skeet - Anabela
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_anabela_12minute.mp4
+#EXTINF:-1 ,Team Skeet - Ariadna
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_ariadna_12minute.mp4
+#EXTINF:-1 ,Team Skeet - Ariana and Gabriella
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_ariana_and_gabriella_8minutes.mp4
+#EXTINF:-1 ,Team Skeet - Chichi Medina
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
+#EXTINF:-1 ,Team Skeet - Chloe Foster
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chloe_foster_8minutes.mp4
+#EXTINF:-1 ,Team Skeet - Dakota Skye
+http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_dakota_skye_12minute.mp4
+#EXTINF:-1 ,Team Skeet - Demida
+http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
+#EXTINF:-1 ,Team Skeet - Dusya
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
+#EXTINF:-1 ,Team Skeet - Gerta
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_gerta_12minute.mp4
+#EXTINF:-1 ,Team Skeet - Irina
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_ilina_12minute.mp4
+#EXTINF:-1 ,Team Skeet - Jane
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_jane_12minute.mp4
+#EXTINF:-1 ,Team Skeet - Lacie Channing
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_lacie_channing_8minutes.mp4
+#EXTINF:-1 ,Team Skeet - Mirabella
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_mirabella_12minute.mp4
+#EXTINF:-1 ,Team Skeet - Natalia Rossi
+http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
+#EXTINF:-1 ,Team Skeet - Neona
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_neona_12minute.mp4
+#EXTINF:-1 ,Team Skeet - Rissa Maxxx
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_rissa_maxxx_8minutes.mp4
+#EXTINF:-1 ,Team Skeet - Sara Luvv
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_sara_luvv_8minutes.mp4
+#EXTINF:-1 ,Team Skeet - Sasha
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_sasha_12minute.mp4
+#EXTINF:-1 ,Todo el placer posible
+http://cdn2.servitubes.com/videos/6/d/9/e/0/6d9e03bfe19d62bed366da280b566f2350ce9010.mp4
+#EXTINF:-1 ,Video 1
+http://galleries.payserve.com/1/43131/55380/5mins_sv.flv
+#EXTINF:-1 ,Wow Girls 1
+http://content2.sexforsure.com/2013/07/02/14/Video.mp4
+#EXTINF:-1 ,Wow Girls 10
+http://content2.sexforsure.com/2013/07/02/11/Video.mp4
+#EXTINF:-1 ,Wow Girls 11
+http://content2.sexforsure.com/2013/07/02/6/Video.mp4
+#EXTINF:-1 ,Wow Girls 12
+http://content2.sexforsure.com/2013/07/02/5/Video.mp4
+#EXTINF:-1 ,Wow Girls 13
+http://content2.sexforsure.com/2013/07/02/4/Video.mp4
+#EXTINF:-1 ,Wow Girls 14
+http://content2.sexforsure.com/2013/07/02/2/Video.mp4
+#EXTINF:-1 ,Wow Girls 15
+http://content2.sexforsure.com/2013/07/02/1/Video.mp4
+#EXTINF:-1 ,Wow Girls 16
+http://content2.sexforsure.com/2013/07/02/18/Video.mp4
+#EXTINF:-1 ,Wow Girls 17
+http://content2.sexforsure.com/2013/07/02/3/Video.mp4
+#EXTINF:-1 ,Wow Girls 18
+http://content2.sexforsure.com/2013/07/02/7/Video.mp4
+#EXTINF:-1 ,Wow Girls 19
+http://content2.sexforsure.com/2013/07/02/8/Video.mp4
+#EXTINF:-1 ,Wow Girls 2
+http://content2.sexforsure.com/2013/07/02/12/Video.mp4
+#EXTINF:-1 ,Wow Girls 20
+http://content2.sexforsure.com/2013/07/02/16/Video.mp4
+#EXTINF:-1 ,Wow Girls 3
+http://content2.sexforsure.com/2013/07/02/20/Video.mp4
+#EXTINF:-1 ,Wow Girls 4
+http://content2.sexforsure.com/2013/07/02/19/Video.mp4
+#EXTINF:-1 ,Wow Girls 5
+http://content2.sexforsure.com/2013/07/02/17/Video.mp4
+#EXTINF:-1 ,Wow Girls 6
+http://content2.sexforsure.com/2013/07/02/15/Video.mp4
+#EXTINF:-1 ,Wow Girls 7
+http://content2.sexforsure.com/2013/07/02/13/Video.mp4
+#EXTINF:-1 ,Wow Girls 8
+http://content2.sexforsure.com/2013/07/02/9/Video.mp4
+#EXTINF:-1 ,Wow Girls 9
+http://content2.sexforsure.com/2013/07/02/10/Video.mp4
+#EXTINF:-1 ,Wow Porn 1
+http://content2.sexforsure.com/2013/07/03/7/Video.mp4
+#EXTINF:-1 ,Wow Porn 10
+http://content2.sexforsure.com/2013/07/03/16/Video.mp4
+#EXTINF:-1 ,Wow Porn 11
+http://content2.sexforsure.com/2013/07/03/17/Video.mp4
+#EXTINF:-1 ,Wow Porn 12
+http://content2.sexforsure.com/2013/07/03/15/Video.mp4
+#EXTINF:-1 ,Wow Porn 13
+http://content2.sexforsure.com/2013/07/03/2/Video.mp4
+#EXTINF:-1 ,Wow Porn 14
+http://content2.sexforsure.com/2013/07/03/13/Video.mp4
+#EXTINF:-1 ,Wow Porn 15
+http://content2.sexforsure.com/2013/07/03/1/Video.mp4
+#EXTINF:-1 ,Wow Porn 16
+http://content2.sexforsure.com/2013/07/03/14/Video.mp4
+#EXTINF:-1 ,Wow Porn 17
+http://content2.sexforsure.com/2013/07/03/4/Video.mp4
+#EXTINF:-1 ,Wow Porn 18
+http://content2.sexforsure.com/2013/07/03/18/Video.mp4
+#EXTINF:-1 ,Wow Porn 2
+http://content2.sexforsure.com/2013/07/03/11/Video.mp4
+#EXTINF:-1 ,Wow Porn 3
+http://content2.sexforsure.com/2013/07/03/20/Video.mp4
+#EXTINF:-1 ,Wow Porn 4
+http://content2.sexforsure.com/2013/07/03/19/Video.mp4
+#EXTINF:-1 ,Wow Porn 5
+http://content2.sexforsure.com/2013/07/03/12/Video.mp4
+#EXTINF:-1 ,Wow Porn 6
+http://content2.sexforsure.com/2013/07/03/10/Video.mp4
+#EXTINF:-1 ,Wow Porn 7
+http://content2.sexforsure.com/2013/07/03/9/Video.mp4
+#EXTINF:-1 ,Wow Porn 8
+http://content2.sexforsure.com/2013/07/03/5/Video.mp4
+#EXTINF:-1 ,Wow Porn 9
+http://content2.sexforsure.com/2013/07/03/3/Video.mp4
+#EXTINF:-1 ,Видео 1
+http://www.pornonacionais.com/wp-content/uploads/2016/12/1015.mp4
+#EXTINF:-1 ,Видео 10
+http://www.pornonacionais.com/wp-content/uploads/2016/12/2eb818875022ccc81c14317af0c956c9-1.mp4
+#EXTINF:-1 ,Видео 11
+http://www.pornonacionais.com/wp-content/uploads/2017/01/ffb2cf7ce157fd56c2f705e91039a36c-1.mp4
+#EXTINF:-1 ,Видео 12
+http://www.pornonacionais.com/wp-content/uploads/2016/12/852.mp4
+#EXTINF:-1 ,Видео 13
+http://www.pornonacionais.com/wp-content/uploads/2016/12/824.mp4
+#EXTINF:-1 ,Видео 14
+http://www.pornonacionais.com/wp-content/uploads/2016/10/b0d26bd495439df83242e8b676696a54.mp4
+#EXTINF:-1 ,Видео 15
+http://www.pornonacionais.com/wp-content/uploads/2016/12/819.mp4
+#EXTINF:-1 ,Видео 16
+http://www.pornonacionais.com/wp-content/uploads/2016/12/806.mp4
+#EXTINF:-1 ,Видео 17
+http://www.pornonacionais.com/wp-content/uploads/2017/01/0916abe621f8640f39d5bc591f9145bc.mp4
+#EXTINF:-1 ,Видео 18
+http://www.pornonacionais.com/wp-content/uploads/2016/12/607.mp4
+#EXTINF:-1 ,Видео 19
+http://www.pornonacionais.com/wp-content/uploads/2016/12/910.mp4
+#EXTINF:-1 ,Видео 2
+http://www.pornonacionais.com/wp-content/uploads/2017/02/afc03b24e36e200dc7ac378e8ee4ad0b.mp4
+#EXTINF:-1 ,Видео 20
+http://www.pornonacionais.com/wp-content/uploads/2017/02/b7b21a15a69e3de543a66182fcecf6da.mp4
+#EXTINF:-1 ,Видео 3
+http://www.pornonacionais.com/wp-content/uploads/2016/12/d8ed22fa132bdc8a3a42adca50c13f90-1.mp4
+#EXTINF:-1 ,Видео 4
+http://www.pornonacionais.com/wp-content/uploads/2016/12/712.mp4
+#EXTINF:-1 ,Видео 5
+http://www.pornonacionais.com/wp-content/uploads/2016/10/bfe51671dd07a58f466a69b601407af6.mp4
+#EXTINF:-1 ,Видео 6
+http://www.pornonacionais.com/wp-content/uploads/2016/12/507.mp4
+#EXTINF:-1 ,Видео 7
+http://www.pornonacionais.com/wp-content/uploads/2016/12/126.mp4
+#EXTINF:-1 ,Видео 8
+http://www.pornonacionais.com/wp-content/uploads/2016/12/4c275f778304cc0942899f32c66cb5ba.mp4
+#EXTINF:-1 ,Видео 9
+http://www.pornonacionais.com/wp-content/uploads/2016/12/612d32c544f67b540b9c50f1f1414275.mp4
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",HOT
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",Dusk
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",Juice
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",Juice
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png",SEXTATION
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png",SEXTATION
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",You Porn
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",You Porn
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",PenthouseX
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png",PenthouseX
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png",Sextreme
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://s19.postimg.org/t9qpt32f7/HUSTLER.png",HustlerXXX
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://0.s3.envato.com/files/109789205/newVISITX.jpg",Visit-X
+http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 1
+http://static.brazzers.com/scenes/7119/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 2
+http://static.brazzers.com/scenes/5457/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 3
+http://static.brazzers.com/scenes/3327/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 4
+http://static.brazzers.com/scenes/3328/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 5
+http://static.brazzers.com/scenes/4517/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 6
+http://static.brazzers.com/scenes/4521/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 7
+http://static.brazzers.com/scenes/4523/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 8
+http://static.brazzers.com/scenes/4524/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 9
+http://static.brazzers.com/scenes/4525/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 10
+http://static.brazzers.com/scenes/4526/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 11
+http://static.brazzers.com/scenes/4527/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 12
+http://static.brazzers.com/scenes/4528/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 13
+http://static.brazzers.com/scenes/4529/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 14
+http://static.brazzers.com/scenes/4530/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 15
+http://static.brazzers.com/scenes/4531/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 16
+http://static.brazzers.com/scenes/4533/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 17
+http://static.brazzers.com/scenes/4534/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 18
+http://static.brazzers.com/scenes/4536/180sec.flv
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-20+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-21+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-1+18 3D achoAPPS.com
+http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-10+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-11+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-13+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-15+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-16+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-25+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-3+18 3D achoAPPS.com
+http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-4+18 3D achoAPPS.com
+http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-5+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-6+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-7+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-8+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
+#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-9+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
+#EXTINF:-1 ,XXXVOD3D-26+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/026/trailer.f4v
+#EXTINF:-1 ,XXX-Babes 19 achoAPPS.com
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+#EXTINF:-1 ,Nubile2 achoAPPS.com
+http://images.nubiles-porn.com/videos/fucking_her_right/videos/nubilesporn_fucking_her_right_long_640.mp4
+#EXTINF:-1 ,Nubile3 achoAPPS.com
+http://images.nubiles-porn.com/videos/deep_in_her_pussy/videos/nubilesporn_deep_in_her_pussy_long_640.mp4
+#EXTINF:-1 ,Nubile5 achoAPPS.com
+http://images.nubilefilms.com/films/sexual_tension_with_kacy_lane/videos/nubilefilms_sexual_tension_long_640.mp4
+#EXTINF:-1 ,R@tte e Sf@ndate achoAPPS.com
+http://cdn.videos.pornopizza.it/media/videos/5/7/a/8/b/57a8b58243474.mp4
+#EXTINF:-1 ,Le P@rcone Volanti achoAPPS.com
+http://cdn.videos.pornopizza.it/media/videos/5/7/3/a/f/573af2c3cc340.mp4
+#EXTINF:-1 ,Filomena M@rtusano achoAPPS.com
+http://cdn.videos.pornopizza.it/media/videos/5/7/8/a/5/578a53d649c3f.mp4
