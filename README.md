@@ -2260,3 +2260,7 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
 #EXTINF:-1 ,Fox Sports Racing www.achoAPPS.com
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 group-title="Without category",animal+planet www.achoAPPS.com
+http://1.bp.blogspot.com/-ZxSLgUvnfbA/UgmwyPWsM_I/AAAAAAAAAAc/7TyqbuEdPKg/s1600/animal+planet.jpg"
+#EXTINF:-1 ,Animal Planet www.achoAPPS.com
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
