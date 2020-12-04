@@ -5527,3 +5527,5 @@ http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaD
 http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2118
 #EXTINF:-1 group-title="24/7",url vencida
 http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2119
+#EXTINF:0 tvg-country="PA" tvg-logo="https://i.imgur.com/IqLT2CC.png" group-title="Undefined",OYE CANAL 7,PA | OYE CANAL 7
+https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8?checkedby:hlscat.com
