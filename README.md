@@ -5529,3 +5529,53 @@ http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwf
 http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2119
 #EXTINF:0 tvg-country="PA" tvg-logo="https://i.imgur.com/IqLT2CC.png" group-title="Undefined",OYE CANAL 7,PA | OYE CANAL 7
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",BAND SPORTS
+http://rec2.distv.net:80/kennedy/kennedy/422?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",BAND SPORTS
+http://rec2.distv.net:80/egidio/egidio/422?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport;Undefined" tvg-logo="https://i.imgur.com/2M9WfqA.jpg",Real Madrid TV (English)
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",ESPN
+http://rec2.distv.net:80/kennedy/kennedy/450?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",ESPN
+http://rec2.distv.net:80/egidio/egidio/450?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",ESPN 2
+http://rec2.distv.net:80/egidio/egidio/451?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",ESPN 2
+http://rec2.distv.net:80/kennedy/kennedy/451?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",ESPN 2 HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/82355?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",ESPN EXTRA
+http://rec2.distv.net:80/egidio/egidio/453?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",ESPN EXTRA
+http://rec2.distv.net:80/kennedy/kennedy/453?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",ESPN EXTRA HD
+http://rv.therevenge.co:80/691616211141151/691616211141151/82356?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",ESPN EXTRA HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/82356?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",ESPN HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/82357?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",FOX SPORTS
+http://rec2.distv.net:80/kennedy/kennedy/462?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",FOX SPORTS
+http://rec2.distv.net:80/egidio/egidio/462?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",FOX SPORTS 2
+http://rec2.distv.net:80/kennedy/kennedy/463?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",FOX SPORTS 2
+http://rec2.distv.net:80/egidio/egidio/463?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",SPORTV
+http://rec2.distv.net:80/egidio/egidio/509?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",SPORTV
+http://rec2.distv.net:80/kennedy/kennedy/509?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",SPORTV 2
+http://rec2.distv.net:80/egidio/egidio/510?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",SPORTV 2
+http://rec2.distv.net:80/kennedy/kennedy/510?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",SPORTV 3
+http://rec2.distv.net:80/egidio/egidio/511?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",SPORTV 3
+http://rec2.distv.net:80/kennedy/kennedy/511?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",SPORTV HD
+http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/82362?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",SPORTV HD
+http://rv.therevenge.co:80/691616211141151/691616211141151/82362?checkedby:iptvcat.com
