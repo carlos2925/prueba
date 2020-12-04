@@ -5527,3 +5527,5 @@ http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaD
 http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2118
 #EXTINF:-1 group-title="24/7",url vencida
 http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2119
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/xzLfc7H/CARTOON-NETWORK.jpg",Cartoon Network
+https://tecnoplay.club/doom/principal.php?c=24&f=.m3u8
