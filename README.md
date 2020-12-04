@@ -15,382 +15,6 @@ https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
 https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 #EXTINF:-1 group-title="ROKU USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png",Epix 2 (East)
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",CA : CBC TORONTO
-http://mains.vip:2086/demouser/demouser/15283
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",CA : CBC VANCOUVER
-http://mains.vip:2086/demouser/demouser/15284
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",CA : CBC ST JOHNS
-http://mains.vip:2086/demouser/demouser/15282
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",CA : CBC OTTAWA
-http://mains.vip:2086/demouser/demouser/15280
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",CA : CBC HALIFAX
-http://mains.vip:2086/demouser/demouser/15278
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",CA : CBC EDMONTON
-http://mains.vip:2086/demouser/demouser/15276
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",CA : CBC
-http://mains.vip:2086/demouser/demouser/5487
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",CA : CBC NEWS NETWORK
-http://mains.vip:2086/demouser/demouser/65865
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",CA : CBC HALIFAX HD
-http://mains.vip:2086/demouser/demouser/93930
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",CA : CBC WINNIPEG
-http://mains.vip:2086/demouser/demouser/93998
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: ABC NEWS
-http://mains.vip:2086/demouser/demouser/98860
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: CBS NEWS
-http://mains.vip:2086/demouser/demouser/98861
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: LAW AND CRIME
-http://mains.vip:2086/demouser/demouser/98862
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: NEWSMAX
-http://mains.vip:2086/demouser/demouser/98863
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: TYT NETWORK
-http://mains.vip:2086/demouser/demouser/98864
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: BLACK NEWS CHANNEL
-http://mains.vip:2086/demouser/demouser/98865
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: CHEDDAR LIVE
-http://mains.vip:2086/demouser/demouser/98866
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: COMEDY DYNAMICS
-http://mains.vip:2086/demouser/demouser/98867
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: DOCURAMA
-http://mains.vip:2086/demouser/demouser/98868
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: CONTV
-http://mains.vip:2086/demouser/demouser/98869
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: SHOUT FACTORY TV
-http://mains.vip:2086/demouser/demouser/98870
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: CINELIFE
-http://mains.vip:2086/demouser/demouser/98871
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: QELLO CONCERTS
-http://mains.vip:2086/demouser/demouser/98872
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: STINGRAY KARAOKE
-http://mains.vip:2086/demouser/demouser/98873
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: LATIDO MUSIC
-http://mains.vip:2086/demouser/demouser/98874
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: MOBCRUSH
-http://mains.vip:2086/demouser/demouser/98875
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: ELECTRIC NOW
-http://mains.vip:2086/demouser/demouser/98876
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: UNIDENTIFIED TV
-http://mains.vip:2086/demouser/demouser/98877
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: PEOPLE TV
-http://mains.vip:2086/demouser/demouser/98879
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: TASTEMADE
-http://mains.vip:2086/demouser/demouser/98880
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: NATURESCAPE
-http://mains.vip:2086/demouser/demouser/98881
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: HSN
-http://mains.vip:2086/demouser/demouser/98883
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: JTV
-http://mains.vip:2086/demouser/demouser/98884
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: REVRY
-http://mains.vip:2086/demouser/demouser/98885
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: SHOPLC
-http://mains.vip:2086/demouser/demouser/98886
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: DEMAND AFRICA
-http://mains.vip:2086/demouser/demouser/98887
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: DOVE CHANNEL
-http://mains.vip:2086/demouser/demouser/98888
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: FTF FOR THE FANS
-http://mains.vip:2086/demouser/demouser/98889
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: SPORTSGRID
-http://mains.vip:2086/demouser/demouser/98890
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: OUTSIDE TV+
-http://mains.vip:2086/demouser/demouser/98891
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: EDGESPORT
-http://mains.vip:2086/demouser/demouser/98892
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: INSIGHTTV
-http://mains.vip:2086/demouser/demouser/98893
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: COMBATGO
-http://mains.vip:2086/demouser/demouser/98894
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: FUBO SPORTS NETWORK
-http://mains.vip:2086/demouser/demouser/98895
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: STADIUM
-http://mains.vip:2086/demouser/demouser/98896
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: BEIN SPORTS XTRA
-http://mains.vip:2086/demouser/demouser/98897
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: STINGRAY HITLIST
-http://mains.vip:2086/demouser/demouser/98898
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: STINGRAY GREATEST HITS
-http://mains.vip:2086/demouser/demouser/98899
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: STINGRAY HOT COUNTRY
-http://mains.vip:2086/demouser/demouser/98900
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: STINGRAY CLASSIC ROCK
-http://mains.vip:2086/demouser/demouser/98901
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: STINGRAY SOUL STORM
-http://mains.vip:2086/demouser/demouser/98902
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: FILMRISE CLASSICS
-http://mains.vip:2086/demouser/demouser/98903
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: FILMRISE CRIME
-http://mains.vip:2086/demouser/demouser/98904
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: FILMRISE FAMILY
-http://mains.vip:2086/demouser/demouser/98905
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: FILMRISE MOVIES
-http://mains.vip:2086/demouser/demouser/98906
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: FOOD52
-http://mains.vip:2086/demouser/demouser/98907
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: TMZ
-http://mains.vip:2086/demouser/demouser/98908
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",XUMOTV: NBC NEWS NOW
-http://mains.vip:2086/demouser/demouser/98858
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7  CAILLOU
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/872
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7  CORAJE EL PERRO COBARDE
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/873
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7  CUENTOS GREEM
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/874
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7  DINOSAURIOS 1991
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/875
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7  DRAGON BALL 1984
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/876
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7  LOS SIMPSON
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/877
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7  SOUTH PARK
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/878
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7  THE WALKING DEAD
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/879
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 ALF
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/880
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 AÑOS MARAVILLOSOS 1988
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/881
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 BARNY Y SUS AMIGOS
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/882
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 BATMAN 1966 RETRO
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/883
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 BOB ESPONJA
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/884
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 BREAKING  BAD
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/885
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 CABALLEROS DEL ZODIACO
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/886
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 CANTINFLAS
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/887
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 CASO CERRADO "SEXUALIDAD"
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/888
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 CSI: MIAMI
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/889
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 Death note
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/890
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/891
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 DRAGON  BALL SUPER
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/892
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 DRAGON BALL GT 1996
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/893
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 DRAGON BALL Z 1989
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/894
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 El Avispón Verde
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/895
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 EL CHAPULIN COLORADO
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/896
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 EL CHAVO DEL 8
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/897
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 EL CHEMA
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/898
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 EL COYOTE Y CORRE CAMINOS
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/899
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 EL PATON DEL MAL
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/900
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 EL SEÑOR DE LOS CIELOS
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/901
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 FUTURAMA 1999
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/902
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 HAPPY TREE FRIENDS
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/903
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 He-Man
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/904
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 HÉROES EN PIJAMAS
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/905
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 JUEGO DE TRONOS
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/906
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LA CASA DE PAPEL
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/907
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LA FAMILIA MONSTERS 1964
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/908
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LA HORA PICO
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/909
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LA PANTERA ROSA
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/910
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LA RISA EN VACIONES
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/911
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LA ROSA DE GUADALUPE
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/912
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LAZY TOWN
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/913
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LE TEMES ALA OSCURIDAD
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/914
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LOS LOCOS ADDAMS
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/915
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 LUIS MIGUEL LA SERIE 2018
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/916
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 Malcolm in the middle 2000
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/917
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 Mazinger Z
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/918
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 Naruto
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/919
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 Peliculas de terror
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/920
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 PELICULAS ESTRENOS 2018
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/921
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 PEPPA PIG
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/922
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 PINKY y CEREBRO
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/923
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 Pokémon
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/924
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 POWER RANGERS
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/925
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 ROBOTECH
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/926
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 SAILOR MOON
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/927
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 Shark Tank México TEP 1
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/928
-#EXTINF:-1 group-title="24/7" tvg-logo="http://127.0.0.1/",24/7 Shark Tank México TEP 2
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/929
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA:  DINAMITA SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/1
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA:  TCM SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/2
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: AMC SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/3
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: AZTECA CINEMA
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/4
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: CINE CANAL SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/5
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: CINE LATINO SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/6
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: CINEMAX SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/7
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: CLARO CINEMA SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: DE PELICULA PLUS
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/9
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: DE PELICULA TP MX
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/10
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: FOX ACTION SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/11
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: FOX CLASICO SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/14
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: FOX COMEDY SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/15
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: FOX FAMYLY SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/16
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: FOX MOVIES SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/17
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: FOX SERIES SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/18
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: GOLDEN SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/20
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: HBO 1 SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/21
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: HBO 2 SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/22
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: HBO Family SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/23
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: HBO Plus SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/25
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: HBO XTREAME SD *
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/26
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: MULTICINEMA SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/27
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: MULTIPREMIER SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/28
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: PARAMOUNT SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/29
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: SPACE SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/30
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: STUDIO UNIVERSAL SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/31
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: SYFY*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/32
-#EXTINF:-1 group-title="CINEMA" tvg-logo="http://127.0.0.1/",CINEMA: TNT SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/33
-#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: ANIMAL PLANET SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/34
-#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: DISCOVERY CHANNEL SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/35
-#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: DISCOVERY CIVILIZATION SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/36
-#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: DISCOVERY H&H SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/37
-#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: DISCOVERY SCIENCE SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/38
-#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: DISCOVERY THEATHER HD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/39
-#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: DISCOVERY TURBO SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/40
-#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: H2 SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/41
-#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: HISTORY SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/42
-#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: ID SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/43
-#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: NAT GEO SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/44
-#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: NATGEO WILD  SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/45
-#EXTINF:-1 group-title="CULTURA" tvg-logo="http://127.0.0.1/",CULTURA: TLC SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/46
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE GALAVISION
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/48
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: ANTENA3 SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/49
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: AZ MUNDO SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/50
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: COMEDY CENTRAL HD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/51
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: DHE SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/52
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: DISTRITO COMEDIA TP MX
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/53
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: E! SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/54
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: EL GOURMET SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/55
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: ESTRELLATV
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/65
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: FASHION ONE SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/56
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: FILM & ARTS SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/57
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: FOOD NETWORK TP MX
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/58
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: HOLA !TV SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/59
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: LIFE TIME SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/60
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: MAS CHIC SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/61
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: TL NOVELAS TP MX
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/62
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRE: UNICABLE TP MX
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/63
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",ENTRETENIMIENTO: FOX LIFE TP MX
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/64
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",FOX LIFE
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/66
-#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: Baby TV*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/80
-#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: BIT ME TP MX
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/89
-#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: Boomerang*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/81
-#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: Discovery Kids SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/82
-#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: Disney JR SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/84
-#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: Disney SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/83
-#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: Disney XD SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/85
-#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: Nat Geo Kids SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/86
-#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: Nick Jr SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/87
-#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: Nickelodeon SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/88
-#EXTINF:-1 group-title="NIÑOS" tvg-logo="http://127.0.0.1/",NIÑOS: TOONCAST TP MX
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/90
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/sADbx7S.png",25 TV
 https://originlive2.shooowit.net/25televisiolive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/ya3k9wU.png",28 Kanala
@@ -403,12 +27,8 @@ https://directes-tv-int.ccma.cat/int/ngrp:c33_web/chunklist_b630067.m3u8
 https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/aJL1mjy.png",Alcarria TV
 http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png",Aragon TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/747qLjC.png",Beteve
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0&playSessionId=381edbc5-f6df-0566-8c73-b767fb340d6
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/AFT43kx.png",Cadena Elite
-https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/KFLdopL.png",Canal 10 Emporda
 http://ventdelnord.tv:8080/escala/directe.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/2BBGZ1H.png",Canal 25 Barbastro
@@ -433,8 +53,6 @@ https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="http://cdn.teleon.tv/logo/canal_sur_andalucia_es.png",Canal Sur
 https://originlive2.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/OFZCqGj.png",Canal Taronja Osona
-https://taronjavic.streaming-pro.com/hls/vic_240p.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Televisi�n_Canaria_SAT_logo_2008.png",Canaria SAT
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://www.portalparados.es/wp-content/uploads/castilla-la-mancha-television.png",CMM Castilla La Mancha
@@ -453,16 +71,10 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 https://zuzenean.goienamedia.eus:8443/telebista.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/hmYDqGV.png",Huesca TV
 https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://ibizaglobal.tv/wp-content/uploads/2017/03/LOGO-GLOBALTV.png",Ibiza Global TV
-https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/u0lyhFX.png",Interalmeria TV
 http://interalmeria.tv/directo/live.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png",Intereconomia TV
-https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/WT5EeEd.png",La Otra
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/Vp26cr1.jpg",La Voz 24h
-https://pull12.atresmedia.com/lavoz/master.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/hCZUn3g.png",Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="http://www.lebrija.tv/wp-content/uploads/2016/06/logo-web-2.png",Lebrija TV
@@ -471,8 +83,6 @@ https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4/playlist.m3u8
 https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/WhfpLWM.png",Mas 24 Horas
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/61ttFDF.png",Mijas 3.40 TV
-https://mijas-live.flumotion.com/mijastv/live/chunks.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://www.colectivosvip.com/public/colectivos/390/logo.png",Mola TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/I9QX555.png",MTmad 24h
@@ -495,10 +105,6 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 http://common01.todostreaming.es/live/ribera-livestream.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/Av4pEiH.png",RTVC Canarias
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RtvCeuta.svg/1200px-RtvCeuta.svg.png",RTVCE
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/yujGVbm.png",Sevilla FC TV
-https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/RPXusvS.png",Sophia TV
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/kJwjguZ.png",Taroteame TV
@@ -513,8 +119,6 @@ http://37.187.7.106/teleribera/live.m3u8
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/HA2OJcN.png",TeleSafor
 http://video.telesafor.com/hls/video.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/QkhxAuY.png",Television Galicia
-https://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/khRXhT1.png",Televisio Girona
 http://ventdelnord.tv:8080/girona/directe.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/nGuGVTO.png",Television Aranda
@@ -529,8 +133,6 @@ https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist.m3u8
 https://limited09.todostreaming.es/live/tarson-livestream.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/A4idkRI.png",TV Hellin
 http://hellin-hls-live.flumotion.com/hellin/hellin-live_source/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/HAbq91X.png",TV Municipal Cordoba
-http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/KoTonIp.png",TVG 2
 http://events3-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://i.imgur.com/v5d0xMH.png",TVG America
@@ -563,8 +165,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46&live=1&app_b
 https://d06b09a740824c49b9937130662ef38a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheDesignNetwork/7c1469be-63d2-44de-8083-ee421aeb53df/4.m3u8
 #EXTINF:-1 group-title="PLEX USA" tvg-logo="https://i.imgur.com/TuCztKV.png",Drink TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=62&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605474085f0040ddc76a&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
-#EXTINF:-1 group-title="PLEX USA" tvg-logo="https://i.imgur.com/JlEcHtx.png",ESRevolution
-https://69603b0bf51d4c7fa9335a84ee752b10.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ESRevolution/d98e1a54-0b10-4779-85dc-d910b00f5f43/0.m3u8
 #EXTINF:-1 group-title="PLEX USA" tvg-logo="https://i.imgur.com/YAQi1PP.png",Fail Army
 https://9c17e762ec814557b3516dd3e0a7ca56.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_FailArmy/ade59f27-be9b-4b71-b8dc-05928c1dfdf4/2.m3u8
 #EXTINF:-1 group-title="PLEX USA" tvg-logo="https://i.imgur.com/4dMoXtm.jpg",Film Stream
@@ -625,8 +225,6 @@ https://72c5b87587c545558c3170ab55de2915.mediatailor.us-east-1.amazonaws.com/v1/
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605574085f0040ddc794&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---
 #EXTINF:-1 group-title="PLEX USA" tvg-logo="https://i.imgur.com/Y5R0pvG.jpg",The Boat Show
 https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/820e6d4e-cebb-4533-adf7-d0193f320ac9/4.m3u8
-#EXTINF:-1 group-title="PLEX USA" tvg-logo="https://i.imgur.com/piZoGcS.jpg",The Film Detective
-https://filmdetective-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5eea605674085f0040ddc7a3/hls/amagi_hls_data_plexAAAAA-filmdetective-plex/CDN/1280x720_3256000/chunklist.m3u8
 #EXTINF:-1 group-title="PLEX USA" tvg-logo="https://i.imgur.com/OMqT9zb.jpg",The Love Destination
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=43&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605674085f0040ddc7a9&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
 #EXTINF:-1 group-title="PLEX USA" tvg-logo="https://i.imgur.com/3aHWa0R.jpg",The Pet Collective
@@ -641,8 +239,6 @@ https://venntv-plex.amagi.tv/hls/amagi_hls_data_venntvAAA-venntv-plex/CDN/playli
 https://04799df414944908856c6c521891945f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_WeatherSpy/2eba863c-1452-4ea6-98b2-2b1c0c81c112/3.m3u8
 #EXTINF:-1 group-title="PLEX USA" tvg-logo="https://i.imgur.com/U0jjiIc.jpg",Wu Tang
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605474085f0040ddc770&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
-#EXTINF:-1 group-title="PLEX USA" tvg-logo="https://i.imgur.com/6CLldAA.jpg",Yahoo! Finance
-https://yahoo-plex.amagi.tv/amRdirect/us_privacy=1---&did=61e24c69-c657-5bf3-b863-7cdc122e912c&dnt=0&X-Plex-Token=yd2t7_mqLeso7PyTUYZ6&channelId=5f170f01b898490041b49dd1/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8
 #EXTINF:-1 group-title="PLEX USA" tvg-logo="https://i.imgur.com/MFbbITI.jpg",80s Party
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
 #EXTINF:-1 group-title="PLEX USA" tvg-logo="https://i.imgur.com/pxtr7VO.jpg",Beast Mode
@@ -725,8 +321,6 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Otw0sN1.png",Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg",OAN Encore
-https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/512x288_875600/index.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/G6e7Hcl.png",One America News
 http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/RqKVFRz.png",RT America US
@@ -761,8 +355,6 @@ https://dai1.xumo.com/bmneuerw7j9k5lfc/9999231/master.m3u8
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/GmM19zu.png",BigLife TV
 http://biglife.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/tjEw9X1.png",Biz TV
-https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
 #EXTINF:-1 group-title="USA;MUSIK" tvg-logo="https://i.imgur.com/zvg7RMP.png",Black Artist
 https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Q31xTcM.png",Blaze TV
@@ -797,8 +389,6 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/mas
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/q2jim9n.png",Dust
 https://dust.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/7LXT3zf.png",ET Live
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/qoKlYt3.png",Field & Stream
 http://a.jsrdn.com/broadcast/7536b84786/+0000/high/c.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/KtdEoox.png",Flashback TV
@@ -817,8 +407,6 @@ https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/mzU8eV2.jpg",HUMRAAZ TV
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/DkvWWbE.png",Hunt Channel
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/IJZPsQh.jpg",Infowars TV
 https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/pHJm3I0.png",JBS
@@ -955,8 +543,6 @@ http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4
 http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/tmKtbf9.png",Capital City Connection Montgomery
 http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/6zzwmfK.jpg",CGTV
-https://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
 #EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/pb0TFQt.jpg",CT-N TV  - Conneticut
 https://video.ct-n.com/live/ctnstream/chunklist_w1116602077_DVR.m3u8
 #EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/6xlSsOY.png",Cozi 16 WZTS
@@ -1031,8 +617,6 @@ http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
 #EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/Z7RBRkZ.png",Olelo 55
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
-#EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/9PEAPwY.png",PCC-TV - Pinellas County Florida
-http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8
 #EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/ICcQUCH.png",Red Apple 21 - Fairfax County Public Schools - Virginia
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 #EXTINF:-1 group-title="USA LOCAL" tvg-logo="https://i.imgur.com/NfE5jtp.png",Seattle Channel - Washington
@@ -1061,26 +645,6 @@ http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10050_b9ac3c93-be86-4f7e-82b8-796b7f8bfda3_LE/in/cmg-wjaxtv-hls-v3/live.m3u8?aws.sessionId=dcb19887-c2ac-40ff-94fa-4f9c8692f754
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/SlS8xic.png",WSVI TV - Virgin Islands USA
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
-#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",**************** USA  ALLSPRK ***********
-https://stream.allsprk.tv/live/9/index.m3u8
-#EXTINF:-1 group-title="ALLSPRK USA" tvg-logo="http://127.0.0.1/",Baywatch
-https://stream.allsprk.tv/live/4/index.m3u8
-#EXTINF:-1 group-title="ALLSPRK USA" tvg-logo="http://127.0.0.1/",House of Cards
-https://stream.allsprk.tv/live/3/index.m3u8
-#EXTINF:-1 group-title="ALLSPRK USA" tvg-logo="http://127.0.0.1/",Nat Geo
-https://stream.allsprk.tv/live/8/index.m3u8
-#EXTINF:-1 group-title="ALLSPRK USA" tvg-logo="http://127.0.0.1/",Punch Drunk Love
-https://stream.allsprk.tv/live/1/index.m3u8
-#EXTINF:-1 group-title="ALLSPRK USA" tvg-logo="http://127.0.0.1/",Renand Stimpy
-https://stream.allsprk.tv/live/7/index.m3u8
-#EXTINF:-1 group-title="ALLSPRK USA" tvg-logo="http://127.0.0.1/",Southpark
-https://stream.allsprk.tv/live/2/index.m3u8
-#EXTINF:-1 group-title="ALLSPRK USA" tvg-logo="http://127.0.0.1/",Stargate SG1
-https://stream.allsprk.tv/live/5/index.m3u8
-#EXTINF:-1 group-title="ALLSPRK USA" tvg-logo="http://127.0.0.1/",Stargate Atlantis
-https://stream.allsprk.tv/live/6/index.m3u8
-#EXTINF:-1 group-title="ALLSPRK USA" tvg-logo="http://127.0.0.1/",The XFiles
-https://stream.allsprk.tv/live/0/index.m3u8
 #EXTINF:-1 group-title="DISTRO USA" tvg-logo="https://i.imgur.com/d8mJYu0.png",Bollywood TV
 https://a.jsrdn.com/broadcast/d5b45/+0000/c.m3u8
 #EXTINF:-1 group-title="DISTRO USA" tvg-logo="https://i.imgur.com/BPS22GM.png",BritAsia Live
@@ -1911,7 +1475,6 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.
 http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.imgur.com/m4fM1B7.jpg",Urban Music
 https://nrpus.bozztv.com/36bay2/gusa-urbanmusic4u/index.m3u8
-
 #EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://i.imgur.com/DLEFDcv.png",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png",Big Ten Network
@@ -1972,8 +1535,6 @@ http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
 #EXTINF:-1 ,Fashion HD
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 ,Enlace TV
-http://api.new.livestream.com/accounts/2675843/events/1839332/live.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="http://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg",Azteca Uno
 http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 #EXTINF:-1 group-title="CULTURA" tvg-logo="http://www.londonlive.co.uk/assets/images/logo-white.png",London Live
@@ -2062,8 +1623,6 @@ https://cdn3.servitubes.com/videos/2/1/9/d/8/219d8519716d95d86ebb23de4041144875b
 https://cdn3.servitubes.com/videos/8/3/3/f/c/833fcb3668c892e5c76cf99fce3038b4f0ac5573.mp4
 #EXTINF:-1 ,Lecciones para una colegiala
 https://cdn3.servitubes.com/videos/a/9/7/7/d/a977d8daf20c18579b273a429c40856ac24360bc.mp4
-#EXTINF:-1 ,Weather Nation Tv
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1 ,Bloomberg
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1 ,BOX HITS
@@ -2200,10 +1759,6 @@ http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
 http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://lh3.googleusercontent.com/DNpGvYVIMniWHPd_-dNFWkPKa8vUOb2klYWgkn9ULcZlJKNix2bFMf5_BbIZKavavKwB=w300",PORTAL FOXMIX
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 ,TL Novelas
-http://tvpremiumhd.club/lista-gratuita/paris/s83.m3u8
-#EXTINF:-1 ,Telepacifico
-http://tvpremiumhd.club/lista-gratuita/paris/s196.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="http://magneticproductions.files.wordpress.com/2010/11/mtv-dance.png",MTV Dance
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 ,canal meteorol�gico
@@ -2220,50 +1775,18 @@ http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1 ,MUNDO +
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:-1 ,TELEMUNDO 51 FULLHD
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0154
 #EXTINF:-1  tvg-logo="https://www.ezshield.com/wp-content/uploads/images/differentiators/24-7-icon.png",24/7 (ESPA�OL )
 http://stream.dubstep.fm:80/256mp3
-#EXTINF:-1 group-title="CINEMA",CINEMA: FOX ACTION SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/11
-#EXTINF:-1 group-title="CINEMA",CINEMA: FOX CLASICO SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/14
-#EXTINF:-1 group-title="CINEMA",CINEMA: FOX COMEDY SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/15
-#EXTINF:-1 group-title="CINEMA",CINEMA: FOX FAMYLY SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/16
-#EXTINF:-1 group-title="CINEMA",CINEMA: FOX MOVIES SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/17
-#EXTINF:-1 group-title="CINEMA",CINEMA: FOX SERIES SD*
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/18
-#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRETENIMIENTO: FOX LIFE TP MX
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/64
-#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX LIFE
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/66
-#EXTINF:-1 group-title="SERIES",SERIE: FOX SD *
-http://zufreelist.net:8080/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/zadfvasdfvafvasdfvaszadfvasdfvafvasdfvaszadfvasdfvafvasdfvas/71
 #EXTINF:-1 ,PortalFoxMix Tv En Vivo Online www.achoAPPS.com
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
-#EXTINF:-1 ,MUSICA:Portal Foxmix (Chile) www.achoAPPS.com
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 ,MUSICA:PortalFoxMix Tv www.achoAPPS.com
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 group-title="MUSICA",Portal FoxMix | HD www.achoAPPS.com
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",PortalFoxMix Tv www.achoAPPS.com
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1 ,FOXCINEMA www.achoAPPS.com
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-#EXTINF:-1 ,FOX MOVIES www.achoAPPS.com
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1 ,fox premium comedy (eng) www.achoAPPS.com
-http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
-#EXTINF:-1 ,Fox Sports Racing www.achoAPPS.com
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 #EXTINF:-1 group-title="Without category",animal+planet www.achoAPPS.com
 http://1.bp.blogspot.com/-ZxSLgUvnfbA/UgmwyPWsM_I/AAAAAAAAAAc/7TyqbuEdPKg/s1600/animal+planet.jpg"
-#EXTINF:-1 ,Animal Planet www.achoAPPS.com
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 #EXTINF:-1 ,Cuatro Mexico
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:-1 ,Pluto Historias
@@ -2298,14 +1821,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b991420009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=c8ac5b61-7f99-4a5b-86ee-b0f49fd5cd28&deviceLat=-34.8576&deviceLon=-56.1702&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=688e6236-3022-11eb-a923-0242ac110002&userId=&serverSideAds=false
 #EXTINF:-1 ,Pluto Series 3
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=c8ac5b61-7f99-4a5b-86ee-b0f49fd5cd28&deviceLat=-34.8576&deviceLon=-56.1702&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=8d2b9cd3-3025-11eb-a920-0242ac110002&userId=&serverSideAds=false
-#EXTINF:-1 ,Acequia
-http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 #EXTINF:-1 ,Cadena 103
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 #EXTINF:-1 ,C20
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
-#EXTINF:-1 ,Canal 22
-http://api.new.livestream.com/accounts/27390802/events/8239465/live.m3u8
 #EXTINF:-1 ,3 La Pampa
 https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/.m3u8
 #EXTINF:-1 ,Las Heras
@@ -2376,8 +1895,6 @@ https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist.m3u8
 http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
 #EXTINF:-1 ,Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist.m3u8
-#EXTINF:-1 ,Teleplay
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
 #EXTINF:-1 ,Set Puebla
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1 ,Tlaxcala
@@ -2390,8 +1907,6 @@ https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/8410/8410/playlist.m3u8
 #EXTINF:-1 ,Vision Peru
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:-1 ,Karibeña TV
-https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:-1 ,Hatun
 https://live.siete.us:1991/bestcablehatuntv/bestcablehatuntv/playlist.m3u8
 #EXTINF:-1 ,Best Cable Music
@@ -2404,8 +1919,6 @@ https://live.siete.us:1991/bestcable/bestcable/playlist.m3u8
 https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8
 #EXTINF:-1 ,Boreal
 https://5b38ce71f1f00.streamlock.net/8180/8180/playlist.m3u8
-#EXTINF:-1 ,Cibervision
-http://108.175.14.125:1935/tdn/tdn/playlist.m3u8
 #EXTINF:-1 ,Luna TV
 https://ss4.domint.net:3018/luna_str/lunatv/playlist.m3u8
 #EXTINF:-1 ,Megavision
@@ -2418,8 +1931,6 @@ https://ss4.domint.net:3040/ta2_str/teleantillas/playlist.m3u8
 https://ss4.domint.net:3008/tra_str/canal45/playlist.m3u8
 #EXTINF:-1 ,TeleMon
 http://184.173.181.2:1935/8036/8036/playlist.m3u8
-#EXTINF:-1 ,Free
-http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1 ,Dimension TV
 https://stmv.panel.mivideo.pro/sebamix/sebamix/playlist.m3u8
 #EXTINF:-1 ,AC Vision
@@ -2436,28 +1947,18 @@ https://v2.tustreaming.cl/tevex/index.m3u8
 https://5e3483cba9114.streamlock.net/losdesterrados.cl/losdesterrados.cl/playlist.m3u8
 #EXTINF:-1 ,America Argentina
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_360p.m3u8
-#EXTINF:-1 ,Aragon TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 ,Wow
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist.m3u8
 #EXTINF:-1 ,CGTN China
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 ,Chavo del 8
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
-#EXTINF:-1 ,EITB
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 ,Unicanal Paraguay
 http://45.55.127.106/live/unicanal_src.m3u8
 #EXTINF:-1 ,LebrijaTV
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 #EXTINF:-1 ,TLX Argentina
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist.m3u8
-#EXTINF:-1 ,Telemadrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-#EXTINF:-1 ,WIPR
-http://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
-#EXTINF:-1 ,5RTV
-http://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
 #EXTINF:-1 ,Telefe
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 ,Onda TV
@@ -2498,10 +1999,6 @@ http://5cd577a3dd8ec.streamlock.net:1935/canal4/smil:manifest.smil/chunklist.m3u
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist.m3u8
 #EXTINF:-1 ,Simpsons
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
-#EXTINF:-1 ,UCL
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-#EXTINF:-1 ,Canal Capital
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1 ,Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 ,France 24
@@ -2512,8 +2009,6 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 ,Natural TV
 http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8
-#EXTINF:-1 ,Portal FoxMix
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 ,Alegria TV
 https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
 #EXTINF:-1 ,Maxima FM
@@ -2528,24 +2023,16 @@ https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8
 #EXTINF:-1 ,RT España
 https://rt-esp.secure.footprint.net/1102.m3u8
-#EXTINF:-1 ,TV Galicia
-http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 ,26 Argentina
 http://200.115.193.177/live/26hd-360/.m3u8
 #EXTINF:-1 ,Chiloe 25
 https://v2.tustreaming.cl/chiloered/live1/index.m3u8
-#EXTINF:-1 ,Sur Patagonia
-https://v2.tustreaming.cl/canalsurpatagonia/index.m3u8
 #EXTINF:-1 ,Canal 21 Chile
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
-#EXTINF:-1 ,9 Patagonia
-https://live.canalnueve.tv/canal.m3u8
 #EXTINF:-1 ,STV 55
 https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
 #EXTINF:-1 ,Teleunion
 http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist.m3u8
-#EXTINF:-1 ,Telecentro13
-http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
 #EXTINF:-1 ,Murcia RTV
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1 ,Zee Mundo
@@ -2570,8 +2057,6 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:-1 ,Ame47
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
-#EXTINF:-1 ,Lancelot
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:-1 ,Locomotion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 ,DW
@@ -2582,8 +2067,6 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_360p/playlist.m3u8
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 ,Balcarce
 http://184.154.28.210:1935/canal4/canal4/live.m3u8
-#EXTINF:-1 ,MultimedioCR
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 ,Provincial TV
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 ,CPE La Pampa
@@ -2614,12 +2097,6 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
 #EXTINF:-1 ,TVU Bolivia
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
-#EXTINF:-1 ,Doce Sucre
-http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
-#EXTINF:-1 ,Tele Medellin
-http://api.new.livestream.com/accounts/4608897/events/7111788/live.m3u8
-#EXTINF:-1 ,Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 ,TEN
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist.m3u8
 #EXTINF:-1 ,ADN 40
@@ -2632,8 +2109,6 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 ,Milenio TV
 http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 ,Multimedios Laguna
-https://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 ,IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 ,4 Rio Cuarto
@@ -2654,12 +2129,6 @@ https://quierotvlive.tk/httplive/playlist.m3u8
 https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 #EXTINF:-1 ,TVPE
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 ,TeleBilbao
-https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8
-#EXTINF:-1 ,Canal 25 Barbastro
-http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
-#EXTINF:-1 ,RiberaTV
-http://common01.todostreaming.es/live/ribera-livestream.m3u8
 #EXTINF:-1 ,Dubai Sports 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
 #EXTINF:-1 ,Dubai Sports 2
@@ -2684,14 +2153,6 @@ https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 ,True Sports Plus 4
 https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 ,Al Kass Sports 1
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 ,Al Kass Sports 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 ,Al Kass Sports 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1 ,Al Kass Sports 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1 ,Claro Sports
 http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 #EXTINF:-1 ,Sports TV
@@ -2704,8 +2165,6 @@ https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 ,True Sports 3
 https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 ,True Sports 4
-https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 ,SPORT.TV 1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 ,SPORT.TV 2
@@ -2716,8 +2175,6 @@ https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 ,RTM Sports
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist.m3u8
-#EXTINF:-1 ,CombatGo
-https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
 #EXTINF:-1 ,J Sports 1
 http://hlstw.ihome.tokyo/live/cs05.stream/playlist.m3u8?wowzasessionid=token
 #EXTINF:-1 ,MFR Sports
@@ -2740,12 +2197,8 @@ https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 ,Now Sports Prime
 http://teslagram.com/live/channel_630.m3u8
-#EXTINF:-1 ,Fite
-https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 ,TUDN
 http://pubads.g.doubleclick.net/ssai/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
-#EXTINF:-1 ,Jasmin TV HD (18+)
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 ,Miami TV (18+)
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8
 #EXTINF:-1 ,Miami TV Colombia (18+)
@@ -2824,36 +2277,6 @@ http://cdn2.servitubes.com/videos/e/4/a/6/9/e4a69acb6e1e959c9b3f5b3413ebe1ea9b5e
 http://cdn.servitubes.com/videos/e/e/6/1/f/ee61f46e421e18382ff152b4cdc74c413236429a.mp4
 #EXTINF:-1 ,Penetrando a Kelsie Monroe
 http://cdn2.servitubes.com/videos/0/9/4/f/7/094f71d2f0310d75f102985daa132ee3f51368de.mp4
-#EXTINF:-1 ,Porneq 1
-http://porneq.com/media/porn5/videos/465/Amanda-Black-20-10-2015-Mylove-360p-2Df89PnA8q2.mp4
-#EXTINF:-1 ,Porneq 10
-http://porneq.com/media/porn6/videos/144/HD-Porn-Porn-Stars-The-Ultimate-Adult-Experience-HD-Porn-Porn-Stars-The-Ultimate-Adult-Experience-360p-6ifT6lAKdVj.mp4
-#EXTINF:-1 ,Porneq 12
-http://porneq.com/media/porn7/videos/1920/Vintage-German-Interracial-Porn-Movie-PIR-TE-Vintage-German-Interracial-Porn-Movie-360p-qxhAXwnbFdr.mp4
-#EXTINF:-1 ,Porneq 13
-http://porneq.com/media/porn7/videos/1786/Vintage-French-Movie-PIR-TE-Vintage-French-Movie-360p-zo7M32cAZxK.mp4
-#EXTINF:-1 ,Porneq 17
-http://porneq.com/media/porn7/videos/1876/Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-PIR-TE-Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-360p-FfBh6youF6y.mp4
-#EXTINF:-1 ,Porneq 18
-http://porneq.com/media/porn7/videos/1929/Dirty-Western-2-Smokin-Guns-1995-Full-Movie-360p-7vnRLFOTPE2.mp4
-#EXTINF:-1 ,Porneq 19
-http://porneq.com/media/porn12/videos/254/Pornolab-Sex-Abitur-Versaute-Schulmadchen-Traume-2-aka-Das-Sexabitur-1978-Herzog-360p-0RkpkoXYsXf.mp4
-#EXTINF:-1 ,Porneq 2
-http://porneq.com/media/porn2/videos/904/Blonde-Hottie-Fucking-with-Asslicking-Front-Hidden-Webcam-Cumshot-on-Ass-360p-MuRBZyuxvaa.mp4
-#EXTINF:-1 ,Porneq 20
-http://porneq.com/media/porn12/videos/876/Rebeka-21yo-Virgin-Rebeka-Letting-Me-Finger-Her-And-Go-Down-Til-Orgasm-1280x720-360p-sqWVNIw88nh.mp4
-#EXTINF:-1 ,Porneq 3
-http://porneq.com/media/porn3/videos/162/Hegre-Art-15-08-04-Emily-And-Serena-Cucumber-Loving-XXX-MP4-KTR-hart-15-08-04-emily-and-serena-cucumber-loving-360p-OYjQJSpz65S.mp4
-#EXTINF:-1 ,Porneq 5
-http://porneq.com/media/porn7/videos/202/80s-French-Vintage-Movie-PIR-TE-80s-French-Vintage-Movie-PIR-TE-360p-O0q5kEfCik2.mp4
-#EXTINF:-1 ,Porneq 6
-http://porneq.com/media/porn7/videos/837/Classic-vintage-movie-PIR-TE-Classic-vintage-movie-PIR-TE-360p-1NsAWtbgDZL.mp4
-#EXTINF:-1 ,Porneq 7
-http://porneq.com/media/porn7/videos/375/Aladdin-vintage-movie-PIR-TE-Aladdin-vintage-movie-PIR-TE-360p-OSGuMx853rL.mp4
-#EXTINF:-1 ,Porneq 8
-http://porneq.com/media/porn7/videos/1234/Vintage-Italian-Porn-Movie-With-Hairy-Pussies-PIR-TE-Vintage-Italian-Porn-Movie-With-Hairy-Pussies-360p-WxE8H1nDtBK.mp4
-#EXTINF:-1 ,Porneq 9
-http://porneq.com/media/porn4/videos/907/Girls-In-Blue-Pt1-Full-Vintage-Movie-6-PIR-TE-Girls-In-Blue-Pt1-Full-Vintage-Movie-6-PIR-TE-360p-gLM0fvToF3C.mp4
 #EXTINF:-1 ,Preston y Blue en accion
 http://cdn2.servitubes.com/videos/4/3/2/8/a/4328ad617ef937441dbd7481fd32db6c2c7ad545.mp4
 #EXTINF:-1 ,Public Pick Ups
@@ -2870,16 +2293,6 @@ http://tube.paperstreetcash.com/12mins/rubateen/rubateen_anabela_12minute.mp4
 http://tube.paperstreetcash.com/12mins/rubateen/rubateen_ariadna_12minute.mp4
 #EXTINF:-1 ,Team Skeet - Ariana and Gabriella
 http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_ariana_and_gabriella_8minutes.mp4
-#EXTINF:-1 ,Team Skeet - Chichi Medina
-http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
-#EXTINF:-1 ,Team Skeet - Chloe Foster
-http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chloe_foster_8minutes.mp4
-#EXTINF:-1 ,Team Skeet - Dakota Skye
-http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_dakota_skye_12minute.mp4
-#EXTINF:-1 ,Team Skeet - Demida
-http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
-#EXTINF:-1 ,Team Skeet - Dusya
-http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
 #EXTINF:-1 ,Team Skeet - Gerta
 http://tube.paperstreetcash.com/12mins/rubateen/rubateen_gerta_12minute.mp4
 #EXTINF:-1 ,Team Skeet - Irina
@@ -2916,8 +2329,6 @@ http://content2.sexforsure.com/2013/07/02/5/Video.mp4
 http://content2.sexforsure.com/2013/07/02/4/Video.mp4
 #EXTINF:-1 ,Wow Girls 14
 http://content2.sexforsure.com/2013/07/02/2/Video.mp4
-#EXTINF:-1 ,Wow Girls 15
-http://content2.sexforsure.com/2013/07/02/1/Video.mp4
 #EXTINF:-1 ,Wow Girls 16
 http://content2.sexforsure.com/2013/07/02/18/Video.mp4
 #EXTINF:-1 ,Wow Girls 17
@@ -2934,8 +2345,6 @@ http://content2.sexforsure.com/2013/07/02/16/Video.mp4
 http://content2.sexforsure.com/2013/07/02/20/Video.mp4
 #EXTINF:-1 ,Wow Girls 4
 http://content2.sexforsure.com/2013/07/02/19/Video.mp4
-#EXTINF:-1 ,Wow Girls 5
-http://content2.sexforsure.com/2013/07/02/17/Video.mp4
 #EXTINF:-1 ,Wow Girls 6
 http://content2.sexforsure.com/2013/07/02/15/Video.mp4
 #EXTINF:-1 ,Wow Girls 7
@@ -2974,8 +2383,6 @@ http://content2.sexforsure.com/2013/07/03/19/Video.mp4
 http://content2.sexforsure.com/2013/07/03/12/Video.mp4
 #EXTINF:-1 ,Wow Porn 6
 http://content2.sexforsure.com/2013/07/03/10/Video.mp4
-#EXTINF:-1 ,Wow Porn 7
-http://content2.sexforsure.com/2013/07/03/9/Video.mp4
 #EXTINF:-1 ,Wow Porn 8
 http://content2.sexforsure.com/2013/07/03/5/Video.mp4
 #EXTINF:-1 ,Wow Porn 9
@@ -3046,76 +2453,6 @@ http://live.redtraffic.xyz/fetish.m3u8
 http://live.redtraffic.xyz/bigtits.m3u8
 #EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://s19.postimg.org/t9qpt32f7/HUSTLER.png",HustlerXXX
 http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://0.s3.envato.com/files/109789205/newVISITX.jpg",Visit-X
-http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 1
-http://static.brazzers.com/scenes/7119/180sec.flv
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 2
-http://static.brazzers.com/scenes/5457/180sec.flv
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 3
-http://static.brazzers.com/scenes/3327/180sec.flv
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 4
-http://static.brazzers.com/scenes/3328/180sec.flv
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 5
-http://static.brazzers.com/scenes/4517/180sec.flv
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 6
-http://static.brazzers.com/scenes/4521/180sec.flv
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 7
-http://static.brazzers.com/scenes/4523/180sec.flv
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 8
-http://static.brazzers.com/scenes/4524/180sec.flv
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 9
-http://static.brazzers.com/scenes/4525/180sec.flv
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 10
-http://static.brazzers.com/scenes/4526/180sec.flv
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 11
-http://static.brazzers.com/scenes/4527/180sec.flv
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 12
-http://static.brazzers.com/scenes/4528/180sec.flv
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 13
-http://static.brazzers.com/scenes/4529/180sec.flv
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 14
-http://static.brazzers.com/scenes/4530/180sec.flv
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 15
-http://static.brazzers.com/scenes/4531/180sec.flv
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 16
-http://static.brazzers.com/scenes/4533/180sec.flv
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 17
-http://static.brazzers.com/scenes/4534/180sec.flv
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg",BRAZZERS achoAPPS.com 18
-http://static.brazzers.com/scenes/4536/180sec.flv
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-20+18 3D achoAPPS.com
-http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-21+18 3D achoAPPS.com
-http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-1+18 3D achoAPPS.com
-http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-10+18 3D achoAPPS.com
-http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-11+18 3D achoAPPS.com
-http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-13+18 3D achoAPPS.com
-http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-15+18 3D achoAPPS.com
-http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-16+18 3D achoAPPS.com
-http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-25+18 3D achoAPPS.com
-http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-3+18 3D achoAPPS.com
-http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-4+18 3D achoAPPS.com
-http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-5+18 3D achoAPPS.com
-http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-6+18 3D achoAPPS.com
-http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-7+18 3D achoAPPS.com
-http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-8+18 3D achoAPPS.com
-http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
-#EXTINF:-1 group-title="XXX Adultos" tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg",XXXVOD3D-9+18 3D achoAPPS.com
-http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
 #EXTINF:-1 ,XXXVOD3D-26+18 3D achoAPPS.com
 http://galleries.3Dcatchyfetish.com/tube/026/trailer.f4v
 #EXTINF:-1 ,XXX-Babes 19 achoAPPS.com
@@ -3126,9 +2463,3 @@ http://images.nubiles-porn.com/videos/fucking_her_right/videos/nubilesporn_fucki
 http://images.nubiles-porn.com/videos/deep_in_her_pussy/videos/nubilesporn_deep_in_her_pussy_long_640.mp4
 #EXTINF:-1 ,Nubile5 achoAPPS.com
 http://images.nubilefilms.com/films/sexual_tension_with_kacy_lane/videos/nubilefilms_sexual_tension_long_640.mp4
-#EXTINF:-1 ,R@tte e Sf@ndate achoAPPS.com
-http://cdn.videos.pornopizza.it/media/videos/5/7/a/8/b/57a8b58243474.mp4
-#EXTINF:-1 ,Le P@rcone Volanti achoAPPS.com
-http://cdn.videos.pornopizza.it/media/videos/5/7/3/a/f/573af2c3cc340.mp4
-#EXTINF:-1 ,Filomena M@rtusano achoAPPS.com
-http://cdn.videos.pornopizza.it/media/videos/5/7/8/a/5/578a53d649c3f.mp4
