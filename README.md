@@ -5882,3 +5882,62 @@ http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwf
 http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/79
 #EXTINF:-1 group-title="*PELICULAS ACCION*",007: AL SERVICIO SECRETO DE SU MAJESTAD
 http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/356.mp4
+
+#EXTINF:-1 ,CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1 ,MAXPRIME
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:-1 ,UNIVERSAL CHANNEL
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:-1 ,FOXCINEMA
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1 ,FOX MOVIES
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1 ,fox premium comedy (eng)
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:-1 ,hbo2 dual (eng esp)
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1 ,ESPN 2
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 ,Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1 ,CULTURA:Travel HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 ,DEPORTES:Real Madrid TV
+http://bit.ly/2x1T8YL
+#EXTINF:-1 ,SPACETOON
+http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
+#EXTINF:-1 ,AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 ,FUEGO TV
+http://184.173.181.2:1935/8020/8020/playlist.m3u8
+#EXTINF:-1 ,Real Madrid TV | SD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 ,RCG TV1
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1 ,RCG TV2
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 ,RCG TV3
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:-1 ,TL Novelas
+http://tvpremiumhd.club/lista-gratuita/paris/s83.m3u8
+#EXTINF:-1 ,TICAVISION
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 ,City Tv
+http://tvpremiumhd.club/lista-gratuita/paris/s226.m3u8
+#EXTINF:-1 ,TV Extrema
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 ,History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1 ,TELEMUNDO 51 FULLHD
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0154
+#EXTINF:-1 group-title="CINE" tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg",CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://puu.sh/nB5fs/d0fbb8562f.png",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://sportscar365.com/wp-content/uploads/2015/02/foxsportsracing.jpg",Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300",Bolivia Deportes
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="http://magneticproductions.files.wordpress.com/2010/11/mtv-dance.png",MTV Dance
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
