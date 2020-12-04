@@ -2463,3 +2463,3067 @@ http://images.nubiles-porn.com/videos/fucking_her_right/videos/nubilesporn_fucki
 http://images.nubiles-porn.com/videos/deep_in_her_pussy/videos/nubilesporn_deep_in_her_pussy_long_640.mp4
 #EXTINF:-1 ,Nubile5 achoAPPS.com
 http://images.nubilefilms.com/films/sexual_tension_with_kacy_lane/videos/nubilefilms_sexual_tension_long_640.mp4
+#EXTINF:-1 group-title="24/7",24/7  CAILLOU
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/872
+#EXTINF:-1 group-title="24/7",24/7  CORAJE EL PERRO COBARDE
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/873
+#EXTINF:-1 group-title="24/7",24/7  CUENTOS GREEM
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/874
+#EXTINF:-1 group-title="24/7",24/7  DINOSAURIOS 1991
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/875
+#EXTINF:-1 group-title="24/7",24/7  DRAGON BALL 1984
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/876
+#EXTINF:-1 group-title="24/7",24/7  LOS SIMPSON
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/877
+#EXTINF:-1 group-title="24/7",24/7  SOUTH PARK
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/878
+#EXTINF:-1 group-title="24/7",24/7  THE WALKING DEAD
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/879
+#EXTINF:-1 group-title="24/7",24/7 ALF
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/880
+#EXTINF:-1 group-title="24/7",24/7 AÃ‘OS MARAVILLOSOS 1988
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/881
+#EXTINF:-1 group-title="24/7",24/7 BARNY Y SUS AMIGOS
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/882
+#EXTINF:-1 group-title="24/7",24/7 BATMAN 1966 RETRO
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/883
+#EXTINF:-1 group-title="24/7",24/7 BOB ESPONJA
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/884
+#EXTINF:-1 group-title="24/7",24/7 BREAKING  BAD
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/885
+#EXTINF:-1 group-title="24/7",24/7 CABALLEROS DEL ZODIACO
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/886
+#EXTINF:-1 group-title="24/7",24/7 CANTINFLAS
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/887
+#EXTINF:-1 group-title="24/7",24/7 CASO CERRADO "SEXUALIDAD"
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/888
+#EXTINF:-1 group-title="24/7",24/7 CSI: MIAMI
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/889
+#EXTINF:-1 group-title="24/7",24/7 Death note
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/890
+#EXTINF:-1 group-title="24/7",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/891
+#EXTINF:-1 group-title="24/7",24/7 DRAGON  BALL SUPER
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/892
+#EXTINF:-1 group-title="24/7",24/7 DRAGON BALL GT 1996
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/893
+#EXTINF:-1 group-title="24/7",24/7 DRAGON BALL Z 1989
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/894
+#EXTINF:-1 group-title="24/7",24/7 El AvispÃ³n Verde
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/895
+#EXTINF:-1 group-title="24/7",24/7 EL CHAPULIN COLORADO
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/896
+#EXTINF:-1 group-title="24/7",24/7 EL CHAVO DEL 8
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/897
+#EXTINF:-1 group-title="24/7",24/7 EL CHEMA
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/898
+#EXTINF:-1 group-title="24/7",24/7 EL COYOTE Y CORRE CAMINOS
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/899
+#EXTINF:-1 group-title="24/7",24/7 EL PATON DEL MAL
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/900
+#EXTINF:-1 group-title="24/7",24/7 EL SEÃ‘OR DE LOS CIELOS
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/901
+#EXTINF:-1 group-title="24/7",24/7 FUTURAMA 1999
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/902
+#EXTINF:-1 group-title="24/7",24/7 HAPPY TREE FRIENDS
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/903
+#EXTINF:-1 group-title="24/7",24/7 He-Man
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/904
+#EXTINF:-1 group-title="24/7",24/7 HÃ‰ROES EN PIJAMAS
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/905
+#EXTINF:-1 group-title="24/7",24/7 JUEGO DE TRONOS
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/906
+#EXTINF:-1 group-title="24/7",24/7 LA CASA DE PAPEL
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/907
+#EXTINF:-1 group-title="24/7",24/7 LA FAMILIA MONSTERS 1964
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/908
+#EXTINF:-1 group-title="24/7",24/7 LA HORA PICO
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/909
+#EXTINF:-1 group-title="24/7",24/7 LA PANTERA ROSA
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/910
+#EXTINF:-1 group-title="24/7",24/7 LA RISA EN VACIONES
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/911
+#EXTINF:-1 group-title="24/7",24/7 LA ROSA DE GUADALUPE
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/912
+#EXTINF:-1 group-title="24/7",24/7 LAZY TOWN
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/913
+#EXTINF:-1 group-title="24/7",24/7 LE TEMES ALA OSCURIDAD
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/914
+#EXTINF:-1 group-title="24/7",24/7 LOS LOCOS ADDAMS
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/915
+#EXTINF:-1 group-title="24/7",24/7 LUIS MIGUEL LA SERIE 2018
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/916
+#EXTINF:-1 group-title="24/7",24/7 Malcolm in the middle 2000
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/917
+#EXTINF:-1 group-title="24/7",24/7 Mazinger Z
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/918
+#EXTINF:-1 group-title="24/7",24/7 Naruto
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/919
+#EXTINF:-1 group-title="24/7",24/7 Peliculas de terror
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/920
+#EXTINF:-1 group-title="24/7",24/7 PELICULAS ESTRENOS 2018
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/921
+#EXTINF:-1 group-title="24/7",24/7 PEPPA PIG
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/922
+#EXTINF:-1 group-title="24/7",24/7 PINKY y CEREBRO
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/923
+#EXTINF:-1 group-title="24/7",24/7 PokÃ©mon
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/924
+#EXTINF:-1 group-title="24/7",24/7 POWER RANGERS
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/925
+#EXTINF:-1 group-title="24/7",24/7 ROBOTECH
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/926
+#EXTINF:-1 group-title="24/7",24/7 SAILOR MOON
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/927
+#EXTINF:-1 group-title="24/7",24/7 Shark Tank MÃ©xico TEP 1
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/928
+#EXTINF:-1 group-title="24/7",24/7 Shark Tank MÃ©xico TEP 2
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/929
+#EXTINF:-1 group-title="24/7",24/7 SHERA
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/930
+#EXTINF:-1 group-title="24/7",24/7 SMALLVILLE
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/931
+#EXTINF:-1 group-title="24/7",24/7 SPIDER-MAN
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/932
+#EXTINF:-1 group-title="24/7",24/7 STRANGER THINGS
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/933
+#EXTINF:-1 group-title="24/7",24/7 SUPER CAMPEONES
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/934
+#EXTINF:-1 group-title="24/7",24/7 THUNDERCAST
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/935
+#EXTINF:-1 group-title="24/7",24/7 XMEN ANIME
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/936
+#EXTINF:-1 group-title="CINEMA",CINEMA:  DINAMITA SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1
+#EXTINF:-1 group-title="CINEMA",CINEMA:  TCM SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2
+#EXTINF:-1 group-title="CINEMA",CINEMA: AMC SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/3
+#EXTINF:-1 group-title="CINEMA",CINEMA: AZTECA CINEMA
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/4
+#EXTINF:-1 group-title="CINEMA",CINEMA: CINE CANAL SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/5
+#EXTINF:-1 group-title="CINEMA",CINEMA: CINE LATINO SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/6
+#EXTINF:-1 group-title="CINEMA",CINEMA: CINEMAX SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/7
+#EXTINF:-1 group-title="CINEMA",CINEMA: CLARO CINEMA SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/8
+#EXTINF:-1 group-title="CINEMA",CINEMA: DE PELICULA PLUS
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/9
+#EXTINF:-1 group-title="CINEMA",CINEMA: DE PELICULA TP MX
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/10
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX ACTION SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/11
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX CLASICO SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/14
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX COMEDY SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/15
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX FAMYLY SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/16
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX MOVIES SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/17
+#EXTINF:-1 group-title="CINEMA",CINEMA: FOX SERIES SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/18
+#EXTINF:-1 group-title="CINEMA",CINEMA: GOLDEN PREMIER 1
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/19
+#EXTINF:-1 group-title="CINEMA",CINEMA: GOLDEN SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/20
+#EXTINF:-1 group-title="CINEMA",CINEMA: HBO 1 SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/21
+#EXTINF:-1 group-title="CINEMA",CINEMA: HBO 2 SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/22
+#EXTINF:-1 group-title="CINEMA",CINEMA: HBO Family SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/23
+#EXTINF:-1 group-title="CINEMA",CINEMA: HBO MUNDI
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/24
+#EXTINF:-1 group-title="CINEMA",CINEMA: HBO Plus SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/25
+#EXTINF:-1 group-title="CINEMA",CINEMA: HBO XTREAME SD *
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/26
+#EXTINF:-1 group-title="CINEMA",CINEMA: MULTICINEMA SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/27
+#EXTINF:-1 group-title="CINEMA",CINEMA: MULTIPREMIER SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/28
+#EXTINF:-1 group-title="CINEMA",CINEMA: PARAMOUNT SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/29
+#EXTINF:-1 group-title="CINEMA",CINEMA: SPACE SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/30
+#EXTINF:-1 group-title="CINEMA",CINEMA: STUDIO UNIVERSAL SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/31
+#EXTINF:-1 group-title="CINEMA",CINEMA: SYFY*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/32
+#EXTINF:-1 group-title="CINEMA",CINEMA: TNT SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/33
+#EXTINF:-1 group-title="CULTURA",CULTURA: ANIMAL PLANET SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/34
+#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY CHANNEL SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/35
+#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY CIVILIZATION SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/36
+#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY H&H SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/37
+#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY SCIENCE SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/38
+#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY THEATHER HD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/39
+#EXTINF:-1 group-title="CULTURA",CULTURA: DISCOVERY TURBO SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/40
+#EXTINF:-1 group-title="CULTURA",CULTURA: H2 SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/41
+#EXTINF:-1 group-title="CULTURA",CULTURA: HISTORY SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/42
+#EXTINF:-1 group-title="CULTURA",CULTURA: ID SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/43
+#EXTINF:-1 group-title="CULTURA",CULTURA: NAT GEO SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/44
+#EXTINF:-1 group-title="CULTURA",CULTURA: NATGEO WILD  SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/45
+#EXTINF:-1 group-title="CULTURA",CULTURA: TLC SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/46
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE GALAVISION
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/48
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: ANTENA3 SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/49
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: AZ MUNDO SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/50
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: COMEDY CENTRAL HD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/51
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: DHE SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/52
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: DISTRITO COMEDIA TP MX
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/53
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: E! SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/54
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: EL GOURMET SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/55
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: ESTRELLATV
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/65
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: FASHION ONE SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/56
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: FILM & ARTS SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/57
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: FOOD NETWORK TP MX
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/58
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: HOLA !TV SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/59
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: LIFE TIME SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/60
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: MAS CHIC SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/61
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: TL NOVELAS TP MX
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/62
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: UNICABLE TP MX
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/63
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRETENIMIENTO: FOX LIFE TP MX
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/64
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX LIFE
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/66
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: Baby TV*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/80
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: BIT ME TP MX
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/89
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: Boomerang*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/81
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: Discovery Kids SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/82
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: Disney JR SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/84
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: Disney SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/83
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: Disney XD SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/85
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: Nat Geo Kids SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/86
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: Nick Jr SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/87
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: Nickelodeon SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/88
+#EXTINF:-1 group-title="NIÃ‘OS",NIÃ‘OS: TOONCAST TP MX
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/90
+#EXTINF:-1 group-title="SERIES",SERIE: A&E SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/67
+#EXTINF:-1 group-title="SERIES",SERIE: A3SERIES
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/68
+#EXTINF:-1 group-title="SERIES",SERIE: AXN SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/69
+#EXTINF:-1 group-title="SERIES",SERIE: EURO Channel SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/70
+#EXTINF:-1 group-title="SERIES",SERIE: FOX SD *
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/71
+#EXTINF:-1 group-title="SERIES",SERIE: FX Movies SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/72
+#EXTINF:-1 group-title="SERIES",SERIE: FX SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/73
+#EXTINF:-1 group-title="SERIES",SERIE: FXM TP MX
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/74
+#EXTINF:-1 group-title="SERIES",SERIE: SONY SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/76
+#EXTINF:-1 group-title="SERIES",SERIE: TNT SERIES*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/77
+#EXTINF:-1 group-title="SERIES",SERIE: UNIVERSAL TV SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/78
+#EXTINF:-1 group-title="SERIES",SERIES: WARNER SD*
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/79
+#EXTINF:-1 group-title="*PELICULAS ACCION*",007: AL SERVICIO SECRETO DE SU MAJESTAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/356.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",007: CONTRA EL DR. NO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/344.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",007: CONTRA EL DR. NO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/345.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",10 MINUTES GONE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/245.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",101 DÃ¡LMATAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/575.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",101 DÃ¡LMATAS (Â¡MÃ¡S VIVOS QUE NUNCA!)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/512.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",102 DÃ¡LMATAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/513.mkv
+#EXTINF:-1 ,12 VALIENTES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1387.mp4
+#EXTINF:-1 ,12 VALIENTES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1418.mp4
+#EXTINF:-1 ,13 FANTASMAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1910.mp4
+#EXTINF:-1 ,2010: ODISEA DOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1605.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",3 BEARS CHRISTMAS: PERFECT GIFT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/518.mkv
+#EXTINF:-1 ,3 DAYS WITH DAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1160.mp4
+#EXTINF:-1 ,3 FROM HELL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2039.mkv
+#EXTINF:-1 ,3 FROM HELL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2051.mp4
+#EXTINF:-1 ,3 LIVES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1640.mp4
+#EXTINF:-1 ,30 DÃ­AS DE OSCURIDAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2111.mp4
+#EXTINF:-1 ,30 DÃ­AS DE OSCURIDAD 2: TINIEBLAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2112.mp4
+#EXTINF:-1 ,30 MILES FROM NOWHERE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1794.mp4
+#EXTINF:-1 ,4 LATAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1245.mkv
+#EXTINF:-1 ,48 HORAS MÃ¡S
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1871.mp4
+#EXTINF:-1 ,51 NEVADA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2052.mp4
+#EXTINF:-1 ,5TH OF JULY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1159.mp4
+#EXTINF:-1 ,6 DAYS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1437.mp4
+#EXTINF:-1 ,6 DÃ­AS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1455.mp4
+#EXTINF:-1 ,6 DÃ­AS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1456.mp4
+#EXTINF:-1 ,6 DÃ­AS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1463.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",6 EN LA SOMBRA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/191.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",6 EN LA SOMBRA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/192.mkv
+#EXTINF:-1 ,61
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1507.mp4
+#EXTINF:-1 ,7 DAYS IN ENTEBBE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1411.mkv
+#EXTINF:-1 ,7 DAYS TO VEGAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1141.mp4
+#EXTINF:-1 ,7 DIAS EN ENTEBBE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1389.mp4
+#EXTINF:-1 ,A FISTFUL OF LEAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1363.mp4
+#EXTINF:-1 ,A GUIDE TO SECOND DATE SEX
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1105.mp4
+#EXTINF:-1 ,A MI ALTURA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1172.mkv
+#EXTINF:-1 ,A NIGHT AT THE ROXBURY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1143.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",A SCORE TO SETTLE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/293.mp4
+#EXTINF:-1 ,A VIGILANTE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1743.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ABOMINABLE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/522.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ABOMINABLE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/527.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ABOVE THE BEST
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/396.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ACCELERATION
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/217.mp4
+#EXTINF:-1 ,AD ASTRA. A LAS ESTRELLAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1592.mp4
+#EXTINF:-1 ,AD ASTRA: HACIA LAS ESTRELLAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1591.mkv
+#EXTINF:-1 ,AFFLICTED
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1727.mp4
+#EXTINF:-1 ,AFTER SHE WAKES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1988.mp4
+#EXTINF:-1 ,AGAINST THE CLOCK
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1891.mp4
+#EXTINF:-1 ,AGAINST THE LAW
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1443.mp4
+#EXTINF:-1 ,AGAINST THE NIGHT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1753.mp4
+#EXTINF:-1 ,AGE OF UPRISING: THE LEGEND OF MICHAEL KOHLHAAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1340.mp4
+#EXTINF:-1 ,AIRPLANE MODE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1212.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ALADDIN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/664.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ALADDIN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/665.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ALADDIN 2 EL RETORNO DE JAFAR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/666.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ALADDIN 2 EL RETORNO DE JAFAR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/667.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ALADDIN 2019
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/550.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ALADDIN 2019
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/568.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ALADDIN 3
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/668.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ALADDIN 3
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/669.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ALICIA EN EL PAÃ­S DE LAS MARAVILLAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/500.mkv
+#EXTINF:-1 ,ALIENS: ZONE OF SILENCE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1897.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ALITA: ÃNGEL DE COMBATE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/341.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ALITA: ÃNGEL DE COMBATE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/409.mp4
+#EXTINF:-1 ,ALL ABOUT ME
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1158.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ALL ABOUT THE MONEY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/489.mp4
+#EXTINF:-1 ,ALL THE WAY DUAL AUDIO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1492.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ALMA DE HÃ©ROE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/220.mkv
+#EXTINF:-1 ,ALTAMIRA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1514.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ALTERED CARBON: RESLEEVED
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/135.mkv
+#EXTINF:-1 ,ALTERED PERCEPTION
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1892.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ALVIN Y LAS ARDILLAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/647.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ALVIN Y LAS ARDILLAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/648.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ALVIN Y LAS ARDILLAS 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/649.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ALVIN Y LAS ARDILLAS 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/650.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ALVIN Y LAS ARDILLAS 3
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/651.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ALVIN Y LAS ARDILLAS 3
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/652.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ALVIN Y LAS ARDILLAS FIESTA SOBRE RUEDAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/653.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ALVIN Y LAS ARDILLAS FIESTA SOBRE RUEDAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/654.mp4
+#EXTINF:-1 ,AMANDA KNOX
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1500.mp4
+#EXTINF:-1 ,AMBITION
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2067.mp4
+#EXTINF:-1 ,AMERICAN BISTRO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1203.mp4
+#EXTINF:-1 ,AMERICAN SON
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2025.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",AMIGOS PARA SIEMPRE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/538.mkv
+#EXTINF:-1 ,AMISTAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1487.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",AMONG THIEVES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/229.mp4
+#EXTINF:-1 ,AMOR A SEGUNDA VISTA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1021.mp4
+#EXTINF:-1 ,AN AFFAIR TO DIE FOR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1877.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ANGEL HAS FALLEN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/218.mp4
+#EXTINF:-1 ,ANGEL OF MINE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2083.mp4
+#EXTINF:-1 ,ANGELES Y DEMONIOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1717.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ANGRY BIRDS 2: LA PELÃ­CULA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/539.mkv
+#EXTINF:-1 ,ANIMAL AMONG US
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2007.mp4
+#EXTINF:-1 ,ANIMALS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1068.mp4
+#EXTINF:-1 ,ANIMALS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1907.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ANNA 2019
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/262.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ANNA 2019
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/263.mkv
+#EXTINF:-1 ,ANNABELLE: COMES HOME
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1625.mp4
+#EXTINF:-1 ,ANNABELLE: VUELVE A CASA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1624.mkv
+#EXTINF:-1 ,ANUNNAKI
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1904.mp4
+#EXTINF:-1 ,APOLO 13
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1384.mp4
+#EXTINF:-1 ,APPARITION
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1584.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",AQUAMAN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/199.mkv
+#EXTINF:-1 ,ARACNOFOBIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2105.mkv
+#EXTINF:-1 ,ARACNOFOBIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2106.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ARCTIC JUSTICE: THUNDER SQUAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/524.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ARTHUR CHRISTMAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/854.mp4
+#EXTINF:-1 ,ARTIK
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2080.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ASESINOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/410.mp4
+#EXTINF:-1 ,ASHES IN THE SNOW
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1349.mp4
+#EXTINF:-1 ,ASSIMILATE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2030.mkv
+#EXTINF:-1 ,ASURA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1535.mp4
+#EXTINF:-1 ,ATORMENTADO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1542.mp4
+#EXTINF:-1 ,ATRAPADOS EN CHERNÃ³BIL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1651.mkv
+#EXTINF:-1 ,ATRAPADOS EN CHERNÃ³BIL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1652.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",AULLIDOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/104.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",AVENGERS: ENDGAME
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/298.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",AVENGERS: ENDGAME
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/299.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",AVES DE PRESA (Y LA FANTABULOSA EMANCIPACIÃ³N DE HARLEY QUINN)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/142.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",AWAKE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/295.mp4
+#EXTINF:-1 ,B&B: B AND B
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2077.mkv
+#EXTINF:-1 ,BABEL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2070.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",BAD BOYS PARA SIEMPRE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/130.mkv
+#EXTINF:-1 ,BANDERAS DE NUESTROS PADRES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1413.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",BANDIT AND THE SAINTS OF DOGWOOD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/809.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",BARBIE Y LOS DELFINES MÃ¡GICOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/540.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",BARBIE: SUPERHEROINA DEL VIDEOJUEGO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/846.mp4
+#EXTINF:-1 ,BARDO BLUES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1690.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",BATMAN MALA SANGRE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/843.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",BATMAN SIN LÃ­MITES: CAOS MONSTRUOSO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/630.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",BATMAN UNLIMITED: INSTINTO ANIMAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/631.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",BATMAN VS LAS TORTUGAS NINJA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/617.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",BATMAN: HUSH
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/304.mkv
+#EXTINF:-1 ,BEFORE YOU KNOW IT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1072.mp4
+#EXTINF:-1 ,BEING FRANK
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1171.mp4
+#EXTINF:-1 ,BEN-HUR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1427.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",BEOWULF
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/449.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",BEOWULF
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/450.mp4
+#EXTINF:-1 ,BEYOND THE NIGHT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1882.mp4
+#EXTINF:-1 ,BIG TOP EVIL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1987.mp4
+#EXTINF:-1 ,BINGO EL REY DE LAS MAÃ±ANAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/969.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",BLACK AND BLUE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/184.mp4
+#EXTINF:-1 ,BLACK WAKE!!
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1869.mp4
+#EXTINF:-1 ,BLISS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2059.mp4
+#EXTINF:-1 ,BLOOD MYTH
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1599.mp4
+#EXTINF:-1 ,BLOODHOUND
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1583.mp4
+#EXTINF:-1 ,BLOODLINE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2058.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",BLOODSHOT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/138.mkv
+#EXTINF:-1 ,BOARDING SCHOOL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1629.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",BOB ESPONJA: VINO DE LA LAGUNA VISCOSA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/824.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",BOB THE BUILDER: MEGA MACHINES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/628.mp4
+#EXTINF:-1 ,BODA SANGRIENTA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1090.mkv
+#EXTINF:-1 ,BODA SANGRIENTA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1091.mp4
+#EXTINF:-1 ,BOI
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2114.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",BOONIE BEARS: TO THE RESCUE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/525.mkv
+#EXTINF:-1 ,EL PÃ­CARO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1115.mkv
+#EXTINF:-1 ,BRAID
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1876.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",BRATZ BABYZ SALVAN LA NAVIDAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/858.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",BRATZ ESTRELLAS DE LA MODA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/856.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",BRATZ: FASHION PIXIEZ
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/857.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",BRATZ: SUPER BABYZ
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/855.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",BRAVE (INDOMABLE)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/503.mkv
+#EXTINF:-1 ,BREAKING BARBI
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1104.mp4
+#EXTINF:-1 ,BREXIT: THE UNCIVIL WAR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1351.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",BRICK MANSIONS (LA FORTALEZA)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/480.mp4
+#EXTINF:-1 ,BRIDE OF SCARECROW
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2101.mp4
+#EXTINF:-1 ,BRIGHTBURN: HIJO DE LA OSCURIDAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1641.mkv
+#EXTINF:-1 ,BURNING
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1881.mp4
+#EXTINF:-1 ,BURYING YASMEEN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1227.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",BUSCANDO A DORY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/702.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",BUSCANDO A NEMO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/700.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",BUSCANDO A NEMO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/701.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",BUSCANDO VENGANZA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/482.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",BUYBUST
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/488.mp4
+#EXTINF:-1 ,CABROS DE MIERDA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1309.mp4
+#EXTINF:-1 ,CALABACITAS TIERNAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1101.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",CAMPANILLA HADAS Y PIRATAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/818.mp4
+#EXTINF:-1 ,CAN YOU KEEP A SECRET?
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1073.mkv
+#EXTINF:-1 ,CANDY CORN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2066.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",CAPITANA MARVEL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/439.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",CAPITANA MARVEL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/440.mp4
+#EXTINF:-1 ,CAPSULE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1506.mkv
+#EXTINF:-1 ,CAPSULE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1508.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",CAPT'N SHARKY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/580.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",CARLITOS Y SNOOPY: LA PELÃ­CULA DE PEANUTS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/615.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",CARS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/692.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",CARS 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/694.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",CARS 3
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/696.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",CARS 3
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/697.mkv
+#EXTINF:-1 ,CARTAS DESDE IWO JIMA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1423.mkv
+#EXTINF:-1 ,CASANOVA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1488.mkv
+#EXTINF:-1 ,CATCHING THE SUN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1447.mp4
+#EXTINF:-1 ,CATS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/996.mkv
+#EXTINF:-1 ,CAUTIVOS (THE CAPTIVE)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1791.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",CAVERNICOLA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/844.mp4
+#EXTINF:-1 ,CEMENTERIO DE ANIMALES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1671.mp4
+#EXTINF:-1 ,CEMENTERIO DE ANIMALES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1672.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",CENICIENTA 2: LA MAGIA NO TERMINA A MEDIANOCHE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/721.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",CENICIENTA 3
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/723.mp4
+#EXTINF:-1 ,CHASE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1676.mp4
+#EXTINF:-1 ,CHASING MOLLY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1067.mp4
+#EXTINF:-1 ,CHICAS CON PELOTAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1221.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",CHOKEHOLD: PODER ABSOLUTO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/232.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",CHRISTOPHER ROBIN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/862.mp4
+#EXTINF:-1 ,CHURCHILL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1435.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",CIRCO DEL SOL: MUNDOS LEJANOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/675.mp4
+#EXTINF:-1 ,CIUDAD EN TINIEBLAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1536.mkv
+#EXTINF:-1 ,CIUDADANO X
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1251.mp4
+#EXTINF:-1 ,CLARA'S GHOST
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1175.mkv
+#EXTINF:-1 ,CLAUDIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1139.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",COBRA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/490.mp4
+#EXTINF:-1 ,CODIGO ABIERTO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1888.mp4
+#EXTINF:-1 ,CODIGO ABIERTO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1889.mp4
+#EXTINF:-1 ,COLATERAL: LUGAR Y TIEMPO EQUIVOCADO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2094.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",COLD BLOOD LEGACY: LA MÃ©MOIRE DU SANG
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/342.mp4
+#EXTINF:-1 ,COLETTE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1362.mp4
+#EXTINF:-1 ,COLONIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1531.mp4
+#EXTINF:-1 ,COMO CAÃ­DO DEL CIELO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1056.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",COMO ENTRENAR A TU DRAGÃ³N: REGRESO A CASA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/529.mkv
+#EXTINF:-1 ,COMO NOVIO DE PUEBLO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1194.mkv
+#EXTINF:-1 ,COMO SI FUERA LA PRIMERA VEZ
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1100.mkv
+#EXTINF:-1 ,COMPULSION
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1874.mp4
+#EXTINF:-1 ,CONDENADOS A FUGARSE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1080.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",CONFIDENTIAL ASSIGNMENT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/301.mkv
+#EXTINF:-1 ,CONFIRMATION
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1517.mkv
+#EXTINF:-1 ,CONOCES A TOMÃ¡S?
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1138.mkv
+#EXTINF:-1 ,CONQUISTA A MEDIAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/959.mkv
+#EXTINF:-1 ,CONTRACTED
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2102.mp4
+#EXTINF:-1 ,CONTRACTED: PHASE II
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2103.mp4
+#EXTINF:-1 ,CONTROL DE LA MISIÃ³N - LOS HÃ©ROES ANÃ³NIMOS DE APOLO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1394.mp4
+#EXTINF:-1 ,CONTROL TOTAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1866.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",CORALINE Y LA PUERTA SECRETA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/816.mp4
+#EXTINF:-1 ,CORAZON VALIENTE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1505.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LAS MASCOTAS DE LA REINA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/555.mkv
+#EXTINF:-1 ,CORONAVIRUS COMO COMENZO TODO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1256.mkv
+#EXTINF:-1 ,CORTOCIRCUITO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1118.mp4
+#EXTINF:-1 ,CORTOCIRCUITO 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1119.mp4
+#EXTINF:-1 ,COSMOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1598.mp4
+#EXTINF:-1 ,COUNTDOWN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1981.mp4
+#EXTINF:-1 ,COVER VERSIONS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1883.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",CRAWL: INFIERNO BAJO EL AGUA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/251.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",CRAWL: PREDADORES ASSASSINOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/252.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",CROWN VIC
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/211.mp4
+#EXTINF:-1 ,CRYPSIS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1986.mp4
+#EXTINF:-1 ,CUANDO ERAMOS SOLDADOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1486.mp4
+#EXTINF:-1 ,CUARENTENA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1656.mkv
+#EXTINF:-1 ,CUARENTENA 2 TERMINAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1657.mp4
+#EXTINF:-1 ,CUCK
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2050.mp4
+#EXTINF:-1 ,CUERNOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1692.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",CÃ³MO ENTRENAR A TU DRAGÃ³N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/427.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",CÃ³MO ENTRENAR A TU DRAGÃ³N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/428.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",CÃ³MO ENTRENAR A TU DRAGÃ³N 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/429.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",CÃ³MO ENTRENAR A TU DRAGÃ³N 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/430.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",CÃ³MO ENTRENAR A TU DRAGÃ³N 3
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/431.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",CÃ³MO ENTRENAR A TU DRAGÃ³N 3
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/432.mp4
+#EXTINF:-1 ,CÃ³MO PERDER A UN CHICO EN 10 DÃ­AS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1140.mkv
+#EXTINF:-1 ,DAGENHAM
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1689.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",DANGER CLOSE: THE BATTLE OF LONG TAN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/216.mp4
+#EXTINF:-1 ,DANIEL ISN'T REAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1590.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",DAUGHTER OF THE WOLF
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/426.mp4
+#EXTINF:-1 ,DEAD END: ATAJO AL INFIERNO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1541.mp4
+#EXTINF:-1 ,DEAD WATER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1648.mp4
+#EXTINF:-1 ,DEADLY STILL: UNA FOTO ANTES DE MORIR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2076.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",DEADPOOL 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/311.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",DEADPOOL 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/312.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",DEATHGASM
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/300.mp4
+#EXTINF:-1 ,DEDICADA A MI EX
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1010.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",DEEP
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/861.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",DELTA FORCE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/436.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",DESAPARECIDO EN COMBATE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/338.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",DESAPARECIDO EN COMBATE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/339.mp4
+#EXTINF:-1 ,DESTROYER. UNA MUJER HERIDA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1733.mp4
+#EXTINF:-1 ,DETECTIVE CHINATOWN 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1905.mp4
+#EXTINF:-1 ,DETROIT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1365.mp4
+#EXTINF:-1 ,DEVIL'S JUNCTION: HANDY DANDY'S REVENGE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2048.mp4
+#EXTINF:-1 ,DEVIL'S REVENGE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2049.mp4
+#EXTINF:-1 ,DIAMANTES EN BRUTO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1579.mkv
+#EXTINF:-1 ,DICEN POR AHÃ­...
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1022.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",DICK TRACY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/227.mp4
+#EXTINF:-1 ,DICK Y JANE LADRONES DE RISA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1064.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",DINO KING: JOURNEY TO FIRE MOUNTAIN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/101.mkv
+#EXTINF:-1 ,DISTORTED
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1815.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",DISTURBING THE PEACE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/169.mp4
+#EXTINF:-1 ,DIVERGENTE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1748.mp4
+#EXTINF:-1 ,DOBLE TRAICIÃ³N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1566.mp4
+#EXTINF:-1 ,DOBLEMENTE EMBARAZADA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1002.mkv
+#EXTINF:-1 ,DOCTOR SUEÃ±O
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1976.mkv
+#EXTINF:-1 ,DOCTOR WHO: EL TIEMPO DEL DOCTOR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1696.mp4
+#EXTINF:-1 ,DON'T LET GO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1600.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",DOOM: ANNIHILATION
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/253.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",DORA AND THE LOST CITY OF GOLD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/537.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",DORA Y LA CIUDAD PERDIDA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/536.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",DOS SUPERPOLICÃ­AS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/136.mp4
+#EXTINF:-1 ,DOS TONTOS MUY TONTOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1070.mkv
+#EXTINF:-1 ,DOS TONTOS MUY TONTOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1071.mkv
+#EXTINF:-1 ,DRACULA DE BRAM STOKER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1653.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",DRAGON NEST: WARRIORS' DAWN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/626.mp4
+#EXTINF:-1 ,DULCE FAMILIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1207.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",DUMBO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/595.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",DUMBO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/597.mp4
+#EXTINF:-1 ,DUNKERQUE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1444.mp4
+#EXTINF:-1 ,DUNKERQUE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1445.mp4
+#EXTINF:-1 ,DUPLEX
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/990.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",DÃ­A DE MUERTOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/531.mkv
+#EXTINF:-1 ,DÃ­A DE PATRIOTAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1481.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",DÃ­AS DE TRUENO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/103.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EASTER LAND
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/662.mp4
+#EXTINF:-1 ,EFECTOS SECUNDARIOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1678.mp4
+#EXTINF:-1 ,EGON SCHIELE: DEATH AND THE MAIDEN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1390.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EJECUCIÃ³N EXTREMA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/470.mp4
+#EXTINF:-1 ,EL ALCALDE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1264.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL AMERICANO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/614.mp4
+#EXTINF:-1 ,EL ARTE DE VIVIR BAJO LA LLUVIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1127.mkv
+#EXTINF:-1 ,EL ATRAPASUEÃ±OS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1915.mkv
+#EXTINF:-1 ,EL BEBE DE ROSEMARY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1890.mp4
+#EXTINF:-1 ,EL BUEN PASTOR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1509.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL CAMINO A EL DORADO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/491.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EL CAMINO: A BREAKING BAD MOVIE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/231.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EL CAMINO: UNA PELÃ­CULA DE BREAKING BAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/234.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EL CANTO DEL LOBO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/421.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL CAPITÃ¡N CALZONCILLOS LA DEFENSA DE LA TIERRA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/798.mp4
+#EXTINF:-1 ,EL CODIGO DA VINCI
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1714.mp4
+#EXTINF:-1 ,EL CODIGO DA VINCI
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1715.mp4
+#EXTINF:-1 ,EL CONSPIRADOR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1278.mp4
+#EXTINF:-1 ,EL CUENTO DE LAS COMADREJAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1174.mkv
+#EXTINF:-1 ,EL DESPERTAR DEL DIABLO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1927.mp4
+#EXTINF:-1 ,EL DESPERTAR DEL DIABLO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1928.mp4
+#EXTINF:-1 ,EL DIA DE LA UNIÃ³N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1326.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EL DIABLO SOBRE RUEDAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/272.mp4
+#EXTINF:-1 ,EL DUODÃ©CIMO HOMBRE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1289.mp4
+#EXTINF:-1 ,EL DUODÃ©CIMO HOMBRE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1290.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EL DURO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/397.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EL DURO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/398.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EL DÃ­A DE LA BESTIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/276.mkv
+#EXTINF:-1 ,EL EFECTO SOMBRA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1821.mp4
+#EXTINF:-1 ,EL ENCUENTRO DE GUAYAQUIL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1471.mp4
+#EXTINF:-1 ,EL ESCÃ¡NDALO TED KENNEDY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1353.mp4
+#EXTINF:-1 ,EL EVANGELIO SEGÃºN SAN MATEO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1287.mp4
+#EXTINF:-1 ,EL EVANGELIO SEGÃºN SAN MATEO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1288.mp4
+#EXTINF:-1 ,EL EXORCISMO DE EMILY ROSE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2084.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL EXTRAÃ±O MUNDO DE JACK
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/786.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL EXTRAÃ±O MUNDO DE JACK
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/787.mp4
+#EXTINF:-1 ,EL FARO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1547.mkv
+#EXTINF:-1 ,EL FIN DE LOS TIEMPOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2053.mkv
+#EXTINF:-1 ,EL FOTÃ³GRAFO DE MAUTHAUSEN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1310.mp4
+#EXTINF:-1 ,EL FUNDADOR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1472.mp4
+#EXTINF:-1 ,EL FUNDADOR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1476.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL GATO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/819.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL GRINCH
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/803.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL GRINCH
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/804.mp4
+#EXTINF:-1 ,EL HIJO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2113.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EL HIJO DE BATMAN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/128.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL HIJO DE BIGFOOT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/794.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL HIJO DE BIGFOOT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/795.mp4
+#EXTINF:-1 ,EL HIJO PERDIDO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1147.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EL HOMBRE DEL CORAZÃ³N DE HIERRO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/434.mp4
+#EXTINF:-1 ,EL HOMBRE INVISIBLE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1556.mkv
+#EXTINF:-1 ,EL HOMBRE SIN GRAVEDAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1120.mkv
+#EXTINF:-1 ,EL HOYO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1943.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EL IMPERIO DEL FUEGO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/118.mp4
+#EXTINF:-1 ,EL IMPERIO DEL SOL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1491.mkv
+#EXTINF:-1 ,EL INSTANTE MÃ¡S OSCURO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1434.mkv
+#EXTINF:-1 ,EL JOVEN KARL MARX
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1415.mp4
+#EXTINF:-1 ,EL JOVEN KARL MARX
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1454.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EL JUEGO DEL ASESINO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/258.mp4
+#EXTINF:-1 ,EL LADO SINIESTRO DE LA LUNA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1619.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL LIBRO DE LA VIDA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/516.mkv
+#EXTINF:-1 ,EL MANUAL DEL PISADO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1210.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EL MENSAJERO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/203.mp4
+#EXTINF:-1 ,EL MILAGRO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1461.mp4
+#EXTINF:-1 ,EL MISTERIO DE LOS EXCAVADORES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1214.mkv
+#EXTINF:-1 ,EL MISTERIO DE SALEM'S LOT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1614.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL MONSTRUO DE LAS NIEVES: LAS AVENTURAS DE NELLY Y SIMÃ³N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/815.mp4
+#EXTINF:-1 ,EL MUÃ±ECO DE NIEVE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1797.mp4
+#EXTINF:-1 ,EL MUÃ±ECO DE NIEVE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1798.mp4
+#EXTINF:-1 ,EL MÃ¡S ALLÃ¡: KAIDAN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1991.mp4
+#EXTINF:-1 ,EL NACIMIENTO DE UNA NACIÃ³N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1482.mp4
+#EXTINF:-1 ,EL NACIMIENTO DE UNA NACIÃ³N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1493.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL NIÃ±O QUE PUDO SER REY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/634.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL ORIGEN DE LOS GUARDIANES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/822.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL ORIGEN DE LOS GUARDIANES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/823.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL PAJARO LOCO: LA PELÃ­CULA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/811.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL PARQUE MÃ¡GICO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/594.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL PARQUE MÃ¡GICO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/599.mp4
+#EXTINF:-1 ,EL PASAJERO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1818.mp4
+#EXTINF:-1 ,EL PATRIOTA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1422.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL PEQUEÃ±O VAMPIRO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/788.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EL PICO DE DANTE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/291.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EL PICO DE DANTE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/292.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL PROFETA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/806.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL PROFETA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/807.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL RECUERDO DE MARNIE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/613.mp4
+#EXTINF:-1 ,EL REGALO PROMETIDO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1061.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL REGRESO DE MARY POPPINS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/699.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL REGRESO DE MARY POPPINS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/704.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL REINADO DE LOS SUPERHOMBRES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/783.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL REINADO DE LOS SUPERHOMBRES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/808.mp4
+#EXTINF:-1 ,EL RESPLANDOR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2069.mkv
+#EXTINF:-1 ,EL REY DAVID
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1501.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL REY LEÃ³N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/686.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL REY LEÃ³N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/687.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL REY LEÃ³N 2 EL REINO DE SIMBA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/688.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL REY LEÃ³N 2019
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/544.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL REY LEÃ³N 3 HAKUNA MATATA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/690.mp4
+#EXTINF:-1 ,EL RITUAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1799.mp4
+#EXTINF:-1 ,EL RITUAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1800.mp4
+#EXTINF:-1 ,EL ROBO DEL SIGLO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/937.mkv
+#EXTINF:-1 ,EL SACRIFICIO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1761.mp4
+#EXTINF:-1 ,EL SACRIFICIO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1762.mp4
+#EXTINF:-1 ,EL SACRIFICIO DE UN CIERVO SAGRADO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1860.mp4
+#EXTINF:-1 ,EL SACRIFICIO DE UN CIERVO SAGRADO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1861.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL SECRETO DEL LIBRO DE KELLS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/520.mkv
+#EXTINF:-1 ,EL SECUESTRO DE STELLA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1665.mkv
+#EXTINF:-1 ,EL SENTIDO DE UN FINAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1822.mp4
+#EXTINF:-1 ,EL SENTIDO DE UN FINAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1823.mp4
+#EXTINF:-1 ,EL SILENCIO DEL PANTANO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1926.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL SÃ©PTIMO ENANITO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/604.mp4
+#EXTINF:-1 ,EL SÃ³TANO DE MA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2093.mkv
+#EXTINF:-1 ,EL SÃ³TANO DE MA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2096.mkv
+#EXTINF:-1 ,EL TATUAJE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1114.mkv
+#EXTINF:-1 ,EL TERROR LLAMA A SU PUERTA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1029.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EL TESORO DEL AMAZONAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/181.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EL TESORO DEL AMAZONAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/182.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EL TRAFICANTE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/469.mp4
+#EXTINF:-1 ,EL TRUCO FINAL (EL PRESTIGIO)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1856.mp4
+#EXTINF:-1 ,EL TRUCO FINAL (EL PRESTIGIO)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1857.mp4
+#EXTINF:-1 ,EL ULTIMO REY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1511.mp4
+#EXTINF:-1 ,EL ULTIMO SAMURAI
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1483.mp4
+#EXTINF:-1 ,EL ULTIMO TESTIGO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1330.mp4
+#EXTINF:-1 ,EL ULTIMO TESTIGO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1331.mp4
+#EXTINF:-1 ,EL ULTIMO VAMPIRO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1502.mkv
+#EXTINF:-1 ,EL VAGÃ³N DE LA MUERTE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1858.mp4
+#EXTINF:-1 ,EL VAGÃ³N DE LA MUERTE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1859.mp4
+#EXTINF:-1 ,EL VAMPIRO DEL LAGO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1612.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EL VIAJE DE CHIHIRO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/605.mp4
+#EXTINF:-1 ,EL ÃšLTIMO ACTO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1268.mkv
+#EXTINF:-1 ,ELEPHANT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1969.mp4
+#EXTINF:-1 ,ELI
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2035.mkv
+#EXTINF:-1 ,ELIZABETH: LA EDAD DE ORO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1277.mkv
+#EXTINF:-1 ,ELVIS & NIXON
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1533.mp4
+#EXTINF:-1 ,EMBOSCADA FINAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1742.mp4
+#EXTINF:-1 ,EN BRAZOS DE UN ASESINO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1954.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EN BUSCA DE LA ESTRELLA DE NAVIDAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/820.mp4
+#EXTINF:-1 ,EN EL INTERIOR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1710.mp4
+#EXTINF:-1 ,EN LA HIERBA ALTA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2034.mkv
+#EXTINF:-1 ,EN LA MENTE DE ROBIN WILLIAMS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1003.mkv
+#EXTINF:-1 ,EN TIERRA HOSTIL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1520.mp4
+#EXTINF:-1 ,ENEMIGO AL ASECHO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1485.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ENEMIGO MÃ­O
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/174.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ENEMIGO PÃºBLICO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/108.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ENEMIGO PÃºBLICO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/115.mkv
+#EXTINF:-1 ,ENOUGH
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2019.mp4
+#EXTINF:-1 ,ENTRE DOS HELECHOS: LA PELÃ­CULA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1162.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ERASE UNA VEZ UN DEADPOOL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/313.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ERASE UNA VEZ UN DEADPOOL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/314.mkv
+#EXTINF:-1 ,ERASER (EL PROTECTOR)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1728.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ESCAPE DE NUEVA YORK
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/451.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ESCAPE PLAN 3: THE EXTRACTORS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/419.mp4
+#EXTINF:-1 ,ESCAPE ROOM
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1732.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ESCUADRÃ³N SUICIDA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/238.mkv
+#EXTINF:-1 ,ESO CAPITULO DOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2012.mkv
+#EXTINF:-1 ,ESO CAPITULO DOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2013.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ESPÃ­AS CON DISFRAZ
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/156.mkv
+#EXTINF:-1 ,ESPÃ­RITUS DEL MAR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1549.mkv
+#EXTINF:-1 ,ESTAFADORAS DE WALL STREET
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1081.mkv
+#EXTINF:-1 ,ESTAFADORAS DE WALL STREET
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1082.mp4
+#EXTINF:-1 ,ESTIGMA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1765.mp4
+#EXTINF:-1 ,ESTIGMA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1766.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ESTÃ¡N VIVOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/162.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ETERNAL CODE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/260.mp4
+#EXTINF:-1 ,EVERY TIME I DIE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1633.mp4
+#EXTINF:-1 ,EXPERIMENTO EN LA PRISIÃ³N DE STANFORD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1519.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EXTRACTION: MISIÃ³N DE RESCATE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/106.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",EXTRACTION: MISIÃ³N DE RESCATE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/107.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EXTRATERRESTRES DE TELLUR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/715.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",EXTRATERRESTRES DE TELLUR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/716.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",FABRICATED CITY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/471.mp4
+#EXTINF:-1 ,FAHRENHEIT 11/9
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1357.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",FALCON RISING
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/150.mp4
+#EXTINF:-1 ,FALSAS APARIENCIAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/977.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",FALSE FLAG
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/422.mp4
+#EXTINF:-1 ,FAMILY OBLIGATIONS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1066.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",FANATICO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/173.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",FAST & FURIOUS: HOBBS & SHAW
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/248.mp4
+#EXTINF:-1 ,FEEDBACK
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1998.mp4
+#EXTINF:-1 ,FELIZ DÃ­A DE TU MUERTE 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1711.mp4
+#EXTINF:-1 ,FEO PERO SABROSO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1184.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",FINAL SCORE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/485.mp4
+#EXTINF:-1 ,FIRST MAN - EL PRIMER HOMBRE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1359.mp4
+#EXTINF:-1 ,FIRST MAN - EL PRIMER HOMBRE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1367.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",FISHTALES 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/870.mp4
+#EXTINF:-1 ,FLORA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1395.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",FORD VS FERRARI: LE MANS '66
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/168.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",FORD VS FERRARI: LE MANS '66
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/183.mkv
+#EXTINF:-1 ,FRACTURED
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2044.mkv
+#EXTINF:-1 ,FRANCISCO - EL PADRE JORGE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1301.mp4
+#EXTINF:-1 ,FRANCOFONIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1503.mkv
+#EXTINF:-1 ,FRANTZ
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1428.mkv
+#EXTINF:-1 ,FREAKS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1589.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",FROZEN 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/510.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",FROZEN FEVER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/831.mp4
+#EXTINF:-1 ,FUGA DE ALCATRAZ
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2116.mp4
+#EXTINF:-1 ,FURIOUS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1417.mp4
+#EXTINF:-1 ,GAGARIN - FIRST IN SPACE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1271.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",GENERAL COMMANDER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/247.mkv
+#EXTINF:-1 ,GHOST COINS: GAME PLUK PHI
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1644.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",GHOST IN THE GRAVEYARD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/215.mp4
+#EXTINF:-1 ,GHOST STORIES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1586.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",GIGANTES DE ACERO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/283.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",GIGANTES DE ACERO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/284.mkv
+#EXTINF:-1 ,GIRL ON THE THIRD FLOO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1602.mp4
+#EXTINF:-1 ,GIRLHOUSE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1744.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",GLADIADOR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/289.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",GLADIADOR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/290.mp4
+#EXTINF:-1 ,GO! LA FIESTA INOLVIDABLE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1098.mkv
+#EXTINF:-1 ,GOD OF WAR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1440.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",GODZILLA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/328.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",GODZILLA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/329.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",GODZILLA: REY DE LOS MONSTRUOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/285.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",GODZILLA: REY DE LOS MONSTRUOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/286.mkv
+#EXTINF:-1 ,GOLD DUST
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/972.mkv
+#EXTINF:-1 ,GOOD BOYS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1121.mkv
+#EXTINF:-1 ,GOTHIC HARVEST
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2042.mp4
+#EXTINF:-1 ,GOYO: THE BOY GENERAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1341.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",GRAND ISLE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/194.mp4
+#EXTINF:-1 ,GRETEL Y HANSEL: UN OSCURO CUENTO DE HADAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1920.mkv
+#EXTINF:-1 ,GUADALUPE REYES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1063.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",HACKER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/226.mkv
+#EXTINF:-1 ,HANNAH MONTANA: THE MOVIE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/944.mp4
+#EXTINF:-1 ,HAPPY BIRTHDAY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1170.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",HARD NIGHT FALLING
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/193.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",HARDCORE: MISIÃ³N EXTREMA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/242.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",HARLEY DAVIDSON AND THE MARLBORO MAN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/205.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",HARRIET
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/180.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",HARRY EL EJECUTOR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/444.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",HARRY EL SUCIO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/442.mp4
+#EXTINF:-1 ,HARRY POTTER Y EL CÃ¡LIZ DE FUEGO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1777.mp4
+#EXTINF:-1 ,HARRY POTTER Y EL CÃ¡LIZ DE FUEGO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1778.mp4
+#EXTINF:-1 ,HARRY POTTER Y EL MISTERIO DEL PRÃ­NCIPE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1781.mp4
+#EXTINF:-1 ,HARRY POTTER Y EL MISTERIO DEL PRÃ­NCIPE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1782.mp4
+#EXTINF:-1 ,HARRY POTTER Y EL PRISIONERO DE AZKABAN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1775.mp4
+#EXTINF:-1 ,HARRY POTTER Y EL PRISIONERO DE AZKABAN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1776.mp4
+#EXTINF:-1 ,HARRY POTTER Y LA CÃ¡MARA SECRETA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1773.mp4
+#EXTINF:-1 ,HARRY POTTER Y LA CÃ¡MARA SECRETA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1774.mp4
+#EXTINF:-1 ,HARRY POTTER Y LA ORDEN DEL FÃ©NIX
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1779.mp4
+#EXTINF:-1 ,HARRY POTTER Y LA ORDEN DEL FÃ©NIX
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1780.mp4
+#EXTINF:-1 ,HARRY POTTER Y LA PIEDRA FILOSOFAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1771.mp4
+#EXTINF:-1 ,HARRY POTTER Y LA PIEDRA FILOSOFAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1772.mp4
+#EXTINF:-1 ,HARRY POTTER Y LAS RELIQUIAS DE LA MUERTE  PARTE 1
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1783.mp4
+#EXTINF:-1 ,HARRY POTTER Y LAS RELIQUIAS DE LA MUERTE  PARTE 1
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1784.mp4
+#EXTINF:-1 ,HARRY POTTER Y LAS RELIQUIAS DE LA MUERTE  PARTE 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1785.mp4
+#EXTINF:-1 ,HARRY POTTER Y LAS RELIQUIAS DE LA MUERTE  PARTE 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1786.mp4
+#EXTINF:-1 ,HASTA EL ÃºLTIMO HOMBRE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1421.mkv
+#EXTINF:-1 ,HASTA LOS DIENTES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2095.mkv
+#EXTINF:-1 ,HASTA PRONTO CHRISTOPHER ROBIN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1439.mkv
+#EXTINF:-1 ,HEAD COUNT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1685.mp4
+#EXTINF:-1 ,HEAD FULL OF HONEY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1202.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",HEADSHOT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/468.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",HELLBOY: RISE OF THE BLOOD QUEEN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/320.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",HELLBOY: RISE OF THE BLOOD QUEEN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/340.mp4
+#EXTINF:-1 ,HELLMINGTON
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2074.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",HENCHMEN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/800.mp4
+#EXTINF:-1 ,HERIDAS (WOUNDS)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1608.mkv
+#EXTINF:-1 ,HEROE AUDIO LAT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1477.mp4
+#EXTINF:-1 ,HESHER: METALHEAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1054.mp4
+#EXTINF:-1 ,HEX
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2075.mp4
+#EXTINF:-1 ,HIBOU: OWL YOU NEED IS LOVE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1079.mkv
+#EXTINF:-1 ,HIGH LIFE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1707.mp4
+#EXTINF:-1 ,HIJO DE DIOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1426.mkv
+#EXTINF:-1 ,HISTORIA DE UN MATRIMONIO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1044.mp4
+#EXTINF:-1 ,HISTORIAS DE MIEDO PARA CONTAR EN LA OSCURIDAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1609.mkv
+#EXTINF:-1 ,HOLIDAY HELL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2017.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",HOLLOW POINT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/414.mp4
+#EXTINF:-1 ,HORMIGUITAZ
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1249.mp4
+#EXTINF:-1 ,HOSTILES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1371.mp4
+#EXTINF:-1 ,HOTEL MUMBAI
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1284.mp4
+#EXTINF:-1 ,HOTEL MUMBAI
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1285.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",HOTEL TRANSILVANIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/709.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",HOTEL TRANSILVANIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/710.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",HOTEL TRANSILVANIA 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/711.mp4
+#EXTINF:-1 ,HOW HIGH 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1193.mkv
+#EXTINF:-1 ,I LIKE ME
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1248.mp4
+#EXTINF:-1 ,I SEE YOU
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1814.mp4
+#EXTINF:-1 ,I'LL TAKE YOUR DEAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1708.mp4
+#EXTINF:-1 ,IDEAL HOME
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1192.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",IMPACTO SÃºBITO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/445.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",IN FULL BLOOM
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/100.mkv
+#EXTINF:-1 ,IN THE SHADOW OF THE MOON
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1620.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",IN TIME: EL PRECIO DEL MAÃ±ANA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/240.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",IN TIME: EL PRECIO DEL MAÃ±ANA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/241.mp4
+#EXTINF:-1 ,INFECCIÃ³N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1930.mkv
+#EXTINF:-1 ,INFERNO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1718.mp4
+#EXTINF:-1 ,INFERNO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1719.mp4
+#EXTINF:-1 ,INHERIT THE VIPER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1982.mp4
+#EXTINF:-1 ,INICIALES S.G.
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1013.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",INSIDE MAN: MOST WANTED
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/259.mkv
+#EXTINF:-1 ,INSIDIOUS: LA ÃºLTIMA LLAVE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1540.mkv
+#EXTINF:-1 ,INTO THE ASHES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1658.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",INVADER ZIM: ENTER THE FLORPUS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/278.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",INVADER ZIM: ENTER THE FLORPUS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/279.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",INVASIÃ³N U.S.A.
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/336.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",INVASIÃ³N U.S.A.
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/337.mp4
+#EXTINF:-1 ,INVICTUS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1261.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",IRON SKY: THE COMING RACE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/478.mp4
+#EXTINF:-1 ,IS GENESIS HISTORY?
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1467.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ISLA DE PERROS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/698.mp4
+#EXTINF:-1 ,JACKIE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1470.mkv
+#EXTINF:-1 ,JACKIE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1473.mp4
+#EXTINF:-1 ,JAY Y BOB EL SILENCIOSO: EL REBOOT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1048.mp4
+#EXTINF:-1 ,JESUS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1254.mkv
+#EXTINF:-1 ,JESÃºS DE NAZARET PARTE 1
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1296.mp4
+#EXTINF:-1 ,JESÃºS DE NAZARET PARTE 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1297.mp4
+#EXTINF:-1 ,JEXI
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/984.mkv
+#EXTINF:-1 ,JEXI
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1053.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",JOHN WICK: CAPÃ­TULO 3 - PARABELLUM
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/280.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",JOHN WICK: CAPÃ­TULO 3 - PARABELLUM
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/281.mkv
+#EXTINF:-1 ,JOJO RABBIT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1025.mkv
+#EXTINF:-1 ,JOKER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1989.mkv
+#EXTINF:-1 ,JOKER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1990.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",JOVENES TITANES: EL CONTRATO DE JUDAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/845.mp4
+#EXTINF:-1 ,JUDY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1260.mp4
+#EXTINF:-1 ,JUGANDO CON FUEGO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1037.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",JUNTOS SON DINAMITA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/137.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",JURASSIC GALAXY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/270.mkv
+#EXTINF:-1 ,JÃ³VENES OCULTOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1226.mkv
+#EXTINF:-1 ,KAGEMUSHA. LA SOMBRA DEL GUERRERO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1414.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",KICK ASS GIRLS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/407.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",KILL CHAIN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/225.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",KILLERMAN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/210.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",KILLERS ANONYMOUS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/413.mp4
+#EXTINF:-1 ,KILLING JESUS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1425.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",KIM POSSIBLE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/646.mp4
+#EXTINF:-1 ,KISS KISS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1793.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",KONG: LA ISLA CALAVERA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/206.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",KONG: LA ISLA CALAVERA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/207.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",KUNG FU PANDA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/734.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",KUNG FU PANDA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/735.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",KUNG FU PANDA 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/736.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",KUNG FU PANDA 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/737.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",KUNG FU PANDA 3
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/738.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",KUNG FU PANDA 3
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/739.mp4
+#EXTINF:-1 ,KURSK
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1319.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",LA ARMADURA DE DIOS: ZODIACO CHINO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/418.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA BELLA Y LA BESTIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/729.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA BELLA Y LA BESTIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/730.mp4
+#EXTINF:-1 ,LA BODA DE LA ABUELA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1042.mkv
+#EXTINF:-1 ,LA BODA DE MI EX (DESTINATION WEDDING)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1204.mkv
+#EXTINF:-1 ,LA BODA DE MI EX (DESTINATION WEDDING)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1205.mkv
+#EXTINF:-1 ,LA BÃ³VEDA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1796.mp4
+#EXTINF:-1 ,LA CAIDA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1291.mp4
+#EXTINF:-1 ,LA CAIDA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1292.mp4
+#EXTINF:-1 ,LA CASA DE LA ESPERANZA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1468.mp4
+#EXTINF:-1 ,LA CASA DEL TERROR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2078.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",LA CAZA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/134.mp4
+#EXTINF:-1 ,LA CENA DE LOS IDIOTAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/992.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA CENICIENTA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/719.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA CENICIENTA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/720.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA CENICIENTA Y EL PRÃ­NCIPE OCULTO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/805.mp4
+#EXTINF:-1 ,LA CHICA DANESA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1432.mkv
+#EXTINF:-1 ,LA CORONA PARTIDA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1498.mkv
+#EXTINF:-1 ,LA CRIATURA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1660.mkv
+#EXTINF:-1 ,LA DAMA DE ORO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1379.mp4
+#EXTINF:-1 ,LA DAMA DE ORO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1380.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA DAMA Y EL VAGABUNDO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/533.mkv
+#EXTINF:-1 ,LA DICTADURA PERFECTA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1129.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA ERA DE HIELO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/676.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA ERA DE HIELO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/677.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA ERA DE HIELO 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/678.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA ERA DE HIELO 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/679.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA ERA DE HIELO 3: EL ORIGEN DE LOS DINOSAURIOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/680.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA ERA DE HIELO 3: EL ORIGEN DE LOS DINOSAURIOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/681.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA ERA DE HIELO 4 LA FORMACION DE LOS CONTINENTES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/682.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA ERA DE HIELO 4 LA FORMACION DE LOS CONTINENTES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/683.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA ERA DE HIELO: CHOQUE DE MUNDOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/684.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA ERA DE HIELO: CHOQUE DE MUNDOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/685.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA FAMILIA ADDAMS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/515.mkv
+#EXTINF:-1 ,LA FAVORITA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1318.mp4
+#EXTINF:-1 ,LA FAVORITA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1337.mp4
+#EXTINF:-1 ,LA GUERRA DE LOS ROSE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1126.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",LA HERMANDAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/437.mp4
+#EXTINF:-1 ,LA HIJA DEL GENERAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1603.mkv
+#EXTINF:-1 ,LA HORA FINAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1419.mp4
+#EXTINF:-1 ,LA HUERFANA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1669.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA INCREÃ­BLE HISTORIA DE LA PERA GIGANTE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/663.mp4
+#EXTINF:-1 ,LA ISLA MALDITA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1670.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",LA LEYENDA DE BILLIE JEAN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/464.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA LEYENDA DE KLAUS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/532.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA LEYENDA DE LA LLORONA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/746.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA LEYENDA DE LA NAHUALA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/745.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA LEYENDA DE LAS MOMIAS DE GUANAJUATO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/747.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA LEYENDA DE SLEEPY HOLLOW Y EL SEÃ±OR SAPO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/530.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA LEYENDA DEL CHARRO NEGRO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/748.mp4
+#EXTINF:-1 ,LA LEYENDA DEL TESORO PERDIDO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1787.mp4
+#EXTINF:-1 ,LA LEYENDA DEL TESORO PERDIDO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1788.mp4
+#EXTINF:-1 ,LA LEYENDA DEL TESORO PERDIDO 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1789.mp4
+#EXTINF:-1 ,LA LEYENDA DEL TESORO PERDIDO 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1790.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA LIGA DE LA JUSTICIA: GUERRA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/611.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA LIGA DE LOS 5
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/499.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",LA LISTA NEGRA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/446.mp4
+#EXTINF:-1 ,LA LLEGADA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1681.mp4
+#EXTINF:-1 ,LA LLEGADA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1682.mp4
+#EXTINF:-1 ,LA LLORONA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1661.mkv
+#EXTINF:-1 ,LA LLORONA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1662.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA MAGIA EXTRAÃ±A
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/610.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA MALDICIÃ³N DE LAS BRUJAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/591.mp4
+#EXTINF:-1 ,LA MARAVILLA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1041.mkv
+#EXTINF:-1 ,LA MARCA DEL DEMONIO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1950.mkv
+#EXTINF:-1 ,LA MASCARA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1247.mkv
+#EXTINF:-1 ,LA MISMA SANGRE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1673.mp4
+#EXTINF:-1 ,LA MORADA DEL MIEDO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1938.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA MUERTE DE SUPERMAN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/777.mp4
+#EXTINF:-1 ,LA MUJER DE LA MONTAÃ±A
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1156.mp4
+#EXTINF:-1 ,LA MUJER INVISIBLE AUDIO LAT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1478.mp4
+#EXTINF:-1 ,LA MUJER MÃ¡S ODIADA DE AMÃ©RICA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1475.mp4
+#EXTINF:-1 ,LA NOCHE DEL ESPANTO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1917.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA NUEVA GENERACIÃ³N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/852.mp4
+#EXTINF:-1 ,LA OTRA MISSY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/948.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA PANDILLA: LOS HÃ©ROES DEL DÃ­A
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/789.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA PANDILLA: LOS HÃ©ROES DEL DÃ­A
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/790.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA PRINCESA CISNE: EL REINO DE LA MÃºSICA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/572.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA PRINCESA CISNE: UN MISTERIO REAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/793.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA PRINCESA ENCANTADA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/828.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA PRINCESA SOFÃ­A: EL PALACIO FLOTANTE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/839.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA PRINCESA SOFÃ­A: LA FIESTA ENCANTADA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/842.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA PRINCESA SOFÃ­A: LA MALDICIÃ³N DE LA PRINCESA IVY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/838.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA PRINCESA SOFÃ­A: LISTA PARA SER PRINCESA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/841.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA PRINCESA SOFÃ­A: Ã‰RASE UNA VEZ UNA PRINCESA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/840.mp4
+#EXTINF:-1 ,LA PROMESA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1466.mp4
+#EXTINF:-1 ,LA PROMETIDA DEL DIABLO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1469.mp4
+#EXTINF:-1 ,LA REGIÃ³N SALVAJE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1720.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA REINA DE LAS NIEVES 3
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/673.mp4
+#EXTINF:-1 ,LA REINA DEL DESIERTO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1343.mp4
+#EXTINF:-1 ,LA REINA VICTORIA Y ABDUL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1347.mp4
+#EXTINF:-1 ,LA REINA VICTORIA Y ABDUL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1348.mp4
+#EXTINF:-1 ,LA REVOLUCIÃ³N SILENCIOSA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1386.mp4
+#EXTINF:-1 ,LA SERIE DIVERGENTE: INSURGENTE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1749.mp4
+#EXTINF:-1 ,LA SOCIEDAD LITERARIA Y EL PASTEL DE PIEL DE PATATA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1399.mp4
+#EXTINF:-1 ,LA VENTANA SECRETA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1759.mp4
+#EXTINF:-1 ,LA VENTANA SECRETA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1760.mp4
+#EXTINF:-1 ,LA VIDA ES BELLA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/938.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA VIDA SECRETA DE TUS MASCOTAS 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/563.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA VIDA SECRETA DE TUS MASCOTAS 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/564.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LA ÃºLTIMA CAZADORA DE DRAGONES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/618.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",LADY BLOODFIGHT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/475.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LADYBUG. EN BUSCA DEL CAÃ±Ã³N DORADO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/534.mkv
+#EXTINF:-1 ,LAPLACE'S WITCH
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1906.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LAS AVENTURAS DE PEABODY Y SHERMAN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/504.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LAS AVENTURAS DE TADEO JONES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/656.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LAS AVENTURAS DE TADEO JONES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/657.mp4
+#EXTINF:-1 ,LAS BRUJAS DE EASTWICK
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1031.mp4
+#EXTINF:-1 ,LAS CÃ©LULAS MADRE CON STEPHEN HAWKING
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1376.mp4
+#EXTINF:-1 ,LAS DOS CARAS DE LA VERDAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1730.mp4
+#EXTINF:-1 ,LAS TORRES GEMELAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1273.mp4
+#EXTINF:-1 ,LAS TORRES GEMELAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1274.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LAS TRAVESURAS DE PETER RABBIT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/641.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LAS TRAVESURAS DE PETER RABBIT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/642.mp4
+#EXTINF:-1 ,LAS VACACIONES DE UNA CHIFLADA FAMILIA AMERICANA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1074.mkv
+#EXTINF:-1 ,LAS VACACIONES EUROPEAS DE UNA CHIFLADA FAMILIA AMERICANA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1065.mkv
+#EXTINF:-1 ,LAS VEGAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1146.mp4
+#EXTINF:-1 ,LAUGH OR DIE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1369.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",LAZARAT (THE BRAVE)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/438.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LEGEND OF HALLOWAIIAN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/865.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LEGO DC SHAZAM! - MAGIA Y MONSTRUOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/495.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LEGO SCOOBY-DOO! FIESTA EN LA PLAYA DE BLOWOUT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/853.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LILO & STITCH
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/589.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LILO & STITCH 2: EL EFECTO DEL DEFECTO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/590.mp4
+#EXTINF:-1 ,LINCOLN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1490.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",LINE OF DUTY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/209.mp4
+#EXTINF:-1 ,LINE OF WELLINGTON
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1397.mp4
+#EXTINF:-1 ,LISTOS PARA LUCHAR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/983.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LLUVIA DE HAMBURGUESAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/725.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LLUVIA DE HAMBURGUESAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/726.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LLUVIA DE HAMBURGUESAS 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/727.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LLUVIA DE HAMBURGUESAS 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/728.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",LOKI 7: EL PERRO DE LA SIBERIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/233.mkv
+#EXTINF:-1 ,LONDON FIELDS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1864.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",LONDON RAMPAGE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/297.mp4
+#EXTINF:-1 ,LONG LOST
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1725.mp4
+#EXTINF:-1 ,LOOPHOLE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1903.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LORAX: EN BUSCA DE LA TRÃºFULA PERDIDA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/612.mp4
+#EXTINF:-1 ,LOS 33
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1521.mp4
+#EXTINF:-1 ,LOS ARCHIVOS DEL PENTÃ¡GONO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1320.mp4
+#EXTINF:-1 ,LOS ARCHIVOS DEL PENTÃ¡GONO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1321.mp4
+#EXTINF:-1 ,LOS BLANCOS NO SABEN SALTAR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1229.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LOS BOXTROLLS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/616.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LOS CROODS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/587.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LOS DESCENDIENTES 3
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/571.mkv
+#EXTINF:-1 ,LOS DOS PAPAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1057.mkv
+#EXTINF:-1 ,LOS GOONIES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/991.mkv
+#EXTINF:-1 ,LOS HUÃ©RFANOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1740.mp4
+#EXTINF:-1 ,LOS HUÃ©RFANOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1741.mp4
+#EXTINF:-1 ,LOS ILUSIONISTAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1805.mp4
+#EXTINF:-1 ,LOS ILUSIONISTAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1806.mp4
+#EXTINF:-1 ,LOS ILUSIONISTAS 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1807.mp4
+#EXTINF:-1 ,LOS ILUSIONISTAS 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1808.mp4
+#EXTINF:-1 ,LOS MISTERIOSOS ASESINATOS DE LIMEHOUSE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1816.mp4
+#EXTINF:-1 ,LOS MUERTOS NO MUEREN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1182.mkv
+#EXTINF:-1 ,LOS OLVIDADOS DE PHOENIX
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1738.mp4
+#EXTINF:-1 ,LOS OLVIDADOS DE PHOENIX
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1739.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LOS PEQUEÃ±OS TRAVIESOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/731.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",LOS PERDEDORES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/325.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",LOS PERDEDORES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/326.mp4
+#EXTINF:-1 ,LOS PICAPIEDRA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/954.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LOS PICAPIEDRA & WWE: STONE AGE SMACKDOWN!
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/814.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LOS PINGÃ¼INOS DE MADAGASCAR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/755.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LOS PINGÃ¼INOS DE MADAGASCAR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/756.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LOS PITUFOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/581.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LOS PITUFOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/582.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LOS PITUFOS 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/583.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LOS PITUFOS 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/584.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LOS PITUFOS: LA ALDEA ESCONDIDA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/585.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LOS PITUFOS: LA ALDEA ESCONDIDA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/586.mkv
+#EXTINF:-1 ,LOS PÃ¡JAROS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1627.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LOS TRES CABALLEROS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/553.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LOS TRES PERROS MOSQUETEROS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/705.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LOS TRES PERROS MOSQUETEROS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/706.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",LOSS PREVENTION
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/435.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LOUIS AND LUCA: MISSION TO THE MOON
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/548.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LUCAS Y EL ESPÃ­RITU DE LA NAVIDAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/835.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LUCHADORES POR LA LIBERTAD: EL RAYO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/812.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",LUCKY DAY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/197.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",LUIS Y LOS ALIENÃ­GENAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/860.mp4
+#EXTINF:-1 ,LUNA MALDITA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1643.mkv
+#EXTINF:-1 ,MA COSA CI DICE IL CERVELLO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1052.mkv
+#EXTINF:-1 ,MACARIO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1545.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MADAGASCAR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/749.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MADAGASCAR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/750.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MADAGASCAR 3: DE MARCHA POR EUROPA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/753.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MADAGASCAR 3: DE MARCHA POR EUROPA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/754.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MADAGASCAR: ESCAPE 2 AFRICA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/751.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MADAGASCAR: ESCAPE 2 AFRICA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/752.mp4
+#EXTINF:-1 ,MADAME BOVARY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1381.mp4
+#EXTINF:-1 ,MADEMOISELLE PARADIS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1391.mp4
+#EXTINF:-1 ,MADNESS IN THE METHOD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1200.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",MADRAS CAFE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/408.mp4
+#EXTINF:-1 ,MAESTRAS DEL ENGAÃ±O
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1208.mkv
+#EXTINF:-1 ,MAESTRAS DEL ENGAÃ±O
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1209.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",MAGNUM 44
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/443.mp4
+#EXTINF:-1 ,MAJOR LEAGUE I
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1137.mkv
+#EXTINF:-1 ,MAKING A KILLING
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1688.mp4
+#EXTINF:-1 ,MALCOLM X
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1388.mp4
+#EXTINF:-1 ,MAMÃ¡ SE FUE DE VIAJE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1069.mkv
+#EXTINF:-1 ,MANDELA DEL MITO AL HOMBRE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1356.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",MANHATTAN SIN SALIDA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/165.mkv
+#EXTINF:-1 ,MANIKARNIKA: THE QUEEN OF JHANSI
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1308.mp4
+#EXTINF:-1 ,MAR ABIERTO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1909.mp4
+#EXTINF:-1 ,MARIA REINA DE ESCOCIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1333.mp4
+#EXTINF:-1 ,MARIA REINA DE ESCOCIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1335.mp4
+#EXTINF:-1 ,MARK FELT: THE MAN WHO BROUGHT DOWN THE WHITE HOUSE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1441.mp4
+#EXTINF:-1 ,MARLA MAE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2016.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MARVEL RISING: HEART OF IRON
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/559.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MASCOTA JURÃ¡SICA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/535.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",MASTERMINDS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/416.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",MASTERMINDS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/417.mp4
+#EXTINF:-1 ,MAYO DE1940
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1510.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",LOBO SOLITARIO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/334.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",LOBO SOLITARIO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/335.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MEGAMENTE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/740.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MEGAMENTE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/741.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MEGAMENTE EL BOTÃ³N DE LA DESTRUCCIÃ³N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/743.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MEGAMENTE: EL BOTÃ³N DE LA DESTRUCCIÃ³N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/742.mp4
+#EXTINF:-1 ,MELANIE MARTINEZ K-12
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2061.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",MEN IN BLACK: INTERNATIONAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/275.mkv
+#EXTINF:-1 ,MERMAID DOWN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2047.mp4
+#EXTINF:-1 ,MI CHICA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1030.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MI VILLANO FAVORITO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/771.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MI VILLANO FAVORITO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/772.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MI VILLANO FAVORITO 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/773.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MI VILLANO FAVORITO 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/774.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MI VILLANO FAVORITO 3
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/775.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MI VILLANO FAVORITO 3
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/776.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MICKEY LA MEJOR NAVIDAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/836.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",DONALD Y GOOFY: LOS TRES MOSQUETEROS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/791.mp4
+#EXTINF:-1 ,MIDSOMMAR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1604.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",MIDWAY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/164.mkv
+#EXTINF:-1 ,MILADA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1436.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MINI FORCE: LOS NUEVOS SUPERHÃ©ROES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/744.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MINÃºSCULOS: EL VALLE DE LAS HORMIGAS PERDIDAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/600.mp4
+#EXTINF:-1 ,MIS DEMONIOS NUNCA JURARON SOLEDAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1655.mkv
+#EXTINF:-1 ,MISS ARIZONA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1244.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",MISTERIO A BORDO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/425.mp4
+#EXTINF:-1 ,MODEL HOME
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1618.mp4
+#EXTINF:-1 ,RECETA ORIGINAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1206.mkv
+#EXTINF:-1 ,MONSTER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1984.mkv
+#EXTINF:-1 ,MONSTER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1985.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MONSTERS INC.
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/767.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MONSTERS INC.
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/768.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MONSTERS UNIVERSITY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/769.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MONSTERS UNIVERSITY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/770.mp4
+#EXTINF:-1 ,MONSTRUM
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1311.mp4
+#EXTINF:-1 ,MOTHERLESS BROOKLYN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1581.mp4
+#EXTINF:-1 ,MOVIDA EN EL ROXBURY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1142.mkv
+#EXTINF:-1 ,MR. LINK: EL ORIGEN PERDIDO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1024.mkv
+#EXTINF:-1 ,MR. MAGOO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1230.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",MUERTE EN EL BARRIO JAPONES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/460.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",MUERTE EN EL BARRIO JAPONES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/461.mp4
+#EXTINF:-1 ,MUJERES ARRIBA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/947.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MULAN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/763.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MULAN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/764.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",MULAN 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/765.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",MY HERO ACADEMIA THE MOVIE: THE TWO HEROES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/484.mp4
+#EXTINF:-1 ,MY SOUL TO KEEP
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1613.mp4
+#EXTINF:-1 ,MÃ¡S QUE MADRES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1211.mkv
+#EXTINF:-1 ,NAILS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1621.mkv
+#EXTINF:-1 ,NANCY DREW AND THE HIDDEN STAIRCASE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1752.mp4
+#EXTINF:-1 ,LOCA NAVIDAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1076.mkv
+#EXTINF:-1 ,NEBRASKA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1168.mkv
+#EXTINF:-1 ,NEKROTRONIC
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1201.mp4
+#EXTINF:-1 ,NEXT LEVEL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1169.mp4
+#EXTINF:-1 ,NI EN TUS SUEÃ±OS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1236.mkv
+#EXTINF:-1 ,NI EN TUS SUEÃ±OS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1237.mp4
+#EXTINF:-1 ,NIGHT SWEATS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2010.mp4
+#EXTINF:-1 ,NIGHTHAWKS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2046.mp4
+#EXTINF:-1 ,NO ME QUITES A MI NOVIO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1023.mp4
+#EXTINF:-1 ,NO SLEEP 'TIL CHRISTMAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1178.mkv
+#EXTINF:-1 ,NOCHE DE MIEDO II
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1060.mp4
+#EXTINF:-1 ,NOCHES BLANCAS: TRES HISTORIAS DE AMOR INOLVIDABLES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1113.mkv
+#EXTINF:-1 ,NOELLE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1106.mkv
+#EXTINF:-1 ,NON-STOP (SIN ESCALAS)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1898.mp4
+#EXTINF:-1 ,NON-STOP (SIN ESCALAS)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1899.mp4
+#EXTINF:-1 ,NUEVE MESES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1032.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",NUMERO 9
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/466.mp4
+#EXTINF:-1 ,NUNCA MÃ¡S
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2018.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",OBJETIVO: WASHINGTON D.C.
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/213.mkv
+#EXTINF:-1 ,OBSESSION
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2057.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ODDBALL AND THE PENGUINS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/609.mp4
+#EXTINF:-1 ,OJOS BIEN CERRADOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1654.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",OLIVER Y SU PANDILLA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/574.mp4
+#EXTINF:-1 ,ONE REMAINS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1637.mp4
+#EXTINF:-1 ,OPERACION ANTHROPOID
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1495.mkv
+#EXTINF:-1 ,OPERACIÃ³N ANTHROPOID
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1452.mp4
+#EXTINF:-1 ,OPERACIÃ³N ANTHROPOID
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1497.mp4
+#EXTINF:-1 ,OPERACIÃ³N CHROMITE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1420.mkv
+#EXTINF:-1 ,OPERACIÃ³N FINAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1392.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",OPERACIÃ³N: SOLDADOS DE JUGUETE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/406.mp4
+#EXTINF:-1 ,OPERATION DUNKIRK
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1446.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",OTRA PELÃ­CULA DE HUEVOS Y UN POLLO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/152.mp4
+#EXTINF:-1 ,OUIJA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1810.mp4
+#EXTINF:-1 ,OUIJA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1811.mp4
+#EXTINF:-1 ,OUIJA: EL ORIGEN DEL MAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1812.mp4
+#EXTINF:-1 ,OUIJA: EL ORIGEN DEL MAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1813.mp4
+#EXTINF:-1 ,OUT OF BLUE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1755.mp4
+#EXTINF:-1 ,OUTLAW KING
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1360.mp4
+#EXTINF:-1 ,OUTLAW KING
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1383.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",OUTLAWS DON'T GET FUNERALS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/420.mp4
+#EXTINF:-1 ,OVERLORD: OPERATION CLOVERFIELD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1875.mp4
+#EXTINF:-1 ,EL APÃ³STOL DE CRISTO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1307.mp4
+#EXTINF:-1 ,PACIFIC HEIGHTS: EL INQUILINO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1978.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",PACIFIC RIM: INSURRECCIÃ³N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/332.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",PACIFIC RIM: INSURRECCIÃ³N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/333.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",PADDINGTON 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/639.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",PADDINGTON 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/640.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",PAJARITOS A VOLAR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/593.mp4
+#EXTINF:-1 ,PALM BEACH
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1103.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",PARADISE BEACH
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/221.mkv
+#EXTINF:-1 ,PARADISE HILLS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2015.mp4
+#EXTINF:-1 ,PARANORMAL ACTIVITY: DIMENSIÃ³N FANTASMA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1543.mkv
+#EXTINF:-1 ,PARASITE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1033.mp4
+#EXTINF:-1 ,PARKLAND
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1494.mkv
+#EXTINF:-1 ,PEARL HARBOR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1305.mp4
+#EXTINF:-1 ,PEARL HARBOR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1306.mp4
+#EXTINF:-1 ,PEDRO INFANTE: EL GAVILÃ¡N POLLERO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/966.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",PEDRO Y EL DRAGÃ³N ELLIOT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/592.mp4
+#EXTINF:-1 ,PELEANDO EN FAMILIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1228.mkv
+#EXTINF:-1 ,PENTAGRAM
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1635.mp4
+#EXTINF:-1 ,PEQUEÃ±O DEMONIO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1027.mp4
+#EXTINF:-1 ,PERDIDOS EN LA NIEVE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1484.mp4
+#EXTINF:-1 ,PERTURBADA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1886.mp4
+#EXTINF:-1 ,PERTURBADA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1887.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",PETER Y EL DRAGON
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/851.mp4
+#EXTINF:-1 ,PHANTOM
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1480.mp4
+#EXTINF:-1 ,PHANTOM
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1534.mkv
+#EXTINF:-1 ,PHILOPHOBIA: OR THE FEAR OF FALLING IN LOVE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1094.mp4
+#EXTINF:-1 ,PIG HAG
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1136.mp4
+#EXTINF:-1 ,PIMPED
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1868.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",PINOCHO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/602.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",PINOCHO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/603.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",PLACA DE ACERO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/176.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",PLAYMOBIL: LA PELÃ­CULA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/526.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",PLOEY: NUNCA VOLARÃ¡S SOLO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/637.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",PLOEY: NUNCA VOLARÃ¡S SOLO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/638.mp4
+#EXTINF:-1 ,PLUS ONE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1706.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",POCOYÃ³ EN CINES: TU PRIMERA PELÃ­CULA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/561.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",POINT BLANK
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/327.mkv
+#EXTINF:-1 ,POKER NIGHT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1747.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",POKÃ©MON DETECTIVE PIKACHU
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/302.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",POKÃ©MON DETECTIVE PIKACHU
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/303.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",POKÃ©MON Â¡TE ELIJO A TI!
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/643.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",POKÃ©MON: MEWTWO VS. MEW: LA EVOLUCIÃ³N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/508.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",POKÃ©MON: VOLCANION Y LA MARAVILLA MECÃ¡NICA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/644.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",POKÃ©MON: VOLCANION Y LA MARAVILLA MECÃ¡NICA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/645.mp4
+#EXTINF:-1 ,POLVO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1009.mkv
+#EXTINF:-1 ,POMPEYA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1316.mp4
+#EXTINF:-1 ,POMPEYA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1317.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",PONDEMONIUM 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/871.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",POONG-SAN-GAE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/467.mp4
+#EXTINF:-1 ,PRESCIENCE: INTUITIONS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2029.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",PRIMAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/214.mkv
+#EXTINF:-1 ,PRISIONERO EN CASA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1099.mkv
+#EXTINF:-1 ,PROFESOR LAZHAR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1238.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",PROYECTO GÃ©MINIS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/212.mp4
+#EXTINF:-1 ,PSYCH: THE MOVIE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1736.mp4
+#EXTINF:-1 ,PSYCH: THE MOVIE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1737.mp4
+#EXTINF:-1 ,PSYCHO (PSICOSIS)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1705.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",PUP STAR: WORLD TOUR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/635.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",PUP STAR: WORLD TOUR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/636.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",PUÃ±OS MORTALES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/105.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",QUACKERZ
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/608.mp4
+#EXTINF:-1 ,QUO VADIS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1304.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",RABBIT SCHOOL. LOS GUARDIANES DEL HUEVO DE ORO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/864.mp4
+#EXTINF:-1 ,RADIOFLASH
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2009.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",RALPH ROMPE INTERNET
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/506.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",RAMBO: LA ÃºLTIMA MISIÃ³N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/200.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",RAMBO: LA ÃºLTIMA MISIÃ³N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/201.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",RAMPANTE (RAMPANT)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/246.mkv
+#EXTINF:-1 ,RAPID EYE MOVEMENT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2099.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",RAPIDOS Y FURIOSOS: HOBBS & SHAW
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/230.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",REACCIÃ³N EN CADENA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/343.mp4
+#EXTINF:-1 ,REBELIÃ³N DE LOS GODÃ­NEZ
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/946.mkv
+#EXTINF:-1 ,RED DEVIL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1999.mp4
+#EXTINF:-1 ,RED HANDED: CHILDREN OF MOLOCH
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2000.mp4
+#EXTINF:-1 ,RED LETTER DAY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2014.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",RED SKY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/476.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",RED STATE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/294.mkv
+#EXTINF:-1 ,REFLEJOS SINIESTROS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1961.mkv
+#EXTINF:-1 ,REGRESO A SALEM'S LOT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1615.mp4
+#EXTINF:-1 ,REPLICAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1885.mp4
+#EXTINF:-1 ,REPORTE CLASIFICADO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2006.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",RESCATE (RANSOM)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/149.mkv
+#EXTINF:-1 ,RESCATE EN EL MAR ROJO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1269.mkv
+#EXTINF:-1 ,RESCATE EN EL MAR ROJO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1270.mkv
+#EXTINF:-1 ,RESPIRA: TRANSGÃ©NESIS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1564.mkv
+#EXTINF:-1 ,REVELACIONES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1667.mp4
+#EXTINF:-1 ,REVELACIONES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1668.mp4
+#EXTINF:-1 ,REY DE REYES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1312.mp4
+#EXTINF:-1 ,REY DE REYES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1313.mp4
+#EXTINF:-1 ,RICKY RICÃ³N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/949.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",RIO 1
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/778.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",RIO 1
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/779.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",RIO 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/780.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",RIO 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/781.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",RIOT GIRLS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/250.mp4
+#EXTINF:-1 ,LA PASIÃ³N DE UN REBELDE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1302.mp4
+#EXTINF:-1 ,LA PASIÃ³N DE UN REBELDE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1303.mp4
+#EXTINF:-1 ,ROBANDO VIDAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1695.mp4
+#EXTINF:-1 ,ROBIN HOOD THE REBELLION
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1385.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ROCKO'S MODERN LIFE: STATIC CLING
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/567.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ROGUE WARFARE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/237.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ROMPIENDO LAS REGLAS 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/94.mp4
+#EXTINF:-1 ,ROMULUS & REMUS: THE FIRST KING
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1279.mp4
+#EXTINF:-1 ,RUN FOR YOUR LIFE: THE FRED LEBOW STORY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1265.mp4
+#EXTINF:-1 ,RUNNING WITH THE DEVIL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2056.mp4
+#EXTINF:-1 ,RUTA MADRE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1235.mp4
+#EXTINF:-1 ,SALYUT-7. HÃ©ROES EN EL ESPACIO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1406.mp4
+#EXTINF:-1 ,SAM WAS HERE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1763.mp4
+#EXTINF:-1 ,SAM WAS HERE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1764.mp4
+#EXTINF:-1 ,SANGUE DEL MIO SANGUE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1512.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SANTA CLÃ¡USULA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/757.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SANTA CLÃ¡USULA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/758.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SANTA CLÃ¡USULA 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/759.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SANTA CLÃ¡USULA 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/760.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SANTA CLÃ¡USULA 3 EL ESCAPE DE SANTA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/762.mp4
+#EXTINF:-1 ,SATANIC PANIC
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1166.mp4
+#EXTINF:-1 ,SAW
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1824.mp4
+#EXTINF:-1 ,SAW
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1825.mp4
+#EXTINF:-1 ,SAW II
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1826.mp4
+#EXTINF:-1 ,SAW II
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1827.mp4
+#EXTINF:-1 ,SAW III
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1828.mp4
+#EXTINF:-1 ,SAW III
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1829.mp4
+#EXTINF:-1 ,SAW IV
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1830.mp4
+#EXTINF:-1 ,SAW IV
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1831.mp4
+#EXTINF:-1 ,SAW V
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1832.mp4
+#EXTINF:-1 ,SAW V
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1833.mp4
+#EXTINF:-1 ,SAW VI
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1835.mp4
+#EXTINF:-1 ,SAW VII
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1836.mp4
+#EXTINF:-1 ,SAW VII
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1837.mp4
+#EXTINF:-1 ,SAW VIII
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1839.mp4
+#EXTINF:-1 ,SCARY STORIES TO TELL IN THE DARK
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1611.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SCOOB!
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/492.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SCOOBY-DOO Y EL MONSTRUO DE MÃ©XICO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/620.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SCOOBY-DOO Y LA CARRERA DE LOS MONSTRUOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/622.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SCOOBY-DOO Y LA ESCUELA DE FANTASMAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/621.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SCOOBY-DOO Y LOS HERMANOS BOO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/623.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SCOOBY-DOO! & BATMAN: THE BRAVE AND THE BOLD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/670.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SCOOBY-DOO! RETORNO A LA ISLA ZOMBI
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/557.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SCOOBY-DOO! Y EL MONSTRUO DE LA LUNA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/785.mp4
+#EXTINF:-1 ,SCREAM 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1848.mp4
+#EXTINF:-1 ,SCREAM 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1849.mp4
+#EXTINF:-1 ,SCREAM 3
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1850.mp4
+#EXTINF:-1 ,SCREAM 3
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1851.mp4
+#EXTINF:-1 ,SCREAM 4
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1852.mp4
+#EXTINF:-1 ,SCREAM 4
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1853.mp4
+#EXTINF:-1 ,SCREAM GRITA ANTES DE MORIR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1846.mp4
+#EXTINF:-1 ,SCREAM GRITA ANTES DE MORIR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1847.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SE ARMÃ³ EL BELÃ©N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/707.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SE ARMÃ³ EL BELÃ©N
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/708.mp4
+#EXTINF:-1 ,SE LO LLEVARON: RECUERDOS DE UNA NIÃ±A DE CAMBOYA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1462.mp4
+#EXTINF:-1 ,SEABISCUIT MAS ALLA DE LA LEYENDA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1489.mkv
+#EXTINF:-1 ,SECRET ORIGIN: THE STORY OF DC COMICS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1451.m4v
+#EXTINF:-1 ,SECRETOS DE ESTADO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2023.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",SEMPER FI
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/236.mp4
+#EXTINF:-1 ,SERPIENTE DE CASCABEL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1607.mkv
+#EXTINF:-1 ,SEXTILLIZOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1195.mkv
+#EXTINF:-1 ,SEXTILLIZOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1196.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",SEÃ±ALES DEL FUTURO: PRESAGIO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/185.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",SEÃ±ALES DEL FUTURO: PRESAGIO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/186.mkv
+#EXTINF:-1 ,SHADOWS ON THE ROAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1863.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",SHAFT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/402.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",SHAFT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/403.mp4
+#EXTINF:-1 ,SHAKESPEARE ENAMORADO AUDIO LAT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1479.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",SHANGHAI FORTRESS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/257.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",SHAZAM!
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/401.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",SHAZAM!
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/415.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SHERLOCK GNOMES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/671.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SHERLOCK GNOMES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/672.mp4
+#EXTINF:-1 ,SHERLOCK HOLMES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1842.mp4
+#EXTINF:-1 ,SHERLOCK HOLMES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1843.mp4
+#EXTINF:-1 ,SHERLOCK HOLMES 2: JUEGO DE SOMBRAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1844.mp4
+#EXTINF:-1 ,SHERLOCK HOLMES 2: JUEGO DE SOMBRAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1845.mp4
+#EXTINF:-1 ,SIGNS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1675.mp4
+#EXTINF:-1 ,SILENCIO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1314.mp4
+#EXTINF:-1 ,SILENCIO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1315.mp4
+#EXTINF:-1 ,SIN LICENCIA PARA MANEJAR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/982.mkv
+#EXTINF:-1 ,SLEEPING DOGS LIE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1862.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SMALLFOOT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/833.mp4
+#EXTINF:-1 ,SNATCHERS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1049.mp4
+#EXTINF:-1 ,SOBREVIVIENDO A LA NAVIDAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1058.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SOFIA THE FIRST: HOLIDAY IN ENCHANCIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/837.mp4
+#EXTINF:-1 ,SOLTERAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1148.mkv
+#EXTINF:-1 ,SOMBRAS TENEBROSAS (DARK SHADOWS)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1161.mkv
+#EXTINF:-1 ,SOMETHING
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1735.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",SONIC. LA PELÃ­CULA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/123.mkv
+#EXTINF:-1 ,SONORA: LA RUTA DE LOS CAÃ­DOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2005.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SPACE CHIMPS. MISIÃ³N ESPACIAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/813.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SPACE EXPLORERS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/866.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SPACE JAM - EL JUEGO DEL SIGLO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/569.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SPACE JAM - EL JUEGO DEL SIGLO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/570.mkv
+#EXTINF:-1 ,SPELL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1093.mp4
+#EXTINF:-1 ,SPIDER IN THE WEB
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2082.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",SPIDER-MAN: FAR FROM HOME
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/264.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",SPIDER-MAN: LEJOS DE CASA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/256.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SPIDER-MAN: UN NUEVO UNIVERSO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/782.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SPIDER-MAN: UN NUEVO UNIVERSO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/784.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SPIRIT RIDING FREE: SPIRIT OF CHRISTMAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/519.mkv
+#EXTINF:-1 ,SPOTLIGHT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1518.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SPY CAT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/565.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SPY CAT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/588.mp4
+#EXTINF:-1 ,STAINED
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2073.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",STAR WARS: EL ASCENSO DE SKYWALKER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/147.mkv
+#EXTINF:-1 ,STARGATE ORIGINS: CATHERINE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1332.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",STARGATE: PUERTA A LAS ESTRELLAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/405.mp4
+#EXTINF:-1 ,STARGIRL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/997.mkv
+#EXTINF:-1 ,STAY OUT STAY ALIVE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2001.mp4
+#EXTINF:-1 ,STEEL COUNTRY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1664.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",STEVEN UNIVERSE: THE MOVIE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/547.mkv
+#EXTINF:-1 ,STILL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1902.mp4
+#EXTINF:-1 ,STRANGE BUT TRUE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2072.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",STUBER EXPRESS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/243.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",STUBER EXPRESS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/244.mp4
+#EXTINF:-1 ,SU ULTIMO DESEO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1573.mkv
+#EXTINF:-1 ,SUBURBICON
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1767.mp4
+#EXTINF:-1 ,SUBURBICON
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1768.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",SUICIDE SQUAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/239.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SUICIDE SQUAD: HELL TO PAY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/674.mp4
+#EXTINF:-1 ,SUMMER NIGHT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1243.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SUNNY DAY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/799.mp4
+#EXTINF:-1 ,SUPER MADEROS 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1769.mp4
+#EXTINF:-1 ,SUPER MADEROS 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1770.mp4
+#EXTINF:-1 ,SUPER PAPÃ¡
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1219.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SUPERJUFFIE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/549.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",SUPERLÃ³PEZ
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/453.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SUPERMAN: SIN LÃ­MITES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/847.mp4
+#EXTINF:-1 ,SUPERVIZED
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1234.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",SURF'S UP 2 - WAVE MANIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/607.mp4
+#EXTINF:-1 ,SURVIVAL BOX
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2071.mp4
+#EXTINF:-1 ,SURVIVING CHRISTMAS WITH THE RELATIVES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1149.mp4
+#EXTINF:-1 ,SUSPIRIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1895.mp4
+#EXTINF:-1 ,SVAHA: THE SIXTH FINGER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1686.mp4
+#EXTINF:-1 ,SYLVIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2028.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",TADEO JONES 2: EL SECRETO DEL REY MIDAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/658.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",TADEO JONES 2: EL SECRETO DEL REY MIDAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/659.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",TAKE DOWN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/486.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",TAKE HOME PAY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/190.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",TAKE POINT: PMC THE BUNKER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/261.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",TANKERS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/158.mp4
+#EXTINF:-1 ,TARAS BULBA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1513.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",TEEN TITANS GO! VS. TEEN TITANS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/254.mkv
+#EXTINF:-1 ,TELL ME WHO I AM
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1606.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",TERMINATOR: DESTINO OSCURO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/178.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",TERMINATOR: DESTINO OSCURO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/179.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",TERRA WILLY: PLANETA DESCONOCIDO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/546.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",TERREMOTO: TERREMOTO 9 GRADOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/266.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",THE AERONAUTS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/188.mp4
+#EXTINF:-1 ,THE ALAMO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1515.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",THE ANGRY BIRDS MOVIE 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/541.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",THE ANIMATRIX
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/249.mp4
+#EXTINF:-1 ,THE ART OF RACING IN THE RAIN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1128.mkv
+#EXTINF:-1 ,THE ASSENT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1980.mp4
+#EXTINF:-1 ,THE BAD SEED
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1585.mkv
+#EXTINF:-1 ,THE BAYLOCK RESIDENCE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1617.mp4
+#EXTINF:-1 ,THE BEST OF ENEMIES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1281.mp4
+#EXTINF:-1 ,THE BIRDS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1628.mkv
+#EXTINF:-1 ,THE BLACKWELL GHOST
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1879.mp4
+#EXTINF:-1 ,THE BOAT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1623.mp4
+#EXTINF:-1 ,THE BOOK OF DANIEL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1464.mp4
+#EXTINF:-1 ,THE BOOK OF DANIEL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1465.mp4
+#EXTINF:-1 ,THE BOY: EL INICIO DEL MAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2062.mp4
+#EXTINF:-1 ,THE CHAIN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1646.mp4
+#EXTINF:-1 ,THE CHILDREN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1726.mp4
+#EXTINF:-1 ,THE CLEANSING HOUR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1597.mp4
+#EXTINF:-1 ,THE CLOVERFIELD PARADOX
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1801.mp4
+#EXTINF:-1 ,THE CLOVERFIELD PARADOX
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1802.mp4
+#EXTINF:-1 ,THE COLLINI CASE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2041.mp4
+#EXTINF:-1 ,THE CRIMES THAT BIND
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1900.mp4
+#EXTINF:-1 ,THE CROSSING: PART 1
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1474.mp4
+#EXTINF:-1 ,THE DEAD CENTER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1610.mp4
+#EXTINF:-1 ,THE DEAD DON'T DIE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1183.mkv
+#EXTINF:-1 ,THE DRONE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2040.mp4
+#EXTINF:-1 ,THE DUNES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1588.mp4
+#EXTINF:-1 ,THE EXORCISM OF EMILY ROSE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2085.mkv
+#EXTINF:-1 ,THE FAREWELL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1111.mp4
+#EXTINF:-1 ,THE FINAL WISH
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1867.mp4
+#EXTINF:-1 ,THE FLOWERS OF WAR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1460.mp4
+#EXTINF:-1 ,THE FOREST OF LOVE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2043.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",THE FURIES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/202.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",THE GETAWAY (LA HUIDA)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/404.mp4
+#EXTINF:-1 ,THE GHOST AND THE DARKNESS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2031.mkv
+#EXTINF:-1 ,THE HAPPY PRINCE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1393.mp4
+#EXTINF:-1 ,THE HARVESTING
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2088.mkv
+#EXTINF:-1 ,THE HEAD HUNTER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1731.mp4
+#EXTINF:-1 ,THE HOUSE OF TOMORROW
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1167.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",THE IMMORTAL WARS: RESURGENCE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/324.mp4
+#EXTINF:-1 ,THE INTRUDER (EL OCUPANTE)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1659.mkv
+#EXTINF:-1 ,THE ISLE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1336.mp4
+#EXTINF:-1 ,THE KID
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1132.mp4
+#EXTINF:-1 ,THE KILLER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1322.mp4
+#EXTINF:-1 ,THE KILLER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1323.mp4
+#EXTINF:-1 ,THE KING
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1263.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",THE KITCHEN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/224.mp4
+#EXTINF:-1 ,THE LAUNDROMAT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1125.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",THE LEGEND OF KING SOLOMON
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/867.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",THE LEGEND OF SECRET PASS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/810.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",THE LEGO MOVIE 2: THE SECOND PART
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/625.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",THE LEGO MOVIE 2: THE SECOND PART
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/661.mp4
+#EXTINF:-1 ,THE LENNON REPORT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1496.mp4
+#EXTINF:-1 ,THE LIGHTHOUSE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1751.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",THE LION KING
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/543.mp4
+#EXTINF:-1 ,THE LOVED ONES (CITA DE SANGRE)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2117.mp4
+#EXTINF:-1 ,THE MANDELA EFFECT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1997.mp4
+#EXTINF:-1 ,THE MESSENGER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2108.mp4
+#EXTINF:-1 ,THE NORMAL HEART
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1374.mp4
+#EXTINF:-1 ,THE NORMAL HEART
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1375.mp4
+#EXTINF:-1 ,THE OPERATIVE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2107.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",THE PARTS YOU LOSE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/235.mp4
+#EXTINF:-1 ,THE POSSESSION DIARIES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1683.mp4
+#EXTINF:-1 ,THE POSSESSION OF HANNAH GRACE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1841.mp4
+#EXTINF:-1 ,THE PRINCESS AND THE MATCHMAKER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1350.mp4
+#EXTINF:-1 ,THE PROFESSOR AND THE MADMAN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1721.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",THE QUAKE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/267.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",THE RELIANT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/198.mp4
+#EXTINF:-1 ,THE ROCKY HORROR PICTURE SHOW
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1039.mkv
+#EXTINF:-1 ,THE ROCKY HORROR PICTURE SHOW: LET'S DO THE TIME WARP AGAIN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1040.mkv
+#EXTINF:-1 ,THE RUSSIAN BRIDE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1754.mp4
+#EXTINF:-1 ,THE SACRAMENT
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1634.mp4
+#EXTINF:-1 ,THE SHANGHAI JOB
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1854.mp4
+#EXTINF:-1 ,THE SHASTA TRIANGLE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2002.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",THE SKULLS: SOCIEDAD SECRETA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/175.mp4
+#EXTINF:-1 ,THE SONATA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1582.mp4
+#EXTINF:-1 ,THE SOUVENIR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1645.mp4
+#EXTINF:-1 ,THE STRANGER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1734.mp4
+#EXTINF:-1 ,THE TALE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1819.mp4
+#EXTINF:-1 ,THE TALE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1820.mp4
+#EXTINF:-1 ,THE TIGER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1499.mkv
+#EXTINF:-1 ,THE TITAN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1872.mp4
+#EXTINF:-1 ,THE TITAN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1873.mp4
+#EXTINF:-1 ,THE TOMBS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1996.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",THE TOWN: CIUDAD DE LADRONES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/296.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",THE TROUGH
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/412.mp4
+#EXTINF:-1 ,THE TURKEY BOWL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1092.mp4
+#EXTINF:-1 ,THE UTAH CABIN MURDERS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2065.mp4
+#EXTINF:-1 ,THE VIKING WAR
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1329.mp4
+#EXTINF:-1 ,THE WITCH: PART 1. THE SUBVERSION
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1795.mp4
+#EXTINF:-1 ,THE WRONG TODD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1102.mp4
+#EXTINF:-1 ,THE YOUNG CANNIBALS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2045.mp4
+#EXTINF:-1 ,THE ZOOKEEPER'S WIFE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1457.mp4
+#EXTINF:-1 ,THE ZOOKEEPER'S WIFE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1458.mp4
+#EXTINF:-1 ,THEM THAT FOLLOW
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2027.mp4
+#EXTINF:-1 ,THEY SHALL NOT GROW OLD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1370.mp4
+#EXTINF:-1 ,THIS IS OUR HOME
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1995.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",THOMAS & FRIENDS: BIG WORLD! BIG ADVENTURES! THE MOVIE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/558.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",TMNT: TORTUGAS NINJA JÃ³VENES MUTANTES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/477.mp4
+#EXTINF:-1 ,TOD@S CAEN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1075.mkv
+#EXTINF:-1 ,TODAS LAS PECAS DEL MUNDO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1051.mkv
+#EXTINF:-1 ,TODO UN PARTO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1014.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",TOM Y JERRY Y EL DRAGÃ³N PERDIDO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/718.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",TOM Y JERRY Y EL MAGO DE OZ
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/792.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",TOM Y JERRY: UNA AVENTURA COLOSAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/717.mp4
+#EXTINF:-1 ,TOOTH FAIRY
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1116.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",TORNADO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/208.mkv
+#EXTINF:-1 ,TOTEM
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1803.mp4
+#EXTINF:-1 ,TOTEM
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1804.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",TOY STORY 4
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/551.mkv
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",TOY STORY 4
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/552.mp4
+#EXTINF:-1 ,TRAFFIC
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1916.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",TRANSIT 17
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/223.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",TRAUMA CENTER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/195.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",TRAUMA CENTER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/196.mp4
+#EXTINF:-1 ,TRES IDÃ©NTICOS DESCONOCIDOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1684.mp4
+#EXTINF:-1 ,TRES MEXICANOS ARDIENTES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1144.mkv
+#EXTINF:-1 ,TRICK
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2026.mp4
+#EXTINF:-1 ,TRICOTRI: HAPPY HALLOWEEN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1896.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",TROLLS 2: GIRA MUNDIAL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/498.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",Â¡UNA GUERRA MUY PERRA!
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/317.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",Â¡UNA GUERRA MUY PERRA!
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/318.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",TRUE: WINTER WISHES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/523.mkv
+#EXTINF:-1 ,TULIP FEVER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1344.mp4
+#EXTINF:-1 ,TULIP FEVER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1345.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",UGLYDOLLS: EXTRAORDINARIAMENTE FEOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/566.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",UN DETECTIVE SUELTO EN HOLLYWOOD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/454.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",UN DETECTIVE SUELTO EN HOLLYWOOD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/455.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",UN DETECTIVE SUELTO EN HOLLYWOOD 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/456.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",UN DETECTIVE SUELTO EN HOLLYWOOD 2
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/457.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",UN DETECTIVE SUELTO EN HOLLYWOOD 3
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/458.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",UN DETECTIVE SUELTO EN HOLLYWOOD 3
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/459.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",UN GALLO CON MUCHOS HUEVOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/606.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",UN GOLPE A LA INGLESA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/487.mp4
+#EXTINF:-1 ,UN PAPÃ¡ PIRATA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1047.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",UNA NOCHE LARGA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/92.mkv
+#EXTINF:-1 ,UNA PANDILLA DE PELOTAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/993.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",UNA PELÃ­CULA DE HUEVOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/507.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",UNIDOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/502.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",UNION BOUND
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/315.mp4
+#EXTINF:-1 ,UNITED 93
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1275.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",UNO MÃ¡S DE LA FAMILIA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/655.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",V DE VENDETTA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/316.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",VALENTINE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/465.mp4
+#EXTINF:-1 ,VALKIRIA EL AMANECER DEL CUARTO REICH
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1504.mp4
+#EXTINF:-1 ,VECINOS CERCANOS DEL 3ER TIPO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/960.mkv
+#EXTINF:-1 ,VELVET BUZZSAW
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1880.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",VENGANZA BAJO CERO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/479.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",VENGANZA BAJO CERO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/483.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",VENGEANCE OF AN ASSASSIN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/287.mp4
+#EXTINF:-1 ,VERANO DEL 67
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1396.mp4
+#EXTINF:-1 ,VICTOR YOUNG PEREZ
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1325.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",VIRUS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/159.mp4
+#EXTINF:-1 ,VIVIENDO CON MI EX
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1217.mp4
+#EXTINF:-1 ,VIVIENDO CON MI EX
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1218.mp4
+#EXTINF:-1 ,WALDGEIST
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1840.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",WARCRAFT: EL ORIGEN
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/473.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",WARCRAFT: EL ORIGEN (2016) WARCRAFT (ORIGINAL TITLE)
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/474.mp4
+#EXTINF:-1 ,WATERLOO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1516.mkv
+#EXTINF:-1 ,WE ARE GATHERED HERE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1157.mp4
+#EXTINF:-1 ,WE HAVE ALWAYS LIVED IN THE CASTLE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1699.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",WEE DRAGONS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/797.mp4
+#EXTINF:-1 ,WELCOME THE STRANGER
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1704.mp4
+#EXTINF:-1 ,WINCHESTER: LA CASA QUE CONSTRUYERON LOS ESPÃ­RITUS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1894.mp4
+#EXTINF:-1 ,WITNESSES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2064.mp4
+#EXTINF:-1 ,WOMAN WALKS AHEAD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1404.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",WONDER WOMAN: BLOODLINES
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/545.mkv
+#EXTINF:-1 ,WONDERSTRUCK: EL MUSEO DE LAS MARAVILLAS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1901.mp4
+#EXTINF:-1 ,WUFF
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1135.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",WWE CROWN JEWEL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/219.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",LADDERS & CHAIRS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/189.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",X-MEN: DARK FENIX
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/269.mkv
+#EXTINF:-1 group-title="*PELICULAS ACCION*",X-MEN: DARK FENIX
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/271.mp4
+#EXTINF:-1 ,YESTERDAY: ALL YOU NEED IS LOVE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1173.mkv
+#EXTINF:-1 ,MI MUJER Y MI MUJER MUERTA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1050.mkv
+#EXTINF:-1 ,ZEROVILLE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1077.mp4
+#EXTINF:-1 group-title="*PELICULAS ACCION*",ZOMBIELAND: MATA Y REMATA
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/187.mp4
+#EXTINF:-1 ,ZOO
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1410.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",ZOO WARS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/868.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",Â¡SCOOBY DOO! CONOCE A KISS: MISTERIO A RITMO DE ROCK AND ROLL
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/802.mp4
+#EXTINF:-1 group-title="*PELICULAS NIÃ‘OS*",Â¡SCOOBY-DOO! Y LA MALDICIÃ³N DEL FANTASMA NÃºMERO TRECE
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/796.mp4
+#EXTINF:-1 ,Â¡VAYA CLASE!
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1185.mkv
+#EXTINF:-1 ,Â¿DÃ³NDE ESTÃ¡S BERNADETTE?
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1078.mp4
+#EXTINF:-1 ,PAPÃ¡?
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2097.mkv
+#EXTINF:-1 ,ÃNGELES Y DEMONIOS
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1716.mp4
+#EXTINF:-1 ,Ã‰RASE UNA VEZ EN... HOLLYWOOD
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1087.mkv
+#EXTINF:-1 ,Ã‰VOLUTION
+http://zufreelist.net:8080/movie/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/1601.mp4
+#EXTINF:-1 group-title="DP Y EVENTOS",AXN HD
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2118
+#EXTINF:-1 group-title="24/7",url vencida
+http://zufreelist.net:8080/afevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/efvaafevaDEFedwfAWEFCaafevaDEFedwfAWEFCa/2119
