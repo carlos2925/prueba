@@ -124,3 +124,7 @@ http://212.102.60.121:8000/calem7/4BY4CSaMUW/1577
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/62082
 #EXTINF:-1 group-title="VOD-ADULTOS" tvg-logo="https://1.bp.blogspot.com/-ai-aOPfVGPw/XpKHHoSLgfI/AAAAAAAABqk/EBhfWwjkI5wHfV9g0ovSW7HFje5SzwP_ACLcBGAsYHQ/s200/2.png",Susy Gala - Dorcel Club (4k)
 http://212.102.60.121:8000/movie/calem7/4BY4CSaMUW/31933.mp4
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png",CINE - Space (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26904
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png",CINE - Space (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26759
