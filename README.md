@@ -128,3 +128,130 @@ http://212.102.60.121:8000/movie/calem7/4BY4CSaMUW/31933.mp4
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/26904
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png",CINE - Space (M)(SD)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/26759
+
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-uB9WcVHoil0/XatMC2WaDWI/AAAAAAAAAcg/60gxjXoz1jMn2WRICr7_C1Ybqeq2dOgDwCLcBGAsYHQ/s200/9.png",CINE - FOX (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26901
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-uB9WcVHoil0/XatMC2WaDWI/AAAAAAAAAcg/60gxjXoz1jMn2WRICr7_C1Ybqeq2dOgDwCLcBGAsYHQ/s200/9.png",CINE - Fox (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26758
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-HDQ1PcJh17c/Xbf2EwVOBuI/AAAAAAAAAuc/AE1Vq7LWHFs6k6vN_wTHZ5j8DAkxhiCgQCLcBGAsYHQ/s200/59.png",CINE - Fox Life (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26918
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-HDQ1PcJh17c/Xbf2EwVOBuI/AAAAAAAAAuc/AE1Vq7LWHFs6k6vN_wTHZ5j8DAkxhiCgQCLcBGAsYHQ/s200/59.png",CINE - Fox Life (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26751
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-uNTrgaTVx8s/XaokWzZ50-I/AAAAAAAAAVk/CfjRcLTCspYo5uGCrtLeiFO-4RWONNJIgCLcBGAsYHQ/s200/10.png",CINE - Fox Premium Action (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26916
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-uNTrgaTVx8s/XaokWzZ50-I/AAAAAAAAAVk/CfjRcLTCspYo5uGCrtLeiFO-4RWONNJIgCLcBGAsYHQ/s200/10.png",CINE - Fox Premium Action (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1460
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-uNTrgaTVx8s/XaokWzZ50-I/AAAAAAAAAVk/CfjRcLTCspYo5uGCrtLeiFO-4RWONNJIgCLcBGAsYHQ/s200/10.png",CINE - Fox Premium Action (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26741
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-rzBglSrdKOA/XaokYLI7qNI/AAAAAAAAAVw/PKC1GJ4xlnQBonef0JmdEB7gHpHSxV9TQCLcBGAsYHQ/s200/14.png",CINE - Fox Premium Cinema (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1462
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-rzBglSrdKOA/XaokYLI7qNI/AAAAAAAAAVw/PKC1GJ4xlnQBonef0JmdEB7gHpHSxV9TQCLcBGAsYHQ/s200/14.png",CINE - Fox Premium Cinema (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26740
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-YsDtzfioWlQ/XaokXbvRwGI/AAAAAAAAAVo/PhePwnC2PoQx_m1lSmraBx_4G-ZxXp42ACLcBGAsYHQ/s200/12.png",CINE - Fox Premium Classics (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1463
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-YsDtzfioWlQ/XaokXbvRwGI/AAAAAAAAAVo/PhePwnC2PoQx_m1lSmraBx_4G-ZxXp42ACLcBGAsYHQ/s200/12.png",CINE - Fox Premium Classics (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26739
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-q3HxfnoX1jo/XaokXzVkNJI/AAAAAAAAAVs/fNYw412NMz8WGcSt6Dc8rZe0nVWpFcwegCLcBGAsYHQ/s200/13.png",CINE - Fox Premium Comedy (M)(1080) [Dual Audio]
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1464
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-q3HxfnoX1jo/XaokXzVkNJI/AAAAAAAAAVs/fNYw412NMz8WGcSt6Dc8rZe0nVWpFcwegCLcBGAsYHQ/s200/13.png",CINE - Fox Premium Comedy (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1465
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-qP7UWt4MhKE/XaokW4P6G2I/AAAAAAAAAVg/IFLc7i2fATUnS7pQWlFXuGPAiQg1UfgHACLcBGAsYHQ/s200/11.png",CINE - Fox Premium Family (M)(1080) [Dual Audio]
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1466
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-qP7UWt4MhKE/XaokW4P6G2I/AAAAAAAAAVg/IFLc7i2fATUnS7pQWlFXuGPAiQg1UfgHACLcBGAsYHQ/s200/11.png",CINE - Fox Premium Family (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1467
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-qP7UWt4MhKE/XaokW4P6G2I/AAAAAAAAAVg/IFLc7i2fATUnS7pQWlFXuGPAiQg1UfgHACLcBGAsYHQ/s200/11.png",CINE - Fox Premium Family Este (M)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1468
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-S51cQoOPkyw/XaokYroPU9I/AAAAAAAAAV0/AvAYVXWiaPEQn9jkrwRGIh7kJdH_JSPKACLcBGAsYHQ/s200/15.png",CINE - Fox Premium Movies (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26917
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-S51cQoOPkyw/XaokYroPU9I/AAAAAAAAAV0/AvAYVXWiaPEQn9jkrwRGIh7kJdH_JSPKACLcBGAsYHQ/s200/15.png",CINE - Fox Premium Movies (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1469
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-S51cQoOPkyw/XaokYroPU9I/AAAAAAAAAV0/AvAYVXWiaPEQn9jkrwRGIh7kJdH_JSPKACLcBGAsYHQ/s200/15.png",CINE - Fox Premium Movies (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26738
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-r8Dh0m9YBxM/XaokYmo17UI/AAAAAAAAAV4/ilZgEaMm3voJFsZoOBsM8Hcz3xchRsYVACLcBGAsYHQ/s200/16.png",CINE - Fox Premium Series (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26930
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-r8Dh0m9YBxM/XaokYmo17UI/AAAAAAAAAV4/ilZgEaMm3voJFsZoOBsM8Hcz3xchRsYVACLcBGAsYHQ/s200/16.png",CINE - Fox Premium Series (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26737
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-uB9WcVHoil0/XatMC2WaDWI/AAAAAAAAAcg/60gxjXoz1jMn2WRICr7_C1Ybqeq2dOgDwCLcBGAsYHQ/s200/9.png",CINE - Fox Sur (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1454
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png",DEPORTES - ARG Fox Sports 1 (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1525
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png",DEPORTES - ARG Fox Sports  1 (e)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/976
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png",DEPORTES - ARG Fox Sports  1 (e)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/977
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png",DEPORTES - ARG Fox Sports 2 (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1526
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png",DEPORTES - ARG Fox Sports 2 (e)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/979
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png",DEPORTES - ARG Fox Sports 2 (e)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/980
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png",DEPORTES - ARG Fox Sports 3 (e)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/982
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png",DEPORTES - ARG Fox Sports 3 (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1527
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png",DEPORTES - ARG Fox Sports 3 (e)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/63210
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-Y_N3VABdVF4/Xay_YYbfoSI/AAAAAAAAAj8/D-gsleVUxQc3V27-hHor1lopCPZeORCDgCLcBGAsYHQ/s200/15.png",DEPORTES - ARG Fox Sports Premium (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1528
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-Y_N3VABdVF4/Xay_YYbfoSI/AAAAAAAAAj8/D-gsleVUxQc3V27-hHor1lopCPZeORCDgCLcBGAsYHQ/s200/15.png",DEPORTES - ARG Fox Sports Premium (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1529
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png",DEPORTES - Fox Deportes (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1524
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png",DEPORTES - MEX Fox Sports 1 (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26814
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png",DEPORTES - MEX Fox Sports 1 (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26769
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png",DEPORTES - MEX Fox Sports 1 (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1519
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png",DEPORTES - MEX Fox Sports 2 (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26815
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png",DEPORTES - MEX Fox Sports 2 (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1521
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png",DEPORTES - MEX Fox Sports 2 (tr)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1518
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png",DEPORTES - MEX Fox Sports 3 (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26812
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png",DEPORTES - MEX Fox Sports 3 (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26768
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png",DEPORTES - MEX Fox Sports 3 (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1523
+#EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-Hfi8qQnbGA4/Xaukcfk2o_I/AAAAAAAAAfc/zIyWc7I-R5UN2q4W6JnqShrcx5aoqv8BACLcBGAsYHQ/s200/10.png",DOC-Fox Life (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1425
+#EXTINF:-1 group-title="LATINOS-CHILE" tvg-logo="https://1.bp.blogspot.com/-HGq7a6Cg1qA/XajpshDNjUI/AAAAAAAAASQ/jP319jFgSyI-F1U-VFhe0ooc7RY_Mkn2ACLcBGAsYHQ/s200/10.png",CHI-Fox Sports 1 (e)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/998
+#EXTINF:-1 group-title="LATINOS-CHILE" tvg-logo="https://1.bp.blogspot.com/-HGq7a6Cg1qA/XajpshDNjUI/AAAAAAAAASQ/jP319jFgSyI-F1U-VFhe0ooc7RY_Mkn2ACLcBGAsYHQ/s200/10.png",CHI-Fox Sports 1 (e)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/999
+#EXTINF:-1 group-title="LATINOS-CHILE" tvg-logo="https://1.bp.blogspot.com/-HGq7a6Cg1qA/XajpshDNjUI/AAAAAAAAASQ/jP319jFgSyI-F1U-VFhe0ooc7RY_Mkn2ACLcBGAsYHQ/s200/10.png",CHI-Fox Sports 1 (e)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1000
+#EXTINF:-1 group-title="LATINOS-CHILE" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png",CHI-Fox Sports 2 (e)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1020
+#EXTINF:-1 group-title="LATINOS-CHILE" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png",CHI-Fox Sports 2 (e)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1021
+#EXTINF:-1 group-title="LATINOS-CHILE" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png",CHI-Fox Sports 2 (e)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1022
+#EXTINF:-1 group-title="LATINOS-BRASIL",BRA-Fox Sports 2 (720)(M)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/9410
+#EXTINF:-1 group-title="LATINOS-CHILE [GEO BLOQUEO]" tvg-logo="https://1.bp.blogspot.com/-iJKOTLX89Jw/XavNfIiYb9I/AAAAAAAAAiI/RqT2iIoSTzwdpogiaRItEb8lHXtYLgUegCLcBGAsYHQ/s200/33.png",CHI-PortalFoxMix Tv HD(GEO)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1789
+#EXTINF:-1 group-title="LATINOS-CHILE" tvg-logo="https://1.bp.blogspot.com/-HGq7a6Cg1qA/XajpshDNjUI/AAAAAAAAASQ/jP319jFgSyI-F1U-VFhe0ooc7RY_Mkn2ACLcBGAsYHQ/s200/10.png",CHI-Fox Sports 1 (tr)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/63080
+#EXTINF:-1 group-title="LATINOS-CHILE" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png",CHI-Fox Sports 2 (tr)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/63081
+#EXTINF:-1 group-title="EUROPA-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-GL4alboGrPo/XxPVlP0xoRI/AAAAAAAAAe8/u4v68eYxAjE2KR8IvLWwSFP2mtq1PxtMQCLcBGAsYHQ/w200-h200/Fox%2BEspa%25C3%25B1a.png",ESP-Fox (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/4800
+#EXTINF:-1 group-title="EUROPA-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-GL4alboGrPo/XxPVlP0xoRI/AAAAAAAAAe8/u4v68eYxAjE2KR8IvLWwSFP2mtq1PxtMQCLcBGAsYHQ/w200-h200/Fox%2BEspa%25C3%25B1a.png",ESP-FOX (TV)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55099
+#EXTINF:-1 group-title="EUROPA-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-GL4alboGrPo/XxPVlP0xoRI/AAAAAAAAAe8/u4v68eYxAjE2KR8IvLWwSFP2mtq1PxtMQCLcBGAsYHQ/w200-h200/Fox%2BEspa%25C3%25B1a.png",ESP-FOX (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55100
+#EXTINF:-1 group-title="EUROPA-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-GL4alboGrPo/XxPVlP0xoRI/AAAAAAAAAe8/u4v68eYxAjE2KR8IvLWwSFP2mtq1PxtMQCLcBGAsYHQ/w200-h200/Fox%2BEspa%25C3%25B1a.png",ESP-FOX (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55101
+#EXTINF:-1 group-title="EUROPA-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-UxKCf82xjO4/XyNd-FPVXlI/AAAAAAAAAl4/zQIvb_b_26g6onPSMRiPcqEXMlpxRQ45QCLcBGAsYHQ/w200-h200/65%2Bfoxlife.png",ESP-FOX Life (TV)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55102
+#EXTINF:-1 group-title="EUROPA-ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-UxKCf82xjO4/XyNd-FPVXlI/AAAAAAAAAl4/zQIvb_b_26g6onPSMRiPcqEXMlpxRQ45QCLcBGAsYHQ/w200-h200/65%2Bfoxlife.png",ESP-FOX Life (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55103
+#EXTINF:-1 group-title="VOD-ADULTOS" tvg-logo="https://1.bp.blogspot.com/-ai-aOPfVGPw/XpKHHoSLgfI/AAAAAAAABqk/EBhfWwjkI5wHfV9g0ovSW7HFje5SzwP_ACLcBGAsYHQ/s200/2.png",Betty Foxxx & Mia Milan - Legal Porno
+http://212.102.60.121:8000/movie/calem7/4BY4CSaMUW/31831.mp4
+#EXTINF:-1 group-title="VOD-ADULTOS" tvg-logo="https://1.bp.blogspot.com/-ai-aOPfVGPw/XpKHHoSLgfI/AAAAAAAABqk/EBhfWwjkI5wHfV9g0ovSW7HFje5SzwP_ACLcBGAsYHQ/s200/2.png",Jordi & Reagan Foxx - Brazzers
+http://212.102.60.121:8000/movie/calem7/4BY4CSaMUW/31846.mp4
+#EXTINF:-1 group-title="VOD-ADULTOS" tvg-logo="https://1.bp.blogspot.com/-ai-aOPfVGPw/XpKHHoSLgfI/AAAAAAAABqk/EBhfWwjkI5wHfV9g0ovSW7HFje5SzwP_ACLcBGAsYHQ/s200/2.png",Betty Foxxx - Legal Porno
+http://212.102.60.121:8000/movie/calem7/4BY4CSaMUW/31921.mp4
