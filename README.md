@@ -98,8 +98,6 @@ http://212.102.60.121:8000/calem7/4BY4CSaMUW/53240
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1481
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png",CINE - HBO Xtreme (M)(SD)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1482
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/53990
-
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Bh76OnxXsM0/XatOPMpUwGI/AAAAAAAAAdI/Q5opFPrspk8mExeK-MKi4lptcYKK8LlqwCLcBGAsYHQ/s200/47.png",CINE - Golden (M)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1473
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Bh76OnxXsM0/XatOPMpUwGI/AAAAAAAAAdI/Q5opFPrspk8mExeK-MKi4lptcYKK8LlqwCLcBGAsYHQ/s200/47.png",CINE - Golden (M)(SD)
@@ -112,3 +110,17 @@ http://212.102.60.121:8000/calem7/4BY4CSaMUW/1476
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1477
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png",CINE - Golden Premiere (M)(1080)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1474
+#EXTINF:-1 group-title="EUROPA-ESPAÑA",ESP-SyFy (TV)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55146
+#EXTINF:-1 group-title="EUROPA-ESPAÑA",ESP-SyFy (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55147
+#EXTINF:-1 group-title="EUROPA-ESPAÑA",ESP-SyFy (TV)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/55148
+#EXTINF:-1 group-title="USA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-lSN995B9gY0/XzNOd6w-9kI/AAAAAAAAAsY/Toc79iu-rg01xg25TSFgaN4q8hzO2siZgCLcBGAsYHQ/w200-h200/37%2BSyfy.png",USA-Syfy Pacific (TV)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53867
+#EXTINF:-1 group-title="USA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-jfjNpEHTpUo/XaqcohSN_RI/AAAAAAAAAZg/zMNahbdtrzEcLIfwhOB4OpzhAg_HyR0OwCLcBGAsYHQ/s200/29.png",USA-SYFY(M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1577
+#EXTINF:-1 group-title="EUROPA-UNITED KINGDOM",UK-SYFY (tr)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/62082
+#EXTINF:-1 group-title="VOD-ADULTOS" tvg-logo="https://1.bp.blogspot.com/-ai-aOPfVGPw/XpKHHoSLgfI/AAAAAAAABqk/EBhfWwjkI5wHfV9g0ovSW7HFje5SzwP_ACLcBGAsYHQ/s200/2.png",Susy Gala - Dorcel Club (4k)
+http://212.102.60.121:8000/movie/calem7/4BY4CSaMUW/31933.mp4
