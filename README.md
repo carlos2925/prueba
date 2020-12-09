@@ -98,29 +98,17 @@ http://212.102.60.121:8000/calem7/4BY4CSaMUW/53240
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1481
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png",CINE - HBO Xtreme (M)(SD)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/1482
-#EXTINF:-1 group-title="USA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-Hi-yJ6V9g8U/XzNObZT-6DI/AAAAAAAAAsE/5-d0itaoWh0d5DXjAviQAtScZ3aAtx3mgCLcBGAsYHQ/w200-h200/32%2BHBO.png",USA-HBO (M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/35801
-#EXTINF:-1 group-title="USA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-9l23OdY8MiM/XzNOOdjj0oI/AAAAAAAAAqc/XIMLqWtFlh8NmzkEbLwTIYdYVf-S2EyDwCLcBGAsYHQ/w200-h200/100%2BHbo%2B2.png",USA-HBO 2 (M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/35797
-#EXTINF:-1 group-title="USA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png",USA-HBO 2 West(M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1573
-#EXTINF:-1 group-title="USA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png",USA-HBO 2(M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1572
-#EXTINF:-1 group-title="USA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/--qfYfdxCJPA/XzWoNgsQSBI/AAAAAAAABDQ/wpw50Vo_DJYWcvsc3J-cRO1KwRYR85xMACLcBGAsYHQ/w200-h200/158%2BHbo%2BComedy.png",USA-HBO Comedy (M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/35798
-#EXTINF:-1 group-title="USA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-jm4uhbxGQY0/XzWcV-ZywNI/AAAAAAAABC4/-4yjfU766mA_FE2Pamo4UCeidYSLGfkRACLcBGAsYHQ/w200-h200/157%2BHbo%2Bfamily.png",USA-HBO Family (M)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/35799
-#EXTINF:-1 group-title="USA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-Hi-yJ6V9g8U/XzNObZT-6DI/AAAAAAAAAsE/5-d0itaoWh0d5DXjAviQAtScZ3aAtx3mgCLcBGAsYHQ/w200-h200/32%2BHBO.png",USA-HBO Pacific (TV)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/53857
-#EXTINF:-1 group-title="USA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png",USA-HBO Plus West(M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1571
-#EXTINF:-1 group-title="USA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-y0HJ0bcp0R0/XzWb4ZyiAaI/AAAAAAAABCw/Sg2i6dztFJkdM9y88HiknaE22YHJzeyvACLcBGAsYHQ/w200-h200/156%2BHbo%2Bsignature.png",USA-HBO Signature (M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/35800
-#EXTINF:-1 group-title="CANADA-PREMIUM",CAN-HBO 1 (M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3692
-#EXTINF:-1 group-title="CANADA-PREMIUM",CAN-HBO 1 (TV)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/53991
-#EXTINF:-1 group-title="CANADA-PREMIUM",CAN-HBO 2 (720)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/3693
-#EXTINF:-1 group-title="CANADA-PREMIUM",CAN-HBO 2 (TV)(720)
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/53990
+
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Bh76OnxXsM0/XatOPMpUwGI/AAAAAAAAAdI/Q5opFPrspk8mExeK-MKi4lptcYKK8LlqwCLcBGAsYHQ/s200/47.png",CINE - Golden (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1473
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Bh76OnxXsM0/XatOPMpUwGI/AAAAAAAAAdI/Q5opFPrspk8mExeK-MKi4lptcYKK8LlqwCLcBGAsYHQ/s200/47.png",CINE - Golden (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1472
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-a_dgujjjSt4/XatPMFS5hlI/AAAAAAAAAdQ/P_h_eb7MZV4sgYDwZ_0tNV2XDn3iFsn4QCLcBGAsYHQ/s200/48.png",CINE - Golden Edge (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1478
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png",CINE - Golden Plus (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1476
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png",CINE - Golden Plus (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1477
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png",CINE - Golden Premiere (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1474
