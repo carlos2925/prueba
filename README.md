@@ -242,3 +242,32 @@ http://jserverstv.xyz:80/Altair/Altair/140070
 http://jserverstv.xyz:80/Altair/Altair/140071
 #EXTINF:-1 ,DAZN  1
 http://jserverstv.xyz:80/Altair/Altair/140848
+
+#EXTINF:-1 group-title="Undefined",WARNER  CHANNEL  FHD
+http://planettvweb.com:8091/German/German/16455?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",TNT FHD
+http://planettvweb.com:8091/German/German/11670?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",TNT SERIES ARG HD
+http://planettvweb.com:8091/German/German/11611?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",SPACE FHD
+http://planettvweb.com:8091/German/German/11667?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",TBS HD
+http://planettvweb.com:8091/German/German/11880?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",TCM HD
+http://planettvweb.com:8091/German/German/11641?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CARTOON NETWORK HD
+http://planettvweb.com:8091/German/German/11751?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",BOOMERANG FHD
+http://planettvweb.com:8091/German/German/11715?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",GLITZ HD
+http://planettvweb.com:8091/German/German/11890?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",HTV  HD
+http://planettvweb.com:8091/German/German/11887?checkedby:hlscat.com
+#EXTINF:-1 group-title="Music",MUCH MUSIC HD
+http://planettvweb.com:8091/German/German/11883?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CDF PREMIUN HD
+http://planettvweb.com:8091/German/German/12045?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CNN ESPAÑOL HD
+http://planettvweb.com:8091/German/German/11815?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CNN INTERNACIONAL
+http://planettvweb.com:8091/German/German/14131?checkedby:hlscat.com
