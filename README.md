@@ -171,3 +171,74 @@ http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfva
 http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAESEDFGHSERTGSAESEDFGHSERTGSAESEDFGHSERTGSAESEDFGHSERTGSAESEDFGHSERTGSAESEDFGHSERTGSAE/78
 #EXTINF:-1 group-title="SERIES",SERIES: WARNER SD*
 http://zufreelist.net:8080/asdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdVasdrfvarfvawersdcasdV/SEDFGHSERTGSAESEDFGHSERTGSAESEDFGHSERTGSAESEDFGHSERTGSAESEDFGHSERTGSAESEDFGHSERTGSAESEDFGHSERTGSAE/79
+
+#EXTINF:-1 ,SPORT TV 1 FHD
+http://jserverstv.xyz:80/Altair/Altair/27404
+#EXTINF:-1 ,SPORT TV 2 FHD
+http://jserverstv.xyz:80/Altair/Altair/27406
+#EXTINF:-1 ,SPORT TV 2 HD
+http://jserverstv.xyz:80/Altair/Altair/27407
+#EXTINF:-1 ,SPORT TV 3 FHD
+http://jserverstv.xyz:80/Altair/Altair/27408
+#EXTINF:-1 ,SPORT TV 3 HD
+http://jserverstv.xyz:80/Altair/Altair/27409
+#EXTINF:-1 ,SPORT TV 4 FHD
+http://jserverstv.xyz:80/Altair/Altair/27410
+#EXTINF:-1 ,SPORT TV 4 HD
+http://jserverstv.xyz:80/Altair/Altair/27411
+#EXTINF:-1 ,SPORT TV 5 HD
+http://jserverstv.xyz:80/Altair/Altair/27413
+#EXTINF:-1 ,SPORT TV NBA
+http://jserverstv.xyz:80/Altair/Altair/27415
+#EXTINF:-1 ,FOX SPORT 2 FHD
+http://jserverstv.xyz:80/Altair/Altair/140046
+#EXTINF:-1 ,FOX SPORT 2 FHD
+http://jserverstv.xyz:80/Altair/Altair/140047
+#EXTINF:-1 ,FOX SPORTS 2 HD
+http://jserverstv.xyz:80/Altair/Altair/140048
+#EXTINF:-1 ,FOX SPORTS 2 HD
+http://jserverstv.xyz:80/Altair/Altair/140049
+#EXTINF:-1 ,FOX SPORTS 2 SD
+http://jserverstv.xyz:80/Altair/Altair/140050
+#EXTINF:-1 ,FOX SPORTS FHD
+http://jserverstv.xyz:80/Altair/Altair/140051
+#EXTINF:-1 ,FOX SPORTS FHD
+http://jserverstv.xyz:80/Altair/Altair/140052
+#EXTINF:-1 ,FOX SPORTS HD
+http://jserverstv.xyz:80/Altair/Altair/140053
+#EXTINF:-1 ,FOX SPORTS HD
+http://jserverstv.xyz:80/Altair/Altair/140054
+#EXTINF:-1 ,FOX SPORTS SD
+http://jserverstv.xyz:80/Altair/Altair/140055
+#EXTINF:-1 ,FOX SPORTS SD
+http://jserverstv.xyz:80/Altair/Altair/140056
+#EXTINF:-1 ,SPORTV 2 FHD
+http://jserverstv.xyz:80/Altair/Altair/140057
+#EXTINF:-1 ,SPORTV 2 HD
+http://jserverstv.xyz:80/Altair/Altair/140059
+#EXTINF:-1 ,SPORTV 2 HD
+http://jserverstv.xyz:80/Altair/Altair/140060
+#EXTINF:-1 ,SPORTV 2 SD
+http://jserverstv.xyz:80/Altair/Altair/140061
+#EXTINF:-1 ,SPORTV 2 SD
+http://jserverstv.xyz:80/Altair/Altair/140062
+#EXTINF:-1 ,SPORTV 3 FHD
+http://jserverstv.xyz:80/Altair/Altair/140063
+#EXTINF:-1 ,SPORTV 3 FHD
+http://jserverstv.xyz:80/Altair/Altair/140064
+#EXTINF:-1 ,SPORTV 3 HD
+http://jserverstv.xyz:80/Altair/Altair/140065
+#EXTINF:-1 ,SPORTV 3 HD
+http://jserverstv.xyz:80/Altair/Altair/140066
+#EXTINF:-1 ,SPORTV 3 SD
+http://jserverstv.xyz:80/Altair/Altair/140067
+#EXTINF:-1 ,SPORTV 3 SD
+http://jserverstv.xyz:80/Altair/Altair/140068
+#EXTINF:-1 ,SPORTV FHD
+http://jserverstv.xyz:80/Altair/Altair/140069
+#EXTINF:-1 ,SPORTV HD
+http://jserverstv.xyz:80/Altair/Altair/140070
+#EXTINF:-1 ,SPORTV SD
+http://jserverstv.xyz:80/Altair/Altair/140071
+#EXTINF:-1 ,DAZN  1
+http://jserverstv.xyz:80/Altair/Altair/140848
