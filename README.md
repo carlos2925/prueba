@@ -352,3 +352,32 @@ http://zufreelist.net:8080/asdrgvafrgvaefrvgaerasdrgvafrgvaefrvgaerasdrgvafrgvae
 http://zufreelist.net:8080/asdrgvafrgvaefrvgaerasdrgvafrgvaefrvgaerasdrgvafrgvaefrvgaerasdrgvafrgvaefrvgaerasdrgvafrgvaefrvgaer/asdrgvafrgvaefrvgaerasdrgvafrgvaefrvgaerasdrgvafrgvaefrvgaerasdrgvafrgvaefrvgaer/936
 #EXTINF:-1 group-title="24/7",url vencida
 http://zufreelist.net:8080/asdrgvafrgvaefrvgaerasdrgvafrgvaefrvgaerasdrgvafrgvaefrvgaerasdrgvafrgvaefrvgaerasdrgvafrgvaefrvgaer/asdrgvafrgvaefrvgaerasdrgvafrgvaefrvgaerasdrgvafrgvaefrvgaerasdrgvafrgvaefrvgaer/2119
+
+#EXTINF:-1 ,ESPN SUR_
+http://planettvweb.com:8091/German/German/20324
+#EXTINF:-1 ,ESPN 2 SUR_
+http://planettvweb.com:8091/German/German/20325
+#EXTINF:-1 ,ESPN 3 SUR
+http://planettvweb.com:8091/German/German/20326
+#EXTINF:-1 ,ESPN PLUS SUR HD
+http://planettvweb.com:8091/German/German/20327
+#EXTINF:-1 ,ESPN ARG HD
+http://planettvweb.com:8091/German/German/12755
+#EXTINF:-1 ,ESPN 2 HD ARG
+http://planettvweb.com:8091/German/German/11996
+#EXTINF:-1 ,ESPN 3 HD ARG
+http://planettvweb.com:8091/German/German/11915
+#EXTINF:-1 ,ESPN+
+http://planettvweb.com:8091/German/German/14637
+#EXTINF:-1 ,ESPN SD
+http://planettvweb.com:8091/German/German/11851
+#EXTINF:-1 ,ESPN 3 ARG SD
+http://planettvweb.com:8091/German/German/11849
+#EXTINF:-1 ,ESPN PLUS SUR
+http://planettvweb.com:8091/German/German/11917
+#EXTINF:-1 ,ESPN 2 MX HD
+http://planettvweb.com:8091/German/German/11989
+#EXTINF:-1 ,ESPN HD MX
+http://planettvweb.com:8091/German/German/11991
+#EXTINF:-1 ,ESPN 2
+http://planettvweb.com:8091/German/German/16881
