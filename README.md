@@ -83,3 +83,56 @@ http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg",Visit-X TV
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+
+#EXTINF:-1 ,HUSTLER HD
+http://188.35.9.26:2030/udp/047c
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m146/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m147/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m49/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m50/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m132/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m133/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m134/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m1/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m127/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m128/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m129/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m137/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m130/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m131/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m30/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m32/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m31/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m135/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m136/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m138/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m33/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m34/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m35/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m22/index.m3u8
+#EXTINF:-1 ,ADULT XXX
+http://v2.14mp4.com:80/av-hls/20160713/m23/index.m3u8
