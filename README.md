@@ -136,3 +136,100 @@ http://v2.14mp4.com:80/av-hls/20160713/m35/index.m3u8
 http://v2.14mp4.com:80/av-hls/20160713/m22/index.m3u8
 #EXTINF:-1 ,ADULT XXX
 http://v2.14mp4.com:80/av-hls/20160713/m23/index.m3u8
+
+#EXTINF:-1 ,ADULT XXX 1
+http://v2.14mp4.com:80/av-hls/20160713/m85/index.m3u8
+#EXTINF:-1 ,ADULT XXX 2
+http://v2.14mp4.com:80/av-hls/20160713/m86/index.m3u8
+#EXTINF:-1 ,ADULT XXX 3
+http://v2.14mp4.com:80/av-hls/20160713/m88/index.m3u8
+#EXTINF:-1 ,ADULT XXX 4
+http://v2.14mp4.com:80/av-hls/20160713/m90/index.m3u8
+#EXTINF:-1 ,ADULT XXX 5
+http://v2.14mp4.com:80/av-hls/20160713/m89/index.m3u8
+#EXTINF:-1 ,ADULT XXX 6
+http://v2.14mp4.com:80/av-hls/20160713/m91/index.m3u8
+#EXTINF:-1 ,ADULT XXX 7
+http://v2.14mp4.com:80/av-hls/20160713/m92/index.m3u8
+#EXTINF:-1 ,ADULT XXX 8
+http://v2.14mp4.com:80/av-hls/20160713/m93/index.m3u8
+#EXTINF:-1 ,ADULT XXX 9
+http://v2.14mp4.com:80/av-hls/20160713/m94/index.m3u8
+#EXTINF:-1 ,ADULT XXX 10
+http://v2.14mp4.com:80/av-hls/20160713/m95/index.m3u8
+#EXTINF:-1 ,ADULT XXX 11
+http://v2.14mp4.com:80/av-hls/20160713/m96/index.m3u8
+#EXTINF:-1 ,ADULT XXX 12
+http://v2.14mp4.com:80/av-hls/20160713/m97/index.m3u8
+#EXTINF:-1 ,ADULT XXX 13
+http://v2.14mp4.com:80/av-hls/20160713/m98/index.m3u8
+#EXTINF:-1 ,ADULT XXX 14
+http://v2.14mp4.com:80/av-hls/20160713/m99/index.m3u8
+#EXTINF:-1 ,ADULT XXX 15
+http://v2.14mp4.com:80/av-hls/20160713/m100/index.m3u8
+#EXTINF:-1 ,ADULT XXX 16
+http://v2.14mp4.com:80/av-hls/20160713/m101/index.m3u8
+#EXTINF:-1 ,ADULT XXX 17
+http://v2.14mp4.com:80/av-hls/20160713/m102/index.m3u8
+#EXTINF:-1 ,ADULT XXX 18
+http://v2.14mp4.com:80/av-hls/20160713/m105/index.m3u8
+#EXTINF:-1 ,ADULT XXX 19
+http://v2.14mp4.com:80/av-hls/20160713/m104/index.m3u8
+#EXTINF:-1 ,ADULT XXX 20
+http://v2.14mp4.com:80/av-hls/20160713/m106/index.m3u8
+#EXTINF:-1 ,ADULT XXX 21
+http://v2.14mp4.com:80/av-hls/20160713/m107/index.m3u8
+#EXTINF:-1 ,ADULT XXX 22
+http://v2.14mp4.com:80/av-hls/20160713/m108/index.m3u8
+#EXTINF:-1 ,ADULT XXX 23
+http://v2.14mp4.com:80/av-hls/20160713/m109/index.m3u8
+#EXTINF:-1 ,ADULT XXX 24
+http://v2.14mp4.com:80/av-hls/20160713/m110/index.m3u8
+#EXTINF:-1 ,ADULT XXX 25
+http://v2.14mp4.com:80/av-hls/20160713/m111/index.m3u8
+#EXTINF:-1 ,ADULT XXX 26
+http://v2.14mp4.com:80/av-hls/20160713/m112/index.m3u8
+#EXTINF:-1 ,ADULT XXX 27
+http://v2.14mp4.com:80/av-hls/20160713/m113/index.m3u8
+#EXTINF:-1 ,ADULT XXX 28
+http://v2.14mp4.com:80/av-hls/20160713/m114/index.m3u8
+#EXTINF:-1 ,ADULT XXX 29
+http://v2.14mp4.com:80/av-hls/20160713/m115/index.m3u8
+#EXTINF:-1 ,ADULT XXX 30
+http://v2.14mp4.com:80/av-hls/20160713/m116/index.m3u8
+#EXTINF:-1 ,ADULT XXX 31
+http://v2.14mp4.com:80/av-hls/20160713/m117/index.m3u8
+#EXTINF:-1 ,ADULT XXX 32
+http://v2.14mp4.com:80/av-hls/20160713/m118/index.m3u8
+#EXTINF:-1 ,ADULT XXX 33
+http://v2.14mp4.com:80/av-hls/20160713/m119/index.m3u8
+#EXTINF:-1 ,ADULT XXX 34
+http://v2.14mp4.com:80/av-hls/20160713/m120/index.m3u8
+#EXTINF:-1 ,ADULT XXX 35
+http://v2.14mp4.com:80/av-hls/20160713/m121/index.m3u8
+#EXTINF:-1 ,ADULT XXX 36
+http://v2.14mp4.com:80/av-hls/20160713/m123/index.m3u8
+#EXTINF:-1 ,ADULT XXX 37
+http://v2.14mp4.com:80/av-hls/20160713/m122/index.m3u8
+#EXTINF:-1 ,ADULT XXX 38
+http://v2.14mp4.com:80/av-hls/20160713/m124/index.m3u8
+#EXTINF:-1 ,ADULT XXX 39
+http://v2.14mp4.com:80/av-hls/20160713/m125/index.m3u8
+#EXTINF:-1 ,ADULT XXX 40
+http://v2.14mp4.com:80/av-hls/20160713/m126/index.m3u8
+#EXTINF:-1 ,ADULT XXX 41
+http://v2.14mp4.com:80/av-hls/20160713/m40/index.m3u8
+#EXTINF:-1 ,ADULT XXX 42
+http://v2.14mp4.com:80/av-hls/20160713/m141/index.m3u8
+#EXTINF:-1 ,ADULT XXX 43
+http://v2.14mp4.com:80/av-hls/20160713/m38/index.m3u8
+#EXTINF:-1 ,ADULT XXX 44
+http://v2.14mp4.com:80/av-hls/20160713/m39/index.m3u8
+#EXTINF:-1 ,ADULT XXX 45
+http://v2.14mp4.com:80/av-hls/20160713/m145/index.m3u8
+#EXTINF:-1 ,ADULT XXX 46
+http://v2.14mp4.com:80/av-hls/20160713/m47/index.m3u8
+#EXTINF:-1 ,ADULT XXX 47
+http://v2.14mp4.com:80/av-hls/20160713/m48/index.m3u8
+#EXTINF:-1 ,ADULT XXX 48
+http://v2.14mp4.com:80/av-hls/20160713/m2/index.m3u8
